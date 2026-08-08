@@ -47,7 +47,7 @@ Tras editar `.env.local`, reinicia `npm run dev`.
 2. **Build → Firestore Database** → Crear base de datos (modo producción o prueba).
 3. **Build → Firestore Database → Reglas** → pegar el contenido de [`firestore.rules`](firestore.rules) del repo → **Publicar**.
 
-   Las reglas permiten lectura/escritura solo en rutas `households/{pin}` e `items` cuando el PIN tiene exactamente 6 dígitos.
+   Las reglas permiten lectura/escritura en `households/{pin}` e `items` con PIN de 6 dígitos. Para tickets: la PWA **lee** `ticketStats` y `gmailConnectionPublic`; **no** lee ni escribe `gmailSecrets` ni `importedMessages` (solo Cloud Functions vía Admin SDK).
 
 4. **Project settings (⚙) → General → Your apps** → añadir app **Web** (`</>`).
 5. Copiar el objeto `firebaseConfig` a `.env.local` (prefijo `VITE_` en cada clave).
@@ -187,6 +187,10 @@ npx firebase emulators:start --only functions
 ```
 
 Sin proyecto Firebase propio: el código compila con `npm run build`; el deploy requiere proyecto real y OAuth configurado.
+
+### Checklist de aceptación (tickets)
+
+Tras desplegar reglas y functions, prueba OAuth, sync y multi-dispositivo: [`docs/ACCEPTANCE_TICKETS.md`](docs/ACCEPTANCE_TICKETS.md).
 
 ## Scripts
 
