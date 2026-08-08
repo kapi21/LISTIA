@@ -60,6 +60,7 @@ async function getFirestoreDb() {
 export function subscribeTicketStats(
   pin: string,
   onChange: (stats: TicketStat[]) => void,
+  onError?: (message: string) => void,
 ): () => void {
   if (!isFirebaseConfigured()) {
     onChange([])
@@ -76,20 +77,27 @@ export function subscribeTicketStats(
     ])
     if (cancelled) return
 
-    unsub = onSnapshot(collection(db, 'households', pin, 'ticketStats'), (snap) => {
-      const stats = snap.docs
-        .map((d) => {
-          const data = d.data()
-          return {
-            productKey: d.id,
-            name: String(data.name ?? ''),
-            count: Number(data.count ?? 0),
-            lastPurchasedAt: Number(data.lastPurchasedAt ?? 0),
-          } satisfies TicketStat
-        })
-        .sort((a, b) => b.count - a.count || b.lastPurchasedAt - a.lastPurchasedAt)
-      onChange(stats)
-    })
+    unsub = onSnapshot(
+      collection(db, 'households', pin, 'ticketStats'),
+      (snap) => {
+        const stats = snap.docs
+          .map((d) => {
+            const data = d.data()
+            return {
+              productKey: d.id,
+              name: String(data.name ?? ''),
+              count: Number(data.count ?? 0),
+              lastPurchasedAt: Number(data.lastPurchasedAt ?? 0),
+            } satisfies TicketStat
+          })
+          .sort((a, b) => b.count - a.count || b.lastPurchasedAt - a.lastPurchasedAt)
+        onChange(stats)
+      },
+      (err) => {
+        onChange([])
+        onError?.(err instanceof Error ? err.message : 'Error al cargar estadísticas')
+      },
+    )
   })()
 
   return () => {

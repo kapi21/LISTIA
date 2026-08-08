@@ -21,13 +21,16 @@ export function useTicketStats(pin: string | null) {
   const [lastResult, setLastResult] = useState<SyncTicketsResult | null>(null)
   const [error, setError] = useState<string | null>(null)
 
-  const loadConnection = useCallback(async (activePin: string) => {
+  const loadConnection = useCallback(async (activePin: string, isActive?: () => boolean) => {
+    const active = isActive ?? (() => true)
     try {
       const conn = await getGmailConnectionPublic(activePin)
-      setConnection(conn)
+      if (active()) setConnection(conn)
     } catch (e) {
-      setConnection(DISCONNECTED)
-      setError(e instanceof Error ? e.message : 'Error al cargar conexión Gmail')
+      if (active()) {
+        setConnection(DISCONNECTED)
+        setError(e instanceof Error ? e.message : 'Error al cargar conexión Gmail')
+      }
     }
   }, [])
 
@@ -35,13 +38,34 @@ export function useTicketStats(pin: string | null) {
     if (!pin) {
       setStats([])
       setConnection(DISCONNECTED)
+      setLastResult(null)
+      setError(null)
       return
     }
 
-    const unsub = subscribeTicketStats(pin, setStats)
-    void loadConnection(pin)
+    setStats([])
+    setLastResult(null)
+    setError(null)
+    setConnection(DISCONNECTED)
 
-    return unsub
+    let cancelled = false
+    const isActive = () => !cancelled
+
+    const unsub = subscribeTicketStats(
+      pin,
+      (newStats) => {
+        if (isActive()) setStats(newStats)
+      },
+      (message) => {
+        if (isActive()) setError(message)
+      },
+    )
+    void loadConnection(pin, isActive)
+
+    return () => {
+      cancelled = true
+      unsub()
+    }
   }, [pin, loadConnection])
 
   const connect = useCallback(() => {
