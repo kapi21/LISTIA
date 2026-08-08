@@ -11,6 +11,7 @@ interface ImportMetaEnv {
   readonly VITE_ALGOLIA_SEARCH_KEY: string
   readonly VITE_ALGOLIA_INDEX_PREFIX: string
   readonly VITE_DEFAULT_WAREHOUSE: string
+  readonly VITE_FUNCTIONS_BASE_URL: string
 }
 
 interface ImportMeta {
