@@ -44,7 +44,7 @@ export default function ListScreen({
   const done = useMemo(() => items.filter((it) => it.done), [items])
 
   return (
-    <div className="app list-screen">
+    <div className="list-screen">
       {isLocalMode && (
         <p className="banner banner--local" role="status">
           Modo local — sin sincronización en la nube
