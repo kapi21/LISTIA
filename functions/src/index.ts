@@ -1,5 +1,6 @@
 import { onRequest } from 'firebase-functions/v2/https'
 import { config } from './config'
+import { importNewTickets } from './importTickets'
 import {
   exchangeCodeAndSaveConnection,
   getGmailAuthUrl,
@@ -56,5 +57,38 @@ export const gmailCallback = onRequest({ cors: corsOrigins }, async (req, res) =
   } catch (error) {
     console.error('gmailCallback failed', error)
     res.redirect(`${config.pwaOrigin}/?purchases=1&error=oauth_failed`)
+  }
+})
+
+export const syncTickets = onRequest({ cors: corsOrigins }, async (req, res) => {
+  if (req.method !== 'POST') {
+    res.status(405).json({ error: 'Method Not Allowed' })
+    return
+  }
+
+  const pin = typeof req.body?.pin === 'string' ? req.body.pin : undefined
+  if (!pin || !isValidPin(pin)) {
+    res.status(400).json({ error: 'Invalid PIN' })
+    return
+  }
+
+  try {
+    const result = await importNewTickets(pin)
+    res.json(result)
+  } catch (error) {
+    const message = error instanceof Error ? error.message : 'Sync failed'
+    console.error('syncTickets failed', error)
+
+    if (message.includes('not connected') || message.includes('refresh token missing')) {
+      res.status(404).json({ error: message })
+      return
+    }
+
+    if (message.includes('reconnect required')) {
+      res.status(401).json({ error: message })
+      return
+    }
+
+    res.status(500).json({ error: 'Sync failed' })
   }
 })
