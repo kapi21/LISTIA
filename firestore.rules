@@ -1,0 +1,11 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /households/{pin} {
+      allow read, write: if pin.matches('^[0-9]{6}$');
+      match /items/{itemId} {
+        allow read, write: if pin.matches('^[0-9]{6}$');
+      }
+    }
+  }
+}
