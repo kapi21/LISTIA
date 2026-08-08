@@ -81,13 +81,18 @@ export async function exchangeCodeAndSaveConnection(
     throw new Error('Could not read Gmail profile email')
   }
 
-  await db.doc(`households/${pin}/gmailConnection`).set({
+  const batch = db.batch()
+  batch.set(db.doc(`households/${pin}/gmailSecrets/gmail`), {
     email,
     refreshToken: tokens.refresh_token,
-    status: 'connected',
-    lastSyncAt: null,
     connectedAt: FieldValue.serverTimestamp(),
   })
+  batch.set(db.doc(`households/${pin}/gmailConnectionPublic/current`), {
+    email,
+    status: 'connected',
+    lastSyncAt: null,
+  })
+  await batch.commit()
 
   return { pin, email }
 }

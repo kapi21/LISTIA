@@ -134,7 +134,7 @@ Backend en `functions/` para conectar Gmail por hogar (PIN). Endpoints HTTP:
 | Función | Uso |
 |---------|-----|
 | `gmailStart?pin=XXXXXX` | Redirige a Google OAuth (`gmail.readonly`) |
-| `gmailCallback` | Canjea `code`, guarda refresh token en `households/{pin}/gmailConnection`, redirige a `PWA_ORIGIN/?purchases=1` |
+| `gmailCallback` | Canjea `code`, guarda tokens en `households/{pin}/gmailSecrets/gmail` (Admin) y estado en `gmailConnectionPublic/current`, redirige a `PWA_ORIGIN/?purchases=1` |
 
 El parámetro `state` lleva el PIN firmado con HMAC (`OAUTH_STATE_SECRET`) para evitar enlazar otro hogar.
 
