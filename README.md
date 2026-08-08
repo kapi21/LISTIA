@@ -127,6 +127,67 @@ Marca cuando hayas probado con Firebase real y dos dispositivos:
 
 Detalle paso a paso: [`docs/ACCEPTANCE.md`](docs/ACCEPTANCE.md).
 
+## Cloud Functions — Gmail OAuth (tickets Mercadona)
+
+Backend en `functions/` para conectar Gmail por hogar (PIN). Endpoints HTTP:
+
+| Función | Uso |
+|---------|-----|
+| `gmailStart?pin=XXXXXX` | Redirige a Google OAuth (`gmail.readonly`) |
+| `gmailCallback` | Canjea `code`, guarda refresh token en `households/{pin}/gmailConnection`, redirige a `PWA_ORIGIN/?purchases=1` |
+
+El parámetro `state` lleva el PIN firmado con HMAC (`OAUTH_STATE_SECRET`) para evitar enlazar otro hogar.
+
+### Variables (Functions)
+
+Define en Firebase (runtime) y en `functions/.env` para el emulador. Plantilla en [`.env.example`](.env.example):
+
+| Variable | Descripción |
+|----------|-------------|
+| `GMAIL_CLIENT_ID` | OAuth client Web de Google Cloud |
+| `GMAIL_CLIENT_SECRET` | Secreto del client |
+| `GMAIL_REDIRECT_URI` | URL pública de `gmailCallback` |
+| `PWA_ORIGIN` | Origen HTTPS de la PWA (CORS + redirect) |
+| `OAUTH_STATE_SECRET` | Cadena aleatoria larga para firmar `state` |
+| `GOOGLE_APPLICATION_CREDENTIALS` | Solo local: JSON cuenta de servicio (Admin SDK) |
+
+### Google Cloud — OAuth client
+
+1. [Google Cloud Console](https://console.cloud.google.com/) → mismo proyecto que Firebase (o vinculado).
+2. **APIs & Services → Library** → habilitar **Gmail API**.
+3. **APIs & Services → OAuth consent screen** → External (o Internal) → añadir scope `.../auth/gmail.readonly` → en modo **Testing**, añadir **Test users** (cuentas Gmail que conectarán).
+4. **APIs & Services → Credentials → Create credentials → OAuth client ID** → tipo **Web application**.
+5. **Authorized redirect URIs:** la URL de `gmailCallback` tras desplegar, p. ej.  
+   `https://us-central1-TU_PROJECT_ID.cloudfunctions.net/gmailCallback`  
+   (o la del emulador si pruebas en local).
+6. Copiar Client ID y Secret a las variables anteriores.
+
+### Build y despliegue Functions
+
+```bash
+cd functions
+npm install
+npm run build
+```
+
+Desde la raíz del repo (con [Firebase CLI](https://firebase.google.com/docs/cli) y proyecto inicializado):
+
+```bash
+firebase init functions   # usa functions/ existente, Node 20, TypeScript ya configurado
+firebase deploy --only functions
+```
+
+Configura secrets/vars en Firebase (Console → Functions → Environment variables, o `firebase functions:config:set` según tu versión de CLI).
+
+Emulador (opcional):
+
+```bash
+# functions/.env con las variables + GOOGLE_APPLICATION_CREDENTIALS
+npx firebase emulators:start --only functions
+```
+
+Sin proyecto Firebase propio: el código compila con `npm run build`; el deploy requiere proyecto real y OAuth configurado.
+
 ## Scripts
 
 | Comando | Descripción |
@@ -135,3 +196,4 @@ Detalle paso a paso: [`docs/ACCEPTANCE.md`](docs/ACCEPTANCE.md).
 | `npm run build` | Typecheck + build producción |
 | `npm run preview` | Sirve `dist/` localmente |
 | `npm test` | Tests Vitest |
+| `cd functions && npm run build` | Compila Cloud Functions (TypeScript → `lib/`) |
