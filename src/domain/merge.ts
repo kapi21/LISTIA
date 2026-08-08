@@ -8,3 +8,8 @@ export function mergeItems(local: ShoppingItem[], remote: ShoppingItem[]): Shopp
   }
   return [...map.values()]
 }
+
+/** Ítems visibles en UI (excluye tombstones). */
+export function visibleItems(items: ShoppingItem[]): ShoppingItem[] {
+  return items.filter((it) => !it.deleted)
+}

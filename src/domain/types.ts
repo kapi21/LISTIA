@@ -7,6 +7,8 @@ export type ShoppingItem = {
   productId: string | null
   updatedAt: number
   updatedBy: string
+  /** Tombstone LWW: true = borrado lógico, no mostrar en UI */
+  deleted?: boolean
 }
 
 export type Household = {
