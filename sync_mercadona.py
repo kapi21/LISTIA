@@ -7,10 +7,18 @@ from concurrent.futures import ThreadPoolExecutor
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
-def get_json(url):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=12) as r:
-        return json.loads(r.read())
+def get_json(url, retries=4):
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=14) as r:
+                return json.loads(r.read())
+        except Exception as e:
+            if attempt == retries - 1:
+                print(f"Aviso: Fallo final al conectar con {url}: {e}")
+                return None
+            time.sleep(0.35 * (attempt + 1))
+    return None
 
 def sync_catalog():
     print("Iniciando sincronización con API de Mercadona...")
@@ -29,6 +37,10 @@ def sync_catalog():
 
     # 1. Obtener árbol de categorías
     cats_data = get_json('https://tienda.mercadona.es/api/categories/')
+    if not cats_data:
+        print("Error: No se pudo obtener el árbol de categorías de Mercadona.")
+        return
+
     root_cats = cats_data.get('results', [])
 
     subcat_tasks = []
@@ -37,34 +49,33 @@ def sync_catalog():
         for sub in root.get('categories', []):
             subcat_tasks.append((sub['id'], root_name, sub.get('name', '')))
 
-    print(f"Descargando {len(subcat_tasks)} subcategorías en paralelo...")
+    print(f"Descargando {len(subcat_tasks)} subcategorías con reintentos...")
 
     def fetch_subcat(task):
         sid, rname, sname = task
-        try:
-            data = get_json(f'https://tienda.mercadona.es/api/categories/{sid}/')
-            items = []
-            for c in data.get('categories', []):
-                inner_name = c.get('name', sname)
-                for p in c.get('products', []):
-                    price_inst = p.get('price_instructions', {})
-                    items.append({
-                        'id': str(p.get('id')),
-                        'name': p.get('display_name'),
-                        'category': rname,
-                        'subcategory': inner_name,
-                        'photo': p.get('thumbnail'),
-                        'price': price_inst.get('unit_price'),
-                        'unit_size': price_inst.get('unit_size'),
-                        'size_format': price_inst.get('size_format'),
-                        'packaging': p.get('packaging'),
-                    })
-            return items
-        except Exception as e:
+        data = get_json(f'https://tienda.mercadona.es/api/categories/{sid}/')
+        if not data:
             return []
+        items = []
+        for c in data.get('categories', []):
+            inner_name = c.get('name', sname)
+            for p in c.get('products', []):
+                price_inst = p.get('price_instructions', {})
+                items.append({
+                    'id': str(p.get('id')),
+                    'name': p.get('display_name'),
+                    'category': rname,
+                    'subcategory': inner_name,
+                    'photo': p.get('thumbnail'),
+                    'price': price_inst.get('unit_price'),
+                    'unit_size': price_inst.get('unit_size'),
+                    'size_format': price_inst.get('size_format'),
+                    'packaging': p.get('packaging'),
+                })
+        return items
 
     new_catalog = []
-    with ThreadPoolExecutor(max_workers=14) as ex:
+    with ThreadPoolExecutor(max_workers=6) as ex:
         results = ex.map(fetch_subcat, subcat_tasks)
         for res in results:
             new_catalog.extend(res)
