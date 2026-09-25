@@ -7,6 +7,13 @@ import NotebookItemRow from './NotebookItemRow'
 import MercadonaCatalogModal from './MercadonaCatalogModal'
 import EditItemModal from './EditItemModal'
 import EditListModal from './EditListModal'
+import SyncPinModal from './SyncPinModal'
+import {
+  subscribeHouseholdNotebook,
+  pushHouseholdNotebook,
+  fetchHouseholdNotebook,
+  getDeviceId,
+} from '../data/notebookSync'
 import '../styles/notebook.css'
 
 export default function NotebookApp() {
@@ -38,6 +45,11 @@ export default function NotebookApp() {
   const [editingItem, setEditingItem] = useState<NotebookItem | null>(null)
   const [isEditingList, setIsEditingList] = useState(false)
   const [newsNotice, setNewsNotice] = useState<{ count: number; date: string } | null>(null)
+  const [syncPin, setSyncPin] = useState<string>(() => {
+    return localStorage.getItem('listia-sync-pin') || ''
+  })
+  const [isSyncModalOpen, setIsSyncModalOpen] = useState(false)
+  const isSyncingFromRemote = useRef(false)
 
   // Detección de pulsación larga sobre el nombre de la lista (con cancelación si hay scroll)
   const listTouchTimer = useRef<number | null>(null)
@@ -85,6 +97,70 @@ export default function NotebookApp() {
       })
       .catch(() => undefined)
   }, [])
+
+  // Capturar PIN desde enlace compartido / QR (?pin=123456)
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search)
+    const pinParam = urlParams.get('pin')
+    if (pinParam && /^\d{6}$/.test(pinParam)) {
+      setSyncPin(pinParam)
+      localStorage.setItem('listia-sync-pin', pinParam)
+      window.history.replaceState({}, document.title, window.location.pathname)
+    }
+  }, [])
+
+  // Suscribirse a Firebase Firestore en tiempo real cuando hay PIN activo
+  useEffect(() => {
+    if (!syncPin || !/^\d{6}$/.test(syncPin)) return
+
+    // Cargar listas remotas existentes
+    fetchHouseholdNotebook(syncPin).then((remoteLists) => {
+      if (remoteLists && remoteLists.length > 0) {
+        isSyncingFromRemote.current = true
+        setLists(remoteLists)
+      } else if (lists.length > 0) {
+        pushHouseholdNotebook(syncPin, lists).catch(() => undefined)
+      }
+    })
+
+    // Escuchar cambios de la pareja en tiempo real
+    const myDeviceId = getDeviceId()
+    const unsubscribe = subscribeHouseholdNotebook(syncPin, (remoteLists, updatedBy) => {
+      if (updatedBy !== myDeviceId && Array.isArray(remoteLists) && remoteLists.length > 0) {
+        isSyncingFromRemote.current = true
+        setLists(remoteLists)
+      }
+    })
+
+    return () => unsubscribe()
+  }, [syncPin])
+
+  // Publicar cambios locales a la pareja en Firebase
+  useEffect(() => {
+    if (isSyncingFromRemote.current) {
+      isSyncingFromRemote.current = false
+      return
+    }
+    if (syncPin && /^\d{6}$/.test(syncPin) && lists.length > 0) {
+      const timer = setTimeout(() => {
+        pushHouseholdNotebook(syncPin, lists).catch(() => undefined)
+      }, 350)
+      return () => clearTimeout(timer)
+    }
+  }, [lists, syncPin])
+
+  const handleSetSyncPin = (newPin: string) => {
+    setSyncPin(newPin)
+    localStorage.setItem('listia-sync-pin', newPin)
+    if (lists.length > 0) {
+      pushHouseholdNotebook(newPin, lists).catch(() => undefined)
+    }
+  }
+
+  const handleDisconnectSync = () => {
+    setSyncPin('')
+    localStorage.removeItem('listia-sync-pin')
+  }
 
   // Cargar los 466 productos de Listonic enriquecidos como "Lista Casa"
   useEffect(() => {
@@ -592,7 +668,31 @@ export default function NotebookApp() {
                   ✏️
                 </button>
               </div>
-              <span className="notebook-date">{todayStr}</span>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <button
+                  type="button"
+                  onClick={() => setIsSyncModalOpen(true)}
+                  title="Sincronizar libreta con tu pareja por PIN o QR"
+                  style={{
+                    background: syncPin ? '#dcfce7' : '#f4ede0',
+                    color: syncPin ? '#166534' : '#5a544c',
+                    border: `1px solid ${syncPin ? '#86efac' : '#dcd3bf'}`,
+                    borderRadius: '16px',
+                    padding: '3px 10px',
+                    fontFamily: 'var(--font-note)',
+                    fontSize: '0.92rem',
+                    fontWeight: 'bold',
+                    cursor: 'pointer',
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: '4px',
+                  }}
+                >
+                  <span>{syncPin ? '🟢' : '📲'}</span>
+                  <span>{syncPin ? `PIN: ${syncPin}` : 'Sincronizar'}</span>
+                </button>
+                <span className="notebook-date">{todayStr}</span>
+              </div>
             </div>
 
             <div className="notebook-meta-row">
@@ -1116,6 +1216,15 @@ export default function NotebookApp() {
         onClose={() => setIsEditingList(false)}
         onSave={handleSaveEditedList}
         onDeleteList={handleDeleteActiveList}
+      />
+
+      {/* Modal para sincronizar en pareja con PIN o código QR */}
+      <SyncPinModal
+        isOpen={isSyncModalOpen}
+        currentPin={syncPin}
+        onClose={() => setIsSyncModalOpen(false)}
+        onSetPin={handleSetSyncPin}
+        onDisconnect={handleDisconnectSync}
       />
     </div>
   )
