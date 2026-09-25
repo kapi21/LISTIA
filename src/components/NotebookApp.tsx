@@ -727,7 +727,7 @@ export default function NotebookApp() {
           {/* SECCIÓN 1: PRODUCTOS PARA COMPRAR (SIEMPRE ARRIBA) */}
           <div
             style={{
-              padding: '10px 14px 8px 46px',
+              padding: '12px 14px 10px 38px',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'space-between',
@@ -738,7 +738,7 @@ export default function NotebookApp() {
             <span
               style={{
                 fontFamily: 'var(--font-note)',
-                fontSize: '1.25rem',
+                fontSize: '1.4rem',
                 fontWeight: 'bold',
                 color: '#2c2927',
               }}
@@ -865,18 +865,19 @@ export default function NotebookApp() {
 
           {/* SECCIÓN 2: DESPENSA Y PRODUCTOS GUARDADOS (EDITABLES) */}
           {isDespensaEnabled && totalDespensaCount > 0 && (
-            <div style={{ marginTop: '24px', padding: '0 12px 24px 44px' }}>
+            <div style={{ marginTop: '24px', padding: '0 10px 24px 38px' }}>
               <button
                 type="button"
                 onClick={() => setShowHistory((prev) => !prev)}
                 style={{
                   background: 'none',
                   border: '1px dashed #b5ae9f',
-                  borderRadius: '6px',
-                  padding: '8px 14px',
+                  borderRadius: '8px',
+                  padding: '10px 14px',
                   fontFamily: 'var(--font-note)',
-                  fontSize: '1.05rem',
-                  color: '#655e56',
+                  fontSize: '1.25rem',
+                  fontWeight: 'bold',
+                  color: '#554e46',
                   cursor: 'pointer',
                   width: '100%',
                   textAlign: 'left',
@@ -888,8 +889,8 @@ export default function NotebookApp() {
                 <span>
                   {showHistory ? '▲ Ocultar' : '▼ Ver'} despensa ({despensaItems.length} productos)
                 </span>
-                <span style={{ fontSize: '0.88rem', color: '#888' }}>
-                  {showHistory ? 'Cerrar' : 'Toca para reactivar o editar'}
+                <span style={{ fontSize: '0.95rem', color: '#777', fontWeight: 'normal' }}>
+                  {showHistory ? 'Cerrar' : 'Toca para reactivar'}
                 </span>
               </button>
 
