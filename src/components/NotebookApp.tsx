@@ -725,16 +725,7 @@ export default function NotebookApp() {
           </header>
 
           {/* SECCIÓN 1: PRODUCTOS PARA COMPRAR (SIEMPRE ARRIBA) */}
-          <div
-            style={{
-              padding: '12px 14px 10px 38px',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'space-between',
-              borderBottom: '2px solid rgba(80, 75, 70, 0.2)',
-              background: '#fcfaf4',
-            }}
-          >
+          <div className="notebook-section-header">
             <span
               style={{
                 fontFamily: 'var(--font-note)',
@@ -770,17 +761,7 @@ export default function NotebookApp() {
 
           {/* BARRA DE ACCIÓN: MOVER A DESPENSA LOS MARCADOS */}
           {selectedCheckedItems.length > 0 && (
-            <div
-              style={{
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'space-between',
-                padding: '8px 14px 8px 46px',
-                background: '#e8f5e9',
-                borderBottom: '2px solid #a5d6a7',
-                animation: 'fadeIn 0.15s ease',
-              }}
-            >
+            <div className="notebook-action-bar">
               <span style={{ fontFamily: 'var(--font-note)', fontSize: '1.05rem', color: '#1b5e20' }}>
                 <strong>{selectedCheckedItems.length}</strong> marcados
               </span>
@@ -865,45 +846,40 @@ export default function NotebookApp() {
 
           {/* SECCIÓN 2: DESPENSA Y PRODUCTOS GUARDADOS (EDITABLES) */}
           {isDespensaEnabled && totalDespensaCount > 0 && (
-            <div style={{ marginTop: '24px', padding: '0 10px 24px 38px' }}>
-              <button
-                type="button"
-                onClick={() => setShowHistory((prev) => !prev)}
-                style={{
-                  background: 'none',
-                  border: '1px dashed #b5ae9f',
-                  borderRadius: '8px',
-                  padding: '10px 14px',
-                  fontFamily: 'var(--font-note)',
-                  fontSize: '1.25rem',
-                  fontWeight: 'bold',
-                  color: '#554e46',
-                  cursor: 'pointer',
-                  width: '100%',
-                  textAlign: 'left',
-                  display: 'flex',
-                  justifyContent: 'space-between',
-                  alignItems: 'center',
-                }}
-              >
-                <span>
-                  {showHistory ? '▲ Ocultar' : '▼ Ver'} despensa ({despensaItems.length} productos)
-                </span>
-                <span style={{ fontSize: '0.95rem', color: '#777', fontWeight: 'normal' }}>
-                  {showHistory ? 'Cerrar' : 'Toca para reactivar'}
-                </span>
-              </button>
+            <div className="notebook-despensa-section">
+              <div className="notebook-despensa-toggle-wrapper">
+                <button
+                  type="button"
+                  onClick={() => setShowHistory((prev) => !prev)}
+                  style={{
+                    background: 'none',
+                    border: '1px dashed #b5ae9f',
+                    borderRadius: '8px',
+                    padding: '10px 14px',
+                    fontFamily: 'var(--font-note)',
+                    fontSize: '1.25rem',
+                    fontWeight: 'bold',
+                    color: '#554e46',
+                    cursor: 'pointer',
+                    width: '100%',
+                    textAlign: 'left',
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'center',
+                  }}
+                >
+                  <span>
+                    {showHistory ? '▲ Ocultar' : '▼ Ver'} despensa ({despensaItems.length} productos)
+                  </span>
+                  <span style={{ fontSize: '0.95rem', color: '#777', fontWeight: 'normal' }}>
+                    {showHistory ? 'Cerrar' : 'Toca para reactivar'}
+                  </span>
+                </button>
+              </div>
 
               {showHistory && (
                 <div style={{ marginTop: '10px' }}>
-                  <div
-                    style={{
-                      fontSize: '0.9rem',
-                      color: '#888',
-                      marginBottom: '6px',
-                      fontFamily: 'var(--font-note)',
-                    }}
-                  >
+                  <div className="notebook-despensa-hint">
                     💡 Pulsa ✏️ o las unidades para editar el producto. Pulsa el check o la X para moverlo.
                   </div>
                   <ul className="notebook-items-list" style={{ opacity: 0.9 }}>

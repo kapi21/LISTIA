@@ -162,7 +162,7 @@ body {
   background-color: var(--paper-bg);
   background-image:
     /* Margen vertical rojo clásico */
-    linear-gradient(90deg, transparent 48px, var(--paper-margin-red) 48px, var(--paper-margin-red) 50px, transparent 50px),
+    linear-gradient(90deg, transparent 46px, var(--paper-margin-red) 46px, var(--paper-margin-red) 48px, transparent 48px),
     /* Líneas horizontales de cuaderno */
     repeating-linear-gradient(to bottom, transparent, transparent calc(var(--line-height) - 1px), var(--paper-lines) calc(var(--line-height) - 1px), var(--paper-lines) var(--line-height));
   min-height: 480px;
@@ -172,7 +172,7 @@ body {
 
 /* Cabecera escrita a mano */
 .notebook-header {
-  padding: 16px 20px 8px 60px;
+  padding: 16px 20px 8px 58px;
   border-bottom: 2px dashed rgba(80, 75, 70, 0.2);
 }
 
@@ -246,7 +246,7 @@ body {
 
 /* Barra de herramientas / buscador / filtro */
 .notebook-tools {
-  padding: 10px 18px 8px 60px;
+  padding: 10px 18px 8px 58px;
   display: flex;
   align-items: center;
   gap: 10px;
@@ -305,7 +305,7 @@ body {
   min-height: var(--line-height);
   display: flex;
   align-items: center;
-  padding: 4px 14px 4px 6px;
+  padding: 4px 14px 4px 0;
   position: relative;
   transition: background 0.15s;
 }
@@ -317,6 +317,7 @@ body {
 /* Casilla de verificación a lápiz */
 .notebook-checkbox-col {
   width: 42px;
+  min-width: 42px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -364,7 +365,7 @@ body {
 .notebook-item-photo-col {
   width: 46px;
   height: 46px;
-  margin-left: 8px;
+  margin-left: 12px;
   margin-right: 10px;
   flex-shrink: 0;
   position: relative;
@@ -503,6 +504,42 @@ body {
   text-wrap: balance;
   word-break: break-word;
   color: #655f58;
+}
+
+/* Secciones de libreta alineadas con el margen rojo */
+.notebook-section-header {
+  padding: 12px 14px 10px 58px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid rgba(80, 75, 70, 0.2);
+  background: #fcfaf4;
+}
+
+.notebook-action-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 14px 8px 58px;
+  background: #e8f5e9;
+  border-bottom: 2px solid #a5d6a7;
+  animation: fadeIn 0.15s ease;
+}
+
+.notebook-despensa-section {
+  margin-top: 24px;
+  padding: 0 0 24px 0;
+}
+
+.notebook-despensa-toggle-wrapper {
+  padding: 0 14px 0 58px;
+}
+
+.notebook-despensa-hint {
+  padding: 6px 14px 6px 58px;
+  font-size: 0.95rem;
+  color: #777;
+  font-family: var(--font-note);
 }
 
 /* Barra inferior fija para añadir / buscar en Mercadona (Mobile First) */
@@ -838,14 +875,14 @@ body {
   /* Hoja con líneas espaciadas y margen rojo nítido */
   .notebook-sheet {
     background-image:
-      linear-gradient(90deg, transparent 32px, var(--paper-margin-red) 32px, var(--paper-margin-red) 34px, transparent 34px),
+      linear-gradient(90deg, transparent 46px, var(--paper-margin-red) 46px, var(--paper-margin-red) 48px, transparent 48px),
       repeating-linear-gradient(to bottom, transparent, transparent calc(var(--line-height) - 1px), var(--paper-lines) calc(var(--line-height) - 1px), var(--paper-lines) var(--line-height));
     padding-bottom: 110px;
     --line-height: 56px;
   }
 
   .notebook-header {
-    padding: 14px 12px 8px 40px;
+    padding: 14px 12px 8px 58px;
   }
 
   .notebook-title-row {
@@ -881,38 +918,39 @@ body {
   }
 
   .notebook-tools {
-    padding: 8px 10px 6px 40px;
+    padding: 8px 10px 6px 58px;
   }
 
   /* Fila de producto: Grande, legible y táctil */
   .notebook-item-row {
-    padding: 6px 8px 6px 4px;
+    padding: 6px 12px 6px 0;
     min-height: 56px;
   }
 
   .notebook-checkbox-col {
-    width: 38px;
+    width: 42px;
+    min-width: 42px;
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
   .notebook-checkbox {
-    width: 26px;
-    height: 26px;
+    width: 24px;
+    height: 24px;
     border-width: 2px;
   }
 
   .notebook-checkbox.checked::after {
-    font-size: 28px;
-    top: -8px;
+    font-size: 26px;
+    top: -7px;
     left: 1px;
   }
 
   .notebook-item-photo-col {
     width: 44px;
     height: 44px;
-    margin-left: 2px;
+    margin-left: 12px;
     margin-right: 8px;
   }
 
