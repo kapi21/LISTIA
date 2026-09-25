@@ -16,7 +16,10 @@ export function useMercadonaCatalog() {
 
   useEffect(() => {
     let isMounted = true
-    fetch('/mercadona-catalog.json')
+    const basePath = import.meta.env.BASE_URL.endsWith('/')
+      ? import.meta.env.BASE_URL
+      : `${import.meta.env.BASE_URL}/`
+    fetch(`${basePath}mercadona-catalog.json`)
       .then((res) => {
         if (!res.ok) throw new Error('No se pudo cargar el catálogo de Mercadona')
         return res.json() as Promise<MercadonaProduct[]>

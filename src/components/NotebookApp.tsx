@@ -85,7 +85,10 @@ export default function NotebookApp() {
 
   // Comprobar si hay novedades registradas del catálogo de Mercadona
   useEffect(() => {
-    fetch('/mercadona-news.json')
+    const basePath = import.meta.env.BASE_URL.endsWith('/')
+      ? import.meta.env.BASE_URL
+      : `${import.meta.env.BASE_URL}/`
+    fetch(`${basePath}mercadona-news.json`)
       .then((r) => (r.ok ? r.json() : null))
       .then((data) => {
         if (data && data.newProductsCount > 0) {
@@ -179,7 +182,10 @@ export default function NotebookApp() {
       }
     }
 
-    fetch('/listonic-import.json')
+    const basePath = import.meta.env.BASE_URL.endsWith('/')
+      ? import.meta.env.BASE_URL
+      : `${import.meta.env.BASE_URL}/`
+    fetch(`${basePath}listonic-import.json`)
       .then((res) => (res.ok ? res.json() : null))
       .then((imported: NotebookList | null) => {
         if (!imported || !imported.items) return

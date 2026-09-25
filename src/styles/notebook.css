@@ -842,6 +842,14 @@ body {
     padding: 12px 12px 6px 44px;
   }
 
+  .notebook-title-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px;
+  }
+
   .notebook-title {
     font-size: 1.75rem;
   }
@@ -943,6 +951,31 @@ body {
   .catalog-modal {
     height: 88vh;
     border-radius: 14px 14px 0 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .notebook-header {
+    padding: 10px 8px 6px 36px;
+  }
+  .notebook-title {
+    font-size: 1.55rem;
+  }
+  .notebook-date {
+    font-size: 0.88rem;
+  }
+  .notebook-btn-catalog {
+    font-size: 0.88rem;
+    padding: 0 8px;
+    gap: 3px;
+  }
+  .notebook-main-input {
+    font-size: 0.98rem;
+    padding: 8px 8px;
+  }
+  .notebook-btn-add {
+    padding: 0 12px;
+    font-size: 1.25rem;
   }
 }
 
