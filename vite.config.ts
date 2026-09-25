@@ -10,8 +10,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icons/*.png'],
       manifest: {
-        name: 'Lista Casa',
-        short_name: 'Lista',
+        name: 'LISTIA',
+        short_name: 'LISTIA',
+        description: 'Libreta de compra manuscrita conectada al catálogo de Mercadona',
         start_url: '/',
         display: 'standalone',
         background_color: '#f7f4ef',
@@ -20,6 +21,9 @@ export default defineConfig({
           { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
           { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
         ],
+      },
+      devOptions: {
+        enabled: true,
       },
       workbox: {
         navigateFallback: '/index.html',

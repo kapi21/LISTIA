@@ -4,6 +4,10 @@ export type SyncTicketsResult = {
   imported: number
   skipped: number
   errors: number
+  found?: number
+  scanned?: number
+  hasMore?: boolean
+  query?: string
 }
 
 const DISCONNECTED_CONNECTION: GmailConnectionPublic = {
