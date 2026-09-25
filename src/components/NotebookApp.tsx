@@ -22,7 +22,7 @@ export default function NotebookApp() {
 
   const { catalog, categories, searchProducts } = useMercadonaCatalog()
 
-  // Estado de listas. Inicializamos "Lista Casa"
+  // Estado de listas. Si es un nuevo usuario, inicia con una libreta limpia y vacía
   const [lists, setLists] = useState<NotebookList[]>(() => {
     const saved = localStorage.getItem('lista-casa-notebook')
     if (saved) {
@@ -33,7 +33,14 @@ export default function NotebookApp() {
         // Fallback
       }
     }
-    return []
+    return [
+      {
+        id: 1,
+        name: 'Mi Lista',
+        color: 'yellow',
+        items: [],
+      },
+    ]
   })
 
   const [activeId, setActiveId] = useState<string | number>(() => lists[0]?.id ?? 1)
@@ -165,48 +172,6 @@ export default function NotebookApp() {
     localStorage.removeItem('listia-sync-pin')
   }
 
-  // Cargar los 466 productos de Listonic enriquecidos como "Lista Casa"
-  useEffect(() => {
-    const saved = localStorage.getItem('lista-casa-notebook')
-    if (saved) {
-      try {
-        const parsed = JSON.parse(saved)
-        if (Array.isArray(parsed) && parsed.length > 0) {
-          const casaList = parsed.find((l: NotebookList) => l.name === 'Lista Casa')
-          if (casaList && casaList.items.length >= 400) {
-            return
-          }
-        }
-      } catch {
-        // Continuar a fetch
-      }
-    }
-
-    const basePath = import.meta.env.BASE_URL.endsWith('/')
-      ? import.meta.env.BASE_URL
-      : `${import.meta.env.BASE_URL}/`
-    fetch(`${basePath}listonic-import.json`)
-      .then((res) => (res.ok ? res.json() : null))
-      .then((imported: NotebookList | null) => {
-        if (!imported || !imported.items) return
-        const casaList: NotebookList = {
-          id: 1,
-          name: 'Lista Casa',
-          color: 'yellow',
-          items: imported.items.map((item, idx) => ({
-            ...item,
-            id: item.id || idx + 1,
-            // inList = true para los 5 que estaban pendientes; false para los comprados
-            inList: item.inList !== undefined ? item.inList : !item.checked,
-            checked: false, // El check se usa para seleccionar y quitar
-          })),
-        }
-
-        setLists([casaList])
-        setActiveId(casaList.id)
-      })
-      .catch((e) => console.warn('Error cargando catálogo inicial de Lista Casa:', e))
-  }, [])
 
   // Guardar en localStorage
   useEffect(() => {
