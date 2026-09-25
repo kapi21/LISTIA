@@ -8,3 +8,4 @@ dist/
 *.local
 borrar/
 dev-dist/
+.vite/
