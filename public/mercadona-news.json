@@ -1,8 +1,126 @@
 {
-  "lastSync": "2026-09-25T19:18:10.963691",
-  "totalProducts": 4316,
-  "newProductsCount": 0,
-  "newProducts": [],
-  "priceChangesCount": 0,
-  "priceChanges": []
+  "lastSync": "2026-09-26T09:12:54.611970",
+  "totalProducts": 4324,
+  "newProductsCount": 10,
+  "newProducts": [
+    {
+      "id": "8820",
+      "name": "Surtido de caramelos Mix El Conde Drácula y Zombie Lokopop Cerdán",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Caramelos",
+      "photo": "https://prod-mercadona.imgix.net/images/1757985234bb275acbfc9c9fde9a1d6e.jpg?fit=crop&h=300&w=300",
+      "price": "1.35",
+      "unit_size": 0.15,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "23528",
+      "name": "Golosinas Dentaduras Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Golosinas",
+      "photo": "https://prod-mercadona.imgix.net/images/4eddb36a89478c422b01388686becdb1.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 0.1,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "36014",
+      "name": "Turrón blando Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/2a5845cb53afdb6580cc4644375d4687.jpg?fit=crop&h=300&w=300",
+      "price": "2.90",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36017",
+      "name": "Turrón duro Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/6460a8fbba2f5cf3ae4e8e164dc7f16d.jpg?fit=crop&h=300&w=300",
+      "price": "2.90",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "23863",
+      "name": "Sidra asturiana El Mayu",
+      "category": "Bodega",
+      "subcategory": "Sidra",
+      "photo": "https://prod-mercadona.imgix.net/images/95a9b59aacee76b1f1ed623a361c6abe.jpg?fit=crop&h=300&w=300",
+      "price": "12.00",
+      "unit_size": 3.0,
+      "size_format": "l",
+      "packaging": "Pack-12"
+    },
+    {
+      "id": "21942",
+      "name": "Laca de uñas alto brillo Deliplus 145 azul pastel",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/4472ff4265cc8a6abad61130ff1b154d.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "60926",
+      "name": "Bebida de avena con chocolate sin azúcares añadidos Hacendado",
+      "category": "Huevos, leche y mantequilla",
+      "subcategory": "Bebidas vegetales",
+      "photo": "https://prod-mercadona.imgix.net/images/6d7385ce34d7f0c6e893179fc414fdc6.jpeg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 0.75,
+      "size_format": "l",
+      "packaging": "Pack-3"
+    },
+    {
+      "id": "52976",
+      "name": "Polvo Compacto 24H Long Lasting Deliplus 04 dorado oscuro",
+      "category": "Maquillaje",
+      "subcategory": "Polvos",
+      "photo": "https://prod-mercadona.imgix.net/images/4d9bb5205fb50aec40f7e7545e1e774b.jpeg?fit=crop&h=300&w=300",
+      "price": "6.00",
+      "unit_size": 0.01,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "11641",
+      "name": "Sombra de ojos Long Lasting Deliplus Multi-Stick 06 bronce",
+      "category": "Maquillaje",
+      "subcategory": "Sombra de ojos",
+      "photo": "https://prod-mercadona.imgix.net/images/3fd4fed151844fa6e2091d1081c499d2.jpg?fit=crop&h=300&w=300",
+      "price": "4.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "24585",
+      "name": "Bizcocho con zanahoria Hacendado",
+      "category": "Panadería y pastelería",
+      "subcategory": "Bollería envasada",
+      "photo": "https://prod-mercadona.imgix.net/images/cca368134fa5b897dcb3d996c85328e2.jpg?fit=crop&h=300&w=300",
+      "price": "1.90",
+      "unit_size": 0.29,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    }
+  ],
+  "priceChangesCount": 1,
+  "priceChanges": [
+    {
+      "id": "28662",
+      "name": "Whisky escocés James Webb",
+      "oldPrice": "6.00",
+      "newPrice": "6.10"
+    }
+  ]
 }
