@@ -1,410 +1,245 @@
 {
-  "lastSync": "2026-09-27T09:53:08.862339",
-  "totalProducts": 4337,
-  "newProductsCount": 20,
+  "lastSync": "2026-09-28T10:40:46.824818",
+  "totalProducts": 4332,
+  "newProductsCount": 5,
   "newProducts": [
     {
-      "id": "17551",
-      "name": "Surtido chocolates con leche Halloween Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Chocolatinas",
-      "photo": "https://prod-mercadona.imgix.net/images/a5fdc1aabc3d79294af375b7fa3b96ff.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 0.09,
+      "id": "5940",
+      "name": "Castañas",
+      "category": "Aperitivos",
+      "subcategory": "Frutos secos",
+      "photo": "https://prod-mercadona.imgix.net/images/8bd8814de5f099ca01d1f7faa18ae912.jpg?fit=crop&h=300&w=300",
+      "price": "3.75",
+      "unit_size": 0.5,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Malla"
     },
     {
-      "id": "8863",
-      "name": "Piruleta de chocolate Halloween Hacendado",
+      "id": "17702",
+      "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
       "category": "Azúcar, caramelos y chocolate",
       "subcategory": "Chocolatinas",
-      "photo": "https://prod-mercadona.imgix.net/images/c9191c8ea84764531d9c03b11d9991a9.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "35909",
-      "name": "Bombones cereza al licor Hacendado con chocolate",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Bombones",
-      "photo": "https://prod-mercadona.imgix.net/images/d351996ca0f041c1f2cf62b309c7537c.jpg?fit=crop&h=300&w=300",
+      "photo": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=300&w=300",
       "price": "2.20",
-      "unit_size": 0.15,
+      "unit_size": 0.2,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "14469",
-      "name": "Bolitas de coco Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Bombones",
-      "photo": "https://prod-mercadona.imgix.net/images/efd44e746d72ccf6148ee2a17a42e7c8.jpeg?fit=crop&h=300&w=300",
-      "price": "1.90",
-      "unit_size": 0.24,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17947",
-      "name": "Bombones de pistacho Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Bombones",
-      "photo": "https://prod-mercadona.imgix.net/images/8095c989ae29e35723711b9f194a491c.jpg?fit=crop&h=300&w=300",
-      "price": "4.20",
-      "unit_size": 0.162,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "8819",
-      "name": "Golosinas Halloween BOO! Mix Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Golosinas",
-      "photo": "https://prod-mercadona.imgix.net/images/77d1f6397590eac8cf607d6ff474812c.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17805",
-      "name": "Golosinas ojos rellenos Halloween Trolli Spooky Balls",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Golosinas",
-      "photo": "https://prod-mercadona.imgix.net/images/c2d77f4037d261171e10e8887e81135f.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.075,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17806",
-      "name": "Golosinas calaveras Halloween super ácidas Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Golosinas",
-      "photo": "https://prod-mercadona.imgix.net/images/234d06931063efdeb77b4f24df281756.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.1,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "67875",
-      "name": "Turrón de chocolate crujiente Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Turrones",
-      "photo": "https://prod-mercadona.imgix.net/images/5855651ad218cdbea2cb0f85d5ae7e28.jpg?fit=crop&h=300&w=300",
-      "price": "2.25",
-      "unit_size": 0.25,
-      "size_format": "kg",
-      "packaging": "Tableta"
-    },
-    {
-      "id": "36127",
-      "name": "Turrón de chocolate blanco crujiente Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Turrones",
-      "photo": "https://prod-mercadona.imgix.net/images/f14b2a46d043e8dd4989999ad102c75d.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.25,
-      "size_format": "kg",
-      "packaging": "Tableta"
-    },
-    {
-      "id": "36143",
-      "name": "Turrón de pistacho Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Turrones",
-      "photo": "https://prod-mercadona.imgix.net/images/1f16f5fde69b157d75d4590702f2c37c.jpg?fit=crop&h=300&w=300",
-      "price": "2.90",
-      "unit_size": 0.15,
-      "size_format": "kg",
-      "packaging": "Tableta"
-    },
-    {
-      "id": "52419",
-      "name": "Turrón de cheesecake Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Turrones",
-      "photo": "https://prod-mercadona.imgix.net/images/2de2568e573475bd9bbf3c1b705dada0.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.15,
-      "size_format": "kg",
-      "packaging": "Tableta"
-    },
-    {
-      "id": "17701",
-      "name": "Turrón chocolate blanco Cookies & Cream Hacendado relleno de crema de galletas y cacao",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Turrones",
-      "photo": "https://prod-mercadona.imgix.net/images/7a8957297fc30c250a1b2481f421245b.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.15,
-      "size_format": "kg",
-      "packaging": "Tableta"
-    },
-    {
-      "id": "14988",
-      "name": "Cerveza negra Ambar",
+      "id": "23863",
+      "name": "Sidra asturiana El Mayu",
       "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=300&w=300",
-      "price": "6.00",
-      "unit_size": 1.98,
+      "subcategory": "Sidra",
+      "photo": "https://prod-mercadona.imgix.net/images/95a9b59aacee76b1f1ed623a361c6abe.jpg?fit=crop&h=300&w=300",
+      "price": "12.00",
+      "unit_size": 3.0,
       "size_format": "l",
-      "packaging": null
+      "packaging": "Pack-12"
     },
     {
-      "id": "14989",
-      "name": "Cerveza negra Ambar",
-      "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/90c766f8262424ede0ec978b95cd1a48.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.33,
-      "size_format": "l",
-      "packaging": "Lata"
+      "id": "69038",
+      "name": "Nabicol",
+      "category": "Fruta y verdura",
+      "subcategory": "Otras verduras y hortalizas",
+      "photo": "https://prod-mercadona.imgix.net/images/4262b2a58392e3a872e887277d80b9c7.jpg?fit=crop&h=300&w=300",
+      "price": "0.96",
+      "unit_size": 0.31,
+      "size_format": "kg",
+      "packaging": "Pieza"
     },
     {
-      "id": "20154",
-      "name": "Sticks longaniza de pavo extra Hacendado",
-      "category": "Charcutería y quesos",
-      "subcategory": "Pavo y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/e13bb3bf68aca478c91d9acbc9fe530c.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 0.05,
+      "id": "11963",
+      "name": "Snack nuggets 80% pollo perro adulto Compy",
+      "category": "Mascotas",
+      "subcategory": "Snacks",
+      "photo": "https://prod-mercadona.imgix.net/images/8f4a682200fc668e97c1d27cb51e993a.jpg?fit=crop&h=300&w=300",
+      "price": "1.35",
+      "unit_size": 0.08,
       "size_format": "kg",
       "packaging": "Paquete"
-    },
-    {
-      "id": "22233",
-      "name": "Spray oral Própolis Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Fitoterapia",
-      "photo": "https://prod-mercadona.imgix.net/images/7b7a1b899876dc2ab66a488f0298037e.jpg?fit=crop&h=300&w=300",
-      "price": "3.60",
-      "unit_size": 0.02,
-      "size_format": "l",
-      "packaging": "Spray"
-    },
-    {
-      "id": "17815",
-      "name": "Lavavajillas Ultra Plus naranja Fairy en pastillas",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpiavajilla a máquina",
-      "photo": "https://prod-mercadona.imgix.net/images/9fc3051fd563e15d5593965a8655365e.jpg?fit=crop&h=300&w=300",
-      "price": "5.00",
-      "unit_size": 0.388,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "9849",
-      "name": "Surtido frutitas de mazapán Mocadorà",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/30200822e8883809068daf9d250264ab.jpg?fit=crop&h=300&w=300",
-      "price": "9.45",
-      "unit_size": 0.25,
-      "size_format": "kg",
-      "packaging": "Caja"
-    },
-    {
-      "id": "86405",
-      "name": "Surtido Mocadorà",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/82359d3d9dc13ec9d2afc478c230c9ef.jpg?fit=crop&h=300&w=300",
-      "price": "9.45",
-      "unit_size": 0.25,
-      "size_format": "kg",
-      "packaging": "Caja"
     }
   ],
-  "priceChangesCount": 37,
+  "priceChangesCount": 53,
   "priceChanges": [
     {
-      "id": "3132",
-      "name": "Plátano macho",
-      "oldPrice": "0.81",
-      "newPrice": "0.84"
+      "id": "27291",
+      "name": "Agua mineral grande Lanjarón",
+      "oldPrice": "4.32",
+      "newPrice": "3.60"
     },
     {
-      "id": "3119",
-      "name": "Pera Conferencia",
-      "oldPrice": "0.50",
-      "newPrice": "0.58"
+      "id": "27216",
+      "name": "Agua mineral grande Lanjarón",
+      "oldPrice": "0.75",
+      "newPrice": "0.63"
     },
     {
-      "id": "8175",
-      "name": "Manzana roja acidulce",
-      "oldPrice": "0.81",
-      "newPrice": "0.78"
+      "id": "29608",
+      "name": "Bebida isotónica limón Aquarius",
+      "oldPrice": "2.10",
+      "newPrice": "1.91"
     },
     {
-      "id": "3515",
-      "name": "Medio melón piel de sapo",
-      "oldPrice": "2.24",
-      "newPrice": "2.21"
+      "id": "29609",
+      "name": "Bebida isotónica naranja Aquarius",
+      "oldPrice": "2.10",
+      "newPrice": "1.91"
     },
     {
-      "id": "3202",
-      "name": "Pomelo",
-      "oldPrice": "1.19",
-      "newPrice": "1.16"
+      "id": "27449",
+      "name": "Refresco Coca-Cola zero azúcar",
+      "oldPrice": "4.10",
+      "newPrice": "3.80"
     },
     {
-      "id": "3830",
-      "name": "Aguacate",
-      "oldPrice": "1.55",
-      "newPrice": "1.60"
+      "id": "28180",
+      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
+      "oldPrice": "4.10",
+      "newPrice": "3.80"
     },
     {
-      "id": "3076",
-      "name": "Piña",
-      "oldPrice": "4.30",
-      "newPrice": "4.46"
+      "id": "27761",
+      "name": "Refresco limón Schweppes original",
+      "oldPrice": "5.04",
+      "newPrice": "7.76"
     },
     {
-      "id": "3050",
-      "name": "Mango",
-      "oldPrice": "1.30",
-      "newPrice": "1.22"
+      "id": "28176",
+      "name": "Refresco lima limón Sprite",
+      "oldPrice": "4.00",
+      "newPrice": "4.88"
     },
     {
-      "id": "3026",
-      "name": "Papaya",
-      "oldPrice": "3.31",
-      "newPrice": "3.26"
+      "id": "27845",
+      "name": "Refresco lima limón Sprite",
+      "oldPrice": "0.55",
+      "newPrice": "0.65"
     },
     {
-      "id": "3601",
-      "name": "Ciruela roja",
-      "oldPrice": "0.49",
-      "newPrice": "0.53"
+      "id": "27545",
+      "name": "Refresco Fanta naranja zero azúcares añadidos",
+      "oldPrice": "1.59",
+      "newPrice": "1.85"
     },
     {
-      "id": "69066",
-      "name": "Patata",
-      "oldPrice": "0.48",
-      "newPrice": "0.46"
+      "id": "16461",
+      "name": "Tónica original Schweppes",
+      "oldPrice": "1.80",
+      "newPrice": "1.99"
     },
     {
-      "id": "69173",
-      "name": "Yuca",
-      "oldPrice": "2.18",
+      "id": "33555",
+      "name": "Aperitivo de patata sabor original Pringles",
+      "oldPrice": "2.00",
+      "newPrice": "2.65"
+    },
+    {
+      "id": "33556",
+      "name": "Aperitivo de patata sabor crema agria y cebolla Pringles",
+      "oldPrice": "2.00",
+      "newPrice": "2.65"
+    },
+    {
+      "id": "12130",
+      "name": "Chocolate puro Valor con almendras enteras",
+      "oldPrice": "3.95",
+      "newPrice": "4.95"
+    },
+    {
+      "id": "12544",
+      "name": "Gotas de chocolate negro para fundir Hacendado",
+      "oldPrice": "2.75",
+      "newPrice": "2.55"
+    },
+    {
+      "id": "29062",
+      "name": "Chocolate negro 72% de cacao Hacendado con almendras enteras",
+      "oldPrice": "2.75",
+      "newPrice": "2.65"
+    },
+    {
+      "id": "12493",
+      "name": "Porciones de Chocolate negro 85% cacao extrafino Hacendado",
+      "oldPrice": "3.50",
+      "newPrice": "3.40"
+    },
+    {
+      "id": "12151",
+      "name": "Chocolate con leche Milka",
+      "oldPrice": "1.65",
       "newPrice": "1.95"
     },
     {
-      "id": "69487",
-      "name": "Rama de Tomates",
-      "oldPrice": "1.51",
-      "newPrice": "1.49"
+      "id": "12107",
+      "name": "Chocolate con leche Valor almendras enteras",
+      "oldPrice": "3.95",
+      "newPrice": "4.95"
     },
     {
-      "id": "69320",
-      "name": "Pimiento verde freír",
-      "oldPrice": "0.25",
-      "newPrice": "0.23"
+      "id": "12016",
+      "name": "Chocolate con leche Milka galleta",
+      "oldPrice": "3.95",
+      "newPrice": "2.95"
     },
     {
-      "id": "69339",
-      "name": "Calabacín blanco",
-      "oldPrice": "0.81",
-      "newPrice": "0.84"
+      "id": "12526",
+      "name": "Barritas de barquillo Huesitos bañadas de chocolate con leche",
+      "oldPrice": "1.95",
+      "newPrice": "2.50"
     },
     {
-      "id": "69326",
-      "name": "Berenjena",
-      "oldPrice": "0.79",
-      "newPrice": "0.81"
+      "id": "28246",
+      "name": "Bebida espirituosa centenario Terry",
+      "oldPrice": "9.55",
+      "newPrice": "9.75"
     },
     {
-      "id": "69347",
-      "name": "Berenjena rayada",
-      "oldPrice": "0.83",
-      "newPrice": "0.81"
+      "id": "18235",
+      "name": "Cacao soluble instantáneo",
+      "oldPrice": "6.75",
+      "newPrice": "5.95"
     },
     {
-      "id": "81649.1",
-      "name": "Salmón a rodajas",
-      "oldPrice": "26.67",
-      "newPrice": "26.27"
+      "id": "22580",
+      "name": "Cacao puro en polvo La Chocolatera",
+      "oldPrice": "4.75",
+      "newPrice": "4.40"
     },
     {
-      "id": "81649.4",
-      "name": "Salmón media pieza a rodajas",
-      "oldPrice": "13.83",
-      "newPrice": "13.93"
-    },
-    {
-      "id": "81649.2",
-      "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "26.67",
-      "newPrice": "26.27"
-    },
-    {
-      "id": "81649.5",
-      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "13.83",
-      "newPrice": "13.93"
-    },
-    {
-      "id": "81649.3",
-      "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "26.67",
-      "newPrice": "26.27"
-    },
-    {
-      "id": "81649.6",
-      "name": "Salmón media pieza sin aletas y sin escamas",
-      "oldPrice": "13.83",
-      "newPrice": "13.93"
-    },
-    {
-      "id": "81234.1",
-      "name": "Dorada limpia con cabeza",
-      "oldPrice": "4.85",
+      "id": "11111",
+      "name": "Café soluble natural Nescafé classic",
+      "oldPrice": "5.40",
       "newPrice": "4.75"
     },
     {
-      "id": "81234.2",
-      "name": "Dorada abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "4.85",
+      "id": "11104",
+      "name": "Café soluble descafeinado Nescafé classic",
+      "oldPrice": "5.40",
       "newPrice": "4.75"
     },
     {
-      "id": "81234.5",
-      "name": "Dorada a filetes sin cabeza y sin espina",
-      "oldPrice": "4.85",
-      "newPrice": "4.75"
+      "id": "14038",
+      "name": "Galletas con chocolate y crema de leche Hacendado",
+      "oldPrice": "2.65",
+      "newPrice": "2.55"
     },
     {
-      "id": "81234.4",
-      "name": "Dorada abierta en libro sin cabeza y sin espina",
-      "oldPrice": "4.85",
-      "newPrice": "4.75"
+      "id": "13656",
+      "name": "Rosquillas de chocolate con leche y coco Hacendado",
+      "oldPrice": "1.75",
+      "newPrice": "1.70"
     },
     {
-      "id": "81234.3",
-      "name": "Dorada sin limpiar",
-      "oldPrice": "4.85",
-      "newPrice": "4.75"
+      "id": "21986",
+      "name": "Galletas Classic Choc Hacendado",
+      "oldPrice": "1.35",
+      "newPrice": "1.45"
     },
     {
-      "id": "81204.1",
-      "name": "Bacalao a rodajas",
-      "oldPrice": "27.05",
-      "newPrice": "27.16"
-    },
-    {
-      "id": "81204.2",
-      "name": "Bacalao abierto en libro sin cabeza y sin espina",
-      "oldPrice": "27.05",
-      "newPrice": "27.16"
+      "id": "40302",
+      "name": "Longaniza de Aragón extra Cárnicas Gállego",
+      "oldPrice": "3.25",
+      "newPrice": "3.00"
     }
   ]
 }
