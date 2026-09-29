@@ -1,245 +1,311 @@
 {
-  "lastSync": "2026-09-28T10:40:46.824818",
-  "totalProducts": 4332,
-  "newProductsCount": 5,
+  "lastSync": "2026-09-29T10:28:39.493719",
+  "totalProducts": 4233,
+  "newProductsCount": 11,
   "newProducts": [
     {
-      "id": "5940",
-      "name": "Castañas",
+      "id": "18036",
+      "name": "Salsa picadillo pepinillo Sweet Relish Hacendado",
+      "category": "Aceite, especias y salsas",
+      "subcategory": "Otras salsas",
+      "photo": "https://prod-mercadona.imgix.net/images/6f30e2b5dbbc144110af3300c8ca5764.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 0.22,
+      "size_format": "kg",
+      "packaging": "Tarro"
+    },
+    {
+      "id": "34817",
+      "name": "Palomitas de maíz dulces Hacendado para microondas",
       "category": "Aperitivos",
       "subcategory": "Frutos secos",
-      "photo": "https://prod-mercadona.imgix.net/images/8bd8814de5f099ca01d1f7faa18ae912.jpg?fit=crop&h=300&w=300",
-      "price": "3.75",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Malla"
-    },
-    {
-      "id": "17702",
-      "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Chocolatinas",
-      "photo": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=300&w=300",
-      "price": "2.20",
-      "unit_size": 0.2,
+      "photo": "https://prod-mercadona.imgix.net/images/126319b59770b85db688f4cd7df6e654.jpg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 0.315,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "23863",
-      "name": "Sidra asturiana El Mayu",
-      "category": "Bodega",
-      "subcategory": "Sidra",
-      "photo": "https://prod-mercadona.imgix.net/images/95a9b59aacee76b1f1ed623a361c6abe.jpg?fit=crop&h=300&w=300",
-      "price": "12.00",
-      "unit_size": 3.0,
-      "size_format": "l",
-      "packaging": "Pack-12"
+      "id": "24040",
+      "name": "Patatas fritas paja Hacendado",
+      "category": "Aperitivos",
+      "subcategory": "Patatas fritas",
+      "photo": "https://prod-mercadona.imgix.net/images/9bea65e3ab28433050872f235a06af84.jpg?fit=crop&h=300&w=300",
+      "price": "1.35",
+      "unit_size": 0.15,
+      "size_format": "kg",
+      "packaging": "Paquete"
     },
     {
-      "id": "69038",
-      "name": "Nabicol",
+      "id": "17755",
+      "name": "Patatas fritas 0% sal añadida en aceite de oliva virgen Hacendado",
+      "category": "Aperitivos",
+      "subcategory": "Patatas fritas",
+      "photo": "https://prod-mercadona.imgix.net/images/738455a7b2485bdd805a49e2294dc5f4.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 0.15,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "20321",
+      "name": "Preparado lácteo con cereales y frutas Peques 3 Puleva",
+      "category": "Bebé",
+      "subcategory": "Leche",
+      "photo": "https://prod-mercadona.imgix.net/images/14bfcf692a4d794544953bb4e6e79cc4.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.6,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "21554",
+      "name": "Carrilladas de cerdo al vino",
+      "category": "Carne",
+      "subcategory": "Cerdo",
+      "photo": "https://prod-mercadona.imgix.net/images/a253662ae5bbd2c203b5302f61b43551.jpg?fit=crop&h=300&w=300",
+      "price": "8.90",
+      "unit_size": 0.7,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "17816",
+      "name": "Costilla de cerdo marinada congelada",
+      "category": "Congelados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/9e033ef4efdb012888ac63b0af1c5208.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.75,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18160",
+      "name": "Mix frutas Pink Dragon Hacendado congelado",
+      "category": "Congelados",
+      "subcategory": "Fruta",
+      "photo": "https://prod-mercadona.imgix.net/images/d775e75295d6a5ccc35e42811f672663.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.45,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "69878",
+      "name": "Judía verde redonda",
       "category": "Fruta y verdura",
       "subcategory": "Otras verduras y hortalizas",
-      "photo": "https://prod-mercadona.imgix.net/images/4262b2a58392e3a872e887277d80b9c7.jpg?fit=crop&h=300&w=300",
-      "price": "0.96",
-      "unit_size": 0.31,
+      "photo": "https://prod-mercadona.imgix.net/images/c1071ba21363f4cb41267b5781591082.jpg?fit=crop&h=300&w=300",
+      "price": "3.20",
+      "unit_size": 0.5,
       "size_format": "kg",
-      "packaging": "Pieza"
+      "packaging": "Bandeja"
     },
     {
-      "id": "11963",
-      "name": "Snack nuggets 80% pollo perro adulto Compy",
-      "category": "Mascotas",
-      "subcategory": "Snacks",
-      "photo": "https://prod-mercadona.imgix.net/images/8f4a682200fc668e97c1d27cb51e993a.jpg?fit=crop&h=300&w=300",
-      "price": "1.35",
-      "unit_size": 0.08,
+      "id": "17696",
+      "name": "Lavavajillas Todo en 1 Bosque Verde en pastillas",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/6dd73e1f2a98517f1b81ff548b1ebc5c.jpg?fit=crop&h=300&w=300",
+      "price": "3.75",
+      "unit_size": 0.3458,
       "size_format": "kg",
       "packaging": "Paquete"
+    },
+    {
+      "id": "95730",
+      "name": "Vaselina perfumada para labios Deliplus frambuesa",
+      "category": "Maquillaje",
+      "subcategory": "Cuidado",
+      "photo": "https://prod-mercadona.imgix.net/images/1b8e86d03fae83d78ce00b7727867c85.jpg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 0.015,
+      "size_format": "kg",
+      "packaging": "Tarro"
     }
   ],
-  "priceChangesCount": 53,
+  "priceChangesCount": 54,
   "priceChanges": [
     {
-      "id": "27291",
-      "name": "Agua mineral grande Lanjarón",
-      "oldPrice": "4.32",
-      "newPrice": "3.60"
-    },
-    {
-      "id": "27216",
-      "name": "Agua mineral grande Lanjarón",
-      "oldPrice": "0.75",
-      "newPrice": "0.63"
-    },
-    {
-      "id": "29608",
-      "name": "Bebida isotónica limón Aquarius",
-      "oldPrice": "2.10",
-      "newPrice": "1.91"
-    },
-    {
-      "id": "29609",
-      "name": "Bebida isotónica naranja Aquarius",
-      "oldPrice": "2.10",
-      "newPrice": "1.91"
-    },
-    {
-      "id": "27449",
-      "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "4.10",
-      "newPrice": "3.80"
-    },
-    {
-      "id": "28180",
-      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
-      "oldPrice": "4.10",
-      "newPrice": "3.80"
-    },
-    {
-      "id": "27761",
-      "name": "Refresco limón Schweppes original",
-      "oldPrice": "5.04",
-      "newPrice": "7.76"
-    },
-    {
-      "id": "28176",
-      "name": "Refresco lima limón Sprite",
-      "oldPrice": "4.00",
-      "newPrice": "4.88"
-    },
-    {
-      "id": "27845",
-      "name": "Refresco lima limón Sprite",
-      "oldPrice": "0.55",
-      "newPrice": "0.65"
-    },
-    {
-      "id": "27545",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "1.59",
-      "newPrice": "1.85"
-    },
-    {
-      "id": "16461",
-      "name": "Tónica original Schweppes",
-      "oldPrice": "1.80",
-      "newPrice": "1.99"
-    },
-    {
-      "id": "33555",
-      "name": "Aperitivo de patata sabor original Pringles",
-      "oldPrice": "2.00",
-      "newPrice": "2.65"
-    },
-    {
-      "id": "33556",
-      "name": "Aperitivo de patata sabor crema agria y cebolla Pringles",
-      "oldPrice": "2.00",
-      "newPrice": "2.65"
-    },
-    {
-      "id": "12130",
-      "name": "Chocolate puro Valor con almendras enteras",
-      "oldPrice": "3.95",
-      "newPrice": "4.95"
-    },
-    {
-      "id": "12544",
-      "name": "Gotas de chocolate negro para fundir Hacendado",
-      "oldPrice": "2.75",
-      "newPrice": "2.55"
-    },
-    {
-      "id": "29062",
-      "name": "Chocolate negro 72% de cacao Hacendado con almendras enteras",
-      "oldPrice": "2.75",
-      "newPrice": "2.65"
-    },
-    {
-      "id": "12493",
-      "name": "Porciones de Chocolate negro 85% cacao extrafino Hacendado",
-      "oldPrice": "3.50",
-      "newPrice": "3.40"
-    },
-    {
-      "id": "12151",
-      "name": "Chocolate con leche Milka",
-      "oldPrice": "1.65",
-      "newPrice": "1.95"
-    },
-    {
-      "id": "12107",
-      "name": "Chocolate con leche Valor almendras enteras",
-      "oldPrice": "3.95",
-      "newPrice": "4.95"
-    },
-    {
-      "id": "12016",
-      "name": "Chocolate con leche Milka galleta",
-      "oldPrice": "3.95",
-      "newPrice": "2.95"
-    },
-    {
-      "id": "12526",
-      "name": "Barritas de barquillo Huesitos bañadas de chocolate con leche",
-      "oldPrice": "1.95",
-      "newPrice": "2.50"
-    },
-    {
-      "id": "28246",
-      "name": "Bebida espirituosa centenario Terry",
-      "oldPrice": "9.55",
-      "newPrice": "9.75"
-    },
-    {
-      "id": "18235",
-      "name": "Cacao soluble instantáneo",
-      "oldPrice": "6.75",
-      "newPrice": "5.95"
-    },
-    {
-      "id": "22580",
-      "name": "Cacao puro en polvo La Chocolatera",
-      "oldPrice": "4.75",
-      "newPrice": "4.40"
-    },
-    {
-      "id": "11111",
-      "name": "Café soluble natural Nescafé classic",
-      "oldPrice": "5.40",
-      "newPrice": "4.75"
-    },
-    {
-      "id": "11104",
-      "name": "Café soluble descafeinado Nescafé classic",
-      "oldPrice": "5.40",
-      "newPrice": "4.75"
-    },
-    {
-      "id": "14038",
-      "name": "Galletas con chocolate y crema de leche Hacendado",
-      "oldPrice": "2.65",
-      "newPrice": "2.55"
-    },
-    {
-      "id": "13656",
-      "name": "Rosquillas de chocolate con leche y coco Hacendado",
-      "oldPrice": "1.75",
+      "id": "27203",
+      "name": "Agua de soda con sifón La Casa",
+      "oldPrice": "1.60",
       "newPrice": "1.70"
     },
     {
-      "id": "21986",
-      "name": "Galletas Classic Choc Hacendado",
-      "oldPrice": "1.35",
-      "newPrice": "1.45"
+      "id": "60600",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "10.20",
+      "newPrice": "8.28"
     },
     {
-      "id": "40302",
-      "name": "Longaniza de Aragón extra Cárnicas Gállego",
-      "oldPrice": "3.25",
-      "newPrice": "3.00"
+      "id": "60980",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "0.85",
+      "newPrice": "0.72"
+    },
+    {
+      "id": "66413",
+      "name": "Cerveza Amstel",
+      "oldPrice": "6.36",
+      "newPrice": "4.92"
+    },
+    {
+      "id": "28969",
+      "name": "Cava brut Anna Codorníu",
+      "oldPrice": "9.95",
+      "newPrice": "8.00"
+    },
+    {
+      "id": "10666",
+      "name": "Café con leche cappuccino Hacendado",
+      "oldPrice": "0.75",
+      "newPrice": "0.85"
+    },
+    {
+      "id": "10642",
+      "name": "Café con leche light sin lactosa Hacendado",
+      "oldPrice": "0.75",
+      "newPrice": "0.85"
+    },
+    {
+      "id": "10644",
+      "name": "Café con leche espresso Hacendado",
+      "oldPrice": "0.75",
+      "newPrice": "0.85"
+    },
+    {
+      "id": "10672",
+      "name": "Café con leche descafeinado Hacendado",
+      "oldPrice": "0.75",
+      "newPrice": "0.85"
+    },
+    {
+      "id": "21892",
+      "name": "Guanciale Hacendado",
+      "oldPrice": "4.65",
+      "newPrice": "3.75"
+    },
+    {
+      "id": "3819",
+      "name": "Plátano de Canarias IGP",
+      "oldPrice": "0.43",
+      "newPrice": "0.45"
+    },
+    {
+      "id": "3119",
+      "name": "Pera Conferencia",
+      "oldPrice": "0.58",
+      "newPrice": "0.55"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "oldPrice": "4.45",
+      "newPrice": "4.41"
+    },
+    {
+      "id": "3238",
+      "name": "Mandarina",
+      "oldPrice": "0.29",
+      "newPrice": "0.32"
+    },
+    {
+      "id": "3235",
+      "name": "Naranja de mesa",
+      "oldPrice": "0.85",
+      "newPrice": "0.88"
+    },
+    {
+      "id": "3830",
+      "name": "Aguacate",
+      "oldPrice": "1.60",
+      "newPrice": "1.65"
+    },
+    {
+      "id": "3050",
+      "name": "Mango",
+      "oldPrice": "1.22",
+      "newPrice": "1.13"
+    },
+    {
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.26",
+      "newPrice": "3.20"
+    },
+    {
+      "id": "3601",
+      "name": "Ciruela roja",
+      "oldPrice": "0.53",
+      "newPrice": "0.49"
+    },
+    {
+      "id": "69968",
+      "name": "Tomate canario",
+      "oldPrice": "0.33",
+      "newPrice": "0.37"
+    },
+    {
+      "id": "69310",
+      "name": "Pimiento rojo",
+      "oldPrice": "0.68",
+      "newPrice": "0.70"
+    },
+    {
+      "id": "69338",
+      "name": "Calabacín verde",
+      "oldPrice": "0.76",
+      "newPrice": "0.80"
+    },
+    {
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.95",
+      "newPrice": "2.93"
+    },
+    {
+      "id": "69580",
+      "name": "Brócoli",
+      "oldPrice": "1.11",
+      "newPrice": "1.13"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.81",
+      "newPrice": "0.86"
+    },
+    {
+      "id": "23053",
+      "name": "Bebida láctea sabor canela y limón Hacendado",
+      "oldPrice": "1.60",
+      "newPrice": "1.75"
+    },
+    {
+      "id": "49544",
+      "name": "Servilleta papel Bosque Verde",
+      "oldPrice": "1.15",
+      "newPrice": "1.20"
+    },
+    {
+      "id": "49710",
+      "name": "Servilleta papel decorada Resistente Bosque Verde",
+      "oldPrice": "2.05",
+      "newPrice": "2.15"
+    },
+    {
+      "id": "49701",
+      "name": "Servilleta papel Cocktail Bosque Verde",
+      "oldPrice": "2.10",
+      "newPrice": "2.20"
+    },
+    {
+      "id": "49619",
+      "name": "Papel hogar Compacto Absorbente Bosque Verde",
+      "oldPrice": "2.25",
+      "newPrice": "2.30"
     }
   ]
 }
