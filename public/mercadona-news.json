@@ -1,311 +1,520 @@
 {
-  "lastSync": "2026-09-29T10:28:39.493719",
-  "totalProducts": 4233,
-  "newProductsCount": 11,
+  "lastSync": "2026-09-30T10:20:23.983190",
+  "totalProducts": 4318,
+  "newProductsCount": 103,
   "newProducts": [
     {
-      "id": "18036",
-      "name": "Salsa picadillo pepinillo Sweet Relish Hacendado",
-      "category": "Aceite, especias y salsas",
-      "subcategory": "Otras salsas",
-      "photo": "https://prod-mercadona.imgix.net/images/6f30e2b5dbbc144110af3300c8ca5764.jpg?fit=crop&h=300&w=300",
+      "id": "18379",
+      "name": "Higos secos Zalama Valle del Jerte",
+      "category": "Aperitivos",
+      "subcategory": "Fruta desecada",
+      "photo": "https://prod-mercadona.imgix.net/images/997b274c69e7c26c9ee465bf3f3faa7b.jpg?fit=crop&h=300&w=300",
+      "price": "1.95",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18161",
+      "name": "Mini salchichas Bacon Cheese Hacendado con queso envueltas en bacon",
+      "category": "Charcutería y quesos",
+      "subcategory": "Salchichas",
+      "photo": "https://prod-mercadona.imgix.net/images/a4511d3015788f96d899ff178093ab79.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18344",
+      "name": "Queso rallado mozzarella y gouda Hacendado",
+      "category": "Charcutería y quesos",
+      "subcategory": "Queso rallado",
+      "photo": "https://prod-mercadona.imgix.net/images/de08f6f483ea86b0bcdde2b8ea1665d1.jpg?fit=crop&h=300&w=300",
+      "price": "2.40",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "21643",
+      "name": "Fluido protección solar facial Deliplus FPS 50+",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Protector solar y aftersun",
+      "photo": "https://prod-mercadona.imgix.net/images/b7dc7eb5f71912d516b86845068d4dc1.jpg?fit=crop&h=300&w=300",
+      "price": "7.00",
+      "unit_size": 0.05,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "60607",
+      "name": "Protector solar Sun Med FPS 50+",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Protector solar y aftersun",
+      "photo": "https://prod-mercadona.imgix.net/images/db5b748c1f0c62bcc7bdf01a90f2ef37.jpg?fit=crop&h=300&w=300",
+      "price": "7.50",
+      "unit_size": 0.25,
+      "size_format": "l",
+      "packaging": "Spray"
+    },
+    {
+      "id": "16339",
+      "name": "Protector labial Deliplus FPS 30",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Protector solar y aftersun",
+      "photo": "https://prod-mercadona.imgix.net/images/0ad3fd7c3ecdcfa23b83d32d3816097f.jpg?fit=crop&h=300&w=300",
+      "price": "1.65",
+      "unit_size": 0.004,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "21848",
+      "name": "Bastoncillos de algodón 100% Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/9afc4558dfdad0a9ca1f0c7a680e8655.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 300.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "77248",
+      "name": "Alcohol 96º Deliplus antiséptico",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/eb1cf373157270e2b4192a79709d9951.jpg?fit=crop&h=300&w=300",
+      "price": "0.80",
+      "unit_size": 0.25,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "77241",
+      "name": "Agua oxigenada Deliplus desinfectante antiséptico",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/87da79c7a7b3c04f21b2132ad8e2948a.jpg?fit=crop&h=300&w=300",
+      "price": "0.70",
+      "unit_size": 0.25,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "79717",
+      "name": "Tiras adhesivas protectoras Classic color beige Deliplus surtidas, elásticas y transpirables",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/6942ea357b72452f69208fc2b69e5ed4.jpg?fit=crop&h=300&w=300",
+      "price": "0.95",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "33357",
+      "name": "Solución única para lentes de contacto blandas Deliplus con ácido hialurónico",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/1db1633094a9331d6c6f15208e743542.jpg?fit=crop&h=300&w=300",
+      "price": "4.00",
+      "unit_size": 0.36,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "79673",
+      "name": "Bandas adhesivas fijación fuerte color beige Deliplus para cortar",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/62827537cf36a00c13d75a84d1ec8f9a.jpeg?fit=crop&h=300&w=300",
       "price": "1.50",
-      "unit_size": 0.22,
-      "size_format": "kg",
-      "packaging": "Tarro"
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
     },
     {
-      "id": "34817",
-      "name": "Palomitas de maíz dulces Hacendado para microondas",
-      "category": "Aperitivos",
-      "subcategory": "Frutos secos",
-      "photo": "https://prod-mercadona.imgix.net/images/126319b59770b85db688f4cd7df6e654.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.315,
-      "size_format": "kg",
-      "packaging": "Paquete"
+      "id": "79666",
+      "name": "Esparadrapo textil adhesivo resistente color beige Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/4aa9ce776a9127b5d2a2ff0b6261d768.jpg?fit=crop&h=300&w=300",
+      "price": "1.40",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
     },
     {
-      "id": "24040",
-      "name": "Patatas fritas paja Hacendado",
-      "category": "Aperitivos",
-      "subcategory": "Patatas fritas",
-      "photo": "https://prod-mercadona.imgix.net/images/9bea65e3ab28433050872f235a06af84.jpg?fit=crop&h=300&w=300",
-      "price": "1.35",
-      "unit_size": 0.15,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17755",
-      "name": "Patatas fritas 0% sal añadida en aceite de oliva virgen Hacendado",
-      "category": "Aperitivos",
-      "subcategory": "Patatas fritas",
-      "photo": "https://prod-mercadona.imgix.net/images/738455a7b2485bdd805a49e2294dc5f4.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 0.15,
+      "id": "12051",
+      "name": "Algodón hidrófilo 100% zig-zag hipoalergénico Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/7c912d34825b258b4db81cea111b1a97.jpg?fit=crop&h=300&w=300",
+      "price": "1.20",
+      "unit_size": 0.1,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "20321",
-      "name": "Preparado lácteo con cereales y frutas Peques 3 Puleva",
-      "category": "Bebé",
-      "subcategory": "Leche",
-      "photo": "https://prod-mercadona.imgix.net/images/14bfcf692a4d794544953bb4e6e79cc4.jpg?fit=crop&h=300&w=300",
+      "id": "35940",
+      "name": "Povidona yodada 10% Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/3b343d40c2d5d63b04401d3e7ef19c5c.jpg?fit=crop&h=300&w=300",
       "price": "2.00",
-      "unit_size": 0.6,
+      "unit_size": 0.125,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "77322",
+      "name": "Alcohol de romero Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/b1135b4dd25fb2d5a225b519837ddb60.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.25,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "21853",
+      "name": "Tiras adhesivas protectoras infantiles Deliplus surtidas, elásticas y transpirables",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/25010b25c9448a15085f086768f320af.jpg?fit=crop&h=300&w=300",
+      "price": "1.30",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "79667",
+      "name": "Esparadrapo de papel adhesivo microporoso color blanco Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/773f16b80c9d08633008f7f4c13d7b00.jpg?fit=crop&h=300&w=300",
+      "price": "1.30",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "35734",
+      "name": "Tiras adhesivas protectoras de espuma acolchado Deliplus protección extra",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/38d6e92932ea5f75d5d782dc79cf1e64.jpg?fit=crop&h=300&w=300",
+      "price": "1.30",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "12779",
+      "name": "Tiras adhesivas protectoras de poliuretano Aqua Deliplus surtidas resistentes al agua",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/160a9b9a017acf1f044008290727bb57.jpg?fit=crop&h=300&w=300",
+      "price": "1.30",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "76480",
+      "name": "Bálsamo oriental efecto calor Deliplus con vitamina E",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/d9236de1293a18092058e5031387a70e.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.03,
       "size_format": "l",
       "packaging": null
     },
     {
-      "id": "21554",
-      "name": "Carrilladas de cerdo al vino",
-      "category": "Carne",
-      "subcategory": "Cerdo",
-      "photo": "https://prod-mercadona.imgix.net/images/a253662ae5bbd2c203b5302f61b43551.jpg?fit=crop&h=300&w=300",
-      "price": "8.90",
-      "unit_size": 0.7,
-      "size_format": "kg",
+      "id": "35735",
+      "name": "Apósitos hidrocoloides adhesivos para ampollas y rozaduras Deliplus surtidos",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/d8b9c0ac77bcb271190e2cfcf9f293aa.jpg?fit=crop&h=300&w=300",
+      "price": "4.30",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "79678",
+      "name": "Venda elástica cohesiva Deliplus fijación fuerte",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/8781445170fec768288c7e7e75bdea52.jpg?fit=crop&h=300&w=300",
+      "price": "2.10",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "22712",
+      "name": "Protectores para los oídos de espuma Moldex",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/ed880020917310258121bd0ebdd7874d.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "21404",
+      "name": "Lágrimas hidratantes para los ojos Deliplus con hialuronato sódico 0,2%",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/30bbe7133cf94cbf6dd7044061693acc.jpg?fit=crop&h=300&w=300",
+      "price": "5.40",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "52740",
+      "name": "Stick de árnica Cata Pum Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/8385ca3502cd60d049b3c5277ea994c2.jpg?fit=crop&h=300&w=300",
+      "price": "4.00",
+      "unit_size": 0.014,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "79506",
+      "name": "Gasas esterilizadas de algodón 100% hidrófilo Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/3385ce62bd7a37d6424b173f90ee0d74.jpg?fit=crop&h=300&w=300",
+      "price": "1.20",
+      "unit_size": 10.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "79438",
+      "name": "Spray desinfectante antiséptico transparente Deliplus contiene clorhexidina y digluconato 2%",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/6b4a2f16e927ec48553b340ea340aeb0.jpg?fit=crop&h=300&w=300",
+      "price": "1.85",
+      "unit_size": 0.05,
+      "size_format": "l",
+      "packaging": "Spray"
+    },
+    {
+      "id": "8945",
+      "name": "Mascarillas quirúrgicas Deliplus no reutilizables",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/765167f8170d057b524ba081bef25dce.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "17816",
-      "name": "Costilla de cerdo marinada congelada",
-      "category": "Congelados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/9e033ef4efdb012888ac63b0af1c5208.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 0.75,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "18160",
-      "name": "Mix frutas Pink Dragon Hacendado congelado",
-      "category": "Congelados",
-      "subcategory": "Fruta",
-      "photo": "https://prod-mercadona.imgix.net/images/d775e75295d6a5ccc35e42811f672663.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.45,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "69878",
-      "name": "Judía verde redonda",
-      "category": "Fruta y verdura",
-      "subcategory": "Otras verduras y hortalizas",
-      "photo": "https://prod-mercadona.imgix.net/images/c1071ba21363f4cb41267b5781591082.jpg?fit=crop&h=300&w=300",
-      "price": "3.20",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "17696",
-      "name": "Lavavajillas Todo en 1 Bosque Verde en pastillas",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpiavajilla a máquina",
-      "photo": "https://prod-mercadona.imgix.net/images/6dd73e1f2a98517f1b81ff548b1ebc5c.jpg?fit=crop&h=300&w=300",
-      "price": "3.75",
-      "unit_size": 0.3458,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "95730",
-      "name": "Vaselina perfumada para labios Deliplus frambuesa",
-      "category": "Maquillaje",
-      "subcategory": "Cuidado",
-      "photo": "https://prod-mercadona.imgix.net/images/1b8e86d03fae83d78ce00b7727867c85.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.015,
-      "size_format": "kg",
-      "packaging": "Tarro"
+      "id": "77441",
+      "name": "Preservativos sensitivo suave Durex",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Preservativos",
+      "photo": "https://prod-mercadona.imgix.net/images/6e56c256640c25db8f306767231fe3c0.jpg?fit=crop&h=300&w=300",
+      "price": "8.10",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
     }
   ],
-  "priceChangesCount": 54,
+  "priceChangesCount": 57,
   "priceChanges": [
     {
-      "id": "27203",
-      "name": "Agua de soda con sifón La Casa",
-      "oldPrice": "1.60",
-      "newPrice": "1.70"
+      "id": "8889",
+      "name": "Whisky escocés Grand Old Parr 12 años",
+      "oldPrice": "19.75",
+      "newPrice": "22.00"
     },
     {
-      "id": "60600",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "10.20",
-      "newPrice": "8.28"
+      "id": "2791",
+      "name": "Filetes pechuga de pollo certificado alimentado con un 50% de maíz",
+      "oldPrice": "4.80",
+      "newPrice": "5.00"
     },
     {
-      "id": "60980",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "0.85",
-      "newPrice": "0.72"
+      "id": "2137",
+      "name": "Flautas de pollo y queso",
+      "oldPrice": "2.20",
+      "newPrice": "2.30"
     },
     {
-      "id": "66413",
-      "name": "Cerveza Amstel",
-      "oldPrice": "6.36",
-      "newPrice": "4.92"
+      "id": "25461",
+      "name": "Jamoncitos de pollo certificado alimentado con un 50% de maíz",
+      "oldPrice": "4.33",
+      "newPrice": "3.99"
     },
     {
-      "id": "28969",
-      "name": "Cava brut Anna Codorníu",
-      "oldPrice": "9.95",
-      "newPrice": "8.00"
+      "id": "3791",
+      "name": "Alas partidas de pollo certificado alimentado con un 50% de maíz",
+      "oldPrice": "3.97",
+      "newPrice": "3.71"
     },
     {
-      "id": "10666",
-      "name": "Café con leche cappuccino Hacendado",
-      "oldPrice": "0.75",
-      "newPrice": "0.85"
+      "id": "2830",
+      "name": "Solomillos de pollo certificado alimentado con un 50% de maíz",
+      "oldPrice": "3.52",
+      "newPrice": "3.36"
     },
     {
-      "id": "10642",
-      "name": "Café con leche light sin lactosa Hacendado",
-      "oldPrice": "0.75",
-      "newPrice": "0.85"
+      "id": "25258",
+      "name": "Contramuslos deshuesados y sin piel de pollo certificado alimentado con un 50% de maíz",
+      "oldPrice": "4.50",
+      "newPrice": "4.90"
     },
     {
-      "id": "10644",
-      "name": "Café con leche espresso Hacendado",
-      "oldPrice": "0.75",
-      "newPrice": "0.85"
+      "id": "25182",
+      "name": "Cuartos traseros de pollo congelados",
+      "oldPrice": "5.70",
+      "newPrice": "6.00"
     },
     {
-      "id": "10672",
-      "name": "Café con leche descafeinado Hacendado",
-      "oldPrice": "0.75",
-      "newPrice": "0.85"
+      "id": "2169",
+      "name": "Flautas de bacón y queso",
+      "oldPrice": "2.20",
+      "newPrice": "2.30"
     },
     {
-      "id": "21892",
-      "name": "Guanciale Hacendado",
-      "oldPrice": "4.65",
-      "newPrice": "3.75"
+      "id": "2872",
+      "name": "Burger de vacuno y cerdo",
+      "oldPrice": "3.95",
+      "newPrice": "4.20"
+    },
+    {
+      "id": "86352",
+      "name": "Compresa normal Evax Cottonlike con alas",
+      "oldPrice": "4.50",
+      "newPrice": "4.35"
+    },
+    {
+      "id": "47554",
+      "name": "Protegeslip Flexiform Carefree Cotton feel regular + tanga",
+      "oldPrice": "2.05",
+      "newPrice": "1.90"
     },
     {
       "id": "3819",
       "name": "Plátano de Canarias IGP",
-      "oldPrice": "0.43",
-      "newPrice": "0.45"
+      "oldPrice": "0.45",
+      "newPrice": "0.43"
     },
     {
       "id": "3119",
       "name": "Pera Conferencia",
-      "oldPrice": "0.58",
-      "newPrice": "0.55"
+      "oldPrice": "0.55",
+      "newPrice": "0.58"
+    },
+    {
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "oldPrice": "0.40",
+      "newPrice": "0.42"
+    },
+    {
+      "id": "3021",
+      "name": "Manzana Granny Smith",
+      "oldPrice": "0.43",
+      "newPrice": "0.48"
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "oldPrice": "2.95",
+      "newPrice": "2.88"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "oldPrice": "4.45",
-      "newPrice": "4.41"
+      "oldPrice": "4.41",
+      "newPrice": "4.29"
+    },
+    {
+      "id": "3210",
+      "name": "Limón",
+      "oldPrice": "0.54",
+      "newPrice": "0.51"
     },
     {
       "id": "3238",
       "name": "Mandarina",
-      "oldPrice": "0.29",
-      "newPrice": "0.32"
+      "oldPrice": "0.32",
+      "newPrice": "0.34"
     },
     {
       "id": "3235",
       "name": "Naranja de mesa",
-      "oldPrice": "0.85",
-      "newPrice": "0.88"
+      "oldPrice": "0.88",
+      "newPrice": "0.90"
     },
     {
-      "id": "3830",
-      "name": "Aguacate",
-      "oldPrice": "1.60",
-      "newPrice": "1.65"
+      "id": "3202",
+      "name": "Pomelo",
+      "oldPrice": "1.16",
+      "newPrice": "1.19"
     },
     {
-      "id": "3050",
-      "name": "Mango",
-      "oldPrice": "1.22",
-      "newPrice": "1.13"
+      "id": "3076",
+      "name": "Piña",
+      "oldPrice": "4.46",
+      "newPrice": "4.36"
     },
     {
       "id": "3026",
       "name": "Papaya",
-      "oldPrice": "3.26",
-      "newPrice": "3.20"
+      "oldPrice": "3.20",
+      "newPrice": "3.15"
     },
     {
-      "id": "3601",
-      "name": "Ciruela roja",
-      "oldPrice": "0.53",
-      "newPrice": "0.49"
+      "id": "69239",
+      "name": "Batata",
+      "oldPrice": "1.12",
+      "newPrice": "1.15"
+    },
+    {
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "1.95",
+      "newPrice": "2.01"
+    },
+    {
+      "id": "60369",
+      "name": "Tomate ensalada",
+      "oldPrice": "0.50",
+      "newPrice": "0.53"
     },
     {
       "id": "69968",
       "name": "Tomate canario",
-      "oldPrice": "0.33",
-      "newPrice": "0.37"
+      "oldPrice": "0.37",
+      "newPrice": "0.40"
     },
     {
-      "id": "69310",
-      "name": "Pimiento rojo",
-      "oldPrice": "0.68",
-      "newPrice": "0.70"
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.49",
+      "newPrice": "1.46"
     },
     {
       "id": "69338",
       "name": "Calabacín verde",
-      "oldPrice": "0.76",
-      "newPrice": "0.80"
-    },
-    {
-      "id": "69220",
-      "name": "Coliflor",
-      "oldPrice": "2.95",
-      "newPrice": "2.93"
-    },
-    {
-      "id": "69580",
-      "name": "Brócoli",
-      "oldPrice": "1.11",
-      "newPrice": "1.13"
-    },
-    {
-      "id": "69326",
-      "name": "Berenjena",
-      "oldPrice": "0.81",
-      "newPrice": "0.86"
-    },
-    {
-      "id": "23053",
-      "name": "Bebida láctea sabor canela y limón Hacendado",
-      "oldPrice": "1.60",
-      "newPrice": "1.75"
-    },
-    {
-      "id": "49544",
-      "name": "Servilleta papel Bosque Verde",
-      "oldPrice": "1.15",
-      "newPrice": "1.20"
-    },
-    {
-      "id": "49710",
-      "name": "Servilleta papel decorada Resistente Bosque Verde",
-      "oldPrice": "2.05",
-      "newPrice": "2.15"
-    },
-    {
-      "id": "49701",
-      "name": "Servilleta papel Cocktail Bosque Verde",
-      "oldPrice": "2.10",
-      "newPrice": "2.20"
-    },
-    {
-      "id": "49619",
-      "name": "Papel hogar Compacto Absorbente Bosque Verde",
-      "oldPrice": "2.25",
-      "newPrice": "2.30"
+      "oldPrice": "0.80",
+      "newPrice": "0.82"
     }
   ]
 }
