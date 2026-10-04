@@ -1,520 +1,514 @@
 {
-  "lastSync": "2026-10-03T09:43:37.123170",
-  "totalProducts": 4216,
-  "newProductsCount": 117,
+  "lastSync": "2026-10-04T10:27:31.261723",
+  "totalProducts": 3648,
+  "newProductsCount": 65,
   "newProducts": [
     {
-      "id": "17791",
-      "name": "Pañales bebé talla 4 Deliplus de 10-15 kg",
-      "category": "Bebé",
-      "subcategory": "Pañal talla de 4 a XL",
-      "photo": "https://prod-mercadona.imgix.net/images/8a345fe834b45ecedea2b897a5551b11.jpg?fit=crop&h=300&w=300",
-      "price": "19.00",
-      "unit_size": 114.0,
+      "id": "8448",
+      "name": "Crema de pollo Hacendado con verduras",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/e7dd64a7791cb538c4d48e8a333cdbc8.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 0.5,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "7031",
+      "name": "Caldo de pollo Hacendado bajo en sal",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Caldo líquido",
+      "photo": "https://prod-mercadona.imgix.net/images/42add0a8d4db36dfc601f6150309664c.jpg?fit=crop&h=300&w=300",
+      "price": "1.20",
+      "unit_size": 1.0,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "67888",
+      "name": "Perfilador de labios Deliplus 07 cereza",
+      "category": "Maquillaje",
+      "subcategory": "Perfilador labios",
+      "photo": "https://prod-mercadona.imgix.net/images/a441c7ae50e28ac0f58c3edaf5c2af93.jpeg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 1.0,
       "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "13006",
-      "name": "Cacao soluble cero ColaCao",
-      "category": "Cacao, café e infusiones",
-      "subcategory": "Cacao soluble",
-      "photo": "https://prod-mercadona.imgix.net/images/5e9a93aaa2478a04653a66a1900e6d49.jpg?fit=crop&h=300&w=300",
-      "price": "5.40",
-      "unit_size": 0.325,
-      "size_format": "kg",
-      "packaging": "Bote"
-    },
-    {
-      "id": "60651",
-      "name": "Infusión fría Hacendado con sabor a piña y coco",
-      "category": "Cacao, café e infusiones",
-      "subcategory": "Infusiones",
-      "photo": "https://prod-mercadona.imgix.net/images/3e274f0833c3f8b832b9479783af1e45.jpg?fit=crop&h=300&w=300",
-      "price": "1.45",
-      "unit_size": 0.04,
-      "size_format": "kg",
-      "packaging": "Caja"
-    },
-    {
-      "id": "18499",
-      "name": "Caldo de pescado con bogavante Gourmet Gallina blanca",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Caldo líquido",
-      "photo": "https://prod-mercadona.imgix.net/images/7a0fc40cc47d1ea679eaf3e37136fed7.jpg?fit=crop&h=300&w=300",
-      "price": "1.95",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "7325",
-      "name": "Caldo de pescado Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Caldo líquido",
-      "photo": "https://prod-mercadona.imgix.net/images/449bcde120352282518671422bce0c82.jpg?fit=crop&h=300&w=300",
-      "price": "0.95",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "17770",
-      "name": "Discos ácido salicílico Deliplus Facial Clean purificantes y seborreguladores",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Limpieza de cara",
-      "photo": "https://prod-mercadona.imgix.net/images/02cbbb2a36d255cdd6c1627b797042cd.jpg?fit=crop&h=300&w=300",
+      "id": "17999",
+      "name": "Sombra de ojos mate Long Lasting Multi-Stick Deliplus 11 hueso",
+      "category": "Maquillaje",
+      "subcategory": "Sombra de ojos",
+      "photo": "https://prod-mercadona.imgix.net/images/73008935f7a2cb1b246e28b4a31a5536.jpg?fit=crop&h=300&w=300",
       "price": "4.00",
-      "unit_size": 50.0,
-      "size_format": "ud",
-      "packaging": "Bote"
-    },
-    {
-      "id": "22804",
-      "name": "Bálsamo reparador labios Deliplus",
-      "category": "Maquillaje",
-      "subcategory": "Cuidado",
-      "photo": "https://prod-mercadona.imgix.net/images/7817091b123d312c4687290f0d54a08e.jpg?fit=crop&h=300&w=300",
-      "price": "2.60",
-      "unit_size": 0.015,
-      "size_format": "l",
-      "packaging": "Tubo"
-    },
-    {
-      "id": "35539",
-      "name": "Perfilador de labios Long Lasting Deliplus 01 rosa nude",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/4dcda793dfeed0e0ef4d543141b3e69d.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
       "unit_size": 1.0,
       "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "35871",
-      "name": "Perfilador de labios Long Lasting Deliplus 06 fucsia",
+      "id": "18001",
+      "name": "Sombra de ojos mate Long Lasting Multi-Stick Deliplus 12 marrón",
       "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/d0415621cd1c2b6ae025f08f5ac7aae2.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
+      "subcategory": "Sombra de ojos",
+      "photo": "https://prod-mercadona.imgix.net/images/1be3d3e9d8e92e820ea15d198a637355.jpg?fit=crop&h=300&w=300",
+      "price": "4.00",
       "unit_size": 1.0,
       "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "35872",
-      "name": "Perfilador de labios Long Lasting Deliplus 07 rojo",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/9e621b9bdf4c29a0dbf8a89823b1ca57.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "68106",
+      "name": "Flan de vainilla con caramelo Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Flan",
+      "photo": "https://prod-mercadona.imgix.net/images/559b96b770ef6a73a19dc8aacf5d1a6d.jpg?fit=crop&h=300&w=300",
+      "price": "1.10",
+      "unit_size": 0.6,
+      "size_format": "kg",
+      "packaging": "Pack-6"
     },
     {
-      "id": "35873",
-      "name": "Perfilador de labios Long Lasting Deliplus 08 granate",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/4d2038c3ed40a2cb854aaee39617cb42.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "68204",
+      "name": "Flan de huevo Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Flan",
+      "photo": "https://prod-mercadona.imgix.net/images/4e579e9bc37d6ebb3f8406760770f297.jpg?fit=crop&h=300&w=300",
+      "price": "3.60",
+      "unit_size": 0.9,
+      "size_format": "kg",
+      "packaging": "Pack-9"
     },
     {
-      "id": "67713",
-      "name": "Perfilador de labios Long Lasting Deliplus 10 canela",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/e015d4799752abf1731e8d8fa7b0b040.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "68149",
+      "name": "Flan de huevo Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Flan",
+      "photo": "https://prod-mercadona.imgix.net/images/da868591f2d6f50f7e0bfec0b28940e7.jpg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Pack-4"
     },
     {
-      "id": "35876",
-      "name": "Perfilador de labios Long Lasting Deliplus 11 nude",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/17a67736904952ace727cffec5d61b8f.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "67633",
+      "name": "Flan de café Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Flan",
+      "photo": "https://prod-mercadona.imgix.net/images/fb0a6fdd7930117b3726dbabc954a8e0.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Pack-4"
     },
     {
-      "id": "14440",
-      "name": "Perfilador de labios Long Lasting Deliplus 15 canela claro",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/f76dfce3e6cfcd690387f4ba104d3836.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "80295",
-      "name": "Perfilador de labios Deliplus 02 marsala",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/7cf009c8bb468b601aa75722f7d0613b.jpeg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "22350",
-      "name": "Perfilador de labios Deliplus 06 canela",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/f0067848d655476f8ae07be733eb6ddc.jpeg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "35407",
-      "name": "Perfilador de labios Deliplus 08 rojo",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador labios",
-      "photo": "https://prod-mercadona.imgix.net/images/42ff9839349da2678e70b0447c53d27e.jpeg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "17979",
-      "name": "Bálsamo labial Color Balm Deliplus 301 perlado",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/a02018cfac2e031824c269a069a724be.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "17980",
-      "name": "Bálsamo labial Color Balm Deliplus 302 rosa",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/1cfe3b07108b436010f74d866f91d136.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "17981",
-      "name": "Bálsamo labial Color Balm Deliplus 303 nude beige",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/850a67a35edf94790089aa044b161ae1.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "17982",
-      "name": "Bálsamo labial Color Balm Deliplus 304 nude rosa",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/94903d44793a5baf91c9dacba167c22a.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "17983",
-      "name": "Bálsamo labial Color Balm Deliplus 305 rojo",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/08a223cb47512f7cdf24640c802351f4.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "17984",
-      "name": "Bálsamo labial Color Balm Deliplus 306 rosa perlado",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/7d633acb60f2cd188b6ff16611453760.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "22536",
-      "name": "Pintalabios Creamy Deliplus 210 rojo",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/f9122eec40d5b52571a04aaf2e588ec5.jpeg?fit=crop&h=300&w=300",
-      "price": "4.65",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "40055",
-      "name": "Pintalabios Creamy Deliplus 213 marsala",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/39271fcca019113dcbbc5849c9765abe.jpeg?fit=crop&h=300&w=300",
-      "price": "4.65",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "8299",
-      "name": "Pintalabios Creamy Deliplus 218 granate suave",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/07e57bf01dc2836b675c637103ddb04c.jpg?fit=crop&h=300&w=300",
-      "price": "4.65",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "35377",
-      "name": "Brillo de labios Volumizer gloss Deliplus 01 transparente",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/11568c09b981ee6d31f84e126f8b86cd.jpg?fit=crop&h=300&w=300",
-      "price": "5.00",
-      "unit_size": 0.004,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35381",
-      "name": "Brillo de labios Volumizer gloss Deliplus 05 rosa",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/4cc1c264f8c570951cf3f6f90b94c476.jpg?fit=crop&h=300&w=300",
-      "price": "5.00",
-      "unit_size": 0.004,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35383",
-      "name": "Brillo de labios Volumizer gloss Deliplus 07 transparente con destellos",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/2628cf59fa48491fac86b9674b5296e5.jpeg?fit=crop&h=300&w=300",
-      "price": "5.00",
-      "unit_size": 0.004,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "23541",
-      "name": "Pintalabios Mate Deliplus 102 caramelo",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios mate",
-      "photo": "https://prod-mercadona.imgix.net/images/e589b8b6c92bf9fd5339938c39147b6b.jpeg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 0.004,
+      "id": "68116",
+      "name": "Flan de queso Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Flan",
+      "photo": "https://prod-mercadona.imgix.net/images/df1806996518942539d72e4b20bcdc22.jpg?fit=crop&h=300&w=300",
+      "price": "2.15",
+      "unit_size": 0.4,
       "size_format": "kg",
       "packaging": null
+    },
+    {
+      "id": "68265",
+      "name": "Flan de huevo sin azúcares añadidos Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Flan",
+      "photo": "https://prod-mercadona.imgix.net/images/6b865525d7e816b80af329833b30b375.jpg?fit=crop&h=300&w=300",
+      "price": "1.90",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "67635",
+      "name": "Flan de huevo +Proteínas 10 g 0% MG 0% azúcares añadidos",
+      "category": "Postres y yogures",
+      "subcategory": "Flan",
+      "photo": "https://prod-mercadona.imgix.net/images/8e979f97f75f8d36758e7a19461227d4.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "68137",
+      "name": "Natillas sabor vainilla Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Natillas",
+      "photo": "https://prod-mercadona.imgix.net/images/2427c668b094177e9c8d0bfbd955f18e.jpg?fit=crop&h=300&w=300",
+      "price": "1.05",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "68266",
+      "name": "Natillas sabor vainilla con galleta Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Natillas",
+      "photo": "https://prod-mercadona.imgix.net/images/91b637de3f473e48be71cfee0693a3a3.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "68138",
+      "name": "Natillas de chocolate con leche Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Natillas",
+      "photo": "https://prod-mercadona.imgix.net/images/a5dc2eea8ad210c93cc2a831464d72ea.jpg?fit=crop&h=300&w=300",
+      "price": "1.05",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "86331",
+      "name": "Yogur líquido de fresa Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/5246df6b92d37bf788da3733179e8d3a.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 1.2,
+      "size_format": "kg",
+      "packaging": "Pack-12"
+    },
+    {
+      "id": "20613",
+      "name": "Bebida láctea de fresa y plátano Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/f046b855d2fb60c7fc6c10e9bf21b65a.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "20612",
+      "name": "Bebida láctea de fresa Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/7bcb8d7973ce2f6d56130351102a6b49.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "20629",
+      "name": "Bebida láctea de piña y coco Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/2a1b583c8a2b23c41cf04004b57dc19c.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "9982",
+      "name": "Bebida láctea de frutas del bosque Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/2958a31bef0535fa62335fb1e1213471.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "7878",
+      "name": "Yogur líquido natural Hacendado con azúcar de caña",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/b2f3d2bd1ac52ac87c90effa1d4926b4.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 1.2,
+      "size_format": "kg",
+      "packaging": "Pack-12"
+    },
+    {
+      "id": "15660",
+      "name": "Yogur líquido piña y coco Hacendado 0% MG 0% azúcares añadidos",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/041f59898296337aa8683c4d35b5f0d4.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "15661",
+      "name": "Yogur líquido frutos silvestres Hacendado 0% MG 0% azúcares añadidos",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/3a42f5d65b5f72e1c0a3409fb1d4b757.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "9981",
+      "name": "Bebida láctea natural azucarada Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/8761b9c14379e95faf67971a4d59eed4.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "21333",
+      "name": "Bebida láctea sabor fresa +Proteínas 20 g 0% MG",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/01f55b13a295194d7f5a18210fece2ec.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "86418",
+      "name": "Batido lácteo sabor chocolate +Proteínas 30 g",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/fd52db5d2656b0f63b0ad7ba075cd614.jpg?fit=crop&h=300&w=300",
+      "price": "1.30",
+      "unit_size": 0.33,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "86419",
+      "name": "Batido lácteo sabor vainilla +Proteínas 30 g",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/442ae61addfecdf91e59ab0f0580105b.jpg?fit=crop&h=300&w=300",
+      "price": "1.30",
+      "unit_size": 0.33,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "21378",
+      "name": "Bebida láctea sabor tropical +Proteínas 20 g 0% MG",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/cd86b146682cd7e39874df8186f21e39.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "35847",
+      "name": "Bebida láctea sabor açaí plátano +Proteínas 20 g 0% MG",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/4bd29ee23f79f130f0726341cbbba952.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Botella"
+    },
+    {
+      "id": "12753",
+      "name": "Bebida láctea sabor fresa y plátano +Proteínas 17,4 g 0% MG 0% azúcares añadidos",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures líquidos",
+      "photo": "https://prod-mercadona.imgix.net/images/4a84b1a833d1cefcc9370344faca4d12.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Botella"
     }
   ],
-  "priceChangesCount": 45,
+  "priceChangesCount": 29,
   "priceChanges": [
-    {
-      "id": "28715",
-      "name": "Ginebra London Dry Gin Larios",
-      "oldPrice": "12.20",
-      "newPrice": "10.95"
-    },
-    {
-      "id": "11715",
-      "name": "Café molido Colombia Hacendado",
-      "oldPrice": "3.70",
-      "newPrice": "3.60"
-    },
-    {
-      "id": "14798",
-      "name": "Café en grano Colombia Hacendado",
-      "oldPrice": "7.00",
-      "newPrice": "6.90"
-    },
-    {
-      "id": "17670",
-      "name": "Café en grano Brasil Hacendado",
-      "oldPrice": "7.00",
-      "newPrice": "6.90"
-    },
-    {
-      "id": "3132",
-      "name": "Plátano macho",
-      "oldPrice": "0.84",
-      "newPrice": "0.87"
-    },
-    {
-      "id": "3119",
-      "name": "Pera Conferencia",
-      "oldPrice": "0.61",
-      "newPrice": "0.58"
-    },
-    {
-      "id": "8177",
-      "name": "Manzana roja dulce",
-      "oldPrice": "0.40",
-      "newPrice": "0.38"
-    },
-    {
-      "id": "3172",
-      "name": "Pera Limonera",
-      "oldPrice": "0.64",
-      "newPrice": "0.56"
-    },
-    {
-      "id": "3238",
-      "name": "Mandarina",
-      "oldPrice": "0.29",
-      "newPrice": "0.32"
-    },
-    {
-      "id": "3076",
-      "name": "Piña",
-      "oldPrice": "4.18",
-      "newPrice": "4.26"
-    },
-    {
-      "id": "69239",
-      "name": "Batata",
-      "oldPrice": "1.12",
-      "newPrice": "1.10"
-    },
     {
       "id": "69173",
       "name": "Yuca",
-      "oldPrice": "2.41",
-      "newPrice": "2.08"
+      "oldPrice": "2.08",
+      "newPrice": "2.11"
     },
     {
-      "id": "69912",
-      "name": "Tomate pera",
-      "oldPrice": "0.28",
-      "newPrice": "0.26"
+      "id": "69968",
+      "name": "Tomate canario",
+      "oldPrice": "0.37",
+      "newPrice": "0.33"
+    },
+    {
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.42",
+      "newPrice": "1.39"
     },
     {
       "id": "69310",
       "name": "Pimiento rojo",
-      "oldPrice": "0.81",
-      "newPrice": "0.78"
+      "oldPrice": "0.78",
+      "newPrice": "0.81"
     },
     {
-      "id": "69580",
-      "name": "Brócoli",
-      "oldPrice": "1.16",
-      "newPrice": "1.22"
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.90",
+      "newPrice": "2.88"
     },
     {
       "id": "69326",
       "name": "Berenjena",
+      "oldPrice": "0.86",
+      "newPrice": "0.88"
+    },
+    {
+      "id": "69347",
+      "name": "Berenjena rayada",
       "oldPrice": "0.88",
-      "newPrice": "0.86"
+      "newPrice": "0.85"
     },
     {
       "id": "69038",
       "name": "Nabicol",
-      "oldPrice": "0.87",
-      "newPrice": "0.90"
-    },
-    {
-      "id": "81649.1",
-      "name": "Salmón a rodajas",
-      "oldPrice": "26.87",
-      "newPrice": "27.46"
-    },
-    {
-      "id": "81649.4",
-      "name": "Salmón media pieza a rodajas",
-      "oldPrice": "13.43",
-      "newPrice": "13.23"
-    },
-    {
-      "id": "81649.2",
-      "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "26.87",
-      "newPrice": "27.46"
-    },
-    {
-      "id": "81649.5",
-      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "13.43",
-      "newPrice": "13.23"
-    },
-    {
-      "id": "81649.3",
-      "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "26.87",
-      "newPrice": "27.46"
-    },
-    {
-      "id": "81649.6",
-      "name": "Salmón media pieza sin aletas y sin escamas",
-      "oldPrice": "13.43",
-      "newPrice": "13.23"
+      "oldPrice": "0.90",
+      "newPrice": "0.93"
     },
     {
       "id": "81234.1",
       "name": "Dorada limpia con cabeza",
-      "oldPrice": "4.56",
-      "newPrice": "4.75"
+      "oldPrice": "4.75",
+      "newPrice": "4.94"
     },
     {
       "id": "81234.2",
       "name": "Dorada abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "4.56",
-      "newPrice": "4.75"
+      "oldPrice": "4.75",
+      "newPrice": "4.94"
     },
     {
       "id": "81234.5",
       "name": "Dorada a filetes sin cabeza y sin espina",
-      "oldPrice": "4.56",
-      "newPrice": "4.75"
+      "oldPrice": "4.75",
+      "newPrice": "4.94"
     },
     {
       "id": "81234.4",
       "name": "Dorada abierta en libro sin cabeza y sin espina",
-      "oldPrice": "4.56",
-      "newPrice": "4.75"
+      "oldPrice": "4.75",
+      "newPrice": "4.94"
     },
     {
       "id": "81234.3",
       "name": "Dorada sin limpiar",
-      "oldPrice": "4.56",
-      "newPrice": "4.75"
+      "oldPrice": "4.75",
+      "newPrice": "4.94"
     },
     {
       "id": "81241.1",
       "name": "Lubina limpia con cabeza",
-      "oldPrice": "3.88",
-      "newPrice": "4.28"
+      "oldPrice": "4.28",
+      "newPrice": "4.38"
     },
     {
       "id": "81241.2",
       "name": "Lubina abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "3.88",
-      "newPrice": "4.28"
+      "oldPrice": "4.28",
+      "newPrice": "4.38"
+    },
+    {
+      "id": "81241.5",
+      "name": "Lubina a filetes sin cabeza y sin espina",
+      "oldPrice": "4.28",
+      "newPrice": "4.38"
+    },
+    {
+      "id": "81241.4",
+      "name": "Lubina abierta en libro sin cabeza y sin espina",
+      "oldPrice": "4.28",
+      "newPrice": "4.38"
+    },
+    {
+      "id": "81241.3",
+      "name": "Lubina sin limpiar",
+      "oldPrice": "4.28",
+      "newPrice": "4.38"
+    },
+    {
+      "id": "81204.1",
+      "name": "Bacalao a rodajas",
+      "oldPrice": "28.69",
+      "newPrice": "29.24"
+    },
+    {
+      "id": "81204.3",
+      "name": "Bacalao media pieza a rodajas",
+      "oldPrice": "15.11",
+      "newPrice": "15.22"
+    },
+    {
+      "id": "81204.2",
+      "name": "Bacalao abierto en libro sin cabeza y sin espina",
+      "oldPrice": "28.69",
+      "newPrice": "29.24"
+    },
+    {
+      "id": "81204.4",
+      "name": "Bacalao media pieza abierto en libro sin cabeza y sin espina",
+      "oldPrice": "15.11",
+      "newPrice": "15.22"
+    },
+    {
+      "id": "81055.1",
+      "name": "Corvina limpia con cabeza",
+      "oldPrice": "14.26",
+      "newPrice": "12.42"
+    },
+    {
+      "id": "81055.2",
+      "name": "Corvina abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "14.26",
+      "newPrice": "12.42"
+    },
+    {
+      "id": "81055.3",
+      "name": "Corvina a filetes",
+      "oldPrice": "14.26",
+      "newPrice": "12.42"
+    },
+    {
+      "id": "81704",
+      "name": "Sepia limpia",
+      "oldPrice": "10.76",
+      "newPrice": "10.91"
+    },
+    {
+      "id": "81200.1",
+      "name": "Trucha abierta en libro con cabeza",
+      "oldPrice": "9.58",
+      "newPrice": "9.31"
+    },
+    {
+      "id": "81200.2",
+      "name": "Trucha abierta en libro sin cabeza y sin espina",
+      "oldPrice": "9.58",
+      "newPrice": "9.31"
+    },
+    {
+      "id": "81200.3",
+      "name": "Trucha sin aletas",
+      "oldPrice": "9.58",
+      "newPrice": "9.31"
     }
   ]
 }
