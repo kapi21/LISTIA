@@ -1,478 +1,267 @@
 {
-  "lastSync": "2026-10-05T11:15:09.140295",
-  "totalProducts": 4322,
-  "newProductsCount": 680,
+  "lastSync": "2026-10-06T11:04:53.566569",
+  "totalProducts": 4063,
+  "newProductsCount": 7,
   "newProducts": [
     {
-      "id": "14727",
-      "name": "Aceite de oliva virgen extra Hacendado",
-      "category": "Aceite, especias y salsas",
-      "subcategory": "Aceite de oliva",
-      "photo": "https://prod-mercadona.imgix.net/images/50bf05160abdd828fa4a6f9db898b50a.jpg?fit=crop&h=300&w=300",
-      "price": "19.00",
-      "unit_size": 5.0,
+      "id": "13297",
+      "name": "Pañales bebé talla 3 Deliplus de 5-10 kg",
+      "category": "Bebé",
+      "subcategory": "Pañal talla de 0 a 3",
+      "photo": "https://prod-mercadona.imgix.net/images/91bfd8c09d1b59ee9493991a18748000.jpg?fit=crop&h=300&w=300",
+      "price": "6.95",
+      "unit_size": 45.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "12786",
+      "name": "Solomillo de cerdo adobado",
+      "category": "Carne",
+      "subcategory": "Cerdo",
+      "photo": "https://prod-mercadona.imgix.net/images/5f5696493840ee0ef7102e25e067c52e.jpg?fit=crop&h=300&w=300",
+      "price": "4.55",
+      "unit_size": 0.66,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "45483",
+      "name": "Desodorante en crema original Dove antitranspirante",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Desodorante roll on y stick",
+      "photo": "https://prod-mercadona.imgix.net/images/2e635b03de56925f0d568dded3e89c6a.jpeg?fit=crop&h=300&w=300",
+      "price": "2.55",
+      "unit_size": 0.05,
       "size_format": "l",
-      "packaging": "Garrafa"
+      "packaging": null
     },
     {
-      "id": "9430",
-      "name": "Quinoa Hacendado",
-      "category": "Arroz, legumbres y pasta",
-      "subcategory": "Arroz",
-      "photo": "https://prod-mercadona.imgix.net/images/5f96e6f16b3a5d30f2fd7135e3d1f74e.jpg?fit=crop&h=300&w=300",
-      "price": "2.65",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Paquete"
+      "id": "52996",
+      "name": "Spray repelente fuerte Deliplus antimosquitos",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/ec1b65044fd5a88a834b09b41f7f6339.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 0.1,
+      "size_format": "l",
+      "packaging": "Spray"
     },
     {
-      "id": "59078",
-      "name": "Sticks longaniza extra Hacendado",
-      "category": "Charcutería y quesos",
-      "subcategory": "Salchichón",
-      "photo": "https://prod-mercadona.imgix.net/images/045933b7238ece7f9e1a3ce781526df6.jpeg?fit=crop&h=300&w=300",
-      "price": "1.10",
-      "unit_size": 0.05,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17798",
-      "name": "Jamón de cebo ibérico 50% raza ibérica La Hacienda del Ibérico lonchas",
-      "category": "Charcutería y quesos",
-      "subcategory": "Jamón serrano",
-      "photo": "https://prod-mercadona.imgix.net/images/d38a7543650a2ad490363c999ce73574.jpg?fit=crop&h=300&w=300",
-      "price": "2.40",
-      "unit_size": 0.05,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "19966",
-      "name": "Paleta de cerdo curada Incarlopsa",
-      "category": "Charcutería y quesos",
-      "subcategory": "Jamón serrano",
-      "photo": "https://prod-mercadona.imgix.net/images/59521cd2b7bc79c720a50b0990ee5eb4.jpeg?fit=crop&h=300&w=300",
-      "price": "30.00",
-      "unit_size": 4.0,
+      "id": "69937",
+      "name": "Tomate ensalada",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/ccb2b42ba2bb6a7b692dac6101074709.jpg?fit=crop&h=300&w=300",
+      "price": "0.46",
+      "unit_size": 0.21,
       "size_format": "kg",
       "packaging": "Pieza"
     },
     {
-      "id": "17583",
-      "name": "Laca de uñas alto brillo Deliplus 155 burdeos",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/a7ff162bde2066acbe554849a5dae0a6.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "17584",
-      "name": "Laca de uñas alto brillo Deliplus 156 chocolate medio",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/0ace8c73f9b4d5042d8d4f7e884b695e.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "17586",
-      "name": "Laca de uñas alto brillo Deliplus 158 tierra claro",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/3742eefe01230858ef1381a57101ad71.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42222",
-      "name": "Tratamiento para uñas base 9 en 1 Deliplus vitaminada y alisadora",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/8e5d8aeb2d78dc580188372dd0f9e901.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35287",
-      "name": "Tratamiento para uñas endurecedor Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/7b433a9d3ce5f77061e2f5a97674c95b.jpeg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42286",
-      "name": "Tratamiento para uñas gel brillo top coat Deliplus secado rápido",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/6f8bbf3971ef1d77b2492e5a2291fd8a.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "21860",
-      "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/30b23b2a07e37901138248c353c7e283.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "41692",
-      "name": "Laca de uñas manicura francesa Deliplus 01 blanco punta",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/436fbaa351fe2e256d96bad1c35c7cc4.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "41685",
-      "name": "Laca de uñas manicura francesa Deliplus 03 rosa",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/eb63799585eee450877572d68b726fba.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "23021",
-      "name": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/0db4702442230ded318a82c9a2caec6b.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35289",
-      "name": "Tratamiento para uñas y cutículas Sérum SOS Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/d4c7bc2d759548f519e9ae38d11b2695.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35538",
-      "name": "Laca de uñas base brillo Deliplus 67",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/beccd559ee17da74978c5808c870409d.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42293",
-      "name": "Laca de uñas alto brillo Deliplus 15 perla rosada",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/68ea69cfcb6a6aef5810aca498113c3e.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42294",
-      "name": "Laca de uñas alto brillo Deliplus 18 suave peonia",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/efacf64c33e2d66ed7f9e827423f583e.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42295",
-      "name": "Laca de uñas alto brillo Deliplus 20 rosa magnético",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/372971566de770e5b7263ea76a8173b7.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42296",
-      "name": "Laca de uñas alto brillo Deliplus 22 granate sublime",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/af95424e76c5dad4db0e872bcad66574.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42298",
-      "name": "Laca de uñas alto brillo Deliplus 31 negro místico",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/6f28ba57a5e3e161703ac5aa09ea1e77.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42321",
-      "name": "Laca de uñas alto brillo Deliplus 39 dulce fresa",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/8ed41fd16fc77a05ee68f3558e5cdb3b.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "52838",
-      "name": "Laca de uñas alto brillo Deliplus 76 rosa medio",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/2c88f5ac5521f7073d5460dd001f0e5d.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "79631",
-      "name": "Quitaesmalte con acetona Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Cuidado de uñas y complementos",
-      "photo": "https://prod-mercadona.imgix.net/images/e9852ed93d16865af9b9a3577837d305.jpg?fit=crop&h=300&w=300",
-      "price": "1.15",
-      "unit_size": 0.2,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "79633",
-      "name": "Quitaesmalte acetona pura Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Cuidado de uñas y complementos",
-      "photo": "https://prod-mercadona.imgix.net/images/a247a033a6f33be71213ec69fe739007.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.2,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "35402",
-      "name": "Tijera uñas Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Cuidado de uñas y complementos",
-      "photo": "https://prod-mercadona.imgix.net/images/80c0d64a42a71eade0e54694f764202d.jpeg?fit=crop&h=300&w=300",
-      "price": "4.20",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "22528",
-      "name": "Corta cutículas Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Cuidado de uñas y complementos",
-      "photo": "https://prod-mercadona.imgix.net/images/570d3064ff972a2f6f7337b0142a9fd0.jpg?fit=crop&h=300&w=300",
+      "id": "21970",
+      "name": "Snack gato aperitivo líquido Compy",
+      "category": "Mascotas",
+      "subcategory": "Snacks",
+      "photo": "https://prod-mercadona.imgix.net/images/91e9ccafdbfb2636d2c1d497bd290eb4.jpg?fit=crop&h=300&w=300",
       "price": "2.10",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
+      "unit_size": 0.18,
+      "size_format": "kg",
+      "packaging": "Caja"
     },
     {
-      "id": "15637",
-      "name": "Cepillo de uñas Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Cuidado de uñas y complementos",
-      "photo": "https://prod-mercadona.imgix.net/images/f34ed483cc19fcce96886e5efab10baf.jpg?fit=crop&h=300&w=300",
-      "price": "1.90",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "78070",
-      "name": "Taco pulidor de uñas manos Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Cuidado de uñas y complementos",
-      "photo": "https://prod-mercadona.imgix.net/images/c986d9a88ce0a15bb7cc1d83518d67d0.jpg?fit=crop&h=300&w=300",
-      "price": "1.90",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "18158",
+      "name": "Bollo bañado de chocolate y huevo con disquitos",
+      "category": "Panadería y pastelería",
+      "subcategory": "Bollería dulce",
+      "photo": "https://prod-mercadona.imgix.net/images/30c633fb0366095acda3eb8c4bfd55f1.jpg?fit=crop&h=300&w=300",
+      "price": "2.25",
+      "unit_size": 0.16,
+      "size_format": "kg",
+      "packaging": "Bandeja"
     }
   ],
-  "priceChangesCount": 23,
+  "priceChangesCount": 51,
   "priceChanges": [
     {
-      "id": "35602",
-      "name": "Papilla 8 cereales con galleta María Nestlé +6 meses",
-      "oldPrice": "4.95",
-      "newPrice": "5.75"
+      "id": "4717",
+      "name": "Aceite de oliva virgen extra Hacendado",
+      "oldPrice": "12.80",
+      "newPrice": "12.15"
     },
     {
-      "id": "35601",
-      "name": "Papilla 8 cereales con miel Nestlé +6 meses",
-      "oldPrice": "4.95",
-      "newPrice": "5.75"
+      "id": "4740",
+      "name": "Aceite de oliva virgen extra Hacendado",
+      "oldPrice": "4.45",
+      "newPrice": "4.35"
     },
     {
-      "id": "9826",
-      "name": "Cerveza especial Mahou",
-      "oldPrice": "6.70",
-      "newPrice": "8.40"
+      "id": "86145",
+      "name": "Patatas fritas onduladas sabor jamón serrano Hacendado",
+      "oldPrice": "1.20",
+      "newPrice": "1.25"
     },
     {
-      "id": "86046",
-      "name": "Cerveza Amstel",
-      "oldPrice": "7.74",
-      "newPrice": "9.54"
-    },
-    {
-      "id": "28069",
-      "name": "Cerveza Amstel",
-      "oldPrice": "1.29",
-      "newPrice": "1.59"
-    },
-    {
-      "id": "67154",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "6.84",
-      "newPrice": "8.04"
-    },
-    {
-      "id": "60748",
-      "name": "Tinto de verano zero limón Casón Histórico",
-      "oldPrice": "0.95",
+      "id": "15589",
+      "name": "Patatas fritas onduladas Hacendado",
+      "oldPrice": "1.10",
       "newPrice": "1.15"
     },
     {
-      "id": "67818",
-      "name": "Tinto de verano limón Casón Histórico",
-      "oldPrice": "0.95",
-      "newPrice": "1.15"
+      "id": "8244",
+      "name": "Patatas fritas sabor sal y vinagre Hacendado",
+      "oldPrice": "1.20",
+      "newPrice": "1.25"
     },
     {
-      "id": "30006",
-      "name": "Pechugas de pollo enteras congeladas",
-      "oldPrice": "6.96",
-      "newPrice": "7.32"
+      "id": "8243",
+      "name": "Patatas fritas sabor chili y lima Hacendado",
+      "oldPrice": "1.20",
+      "newPrice": "1.25"
     },
     {
-      "id": "6043",
-      "name": "Longaniza fresca sin tripa",
-      "oldPrice": "3.15",
-      "newPrice": "3.00"
+      "id": "8246",
+      "name": "Patatas fritas sabor limón y pimienta Hacendado",
+      "oldPrice": "1.20",
+      "newPrice": "1.25"
     },
     {
-      "id": "2864",
-      "name": "Chistorra",
-      "oldPrice": "1.40",
-      "newPrice": "1.35"
+      "id": "13069",
+      "name": "Patatas fritas onduladas sabor queso de cabra y cebolla caramelizada Hacendado",
+      "oldPrice": "1.20",
+      "newPrice": "1.25"
     },
     {
-      "id": "9445",
-      "name": "Barritas con proteínas sabor coco y chocolate Enervit Sport",
-      "oldPrice": "2.95",
-      "newPrice": "3.60"
+      "id": "19975",
+      "name": "Patatas fritas onduladas sabor campestre Hacendado",
+      "oldPrice": "1.20",
+      "newPrice": "1.25"
     },
     {
-      "id": "14713",
-      "name": "Barritas de avena y chocolate negro Crunchy Nature Valley",
-      "oldPrice": "1.95",
-      "newPrice": "2.60"
+      "id": "66026",
+      "name": "Cerveza especial San Miguel",
+      "oldPrice": "5.40",
+      "newPrice": "6.96"
     },
     {
-      "id": "62048",
-      "name": "Preparado de paella y sopa Hacendado ultracongelado",
-      "oldPrice": "4.25",
-      "newPrice": "4.50"
+      "id": "27103",
+      "name": "Cerveza especial San Miguel",
+      "oldPrice": "0.50",
+      "newPrice": "0.74"
     },
     {
-      "id": "21567",
-      "name": "Mascarilla facial stick Facial Clean detox & iluminador",
-      "oldPrice": "3.50",
-      "newPrice": "3.00"
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "oldPrice": "0.40",
+      "newPrice": "0.38"
     },
     {
-      "id": "69877",
-      "name": "Palitos de zanahoria",
-      "oldPrice": "2.10",
-      "newPrice": "2.25"
+      "id": "8175",
+      "name": "Manzana roja acidulce",
+      "oldPrice": "0.65",
+      "newPrice": "0.62"
     },
     {
-      "id": "10505",
-      "name": "Leche semidesnatada Asturiana",
-      "oldPrice": "10.74",
-      "newPrice": "10.02"
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "oldPrice": "2.86",
+      "newPrice": "4.00"
     },
     {
-      "id": "10502",
-      "name": "Leche semidesnatada Asturiana",
-      "oldPrice": "1.79",
-      "newPrice": "1.67"
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "oldPrice": "4.19",
+      "newPrice": "6.73"
     },
     {
-      "id": "10516",
-      "name": "Leche desnatada Asturiana",
-      "oldPrice": "10.38",
-      "newPrice": "9.72"
+      "id": "3235",
+      "name": "Naranja de mesa",
+      "oldPrice": "0.88",
+      "newPrice": "0.85"
     },
     {
-      "id": "10599",
-      "name": "Leche desnatada Asturiana",
-      "oldPrice": "1.73",
-      "newPrice": "1.62"
+      "id": "3076",
+      "name": "Piña",
+      "oldPrice": "4.06",
+      "newPrice": "4.08"
     },
     {
-      "id": "10504",
-      "name": "Leche entera Asturiana",
-      "oldPrice": "11.82",
-      "newPrice": "11.34"
+      "id": "3050",
+      "name": "Mango",
+      "oldPrice": "1.11",
+      "newPrice": "1.05"
     },
     {
-      "id": "10506",
-      "name": "Leche entera Asturiana",
-      "oldPrice": "1.97",
-      "newPrice": "1.89"
+      "id": "69239",
+      "name": "Batata",
+      "oldPrice": "1.10",
+      "newPrice": "1.07"
     },
     {
-      "id": "10362",
-      "name": "Fruta + leche tropical Bifrutas",
-      "oldPrice": "2.19",
-      "newPrice": "2.00"
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.11",
+      "newPrice": "2.01"
+    },
+    {
+      "id": "69968",
+      "name": "Tomate canario",
+      "oldPrice": "0.33",
+      "newPrice": "0.31"
+    },
+    {
+      "id": "69912",
+      "name": "Tomate pera",
+      "oldPrice": "0.26",
+      "newPrice": "0.29"
+    },
+    {
+      "id": "69975",
+      "name": "Tomates pera",
+      "oldPrice": "2.21",
+      "newPrice": "2.42"
+    },
+    {
+      "id": "69584",
+      "name": "Pepino",
+      "oldPrice": "0.34",
+      "newPrice": "0.36"
+    },
+    {
+      "id": "69338",
+      "name": "Calabacín verde",
+      "oldPrice": "0.82",
+      "newPrice": "0.80"
+    },
+    {
+      "id": "69339",
+      "name": "Calabacín blanco",
+      "oldPrice": "0.86",
+      "newPrice": "0.88"
+    },
+    {
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.88",
+      "newPrice": "2.90"
+    },
+    {
+      "id": "69580",
+      "name": "Brócoli",
+      "oldPrice": "1.22",
+      "newPrice": "1.27"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.88",
+      "newPrice": "0.84"
+    },
+    {
+      "id": "69347",
+      "name": "Berenjena rayada",
+      "oldPrice": "0.85",
+      "newPrice": "0.83"
     }
   ]
 }
