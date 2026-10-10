@@ -1,520 +1,520 @@
 {
-  "lastSync": "2026-10-09T11:10:38.704450",
-  "totalProducts": 4274,
-  "newProductsCount": 132,
+  "lastSync": "2026-10-10T10:27:59.812371",
+  "totalProducts": 4214,
+  "newProductsCount": 51,
   "newProducts": [
     {
-      "id": "18097",
-      "name": "Refresco sin gas Tropical Hacendado sin azúcares añadidos",
-      "category": "Agua y refrescos",
-      "subcategory": "Otros refrescos sin gas",
-      "photo": "https://prod-mercadona.imgix.net/images/a3005d49cd4645c1c62609781a35c3c3.jpg?fit=crop&h=300&w=300",
-      "price": "1.20",
-      "unit_size": 1.5,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "5940",
-      "name": "Castañas",
-      "category": "Aperitivos",
-      "subcategory": "Frutos secos",
-      "photo": "https://prod-mercadona.imgix.net/images/8bd8814de5f099ca01d1f7faa18ae912.jpg?fit=crop&h=300&w=300",
-      "price": "3.75",
+      "id": "9430",
+      "name": "Quinoa Hacendado",
+      "category": "Arroz, legumbres y pasta",
+      "subcategory": "Arroz",
+      "photo": "https://prod-mercadona.imgix.net/images/5f96e6f16b3a5d30f2fd7135e3d1f74e.jpg?fit=crop&h=300&w=300",
+      "price": "2.65",
       "unit_size": 0.5,
       "size_format": "kg",
-      "packaging": "Malla"
+      "packaging": "Paquete"
     },
     {
-      "id": "65177",
-      "name": "Chicles gragea jengibre sin azúcar Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Chicles",
-      "photo": "https://prod-mercadona.imgix.net/images/b58612dd228ef47f35d19a57f53d6cf4.jpg?fit=crop&h=300&w=300",
+      "id": "13499",
+      "name": "Crema de calabaza Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/bac2668c48c9709038fd8723a17488c9.jpg?fit=crop&h=300&w=300",
       "price": "1.00",
-      "unit_size": 0.045,
-      "size_format": "kg",
-      "packaging": "Paquete"
+      "unit_size": 0.5,
+      "size_format": "l",
+      "packaging": "Brik"
     },
     {
-      "id": "22428",
-      "name": "Lomo cerdo 98% Florencia La Carloteña asado al horno lonchas",
-      "category": "Charcutería y quesos",
-      "subcategory": "Pavo y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/16c7553bbc44af9bd8f3d9072a813528.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.125,
-      "size_format": "kg",
-      "packaging": "Paquete"
+      "id": "18256",
+      "name": "Eau de parfum mujer Éclant My Soul",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Perfume y colonia mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/cc4e5a36bbc2c5035297f2603c298c09.jpg?fit=crop&h=300&w=300",
+      "price": "12.00",
+      "unit_size": 0.1,
+      "size_format": "l",
+      "packaging": "Frasco"
     },
     {
-      "id": "18418",
-      "name": "Bálsamo reparador SOS nariz & labios Deliplus",
+      "id": "68037",
+      "name": "Hierbabuena",
+      "category": "Fruta y verdura",
+      "subcategory": "Hierbas aromáticas",
+      "photo": "https://prod-mercadona.imgix.net/images/fd5374ed7e477b77515aefb01391a088.jpg?fit=crop&h=300&w=300",
+      "price": "1.35",
+      "unit_size": 0.04,
+      "size_format": "kg",
+      "packaging": "Manojo"
+    },
+    {
+      "id": "12819",
+      "name": "Colorete fluido Blush mate Deliplus 01 rosa amarronado",
       "category": "Maquillaje",
-      "subcategory": "Cuidado",
-      "photo": "https://prod-mercadona.imgix.net/images/95a69a845c18227811fb334fad37a3f2.jpg?fit=crop&h=300&w=300",
-      "price": "2.60",
-      "unit_size": 0.014,
-      "size_format": "kg",
-      "packaging": "Tarro"
+      "subcategory": "Colorete",
+      "photo": "https://prod-mercadona.imgix.net/images/a5737208a20e4ace5c47b1e315b0e959.jpg?fit=crop&h=300&w=300",
+      "price": "4.75",
+      "unit_size": 0.012,
+      "size_format": "l",
+      "packaging": null
     },
     {
-      "id": "17698",
-      "name": "Magdalenas con azúcar",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/286c8a2b17f2154e786e89a696838c7a.jpg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 0.39,
-      "size_format": "kg",
-      "packaging": "Bolsa"
-    },
-    {
-      "id": "17700",
-      "name": "Magdalenas con pepitas de chocolate",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/dda8ce0bcfddfd7e415280be71350f30.jpg?fit=crop&h=300&w=300",
-      "price": "3.10",
-      "unit_size": 0.39,
-      "size_format": "kg",
-      "packaging": "Bolsa"
-    },
-    {
-      "id": "18158",
-      "name": "Bollo bañado de chocolate y huevo con disquitos",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/30c633fb0366095acda3eb8c4bfd55f1.jpg?fit=crop&h=300&w=300",
-      "price": "2.25",
-      "unit_size": 0.16,
+      "id": "4488",
+      "name": "Lasaña boloñesa familiar Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Pasta",
+      "photo": "https://prod-mercadona.imgix.net/images/5ce44300c7eb0b957d6f621704622aab.jpg?fit=crop&h=300&w=300",
+      "price": "4.70",
+      "unit_size": 0.7,
       "size_format": "kg",
       "packaging": "Bandeja"
     },
     {
-      "id": "24583",
-      "name": "Croissant relleno de cacao",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/4dbc41804c5ee70818107779f949c272.jpg?fit=crop&h=300&w=300",
-      "price": "1.35",
-      "unit_size": 0.105,
+      "id": "4487",
+      "name": "Lasaña boloñesa Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Pasta",
+      "photo": "https://prod-mercadona.imgix.net/images/30ad411832645d054ed2e83428790881.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.35,
       "size_format": "kg",
-      "packaging": "Pieza"
+      "packaging": "Bandeja"
     },
     {
-      "id": "84692",
-      "name": "Croissant de mantequilla",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/e3db82c4bd5fc7b2e956d3e76b1e8c62.jpg?fit=crop&h=300&w=300",
-      "price": "0.55",
-      "unit_size": 0.05,
+      "id": "4491",
+      "name": "Lasaña de espinacas y requesón Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Pasta",
+      "photo": "https://prod-mercadona.imgix.net/images/46eb1de56c250372c7ac5661a1c553ce.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.35,
       "size_format": "kg",
-      "packaging": "Pieza"
+      "packaging": "Bandeja"
     },
     {
-      "id": "83664",
-      "name": "Pastel de crema 65%",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/736dc66fe73ff429bef9e9b8c59d3b89.jpg?fit=crop&h=300&w=300",
-      "price": "0.55",
-      "unit_size": 0.055,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "84629",
-      "name": "12 Mini croissants de mantequilla",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/55dfb0de5a832d479c76f2e25c653d4b.jpg?fit=crop&h=300&w=300",
-      "price": "2.15",
-      "unit_size": 0.24,
-      "size_format": "kg",
-      "packaging": "Bolsa"
-    },
-    {
-      "id": "84688",
-      "name": "6 Croissant rellenos de cacao",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/448b70af6205b50bf11f7994c0eb52c7.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
+      "id": "4265",
+      "name": "Spaghetti carbonara Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Pasta",
+      "photo": "https://prod-mercadona.imgix.net/images/aa68b629c536bb9da3acbb054f268d76.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
       "unit_size": 0.28,
       "size_format": "kg",
-      "packaging": "Bolsa"
+      "packaging": "Bandeja"
     },
     {
-      "id": "83995",
-      "name": "Bizcocho de yogur Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/0dc994fc90ab43ba3e9768c9f34d1daa.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.8,
+      "id": "52507",
+      "name": "Macarrones Mac & Cheese Bacon Hacendado gratinados",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Pasta",
+      "photo": "https://prod-mercadona.imgix.net/images/e93d2c0cc2ae06a0f12d6a99af41b383.jpg?fit=crop&h=300&w=300",
+      "price": "2.45",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "11994",
+      "name": "Lasaña de pollo Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Pasta",
+      "photo": "https://prod-mercadona.imgix.net/images/ba16a63c0a0e42553d851d3c9aa74340.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.35,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "11934",
+      "name": "Pasta tiburón Mac & Cheese Hacendado con salsa de queso",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Pasta",
+      "photo": "https://prod-mercadona.imgix.net/images/7e210823ef6009e43b87ee2592fff29b.jpg?fit=crop&h=300&w=300",
+      "price": "1.30",
+      "unit_size": 0.19,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "84710",
-      "name": "Berlina glacé",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/fe1f277a10ee34a021457159b63a1d70.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
+      "id": "16435",
+      "name": "Canelones de carne Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Pasta",
+      "photo": "https://prod-mercadona.imgix.net/images/126f9310f453f27e797245339d269959.jpeg?fit=crop&h=300&w=300",
+      "price": "3.25",
+      "unit_size": 0.38,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "22767",
+      "name": "Arroz de secreto ibérico con setas Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Arroz",
+      "photo": "https://prod-mercadona.imgix.net/images/94b4b695305d0769d0e0d21efb30636f.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "4498",
+      "name": "Pollo al curry Hacendado con arroz basmati",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Arroz",
+      "photo": "https://prod-mercadona.imgix.net/images/2eecb819ac61c1a941dd70d4b9f5959b.jpg?fit=crop&h=300&w=300",
+      "price": "2.85",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "60621",
+      "name": "Arroz de verduras Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Arroz",
+      "photo": "https://prod-mercadona.imgix.net/images/9d1b44c510d51537b8e76a263b898456.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "20893",
+      "name": "Arroz de pescado Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Arroz",
+      "photo": "https://prod-mercadona.imgix.net/images/0b719a295ce244c216335370dbdf882f.jpg?fit=crop&h=300&w=300",
+      "price": "3.75",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "13706",
+      "name": "Pollo asado Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/bf5c527e50ce50bb951e705fad9dc27f.jpg?fit=crop&h=300&w=300",
+      "price": "7.06",
+      "unit_size": 1.25,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "13713",
+      "name": "Roti de pollo relleno de jamón y queso Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/9ab6eb035146b4e95041c72834ebc235.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.375,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "13707",
+      "name": "Pollo asado troceado Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/cf543e86e69dd75eca520302b1191233.jpg?fit=crop&h=300&w=300",
+      "price": "8.06",
+      "unit_size": 1.25,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "13710",
+      "name": "Codillo de cerdo asado Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/23127ba632f2eddfa70076083c3ca714.jpg?fit=crop&h=300&w=300",
+      "price": "4.61",
+      "unit_size": 0.72,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "13705",
+      "name": "Alitas de pollo asadas Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/e76f498a284a1062f5054648815e4908.jpg?fit=crop&h=300&w=300",
+      "price": "4.40",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "13708",
+      "name": "Muslo de pato confitado Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/12d9e01e78ccb28ad312e3f7fc25c13a.jpg?fit=crop&h=300&w=300",
+      "price": "6.30",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "4797",
+      "name": "Albóndigas guisadas Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/0530a6b96bdc5975928c8174e751bafa.jpg?fit=crop&h=300&w=300",
+      "price": "2.65",
+      "unit_size": 0.275,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "13709",
+      "name": "Costillas de cerdo a la barbacoa cortadas Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/8b3e02c597686cf31334038b1f8a9bd6.jpg?fit=crop&h=300&w=300",
+      "price": "6.25",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "23289",
+      "name": "Migas Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/dab5e22f6370afad62e045fc35bf57ab.jpg?fit=crop&h=300&w=300",
+      "price": "1.90",
+      "unit_size": 0.22,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "11511",
+      "name": "Carne de cerdo Pulled Pork Hacendado sabor barbacoa",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Carne",
+      "photo": "https://prod-mercadona.imgix.net/images/ed5c9c82cff4d6b2da0364ddd9638230.jpeg?fit=crop&h=300&w=300",
+      "price": "2.50",
       "unit_size": 0.2,
       "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "84785",
-      "name": "Berlina bañada de cacao",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/efdba4d552600576c2ab47a37bc04fd6.jpg?fit=crop&h=300&w=300",
-      "price": "1.45",
-      "unit_size": 0.24,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "84654",
-      "name": "Rosquillas bañadas de cacao",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/6e8e2e6638dd917efd7d1471910d2c9b.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 0.182,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "84358",
-      "name": "Ensaimada",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/980b96462583d922432d57cdb47c7315.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.083,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "84458",
-      "name": "Trenza con nueces pecán",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/b3f51a8fa6c6d25bdfbc143ccf4d6beb.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.08,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "84663",
-      "name": "Caracola con pasas",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/1a356cacaaf45ca0408c99dfc108ecf1.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.103,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "21588",
-      "name": "Napolitana de chocolate",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/b11a29e9268cfa383d44f4cd77c7cb43.jpg?fit=crop&h=300&w=300",
-      "price": "0.95",
-      "unit_size": 0.12,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "12809",
-      "name": "Bizcocho de cacao",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/055a5ce9e4d2ba337d6dd20e444d0dc9.jpg?fit=crop&h=300&w=300",
-      "price": "3.20",
-      "unit_size": 0.41,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "9965",
-      "name": "Bizcocho con azúcar moreno y nueces",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/a1be45d525db48eb2a1cf77ff37b4301.jpg?fit=crop&h=300&w=300",
-      "price": "3.35",
-      "unit_size": 0.4,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "84736",
-      "name": "Bizcocho de chocolate sin gluten y sin lactosa",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/dc81211122046f2f184596736f63b646.jpg?fit=crop&h=300&w=300",
-      "price": "3.15",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "14443",
-      "name": "Bizcocho azúcar sin gluten",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/1ccc3f49b202571f5a415c93689309cd.jpg?fit=crop&h=300&w=300",
-      "price": "2.85",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "84937",
-      "name": "Croissants surtidos rellenos de crema de cacao y crema con leche sabor a chocolate blanco",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/9e729a200c977f97415a449b11d2d973.jpg?fit=crop&h=300&w=300",
-      "price": "2.55",
-      "unit_size": 0.3,
-      "size_format": "kg",
       "packaging": "Bandeja"
     },
     {
-      "id": "21540",
-      "name": "Napolitana de crema",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/7da701df38538d298789a53175b055bc.jpg?fit=crop&h=300&w=300",
-      "price": "0.95",
-      "unit_size": 0.12,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "16288",
-      "name": "Bizcocho de manzana",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/4f625f735f24926291921b1f1bb99c0e.jpg?fit=crop&h=300&w=300",
-      "price": "4.20",
+      "id": "80895",
+      "name": "Tortilla de patata y cebolla Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Tortilla",
+      "photo": "https://prod-mercadona.imgix.net/images/e4105297acdb4350ef0bf7eb789a29dd.jpeg?fit=crop&h=300&w=300",
+      "price": "2.60",
       "unit_size": 0.6,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Bandeja"
     },
     {
-      "id": "21990",
-      "name": "Fartons",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/44a7447050cb3abf20c5a4662b6d47e5.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.215,
+      "id": "80771",
+      "name": "Tortilla de patata Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Tortilla",
+      "photo": "https://prod-mercadona.imgix.net/images/81ea12030b53ff6cbbb27a8b1f3ac1c6.jpeg?fit=crop&h=300&w=300",
+      "price": "2.60",
+      "unit_size": 0.6,
       "size_format": "kg",
       "packaging": "Bandeja"
     },
     {
-      "id": "21879",
-      "name": "Pepito de crema",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/d5cc589c786b56637900337132cee280.jpg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 0.21,
+      "id": "80773",
+      "name": "Tortilla de patata con chorizo Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Tortilla",
+      "photo": "https://prod-mercadona.imgix.net/images/88b3e76b8375d34d4fe4a1c25ccf1da2.jpeg?fit=crop&h=300&w=300",
+      "price": "3.40",
+      "unit_size": 0.6,
       "size_format": "kg",
       "packaging": "Bandeja"
     }
   ],
-  "priceChangesCount": 63,
+  "priceChangesCount": 46,
   "priceChanges": [
     {
-      "id": "60869",
-      "name": "Piñones Hacendado",
-      "oldPrice": "3.25",
-      "newPrice": "3.55"
+      "id": "14484",
+      "name": "Surtido bombones Senzza de chocolate",
+      "oldPrice": "4.20",
+      "newPrice": "3.50"
     },
     {
-      "id": "13817",
-      "name": "Refresco Fanta limón",
-      "oldPrice": "6.93",
-      "newPrice": "5.94"
+      "id": "28032",
+      "name": "Ginebra Dry Gin Seagram's",
+      "oldPrice": "16.50",
+      "newPrice": "15.45"
     },
     {
-      "id": "27602",
-      "name": "Refresco Fanta limón",
-      "oldPrice": "0.80",
-      "newPrice": "0.75"
+      "id": "28604",
+      "name": "Whisky escocés Ballantine's",
+      "oldPrice": "13.95",
+      "newPrice": "13.25"
     },
     {
-      "id": "8779",
-      "name": "Refresco Fanta limón zero azúcares añadidos",
-      "oldPrice": "6.16",
-      "newPrice": "4.24"
+      "id": "11021",
+      "name": "Café en grano Hacendado descafeinado",
+      "oldPrice": "6.30",
+      "newPrice": "6.25"
     },
     {
-      "id": "27608",
-      "name": "Refresco Fanta limón zero azúcares añadidos",
-      "oldPrice": "0.80",
-      "newPrice": "0.69"
+      "id": "24350",
+      "name": "Filete de salmón rosado salvaje con piel Hacendado ultracongelado",
+      "oldPrice": "4.99",
+      "newPrice": "6.10"
     },
     {
-      "id": "26990",
-      "name": "Refresco lima limón Sprite",
-      "oldPrice": "1.65",
-      "newPrice": "1.35"
+      "id": "73002",
+      "name": "Maquinillas de afeitar desechables Gillette Sensor Comfort 3 hojas",
+      "oldPrice": "5.75",
+      "newPrice": "5.60"
     },
     {
-      "id": "18234",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "1.55",
-      "newPrice": "1.00"
+      "id": "52645",
+      "name": "Maquinilla de afeitar recargable Gillette Fusion Sport 5 hojas",
+      "oldPrice": "9.60",
+      "newPrice": "9.00"
     },
     {
-      "id": "27571",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "6.93",
-      "newPrice": "5.94"
+      "id": "52646",
+      "name": "Recambios maquinilla de afeitar Gillette Fusion Sport 5 hojas",
+      "oldPrice": "13.70",
+      "newPrice": "13.45"
     },
     {
-      "id": "27502",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "0.80",
-      "newPrice": "0.75"
-    },
-    {
-      "id": "27545",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "1.85",
-      "newPrice": "1.59"
-    },
-    {
-      "id": "8778",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "6.16",
-      "newPrice": "4.24"
-    },
-    {
-      "id": "27510",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "0.80",
-      "newPrice": "0.69"
-    },
-    {
-      "id": "33555",
-      "name": "Aperitivo de patata sabor original Pringles",
-      "oldPrice": "2.65",
-      "newPrice": "1.90"
-    },
-    {
-      "id": "33556",
-      "name": "Aperitivo de patata sabor crema agria y cebolla Pringles",
-      "oldPrice": "2.65",
-      "newPrice": "1.90"
-    },
-    {
-      "id": "11553",
-      "name": "Pañales bebé talla 1 Dodot Sensitive de 2-5 kg",
-      "oldPrice": "16.95",
-      "newPrice": "20.95"
-    },
-    {
-      "id": "47287",
-      "name": "Pañales bebé talla 2 Dodot Sensitive de 4-8 kg",
-      "oldPrice": "16.95",
-      "newPrice": "20.95"
-    },
-    {
-      "id": "52879",
-      "name": "Pañales bebé talla 3 Dodot Sensitive de 6-10 kg",
-      "oldPrice": "16.95",
-      "newPrice": "21.95"
-    },
-    {
-      "id": "66027",
-      "name": "Cerveza clásica Mahou",
-      "oldPrice": "9.24",
-      "newPrice": "6.96"
-    },
-    {
-      "id": "66026",
-      "name": "Cerveza especial San Miguel",
-      "oldPrice": "6.96",
-      "newPrice": "5.40"
-    },
-    {
-      "id": "67154",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "8.04",
-      "newPrice": "6.84"
-    },
-    {
-      "id": "17578",
-      "name": "Salchichas cocidas cocktail Hacendado de cerdo",
-      "oldPrice": "1.90",
-      "newPrice": "1.70"
+      "id": "35785",
+      "name": "Recambios maquinilla depilación Gillette Venus 3 hojas Comfortglide",
+      "oldPrice": "10.80",
+      "newPrice": "10.60"
     },
     {
       "id": "3119",
       "name": "Pera Conferencia",
-      "oldPrice": "0.45",
-      "newPrice": "0.48"
+      "oldPrice": "0.48",
+      "newPrice": "0.50"
     },
     {
-      "id": "3170",
-      "name": "Pera Ercolina",
-      "oldPrice": "0.32",
-      "newPrice": "0.29"
-    },
-    {
-      "id": "3021",
-      "name": "Manzana Granny Smith",
-      "oldPrice": "0.45",
-      "newPrice": "0.43"
+      "id": "8175",
+      "name": "Manzana roja acidulce",
+      "oldPrice": "0.62",
+      "newPrice": "0.60"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "oldPrice": "3.87",
-      "newPrice": "4.16"
+      "oldPrice": "4.16",
+      "newPrice": "4.42"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "oldPrice": "6.82",
-      "newPrice": "7.11"
+      "oldPrice": "7.11",
+      "newPrice": "7.13"
+    },
+    {
+      "id": "3210",
+      "name": "Limón",
+      "oldPrice": "0.47",
+      "newPrice": "0.44"
     },
     {
       "id": "3235",
       "name": "Naranja de mesa",
-      "oldPrice": "0.83",
-      "newPrice": "0.78"
+      "oldPrice": "0.78",
+      "newPrice": "0.75"
     },
     {
-      "id": "3076",
-      "name": "Piña",
-      "oldPrice": "4.54",
-      "newPrice": "4.56"
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.20",
+      "newPrice": "3.15"
     },
     {
-      "id": "3050",
-      "name": "Mango",
-      "oldPrice": "1.03",
-      "newPrice": "1.05"
+      "id": "69066",
+      "name": "Patata",
+      "oldPrice": "0.46",
+      "newPrice": "0.48"
     },
     {
-      "id": "3601",
-      "name": "Ciruela roja",
-      "oldPrice": "0.49",
-      "newPrice": "0.46"
+      "id": "69239",
+      "name": "Batata",
+      "oldPrice": "1.05",
+      "newPrice": "1.07"
+    },
+    {
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.05",
+      "newPrice": "2.15"
+    },
+    {
+      "id": "69338",
+      "name": "Calabacín verde",
+      "oldPrice": "0.76",
+      "newPrice": "0.74"
+    },
+    {
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.83",
+      "newPrice": "2.85"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.81",
+      "newPrice": "0.84"
+    },
+    {
+      "id": "81649.1",
+      "name": "Salmón a rodajas",
+      "oldPrice": "26.67",
+      "newPrice": "26.37"
+    },
+    {
+      "id": "81649.4",
+      "name": "Salmón media pieza a rodajas",
+      "oldPrice": "13.43",
+      "newPrice": "13.53"
+    },
+    {
+      "id": "81649.2",
+      "name": "Salmón abierto en libro sin cabeza y sin espina",
+      "oldPrice": "26.67",
+      "newPrice": "26.37"
+    },
+    {
+      "id": "81649.5",
+      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
+      "oldPrice": "13.43",
+      "newPrice": "13.53"
+    },
+    {
+      "id": "81649.3",
+      "name": "Salmón sin aletas y sin escamas",
+      "oldPrice": "26.67",
+      "newPrice": "26.37"
+    },
+    {
+      "id": "81649.6",
+      "name": "Salmón media pieza sin aletas y sin escamas",
+      "oldPrice": "13.43",
+      "newPrice": "13.53"
+    },
+    {
+      "id": "81241.1",
+      "name": "Lubina limpia con cabeza",
+      "oldPrice": "3.78",
+      "newPrice": "3.68"
+    },
+    {
+      "id": "81241.2",
+      "name": "Lubina abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "3.78",
+      "newPrice": "3.68"
     }
   ]
 }
