@@ -1,520 +1,520 @@
 {
-  "lastSync": "2026-10-10T10:27:59.812371",
-  "totalProducts": 4214,
-  "newProductsCount": 51,
+  "lastSync": "2026-10-11T10:39:44.474300",
+  "totalProducts": 4324,
+  "newProductsCount": 114,
   "newProducts": [
     {
-      "id": "9430",
-      "name": "Quinoa Hacendado",
-      "category": "Arroz, legumbres y pasta",
-      "subcategory": "Arroz",
-      "photo": "https://prod-mercadona.imgix.net/images/5f96e6f16b3a5d30f2fd7135e3d1f74e.jpg?fit=crop&h=300&w=300",
-      "price": "2.65",
-      "unit_size": 0.5,
+      "id": "18259",
+      "name": "Pipas de calabaza natural Hacendado peladas",
+      "category": "Aperitivos",
+      "subcategory": "Frutos secos",
+      "photo": "https://prod-mercadona.imgix.net/images/00f270d0c243fcedc9a94026e0f85840.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.2,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "13499",
-      "name": "Crema de calabaza Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/bac2668c48c9709038fd8723a17488c9.jpg?fit=crop&h=300&w=300",
+      "id": "18599",
+      "name": "Agua de colonia infantil Deliplus con notas cítricas y florales",
+      "category": "Bebé",
+      "subcategory": "Colonia",
+      "photo": "https://prod-mercadona.imgix.net/images/8e5bd346662bcc78a0e6a7cda79d3391.jpg?fit=crop&h=300&w=300",
+      "price": "1.30",
+      "unit_size": 0.4,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "17788",
+      "name": "Pañales bebé talla 3 Deliplus de 5-10 kg",
+      "category": "Bebé",
+      "subcategory": "Pañal talla de 0 a 3",
+      "photo": "https://prod-mercadona.imgix.net/images/463fde463ff2ab7c54a818274213a3ca.jpg?fit=crop&h=300&w=300",
+      "price": "6.20",
+      "unit_size": 40.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "17587",
+      "name": "Patatas prefritas Pepper Sticks Hacendado rebozadas con sal y pimienta",
+      "category": "Congelados",
+      "subcategory": "Patatas",
+      "photo": "https://prod-mercadona.imgix.net/images/9e93573d817493f311676854a46ec7a6.jpg?fit=crop&h=300&w=300",
+      "price": "2.10",
+      "unit_size": 0.75,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "43011",
+      "name": "Lejía normal Tradicional Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Lejía",
+      "photo": "https://prod-mercadona.imgix.net/images/8d8167033476f4026199c9463f1f4204.jpg?fit=crop&h=300&w=300",
+      "price": "1.85",
+      "unit_size": 5.0,
+      "size_format": "l",
+      "packaging": "Garrafa"
+    },
+    {
+      "id": "43075",
+      "name": "Lejía normal Tradicional Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Lejía",
+      "photo": "https://prod-mercadona.imgix.net/images/08774cc4eb549b55b3cfa8fd9604a468.jpg?fit=crop&h=300&w=300",
+      "price": "0.80",
+      "unit_size": 2.0,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "43024",
+      "name": "Lejía Perfumada con detergente Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Lejía",
+      "photo": "https://prod-mercadona.imgix.net/images/1e6ba2eaf9402a42dfa4e8a053dc88e8.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 2.0,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "43022",
+      "name": "Lejía ropa blanca denso Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Lejía",
+      "photo": "https://prod-mercadona.imgix.net/images/1a77195801caea881c82609d92741f45.jpg?fit=crop&h=300&w=300",
+      "price": "1.25",
+      "unit_size": 2.0,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "43054",
+      "name": "Lejía Perfumada con detergente limón Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Lejía",
+      "photo": "https://prod-mercadona.imgix.net/images/090b5f559b111d8776d31b4ef29226d4.jpeg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 2.0,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "43057",
+      "name": "Pastillas desinfectantes multiusos Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Lejía",
+      "photo": "https://prod-mercadona.imgix.net/images/11a96a83e9dfe035ae9fe059ce4eea20.jpg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 0.16,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "43060",
+      "name": "Lejía Multiusos Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Lejía",
+      "photo": "https://prod-mercadona.imgix.net/images/f3a793d010763b0e947c597b091435fd.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 0.75,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "43818",
+      "name": "Amoníaco perfumado Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Amoníaco y salfumán",
+      "photo": "https://prod-mercadona.imgix.net/images/cd307d95ae845266f3886e0046918e04.jpg?fit=crop&h=300&w=300",
+      "price": "0.80",
+      "unit_size": 1.5,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "43810",
+      "name": "Salfumant",
+      "category": "Limpieza y hogar",
+      "subcategory": "Amoníaco y salfumán",
+      "photo": "https://prod-mercadona.imgix.net/images/8f5851c54712ef913ead1d6aa70c4134.jpg?fit=crop&h=300&w=300",
+      "price": "1.20",
+      "unit_size": 1.0,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "43802",
+      "name": "Amoníaco con detergente Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Amoníaco y salfumán",
+      "photo": "https://prod-mercadona.imgix.net/images/afaf120d288805d92135a27848b2c9d0.jpg?fit=crop&h=300&w=300",
       "price": "1.00",
+      "unit_size": 1.5,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "43042",
+      "name": "Desatascador Turbo Bosque Verde en gel",
+      "category": "Limpieza y hogar",
+      "subcategory": "Amoníaco y salfumán",
+      "photo": "https://prod-mercadona.imgix.net/images/7df5b788248d509a2b23e0c80dc5ad25.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
       "unit_size": 0.5,
       "size_format": "l",
-      "packaging": "Brik"
+      "packaging": "Botella"
     },
     {
-      "id": "18256",
-      "name": "Eau de parfum mujer Éclant My Soul",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Perfume y colonia mujer",
-      "photo": "https://prod-mercadona.imgix.net/images/cc4e5a36bbc2c5035297f2603c298c09.jpg?fit=crop&h=300&w=300",
-      "price": "12.00",
-      "unit_size": 0.1,
+      "id": "43813",
+      "name": "Amoníaco concentrado Bosque Verde con detergente",
+      "category": "Limpieza y hogar",
+      "subcategory": "Amoníaco y salfumán",
+      "photo": "https://prod-mercadona.imgix.net/images/f3a8f0b1cb5013b73110e045a88d4db5.jpeg?fit=crop&h=300&w=300",
+      "price": "1.25",
+      "unit_size": 0.75,
       "size_format": "l",
-      "packaging": "Frasco"
+      "packaging": "Botella"
     },
     {
-      "id": "68037",
-      "name": "Hierbabuena",
-      "category": "Fruta y verdura",
-      "subcategory": "Hierbas aromáticas",
-      "photo": "https://prod-mercadona.imgix.net/images/fd5374ed7e477b77515aefb01391a088.jpg?fit=crop&h=300&w=300",
-      "price": "1.35",
-      "unit_size": 0.04,
+      "id": "23412",
+      "name": "Sosa cáustica Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Amoníaco y salfumán",
+      "photo": "https://prod-mercadona.imgix.net/images/4d1c5a8d8bfb823e18227faf0350e04f.jpg?fit=crop&h=300&w=300",
+      "price": "3.60",
+      "unit_size": 1.0,
       "size_format": "kg",
-      "packaging": "Manojo"
+      "packaging": "Botella"
     },
     {
-      "id": "12819",
-      "name": "Colorete fluido Blush mate Deliplus 01 rosa amarronado",
-      "category": "Maquillaje",
-      "subcategory": "Colorete",
-      "photo": "https://prod-mercadona.imgix.net/images/a5737208a20e4ace5c47b1e315b0e959.jpg?fit=crop&h=300&w=300",
-      "price": "4.75",
-      "unit_size": 0.012,
+      "id": "43806",
+      "name": "Limpiador de Tuberías Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Amoníaco y salfumán",
+      "photo": "https://prod-mercadona.imgix.net/images/821d152215cf4f7bbf63fa92fe09b844.jpg?fit=crop&h=300&w=300",
+      "price": "3.80",
+      "unit_size": 1.0,
       "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "23415",
+      "name": "Limpiador fosas sépticas Bosque Verde bolsitas solubles",
+      "category": "Limpieza y hogar",
+      "subcategory": "Amoníaco y salfumán",
+      "photo": "https://prod-mercadona.imgix.net/images/cf69624dfd9889cde9a2b289f0735df5.jpg?fit=crop&h=300&w=300",
+      "price": "6.25",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "90309",
+      "name": "Alguicida sin espuma líquido Bosque Verde para piscina",
+      "category": "Limpieza y hogar",
+      "subcategory": "Tratamiento piscina",
+      "photo": "https://prod-mercadona.imgix.net/images/7c6cbdf30d00b64e982382767a96f4ce.jpg?fit=crop&h=300&w=300",
+      "price": "12.50",
+      "unit_size": 5.0,
+      "size_format": "l",
+      "packaging": "Garrafa"
+    },
+    {
+      "id": "80320",
+      "name": "Cloro rápido granulado para piscina",
+      "category": "Limpieza y hogar",
+      "subcategory": "Tratamiento piscina",
+      "photo": "https://prod-mercadona.imgix.net/images/04845cfa53add062fc925fd537ff4011.jpg?fit=crop&h=300&w=300",
+      "price": "32.50",
+      "unit_size": 5.0,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "90303",
+      "name": "Eliminador de turbidez líquido Bosque Verde para piscina",
+      "category": "Limpieza y hogar",
+      "subcategory": "Tratamiento piscina",
+      "photo": "https://prod-mercadona.imgix.net/images/53817cd225881323d367877585970add.jpg?fit=crop&h=300&w=300",
+      "price": "14.00",
+      "unit_size": 5.0,
+      "size_format": "l",
+      "packaging": "Garrafa"
+    },
+    {
+      "id": "90326",
+      "name": "Reductor de pH Bosque Verde para piscina",
+      "category": "Limpieza y hogar",
+      "subcategory": "Tratamiento piscina",
+      "photo": "https://prod-mercadona.imgix.net/images/ce1b2795e1eaf032ee4708ce9a82772c.jpg?fit=crop&h=300&w=300",
+      "price": "10.00",
+      "unit_size": 5.0,
+      "size_format": "l",
+      "packaging": "Garrafa"
+    },
+    {
+      "id": "23414",
+      "name": "Cloro 5 acciones disolución lenta tabletas para piscina",
+      "category": "Limpieza y hogar",
+      "subcategory": "Tratamiento piscina",
+      "photo": "https://prod-mercadona.imgix.net/images/d0124ee4c87952c1067f40b3c793e7f1.jpg?fit=crop&h=300&w=300",
+      "price": "30.00",
+      "unit_size": 5.0,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "52805",
+      "name": "Perfilador de ojos Deliplus 02 marrón",
+      "category": "Maquillaje",
+      "subcategory": "Perfilador de ojos",
+      "photo": "https://prod-mercadona.imgix.net/images/3a1d60836046606f93b70275dddbfe45.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "4488",
-      "name": "Lasaña boloñesa familiar Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/5ce44300c7eb0b957d6f621704622aab.jpg?fit=crop&h=300&w=300",
-      "price": "4.70",
-      "unit_size": 0.7,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "4487",
-      "name": "Lasaña boloñesa Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/30ad411832645d054ed2e83428790881.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "4491",
-      "name": "Lasaña de espinacas y requesón Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/46eb1de56c250372c7ac5661a1c553ce.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "4265",
-      "name": "Spaghetti carbonara Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/aa68b629c536bb9da3acbb054f268d76.jpg?fit=crop&h=300&w=300",
-      "price": "2.20",
-      "unit_size": 0.28,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "52507",
-      "name": "Macarrones Mac & Cheese Bacon Hacendado gratinados",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/e93d2c0cc2ae06a0f12d6a99af41b383.jpg?fit=crop&h=300&w=300",
-      "price": "2.45",
-      "unit_size": 0.28,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "11994",
-      "name": "Lasaña de pollo Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/ba16a63c0a0e42553d851d3c9aa74340.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "11934",
-      "name": "Pasta tiburón Mac & Cheese Hacendado con salsa de queso",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/7e210823ef6009e43b87ee2592fff29b.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 0.19,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "16435",
-      "name": "Canelones de carne Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/126f9310f453f27e797245339d269959.jpeg?fit=crop&h=300&w=300",
-      "price": "3.25",
-      "unit_size": 0.38,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "22767",
-      "name": "Arroz de secreto ibérico con setas Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Arroz",
-      "photo": "https://prod-mercadona.imgix.net/images/94b4b695305d0769d0e0d21efb30636f.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 0.28,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "4498",
-      "name": "Pollo al curry Hacendado con arroz basmati",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Arroz",
-      "photo": "https://prod-mercadona.imgix.net/images/2eecb819ac61c1a941dd70d4b9f5959b.jpg?fit=crop&h=300&w=300",
-      "price": "2.85",
-      "unit_size": 0.28,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "60621",
-      "name": "Arroz de verduras Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Arroz",
-      "photo": "https://prod-mercadona.imgix.net/images/9d1b44c510d51537b8e76a263b898456.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.28,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "20893",
-      "name": "Arroz de pescado Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Arroz",
-      "photo": "https://prod-mercadona.imgix.net/images/0b719a295ce244c216335370dbdf882f.jpg?fit=crop&h=300&w=300",
-      "price": "3.75",
-      "unit_size": 0.28,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "13706",
-      "name": "Pollo asado Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/bf5c527e50ce50bb951e705fad9dc27f.jpg?fit=crop&h=300&w=300",
-      "price": "7.06",
-      "unit_size": 1.25,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13713",
-      "name": "Roti de pollo relleno de jamón y queso Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/9ab6eb035146b4e95041c72834ebc235.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 0.375,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13707",
-      "name": "Pollo asado troceado Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/cf543e86e69dd75eca520302b1191233.jpg?fit=crop&h=300&w=300",
-      "price": "8.06",
-      "unit_size": 1.25,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13710",
-      "name": "Codillo de cerdo asado Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/23127ba632f2eddfa70076083c3ca714.jpg?fit=crop&h=300&w=300",
-      "price": "4.61",
-      "unit_size": 0.72,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13705",
-      "name": "Alitas de pollo asadas Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/e76f498a284a1062f5054648815e4908.jpg?fit=crop&h=300&w=300",
-      "price": "4.40",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Bote"
-    },
-    {
-      "id": "13708",
-      "name": "Muslo de pato confitado Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/12d9e01e78ccb28ad312e3f7fc25c13a.jpg?fit=crop&h=300&w=300",
-      "price": "6.30",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "4797",
-      "name": "Albóndigas guisadas Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/0530a6b96bdc5975928c8174e751bafa.jpg?fit=crop&h=300&w=300",
-      "price": "2.65",
-      "unit_size": 0.275,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "13709",
-      "name": "Costillas de cerdo a la barbacoa cortadas Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/8b3e02c597686cf31334038b1f8a9bd6.jpg?fit=crop&h=300&w=300",
-      "price": "6.25",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Bote"
-    },
-    {
-      "id": "23289",
-      "name": "Migas Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/dab5e22f6370afad62e045fc35bf57ab.jpg?fit=crop&h=300&w=300",
+      "id": "38131",
+      "name": "Alimento completo para periquitos Granzoo",
+      "category": "Mascotas",
+      "subcategory": "Pájaro",
+      "photo": "https://prod-mercadona.imgix.net/images/56f2799b4a49b45c460e415561f017ba.jpg?fit=crop&h=300&w=300",
       "price": "1.90",
-      "unit_size": 0.22,
+      "unit_size": 1.0,
       "size_format": "kg",
-      "packaging": "Bandeja"
+      "packaging": "Paquete"
     },
     {
-      "id": "11511",
-      "name": "Carne de cerdo Pulled Pork Hacendado sabor barbacoa",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Carne",
-      "photo": "https://prod-mercadona.imgix.net/images/ed5c9c82cff4d6b2da0364ddd9638230.jpeg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.2,
+      "id": "38145",
+      "name": "Barritas de fruta y miel para periquitos Natura",
+      "category": "Mascotas",
+      "subcategory": "Pájaro",
+      "photo": "https://prod-mercadona.imgix.net/images/6da035abb410607af8753a8f6d3a7603.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 0.09,
       "size_format": "kg",
-      "packaging": "Bandeja"
+      "packaging": "Caja"
     },
     {
-      "id": "80895",
-      "name": "Tortilla de patata y cebolla Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Tortilla",
-      "photo": "https://prod-mercadona.imgix.net/images/e4105297acdb4350ef0bf7eb789a29dd.jpeg?fit=crop&h=300&w=300",
-      "price": "2.60",
-      "unit_size": 0.6,
+      "id": "38130",
+      "name": "Alimento completo para canarios y jilgueros Granzoo",
+      "category": "Mascotas",
+      "subcategory": "Pájaro",
+      "photo": "https://prod-mercadona.imgix.net/images/7e208005ab1342ff5918424b0fc8c3bc.jpg?fit=crop&h=300&w=300",
+      "price": "1.88",
+      "unit_size": 1.0,
       "size_format": "kg",
-      "packaging": "Bandeja"
+      "packaging": "Paquete"
     },
     {
-      "id": "80771",
-      "name": "Tortilla de patata Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Tortilla",
-      "photo": "https://prod-mercadona.imgix.net/images/81ea12030b53ff6cbbb27a8b1f3ac1c6.jpeg?fit=crop&h=300&w=300",
-      "price": "2.60",
-      "unit_size": 0.6,
+      "id": "38111",
+      "name": "Barritas de fruta y miel para canarios Natura",
+      "category": "Mascotas",
+      "subcategory": "Pájaro",
+      "photo": "https://prod-mercadona.imgix.net/images/dd343c75df218a9df5ee874d4278bfbf.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 0.09,
       "size_format": "kg",
-      "packaging": "Bandeja"
+      "packaging": "Caja"
     },
     {
-      "id": "80773",
-      "name": "Tortilla de patata con chorizo Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Tortilla",
-      "photo": "https://prod-mercadona.imgix.net/images/88b3e76b8375d34d4fe4a1c25ccf1da2.jpeg?fit=crop&h=300&w=300",
-      "price": "3.40",
-      "unit_size": 0.6,
+      "id": "13646",
+      "name": "Alimento completo para ninfa y agaporni Granzoo",
+      "category": "Mascotas",
+      "subcategory": "Pájaro",
+      "photo": "https://prod-mercadona.imgix.net/images/ceca49751989999975457baa23d7edaf.jpg?fit=crop&h=300&w=300",
+      "price": "1.85",
+      "unit_size": 0.8,
       "size_format": "kg",
-      "packaging": "Bandeja"
+      "packaging": "Paquete"
     }
   ],
-  "priceChangesCount": 46,
+  "priceChangesCount": 39,
   "priceChanges": [
     {
-      "id": "14484",
-      "name": "Surtido bombones Senzza de chocolate",
-      "oldPrice": "4.20",
-      "newPrice": "3.50"
-    },
-    {
-      "id": "28032",
-      "name": "Ginebra Dry Gin Seagram's",
-      "oldPrice": "16.50",
-      "newPrice": "15.45"
-    },
-    {
-      "id": "28604",
-      "name": "Whisky escocés Ballantine's",
-      "oldPrice": "13.95",
-      "newPrice": "13.25"
-    },
-    {
-      "id": "11021",
-      "name": "Café en grano Hacendado descafeinado",
-      "oldPrice": "6.30",
-      "newPrice": "6.25"
-    },
-    {
-      "id": "24350",
-      "name": "Filete de salmón rosado salvaje con piel Hacendado ultracongelado",
-      "oldPrice": "4.99",
-      "newPrice": "6.10"
-    },
-    {
-      "id": "73002",
-      "name": "Maquinillas de afeitar desechables Gillette Sensor Comfort 3 hojas",
-      "oldPrice": "5.75",
-      "newPrice": "5.60"
-    },
-    {
-      "id": "52645",
-      "name": "Maquinilla de afeitar recargable Gillette Fusion Sport 5 hojas",
-      "oldPrice": "9.60",
-      "newPrice": "9.00"
-    },
-    {
-      "id": "52646",
-      "name": "Recambios maquinilla de afeitar Gillette Fusion Sport 5 hojas",
-      "oldPrice": "13.70",
-      "newPrice": "13.45"
-    },
-    {
-      "id": "35785",
-      "name": "Recambios maquinilla depilación Gillette Venus 3 hojas Comfortglide",
-      "oldPrice": "10.80",
-      "newPrice": "10.60"
+      "id": "3819",
+      "name": "Plátano de Canarias IGP",
+      "oldPrice": "0.43",
+      "newPrice": "0.40"
     },
     {
       "id": "3119",
       "name": "Pera Conferencia",
-      "oldPrice": "0.48",
-      "newPrice": "0.50"
+      "oldPrice": "0.50",
+      "newPrice": "0.48"
     },
     {
-      "id": "8175",
-      "name": "Manzana roja acidulce",
-      "oldPrice": "0.62",
-      "newPrice": "0.60"
+      "id": "3172",
+      "name": "Pera Limonera",
+      "oldPrice": "0.56",
+      "newPrice": "0.59"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "oldPrice": "4.16",
-      "newPrice": "4.42"
+      "oldPrice": "4.42",
+      "newPrice": "4.32"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "oldPrice": "7.11",
-      "newPrice": "7.13"
-    },
-    {
-      "id": "3210",
-      "name": "Limón",
-      "oldPrice": "0.47",
-      "newPrice": "0.44"
+      "oldPrice": "7.13",
+      "newPrice": "7.19"
     },
     {
       "id": "3235",
       "name": "Naranja de mesa",
-      "oldPrice": "0.78",
-      "newPrice": "0.75"
+      "oldPrice": "0.75",
+      "newPrice": "0.73"
+    },
+    {
+      "id": "3076",
+      "name": "Piña",
+      "oldPrice": "4.56",
+      "newPrice": "4.58"
     },
     {
       "id": "3026",
       "name": "Papaya",
-      "oldPrice": "3.20",
-      "newPrice": "3.15"
+      "oldPrice": "3.15",
+      "newPrice": "3.20"
     },
     {
-      "id": "69066",
-      "name": "Patata",
+      "id": "3601",
+      "name": "Ciruela roja",
       "oldPrice": "0.46",
-      "newPrice": "0.48"
+      "newPrice": "0.49"
+    },
+    {
+      "id": "3649",
+      "name": "Ciruela amarilla",
+      "oldPrice": "0.49",
+      "newPrice": "0.53"
     },
     {
       "id": "69239",
       "name": "Batata",
-      "oldPrice": "1.05",
-      "newPrice": "1.07"
+      "oldPrice": "1.07",
+      "newPrice": "1.05"
     },
     {
       "id": "69173",
       "name": "Yuca",
-      "oldPrice": "2.05",
-      "newPrice": "2.15"
+      "oldPrice": "2.15",
+      "newPrice": "2.11"
     },
     {
-      "id": "69338",
-      "name": "Calabacín verde",
-      "oldPrice": "0.76",
-      "newPrice": "0.74"
+      "id": "69937",
+      "name": "Tomate ensalada",
+      "oldPrice": "0.55",
+      "newPrice": "0.58"
+    },
+    {
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.65",
+      "newPrice": "1.67"
+    },
+    {
+      "id": "69584",
+      "name": "Pepino",
+      "oldPrice": "0.37",
+      "newPrice": "0.39"
+    },
+    {
+      "id": "69310",
+      "name": "Pimiento rojo",
+      "oldPrice": "0.84",
+      "newPrice": "0.87"
     },
     {
       "id": "69220",
       "name": "Coliflor",
-      "oldPrice": "2.83",
-      "newPrice": "2.85"
+      "oldPrice": "2.85",
+      "newPrice": "2.95"
+    },
+    {
+      "id": "69580",
+      "name": "Brócoli",
+      "oldPrice": "1.35",
+      "newPrice": "1.32"
     },
     {
       "id": "69326",
       "name": "Berenjena",
-      "oldPrice": "0.81",
-      "newPrice": "0.84"
+      "oldPrice": "0.84",
+      "newPrice": "0.79"
+    },
+    {
+      "id": "69347",
+      "name": "Berenjena rayada",
+      "oldPrice": "0.80",
+      "newPrice": "0.83"
+    },
+    {
+      "id": "69038",
+      "name": "Nabicol",
+      "oldPrice": "0.90",
+      "newPrice": "0.87"
     },
     {
       "id": "81649.1",
       "name": "Salmón a rodajas",
-      "oldPrice": "26.67",
-      "newPrice": "26.37"
+      "oldPrice": "26.37",
+      "newPrice": "26.07"
     },
     {
       "id": "81649.4",
       "name": "Salmón media pieza a rodajas",
-      "oldPrice": "13.43",
-      "newPrice": "13.53"
+      "oldPrice": "13.53",
+      "newPrice": "13.43"
     },
     {
       "id": "81649.2",
       "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "26.67",
-      "newPrice": "26.37"
+      "oldPrice": "26.37",
+      "newPrice": "26.07"
     },
     {
       "id": "81649.5",
       "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "13.43",
-      "newPrice": "13.53"
+      "oldPrice": "13.53",
+      "newPrice": "13.43"
     },
     {
       "id": "81649.3",
       "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "26.67",
-      "newPrice": "26.37"
+      "oldPrice": "26.37",
+      "newPrice": "26.07"
     },
     {
       "id": "81649.6",
       "name": "Salmón media pieza sin aletas y sin escamas",
-      "oldPrice": "13.43",
-      "newPrice": "13.53"
+      "oldPrice": "13.53",
+      "newPrice": "13.43"
     },
     {
-      "id": "81241.1",
-      "name": "Lubina limpia con cabeza",
-      "oldPrice": "3.78",
-      "newPrice": "3.68"
+      "id": "81234.1",
+      "name": "Dorada limpia con cabeza",
+      "oldPrice": "5.61",
+      "newPrice": "5.42"
     },
     {
-      "id": "81241.2",
-      "name": "Lubina abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "3.78",
-      "newPrice": "3.68"
+      "id": "81234.2",
+      "name": "Dorada abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "5.61",
+      "newPrice": "5.42"
+    },
+    {
+      "id": "81234.5",
+      "name": "Dorada a filetes sin cabeza y sin espina",
+      "oldPrice": "5.61",
+      "newPrice": "5.42"
     }
   ]
 }
