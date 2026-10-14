@@ -1,520 +1,520 @@
 {
-  "lastSync": "2026-10-13T11:30:02.133012",
-  "totalProducts": 4142,
-  "newProductsCount": 102,
+  "lastSync": "2026-10-14T09:21:54.165622",
+  "totalProducts": 4284,
+  "newProductsCount": 187,
   "newProducts": [
     {
-      "id": "9430",
-      "name": "Quinoa Hacendado",
-      "category": "Arroz, legumbres y pasta",
-      "subcategory": "Arroz",
-      "photo": "https://prod-mercadona.imgix.net/images/5f96e6f16b3a5d30f2fd7135e3d1f74e.jpg?fit=crop&h=300&w=300",
-      "price": "2.65",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17786",
-      "name": "Pañales bebé talla 1 Deliplus de 2-4 kg",
+      "id": "18594",
+      "name": "Chupete silicona reversible tacto suave Deliplus +0 a 6 meses",
       "category": "Bebé",
-      "subcategory": "Pañal talla de 0 a 3",
-      "photo": "https://prod-mercadona.imgix.net/images/aaaa827eb636e9403099849025ada48d.jpg?fit=crop&h=300&w=300",
-      "price": "7.90",
-      "unit_size": 48.0,
+      "subcategory": "Chupete",
+      "photo": "https://prod-mercadona.imgix.net/images/e88e718b878b7d64e3c9e5e43198fed7.jpg?fit=crop&h=300&w=300",
+      "price": "2.90",
+      "unit_size": 1.0,
       "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "14988",
-      "name": "Cerveza negra Ambar",
-      "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=300&w=300",
-      "price": "6.00",
-      "unit_size": 1.98,
+      "id": "18595",
+      "name": "Chupete silicona reversible tacto suave Deliplus +6 a 18 meses luminiscente",
+      "category": "Bebé",
+      "subcategory": "Chupete",
+      "photo": "https://prod-mercadona.imgix.net/images/4030012d222dfda6d195f44e96bc50a9.jpg?fit=crop&h=300&w=300",
+      "price": "2.90",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "35516",
+      "name": "Agua de colonia bebé Nenuco",
+      "category": "Bebé",
+      "subcategory": "Colonia",
+      "photo": "https://prod-mercadona.imgix.net/images/5ff603934a45cb735217009e38ba9f20.jpg?fit=crop&h=300&w=300",
+      "price": "2.85",
+      "unit_size": 0.5,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "53500",
+      "name": "Bacón Oscar Mayer lonchas",
+      "category": "Charcutería y quesos",
+      "subcategory": "Bacón",
+      "photo": "https://prod-mercadona.imgix.net/images/bd977d11a572cea8180647f16adfffdf.jpg?fit=crop&h=300&w=300",
+      "price": "2.35",
+      "unit_size": 0.15,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18424",
+      "name": "Chorizo extra pimienta Hacendado finas lonchas",
+      "category": "Charcutería y quesos",
+      "subcategory": "Chorizo",
+      "photo": "https://prod-mercadona.imgix.net/images/8f16b1f06c322672d20b07ba8874cb76.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.115,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18390",
+      "name": "Laca de uñas color & queratina Deliplus 159 lavanda",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/6b26f7d5833ced0f1aeb6b802395a556.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
       "size_format": "l",
       "packaging": null
     },
     {
-      "id": "14989",
-      "name": "Cerveza negra Ambar",
-      "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/90c766f8262424ede0ec978b95cd1a48.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.33,
+      "id": "18389",
+      "name": "Serum uñas & cutículas Double Action Deliplus suaviza e hidrata",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Cuidado de uñas y complementos",
+      "photo": "https://prod-mercadona.imgix.net/images/a285f73ad4baa966444799a79bf4ac72.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.0145,
       "size_format": "l",
-      "packaging": "Lata"
+      "packaging": null
     },
     {
-      "id": "13499",
-      "name": "Crema de calabaza Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/bac2668c48c9709038fd8723a17488c9.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.5,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "60308",
-      "name": "Crema de verduras Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/2ae243e8f790af2975eacc75f302b24d.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.5,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "18158",
-      "name": "Bollo bañado de chocolate y huevo con disquitos",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/30c633fb0366095acda3eb8c4bfd55f1.jpg?fit=crop&h=300&w=300",
-      "price": "2.25",
-      "unit_size": 0.16,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "82322",
-      "name": "Pan de molde blanco sin corteza Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/7931704a16106081eb2e0d81c340306c.jpg?fit=crop&h=300&w=300",
-      "price": "1.05",
-      "unit_size": 0.45,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "82324",
-      "name": "Pan de molde blanco familiar Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/84cbbb09e0aaec1b17a520a4b171247e.jpeg?fit=crop&h=300&w=300",
-      "price": "1.15",
-      "unit_size": 0.82,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13810",
-      "name": "Pan de molde blanco Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/37367d7a79c63686cbdb1cdad6b5e927.jpeg?fit=crop&h=300&w=300",
-      "price": "0.80",
-      "unit_size": 0.46,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "83886",
-      "name": "Pan de molde 100% integral familiar Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/bb4bc87dd5cde05303b1e222c2131fb0.jpg?fit=crop&h=300&w=300",
-      "price": "1.15",
-      "unit_size": 0.82,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "82328",
-      "name": "Pan de molde 100% integral Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/4257949726923aaa0bbdef3e1e90f753.jpg?fit=crop&h=300&w=300",
-      "price": "0.90",
-      "unit_size": 0.46,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "23643",
-      "name": "Pan de molde 100% integral sin corteza Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/3c3a0ceabc49c8022b255bb92751d3d5.jpeg?fit=crop&h=300&w=300",
-      "price": "1.10",
-      "unit_size": 0.45,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "23359",
-      "name": "Pan de molde blanco natural rústico Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/b3caa4e0c4f473a876c109b9ea69cd07.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 0.55,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "82326",
-      "name": "Pan de molde blanco rebanada gruesa Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/36c7da80953cdce669a40896b9b4acaf.jpeg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.82,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "86750",
-      "name": "Pan de molde cereales sin gluten Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/a8c90aab11776a9f62a00b0a10634ad7.jpg?fit=crop&h=300&w=300",
-      "price": "2.74",
-      "unit_size": 0.47,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "35711",
-      "name": "Pan de molde sin gluten blanco Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/4b2fd6f2a42c76ccb71db2be51fa7ec5.jpg?fit=crop&h=300&w=300",
-      "price": "2.74",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "18294",
-      "name": "Pan de molde integral con 20% avena 5% trigo sarraceno Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/f3ccd8c0b23f1583738c49f03fb2e254.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 0.55,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17809",
-      "name": "Hogaza 100% natural Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/abb2109d4d04510357ddc3d160a066bd.jpg?fit=crop&h=300&w=300",
-      "price": "1.95",
-      "unit_size": 0.4,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "83558",
-      "name": "Pan 5 semillas",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/a350fb1c5677d63b916ef0ecc3183df5.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "83560",
-      "name": "Barra de pan tradicional",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/25c4bc7eecd7bb503f2339aac9059af4.jpg?fit=crop&h=300&w=300",
-      "price": "1.28",
-      "unit_size": 0.7,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "14961",
-      "name": "Pan de molde espelta 100% integral Hacendado natural",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/174093fd98d687d6f3e191a0207cc828.jpg?fit=crop&h=300&w=300",
-      "price": "1.65",
-      "unit_size": 0.55,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "83869",
-      "name": "Pan de molde semillas y pipas de calabaza Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/2c503fa3d2fb1a21bf062e8a9b9affae.jpeg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 0.58,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "82302",
-      "name": "Pan de molde con 55% centeno Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/f9b68761bf2dfe1c91dabcb96b64afe5.jpg?fit=crop&h=300&w=300",
-      "price": "1.35",
-      "unit_size": 0.72,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "83547",
-      "name": "Pan de molde 12 cereales y semillas Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/bf669c3d9063dfe4e7ba8f105f36b704.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 0.68,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "82735",
-      "name": "Hogaza sin gluten",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/af38980c089d2ef99559f4ecaa47cc7d.jpg?fit=crop&h=300&w=300",
-      "price": "2.96",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "22899",
-      "name": "Pan Brioche Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/093aa5fd71175cc58f2cdecd129572cf.jpg?fit=crop&h=300&w=300",
+      "id": "5503",
+      "name": "Mandarina",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/efa3524806e6e2ec9b467a8214a726ab.jpeg?fit=crop&h=300&w=300",
       "price": "2.35",
-      "unit_size": 0.4,
+      "unit_size": 1.0,
       "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "30501",
+      "name": "Mandarinas",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/cb421f8ce6110b55d7d5496dc5ea58fd.jpeg?fit=crop&h=300&w=300",
+      "price": "4.13",
+      "unit_size": 1.5,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "3915",
+      "name": "Granada",
+      "category": "Fruta y verdura",
+      "subcategory": "Otras frutas",
+      "photo": "https://prod-mercadona.imgix.net/images/e51fbd5638b241e5e21e7af11b8f03b7.jpg?fit=crop&h=300&w=300",
+      "price": "1.59",
+      "unit_size": 0.53,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8841",
+      "name": "Escoba para interiores Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/0ea0855d7a41639ba27c273a9c78705d.jpg?fit=crop&h=300&w=300",
+      "price": "1.80",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "71403",
+      "name": "Fregona Microfibra Absorbente Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/0193fc9cf60e3a8661fda34775409fce.jpg?fit=crop&h=300&w=300",
+      "price": "2.80",
+      "unit_size": 2.0,
+      "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "23843",
-      "name": "Pan Bagel Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/043c6fcbfadeded3d49b292df2f1e624.jpg?fit=crop&h=300&w=300",
-      "price": "1.42",
-      "unit_size": 0.3,
-      "size_format": "kg",
+      "id": "71071",
+      "name": "Fregona Resistente y Absorbente Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/fdf84f35b894bddb92bbec9668128f74.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 2.0,
+      "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "35849",
-      "name": "Pan redondo sin gluten Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/a3a8bd862ae9048c2fb1b2c56523bcad.jpeg?fit=crop&h=300&w=300",
-      "price": "1.93",
-      "unit_size": 0.16,
-      "size_format": "kg",
+      "id": "71407",
+      "name": "Fregona Microfibra Resistente Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/eae38fc546d0975976d45e7547531fae.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "9369",
-      "name": "Media Hogaza integral de avena, semillas de girasol y sésamo Hacendado rebanado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Otros panes",
-      "photo": "https://prod-mercadona.imgix.net/images/411167ca6e14c8c0278906d3d559f83f.jpg?fit=crop&h=300&w=300",
-      "price": "0.95",
-      "unit_size": 0.35,
-      "size_format": "kg",
+      "id": "71154",
+      "name": "Escoba para exteriores Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/ae17ec455f1b8195e39abb5478c0d6a8.jpg?fit=crop&h=300&w=300",
+      "price": "2.60",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86836",
+      "name": "Mopa atrapa polvo Bosque Verde multiusos",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/e4d3f339f2c515f99477045afc84a908.jpg?fit=crop&h=300&w=300",
+      "price": "4.50",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": "Paquete"
+    },
+    {
+      "id": "71533",
+      "name": "Gamuzas atrapa polvo Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/1ae35728df80a90961898ca31112047d.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 30.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "71054",
+      "name": "Recambio mopa microfibra pequeño Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/300ece8725e384858516ccb2577d0d22.jpg?fit=crop&h=300&w=300",
+      "price": "4.90",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "48652",
+      "name": "Recogedor antivuelco con palo Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/0ab3e2ff9714c2aac646c4ac98fde3cd.jpg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86612",
+      "name": "Palo extensible antideslizante Bosque Verde 86 - 150 cm",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/3ea500f093a680be7537c7f44085986d.jpg?fit=crop&h=300&w=300",
+      "price": "2.80",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86611",
+      "name": "Palo antideslizante Bosque Verde 140 cm",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/2a8a666edaaee73702b610fde16cc072.jpg?fit=crop&h=300&w=300",
+      "price": "1.85",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "48649",
+      "name": "Cubo de basura mediano 30L Bosque Verde 30,2 x 30,5 x 41,9 cm",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/bac585d1fe04658151ae56ac1c6f3216.jpeg?fit=crop&h=300&w=300",
+      "price": "8.55",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "48651",
+      "name": "Cubo de basura pequeño 10L Bosque Verde 24,1 x 25 x 24,7 cm",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/c45e6a3d394d0965aa75e0b465dc9401.jpeg?fit=crop&h=300&w=300",
+      "price": "7.25",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86464",
+      "name": "Barreño ovalado 8,7L Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/2e78eaacb79f8c20cc4650e4fd729c7a.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "35920",
+      "name": "Cubo con ruedas 13L Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/f63566203f65e88e68108c4804e3f2e3.jpg?fit=crop&h=300&w=300",
+      "price": "3.70",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "35921",
+      "name": "Escurridor para cubo ovalado Bosque Verde escurrebien",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/ff02b286dd88b03e85ddfca541f8b0da.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "9900",
+      "name": "Pinzas de ropa Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/b208a7d252f854b33109e2087f8c8add.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 24.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "23363",
+      "name": "Rodillo quitapelusas Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/ebea367811e96ad3be33aeabc1ad7b4a.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86643",
+      "name": "Cepillo para lavar con asa Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/8cb656dde549f69a0e877bae56a28019.jpg?fit=crop&h=300&w=300",
+      "price": "1.95",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "89804",
+      "name": "Escobilla para WC Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/94d2a44e7c730345814bbcda5442e607.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
     }
   ],
-  "priceChangesCount": 78,
+  "priceChangesCount": 50,
   "priceChanges": [
     {
-      "id": "27291",
-      "name": "Agua mineral grande Lanjarón",
-      "oldPrice": "3.60",
-      "newPrice": "4.32"
+      "id": "60600",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "8.28",
+      "newPrice": "10.20"
     },
     {
-      "id": "27216",
-      "name": "Agua mineral grande Lanjarón",
-      "oldPrice": "0.63",
-      "newPrice": "0.75"
+      "id": "60980",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "0.72",
+      "newPrice": "0.85"
     },
     {
-      "id": "29608",
-      "name": "Bebida isotónica limón Aquarius",
-      "oldPrice": "1.91",
-      "newPrice": "2.10"
+      "id": "66413",
+      "name": "Cerveza Amstel",
+      "oldPrice": "4.92",
+      "newPrice": "6.36"
     },
     {
-      "id": "29609",
-      "name": "Bebida isotónica naranja Aquarius",
-      "oldPrice": "1.91",
-      "newPrice": "2.10"
+      "id": "3132",
+      "name": "Plátano macho",
+      "oldPrice": "0.81",
+      "newPrice": "0.78"
     },
     {
-      "id": "29612",
-      "name": "Bebida isotónica limón Aquarius zero azúcar",
-      "oldPrice": "1.69",
-      "newPrice": "2.10"
-    },
-    {
-      "id": "16438",
-      "name": "Bebida isotónica melocotón rojo Aquarius",
-      "oldPrice": "1.69",
-      "newPrice": "2.10"
-    },
-    {
-      "id": "28670",
-      "name": "Bebida energética Monster Energy Ultra zero azúcar",
-      "oldPrice": "5.28",
-      "newPrice": "6.68"
-    },
-    {
-      "id": "28119",
-      "name": "Bebida energética Monster Energy Ultra zero azúcar",
-      "oldPrice": "1.45",
-      "newPrice": "1.79"
-    },
-    {
-      "id": "28664",
-      "name": "Bebida energética Monster Energy",
-      "oldPrice": "5.28",
-      "newPrice": "6.68"
-    },
-    {
-      "id": "28016",
-      "name": "Bebida energética Monster Energy",
-      "oldPrice": "1.45",
-      "newPrice": "1.79"
-    },
-    {
-      "id": "13815",
-      "name": "Bebida energética Mango Loco Juiced Monster Energy",
-      "oldPrice": "5.28",
-      "newPrice": "6.68"
-    },
-    {
-      "id": "13814",
-      "name": "Bebida energética Mango Loco Juiced Monster Energy",
-      "oldPrice": "1.45",
-      "newPrice": "1.79"
-    },
-    {
-      "id": "27348",
-      "name": "Refresco Coca-Cola",
-      "oldPrice": "3.80",
-      "newPrice": "4.10"
-    },
-    {
-      "id": "27449",
-      "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "3.80",
-      "newPrice": "4.10"
-    },
-    {
-      "id": "28180",
-      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
-      "oldPrice": "3.80",
-      "newPrice": "4.10"
-    },
-    {
-      "id": "17542",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "2.98",
-      "newPrice": "3.60"
-    },
-    {
-      "id": "11688",
-      "name": "Refresco té sabor limón Fuze Tea",
-      "oldPrice": "1.49",
-      "newPrice": "1.99"
-    },
-    {
-      "id": "12151",
-      "name": "Chocolate con leche Milka",
-      "oldPrice": "1.95",
-      "newPrice": "1.25"
-    },
-    {
-      "id": "12016",
-      "name": "Chocolate con leche Milka galleta",
-      "oldPrice": "2.95",
-      "newPrice": "3.95"
-    },
-    {
-      "id": "28400",
-      "name": "Vermouth blanco Martini",
-      "oldPrice": "11.00",
-      "newPrice": "11.90"
-    },
-    {
-      "id": "28401",
-      "name": "Vermouth rojo Martini",
-      "oldPrice": "11.00",
-      "newPrice": "11.90"
-    },
-    {
-      "id": "19846",
-      "name": "Cacao soluble ColaCao original",
-      "oldPrice": "15.50",
-      "newPrice": "17.00"
-    },
-    {
-      "id": "11111",
-      "name": "Café soluble natural Nescafé classic",
-      "oldPrice": "4.75",
-      "newPrice": "5.40"
-    },
-    {
-      "id": "11104",
-      "name": "Café soluble descafeinado Nescafé classic",
-      "oldPrice": "4.75",
-      "newPrice": "5.40"
-    },
-    {
-      "id": "9210",
-      "name": "Cereales copos de maíz Corn Flakes Kellogg's",
-      "oldPrice": "2.50",
-      "newPrice": "3.00"
-    },
-    {
-      "id": "14133",
-      "name": "Barritas de galleta bañadas en chocolate con leche Chips Ahoy",
-      "oldPrice": "1.50",
-      "newPrice": "1.00"
-    },
-    {
-      "id": "63161",
-      "name": "Rabas empanadas Hacendado ultracongeladas",
-      "oldPrice": "4.15",
-      "newPrice": "4.05"
-    },
-    {
-      "id": "21545",
-      "name": "Mascarilla Hydra revitaliza Pantene cabello muy seco",
-      "oldPrice": "2.85",
-      "newPrice": "2.50"
-    },
-    {
-      "id": "21544",
-      "name": "Champú Hydra revitaliza Pantene cabello muy seco",
-      "oldPrice": "3.55",
-      "newPrice": "3.00"
-    },
-    {
-      "id": "3819",
-      "name": "Plátano de Canarias IGP",
-      "oldPrice": "0.40",
+      "id": "3119",
+      "name": "Pera Conferencia",
+      "oldPrice": "0.48",
       "newPrice": "0.45"
+    },
+    {
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "oldPrice": "0.40",
+      "newPrice": "0.38"
+    },
+    {
+      "id": "3021",
+      "name": "Manzana Granny Smith",
+      "oldPrice": "0.43",
+      "newPrice": "0.40"
+    },
+    {
+      "id": "3172",
+      "name": "Pera Limonera",
+      "oldPrice": "0.59",
+      "newPrice": "0.53"
+    },
+    {
+      "id": "8175",
+      "name": "Manzana roja acidulce",
+      "oldPrice": "0.58",
+      "newPrice": "0.50"
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "oldPrice": "4.39",
+      "newPrice": "4.37"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "oldPrice": "7.26",
+      "newPrice": "7.19"
+    },
+    {
+      "id": "3210",
+      "name": "Limón",
+      "oldPrice": "0.42",
+      "newPrice": "0.44"
+    },
+    {
+      "id": "3202",
+      "name": "Pomelo",
+      "oldPrice": "1.19",
+      "newPrice": "1.16"
+    },
+    {
+      "id": "3897",
+      "name": "Lima",
+      "oldPrice": "0.31",
+      "newPrice": "0.26"
+    },
+    {
+      "id": "3076",
+      "name": "Piña",
+      "oldPrice": "4.60",
+      "newPrice": "4.48"
+    },
+    {
+      "id": "3050",
+      "name": "Mango",
+      "oldPrice": "1.08",
+      "newPrice": "1.30"
+    },
+    {
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.20",
+      "newPrice": "3.15"
+    },
+    {
+      "id": "3649",
+      "name": "Ciruela amarilla",
+      "oldPrice": "0.57",
+      "newPrice": "0.61"
+    },
+    {
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.15",
+      "newPrice": "2.11"
+    },
+    {
+      "id": "69937",
+      "name": "Tomate ensalada",
+      "oldPrice": "0.55",
+      "newPrice": "0.58"
+    },
+    {
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.73",
+      "newPrice": "1.65"
+    },
+    {
+      "id": "69338",
+      "name": "Calabacín verde",
+      "oldPrice": "0.76",
+      "newPrice": "0.80"
+    },
+    {
+      "id": "69339",
+      "name": "Calabacín blanco",
+      "oldPrice": "0.92",
+      "newPrice": "0.88"
+    },
+    {
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.85",
+      "newPrice": "2.83"
+    },
+    {
+      "id": "69580",
+      "name": "Brócoli",
+      "oldPrice": "1.13",
+      "newPrice": "0.97"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.75",
+      "newPrice": "0.77"
+    },
+    {
+      "id": "69038",
+      "name": "Nabicol",
+      "oldPrice": "0.84",
+      "newPrice": "0.81"
+    },
+    {
+      "id": "81649.1",
+      "name": "Salmón a rodajas",
+      "oldPrice": "28.69",
+      "newPrice": "28.47"
+    },
+    {
+      "id": "81649.4",
+      "name": "Salmón media pieza a rodajas",
+      "oldPrice": "14.67",
+      "newPrice": "14.24"
+    },
+    {
+      "id": "81649.2",
+      "name": "Salmón abierto en libro sin cabeza y sin espina",
+      "oldPrice": "28.69",
+      "newPrice": "28.47"
     }
   ]
 }
