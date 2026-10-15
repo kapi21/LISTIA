@@ -1,520 +1,520 @@
 {
-  "lastSync": "2026-10-14T09:21:54.165622",
-  "totalProducts": 4284,
-  "newProductsCount": 187,
+  "lastSync": "2026-10-15T08:57:44.730798",
+  "totalProducts": 4025,
+  "newProductsCount": 50,
   "newProducts": [
     {
-      "id": "18594",
-      "name": "Chupete silicona reversible tacto suave Deliplus +0 a 6 meses",
+      "id": "21896",
+      "name": "Aceitunas verdes sin hueso Hacendado",
+      "category": "Aperitivos",
+      "subcategory": "Aceitunas verdes",
+      "photo": "https://prod-mercadona.imgix.net/images/12702dad1bb4fc1bbb9ac53afd2636e3.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.7,
+      "size_format": "kg",
+      "packaging": "Tarro"
+    },
+    {
+      "id": "18596",
+      "name": "Chupete silicona reversible tacto suave Deliplus +18 meses luminiscente",
       "category": "Bebé",
       "subcategory": "Chupete",
-      "photo": "https://prod-mercadona.imgix.net/images/e88e718b878b7d64e3c9e5e43198fed7.jpg?fit=crop&h=300&w=300",
+      "photo": "https://prod-mercadona.imgix.net/images/64d01ab5c409021c329a2ad03b9864f1.jpg?fit=crop&h=300&w=300",
       "price": "2.90",
       "unit_size": 1.0,
       "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "18595",
-      "name": "Chupete silicona reversible tacto suave Deliplus +6 a 18 meses luminiscente",
-      "category": "Bebé",
-      "subcategory": "Chupete",
-      "photo": "https://prod-mercadona.imgix.net/images/4030012d222dfda6d195f44e96bc50a9.jpg?fit=crop&h=300&w=300",
-      "price": "2.90",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "35516",
-      "name": "Agua de colonia bebé Nenuco",
-      "category": "Bebé",
-      "subcategory": "Colonia",
-      "photo": "https://prod-mercadona.imgix.net/images/5ff603934a45cb735217009e38ba9f20.jpg?fit=crop&h=300&w=300",
-      "price": "2.85",
-      "unit_size": 0.5,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "53500",
-      "name": "Bacón Oscar Mayer lonchas",
+      "id": "18444",
+      "name": "Bacón ahumado natural Oscar Mayer lonchas",
       "category": "Charcutería y quesos",
       "subcategory": "Bacón",
-      "photo": "https://prod-mercadona.imgix.net/images/bd977d11a572cea8180647f16adfffdf.jpg?fit=crop&h=300&w=300",
+      "photo": "https://prod-mercadona.imgix.net/images/50cacaf533085073aba9c6951979751f.jpg?fit=crop&h=300&w=300",
       "price": "2.35",
-      "unit_size": 0.15,
+      "unit_size": 0.16,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "18424",
-      "name": "Chorizo extra pimienta Hacendado finas lonchas",
+      "id": "20734",
+      "name": "Queso viejo intenso mezcla Hacendado",
       "category": "Charcutería y quesos",
-      "subcategory": "Chorizo",
-      "photo": "https://prod-mercadona.imgix.net/images/8f16b1f06c322672d20b07ba8874cb76.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.115,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "18390",
-      "name": "Laca de uñas color & queratina Deliplus 159 lavanda",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/6b26f7d5833ced0f1aeb6b802395a556.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "18389",
-      "name": "Serum uñas & cutículas Double Action Deliplus suaviza e hidrata",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Cuidado de uñas y complementos",
-      "photo": "https://prod-mercadona.imgix.net/images/a285f73ad4baa966444799a79bf4ac72.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.0145,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "5503",
-      "name": "Mandarina",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/efa3524806e6e2ec9b467a8214a726ab.jpeg?fit=crop&h=300&w=300",
-      "price": "2.35",
-      "unit_size": 1.0,
-      "size_format": "kg",
-      "packaging": "Malla"
-    },
-    {
-      "id": "30501",
-      "name": "Mandarinas",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/cb421f8ce6110b55d7d5496dc5ea58fd.jpeg?fit=crop&h=300&w=300",
-      "price": "4.13",
-      "unit_size": 1.5,
-      "size_format": "kg",
-      "packaging": null
-    },
-    {
-      "id": "3915",
-      "name": "Granada",
-      "category": "Fruta y verdura",
-      "subcategory": "Otras frutas",
-      "photo": "https://prod-mercadona.imgix.net/images/e51fbd5638b241e5e21e7af11b8f03b7.jpg?fit=crop&h=300&w=300",
-      "price": "1.59",
-      "unit_size": 0.53,
+      "subcategory": "Queso curado",
+      "photo": "https://prod-mercadona.imgix.net/images/854c4084e7290ddf20553356a6401739.jpg?fit=crop&h=300&w=300",
+      "price": "20.00",
+      "unit_size": 2.0,
       "size_format": "kg",
       "packaging": "Pieza"
     },
     {
-      "id": "8841",
-      "name": "Escoba para interiores Bosque Verde",
+      "id": "22233",
+      "name": "Spray oral Própolis Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Fitoterapia",
+      "photo": "https://prod-mercadona.imgix.net/images/7b7a1b899876dc2ab66a488f0298037e.jpeg?fit=crop&h=300&w=300",
+      "price": "3.60",
+      "unit_size": 0.02,
+      "size_format": "l",
+      "packaging": "Spray"
+    },
+    {
+      "id": "18237",
+      "name": "Lavavajillas Expert limón Calgonit en cápsulas",
       "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/0ea0855d7a41639ba27c273a9c78705d.jpg?fit=crop&h=300&w=300",
-      "price": "1.80",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/ec23ca80471b34489e018b6289db7cae.jpg?fit=crop&h=300&w=300",
+      "price": "4.25",
+      "unit_size": 0.305,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "80264",
+      "name": "Delineador de ojos Deliplus negro",
+      "category": "Maquillaje",
+      "subcategory": "Perfilador de ojos",
+      "photo": "https://prod-mercadona.imgix.net/images/a492ad5ba70672af6e26729a6efb7cc8.jpg?fit=crop&h=300&w=300",
+      "price": "3.75",
       "unit_size": 1.0,
       "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "71403",
-      "name": "Fregona Microfibra Absorbente Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/0193fc9cf60e3a8661fda34775409fce.jpg?fit=crop&h=300&w=300",
-      "price": "2.80",
-      "unit_size": 2.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "71071",
-      "name": "Fregona Resistente y Absorbente Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/fdf84f35b894bddb92bbec9668128f74.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
-      "unit_size": 2.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "71407",
-      "name": "Fregona Microfibra Resistente Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/eae38fc546d0975976d45e7547531fae.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "71154",
-      "name": "Escoba para exteriores Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/ae17ec455f1b8195e39abb5478c0d6a8.jpg?fit=crop&h=300&w=300",
-      "price": "2.60",
+      "id": "23524",
+      "name": "Perfilador de cejas Deliplus 02 marrón medio",
+      "category": "Maquillaje",
+      "subcategory": "Cejas",
+      "photo": "https://prod-mercadona.imgix.net/images/c593fcfa66db34727cc87460ff3e0320.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
       "unit_size": 1.0,
       "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "86836",
-      "name": "Mopa atrapa polvo Bosque Verde multiusos",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/e4d3f339f2c515f99477045afc84a908.jpg?fit=crop&h=300&w=300",
+      "id": "23525",
+      "name": "Perfilador de cejas Long Lasting Deliplus 03 oscuro",
+      "category": "Maquillaje",
+      "subcategory": "Cejas",
+      "photo": "https://prod-mercadona.imgix.net/images/2d62746986cca2a779b36b576c3f2126.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "52068",
+      "name": "Trozos de ternera, pavo y verduras  en salsa perro adulto Delikuit",
+      "category": "Mascotas",
+      "subcategory": "Alimentación húmeda",
+      "photo": "https://prod-mercadona.imgix.net/images/35e88198ada755d311dbc44a1106b2f4.jpg?fit=crop&h=300&w=300",
+      "price": "0.95",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Tarrina"
+    },
+    {
+      "id": "20356",
+      "name": "Tarta delicia de fresa Hacendado congelada",
+      "category": "Panadería y pastelería",
+      "subcategory": "Tartas",
+      "photo": "https://prod-mercadona.imgix.net/images/a49e6ed10cc95d429dff5ffd7a9c0f3a.jpg?fit=crop&h=300&w=300",
+      "price": "11.50",
+      "unit_size": 0.94,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "18416",
+      "name": "Tarta infantil deportes Hacendado congelada",
+      "category": "Panadería y pastelería",
+      "subcategory": "Tartas infantiles",
+      "photo": "https://prod-mercadona.imgix.net/images/9609a65302d1e135be5ea055f379d463.jpg?fit=crop&h=300&w=300",
+      "price": "13.80",
+      "unit_size": 1.57,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "13236",
+      "name": "Pollo teriyaki",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos calientes",
+      "photo": "https://prod-mercadona.imgix.net/images/6d5527d54fd9c0d634759c308779ff5e.jpeg?fit=crop&h=300&w=300",
+      "price": "5.00",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Bol"
+    },
+    {
+      "id": "13235",
+      "name": "Noodles Yakisoba con carne y verduras",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos calientes",
+      "photo": "https://prod-mercadona.imgix.net/images/fc26c39dd1a77b50d810307230fddeaa.jpeg?fit=crop&h=300&w=300",
       "price": "4.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Bol"
     },
     {
-      "id": "71533",
-      "name": "Gamuzas atrapa polvo Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/1ae35728df80a90961898ca31112047d.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 30.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
+      "id": "13243",
+      "name": "Salmón con verduras Listo para Comer",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos calientes",
+      "photo": "https://prod-mercadona.imgix.net/images/441868df8a6387963157125bf8b11519.jpeg?fit=crop&h=300&w=300",
+      "price": "5.75",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Bol"
     },
     {
-      "id": "71054",
-      "name": "Recambio mopa microfibra pequeño Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/300ece8725e384858516ccb2577d0d22.jpg?fit=crop&h=300&w=300",
-      "price": "4.90",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
+      "id": "17829",
+      "name": "Ñoquis pesto rojo Listo para Comer",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos calientes",
+      "photo": "https://prod-mercadona.imgix.net/images/bc7af592c2aee37666d8e93954c1d0d8.jpeg?fit=crop&h=300&w=300",
+      "price": "5.50",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Bol"
     },
     {
-      "id": "48652",
-      "name": "Recogedor antivuelco con palo Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/0ab3e2ff9714c2aac646c4ac98fde3cd.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "5561",
+      "name": "Ensaladilla rusa grande Listo para Comer",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/b2764487d4eea824e14721d474584f77.jpg?fit=crop&h=300&w=300",
+      "price": "12.00",
+      "unit_size": 1.75,
+      "size_format": "kg",
+      "packaging": "Bandeja"
     },
     {
-      "id": "86612",
-      "name": "Palo extensible antideslizante Bosque Verde 86 - 150 cm",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/3ea500f093a680be7537c7f44085986d.jpg?fit=crop&h=300&w=300",
-      "price": "2.80",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "60226",
+      "name": "Ensaladilla rusa mediana Listo para Comer",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/0d70a92075e9653e8719d81545beeca5.jpg?fit=crop&h=300&w=300",
+      "price": "6.50",
+      "unit_size": 0.58,
+      "size_format": "kg",
+      "packaging": "Bandeja"
     },
     {
-      "id": "86611",
-      "name": "Palo antideslizante Bosque Verde 140 cm",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/2a8a666edaaee73702b610fde16cc072.jpg?fit=crop&h=300&w=300",
-      "price": "1.85",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "60212",
+      "name": "Ensaladilla rusa pequeña Listo para Comer",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/53d8c3afc37ab0104735652ca1cbe512.jpeg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.29,
+      "size_format": "kg",
+      "packaging": "Bandeja"
     },
     {
-      "id": "48649",
-      "name": "Cubo de basura mediano 30L Bosque Verde 30,2 x 30,5 x 41,9 cm",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubos y barreños",
-      "photo": "https://prod-mercadona.imgix.net/images/bac585d1fe04658151ae56ac1c6f3216.jpeg?fit=crop&h=300&w=300",
-      "price": "8.55",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "13237",
+      "name": "Poke salmón",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/f6b031c42619fb91198aa9fe406c69a8.jpg?fit=crop&h=300&w=300",
+      "price": "5.50",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Bol"
     },
     {
-      "id": "48651",
-      "name": "Cubo de basura pequeño 10L Bosque Verde 24,1 x 25 x 24,7 cm",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubos y barreños",
-      "photo": "https://prod-mercadona.imgix.net/images/c45e6a3d394d0965aa75e0b465dc9401.jpeg?fit=crop&h=300&w=300",
-      "price": "7.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "13232",
+      "name": "Surtido sushi Bento grande",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/632e6a6d74137f0b872ac970f9cc12d8.jpg?fit=crop&h=300&w=300",
+      "price": "10.75",
+      "unit_size": 0.31,
+      "size_format": "kg",
+      "packaging": "Bandeja"
     },
     {
-      "id": "86464",
-      "name": "Barreño ovalado 8,7L Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubos y barreños",
-      "photo": "https://prod-mercadona.imgix.net/images/2e78eaacb79f8c20cc4650e4fd729c7a.jpg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "13233",
+      "name": "Surtido sushi Bento pequeño",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/5b3d69558d76a35d8edf3243f7c60d5d.jpg?fit=crop&h=300&w=300",
+      "price": "6.75",
+      "unit_size": 0.16,
+      "size_format": "kg",
+      "packaging": "Bandeja"
     },
     {
-      "id": "35920",
-      "name": "Cubo con ruedas 13L Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubos y barreños",
-      "photo": "https://prod-mercadona.imgix.net/images/f63566203f65e88e68108c4804e3f2e3.jpg?fit=crop&h=300&w=300",
-      "price": "3.70",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "13234",
+      "name": "Surtido sushi Bento mix",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/33dd4ed0bd6aa6d454326d9f8d1dd31b.jpg?fit=crop&h=300&w=300",
+      "price": "8.75",
+      "unit_size": 0.35,
+      "size_format": "kg",
+      "packaging": "Bandeja"
     },
     {
-      "id": "35921",
-      "name": "Escurridor para cubo ovalado Bosque Verde escurrebien",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubos y barreños",
-      "photo": "https://prod-mercadona.imgix.net/images/ff02b286dd88b03e85ddfca541f8b0da.jpg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
+      "id": "13250",
+      "name": "Ensaladilla de marisco Listo para Comer",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/165a109b7cfb24e44b03d1ca163298ab.jpg?fit=crop&h=300&w=300",
+      "price": "4.00",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Bol"
     },
     {
-      "id": "9900",
-      "name": "Pinzas de ropa Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Otros utensilios de limpieza",
-      "photo": "https://prod-mercadona.imgix.net/images/b208a7d252f854b33109e2087f8c8add.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 24.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
+      "id": "13242",
+      "name": "Ensalada de marisco Listo para Comer",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/0998c7ae9592a3f023f510c4a89431c3.jpeg?fit=crop&h=300&w=300",
+      "price": "5.50",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Bol"
     },
     {
-      "id": "23363",
-      "name": "Rodillo quitapelusas Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Otros utensilios de limpieza",
-      "photo": "https://prod-mercadona.imgix.net/images/ebea367811e96ad3be33aeabc1ad7b4a.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "86643",
-      "name": "Cepillo para lavar con asa Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Otros utensilios de limpieza",
-      "photo": "https://prod-mercadona.imgix.net/images/8cb656dde549f69a0e877bae56a28019.jpg?fit=crop&h=300&w=300",
-      "price": "1.95",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "89804",
-      "name": "Escobilla para WC Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Otros utensilios de limpieza",
-      "photo": "https://prod-mercadona.imgix.net/images/94d2a44e7c730345814bbcda5442e607.jpg?fit=crop&h=300&w=300",
+      "id": "13251",
+      "name": "Brioche Listo para Comer",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Platos fríos",
+      "photo": "https://prod-mercadona.imgix.net/images/98e2aa19fc128b651e97c34c8f75b47d.jpeg?fit=crop&h=300&w=300",
       "price": "3.00",
-      "unit_size": 1.0,
-      "size_format": "ud",
+      "unit_size": 0.16,
+      "size_format": "kg",
       "packaging": null
+    },
+    {
+      "id": "80782",
+      "name": "Ensaladilla Delicias del mar Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Ensaladilla",
+      "photo": "https://prod-mercadona.imgix.net/images/43a1461d20211d7bf5106f1632474d73.jpg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tarrina"
+    },
+    {
+      "id": "80795",
+      "name": "Ensaladilla rusa Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Ensaladilla",
+      "photo": "https://prod-mercadona.imgix.net/images/8a73d41f9830335429b49a5a88fb4944.jpg?fit=crop&h=300&w=300",
+      "price": "2.80",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Tarrina"
+    },
+    {
+      "id": "80784",
+      "name": "Ensaladilla rusa Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Ensaladilla",
+      "photo": "https://prod-mercadona.imgix.net/images/d1be7b52299fa0ce6308071004e6097f.jpeg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tarrina"
+    },
+    {
+      "id": "80781",
+      "name": "Ensaladilla americana Hacendado",
+      "category": "Pizzas y platos preparados",
+      "subcategory": "Ensaladilla",
+      "photo": "https://prod-mercadona.imgix.net/images/8e7447ad8e36b32641806bd962ef9c38.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tarrina"
     }
   ],
-  "priceChangesCount": 50,
+  "priceChangesCount": 58,
   "priceChanges": [
     {
-      "id": "60600",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "8.28",
-      "newPrice": "10.20"
+      "id": "5480",
+      "name": "Pepinillos agridulces Hacendado",
+      "oldPrice": "1.50",
+      "newPrice": "1.65"
     },
     {
-      "id": "60980",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "0.72",
-      "newPrice": "0.85"
+      "id": "14474",
+      "name": "Pepinillos agridulces Hacendado",
+      "oldPrice": "1.65",
+      "newPrice": "1.70"
     },
     {
-      "id": "66413",
-      "name": "Cerveza Amstel",
-      "oldPrice": "4.92",
-      "newPrice": "6.36"
+      "id": "17805",
+      "name": "Golosinas ojos rellenos Halloween Trolli Spooky Balls",
+      "oldPrice": "1.60",
+      "newPrice": "1.35"
     },
     {
-      "id": "3132",
-      "name": "Plátano macho",
-      "oldPrice": "0.81",
-      "newPrice": "0.78"
+      "id": "28724",
+      "name": "Licor de hierbas Jägermeister",
+      "oldPrice": "14.95",
+      "newPrice": "15.25"
     },
     {
-      "id": "3119",
-      "name": "Pera Conferencia",
-      "oldPrice": "0.48",
-      "newPrice": "0.45"
+      "id": "66746",
+      "name": "Tinto de verano sin alcohol limón Don Simón",
+      "oldPrice": "1.40",
+      "newPrice": "1.50"
     },
     {
-      "id": "8177",
-      "name": "Manzana roja dulce",
-      "oldPrice": "0.40",
-      "newPrice": "0.38"
+      "id": "66747",
+      "name": "Tinto de verano limón Don Simón",
+      "oldPrice": "1.40",
+      "newPrice": "1.50"
     },
     {
-      "id": "3021",
-      "name": "Manzana Granny Smith",
-      "oldPrice": "0.43",
-      "newPrice": "0.40"
+      "id": "6040",
+      "name": "Longaniza magro fresca",
+      "oldPrice": "3.21",
+      "newPrice": "3.10"
     },
     {
-      "id": "3172",
-      "name": "Pera Limonera",
-      "oldPrice": "0.59",
-      "newPrice": "0.53"
+      "id": "6044",
+      "name": "Butifarra fresca",
+      "oldPrice": "3.46",
+      "newPrice": "3.36"
     },
     {
-      "id": "8175",
-      "name": "Manzana roja acidulce",
-      "oldPrice": "0.58",
-      "newPrice": "0.50"
+      "id": "15604",
+      "name": "Gazpacho tradicional Hacendado",
+      "oldPrice": "1.50",
+      "newPrice": "1.60"
     },
     {
-      "id": "3515",
-      "name": "Medio melón piel de sapo",
-      "oldPrice": "4.39",
-      "newPrice": "4.37"
+      "id": "39900",
+      "name": "Gazpacho fresco Hacendado",
+      "oldPrice": "2.65",
+      "newPrice": "2.75"
     },
     {
-      "id": "3506",
-      "name": "Melón piel de sapo",
-      "oldPrice": "7.26",
-      "newPrice": "7.19"
+      "id": "39901",
+      "name": "Salmorejo fresco Hacendado",
+      "oldPrice": "2.90",
+      "newPrice": "3.00"
     },
     {
-      "id": "3210",
-      "name": "Limón",
-      "oldPrice": "0.42",
-      "newPrice": "0.44"
+      "id": "23067",
+      "name": "Enjuague bucal dientes y encías Listerine menta",
+      "oldPrice": "5.15",
+      "newPrice": "3.95"
     },
     {
-      "id": "3202",
-      "name": "Pomelo",
-      "oldPrice": "1.19",
-      "newPrice": "1.16"
-    },
-    {
-      "id": "3897",
-      "name": "Lima",
-      "oldPrice": "0.31",
-      "newPrice": "0.26"
-    },
-    {
-      "id": "3076",
-      "name": "Piña",
-      "oldPrice": "4.60",
-      "newPrice": "4.48"
-    },
-    {
-      "id": "3050",
-      "name": "Mango",
-      "oldPrice": "1.08",
-      "newPrice": "1.30"
-    },
-    {
-      "id": "3026",
-      "name": "Papaya",
-      "oldPrice": "3.20",
-      "newPrice": "3.15"
-    },
-    {
-      "id": "3649",
-      "name": "Ciruela amarilla",
-      "oldPrice": "0.57",
-      "newPrice": "0.61"
+      "id": "23066",
+      "name": "Enjuague bucal cuidado total Listerine menta",
+      "oldPrice": "5.15",
+      "newPrice": "3.95"
     },
     {
       "id": "69173",
       "name": "Yuca",
-      "oldPrice": "2.15",
-      "newPrice": "2.11"
+      "oldPrice": "2.11",
+      "newPrice": "2.18"
     },
     {
       "id": "69937",
       "name": "Tomate ensalada",
-      "oldPrice": "0.55",
-      "newPrice": "0.58"
+      "oldPrice": "0.58",
+      "newPrice": "0.60"
+    },
+    {
+      "id": "69968",
+      "name": "Tomate canario",
+      "oldPrice": "0.33",
+      "newPrice": "0.31"
     },
     {
       "id": "69487",
       "name": "Rama de Tomates",
-      "oldPrice": "1.73",
-      "newPrice": "1.65"
+      "oldPrice": "1.65",
+      "newPrice": "1.76"
+    },
+    {
+      "id": "69584",
+      "name": "Pepino",
+      "oldPrice": "0.37",
+      "newPrice": "0.36"
     },
     {
       "id": "69338",
       "name": "Calabacín verde",
-      "oldPrice": "0.76",
-      "newPrice": "0.80"
+      "oldPrice": "0.80",
+      "newPrice": "0.78"
     },
     {
       "id": "69339",
       "name": "Calabacín blanco",
-      "oldPrice": "0.92",
-      "newPrice": "0.88"
+      "oldPrice": "0.88",
+      "newPrice": "0.81"
     },
     {
       "id": "69220",
       "name": "Coliflor",
-      "oldPrice": "2.85",
-      "newPrice": "2.83"
+      "oldPrice": "2.83",
+      "newPrice": "2.70"
     },
     {
       "id": "69580",
       "name": "Brócoli",
-      "oldPrice": "1.13",
-      "newPrice": "0.97"
-    },
-    {
-      "id": "69326",
-      "name": "Berenjena",
-      "oldPrice": "0.75",
-      "newPrice": "0.77"
+      "oldPrice": "0.97",
+      "newPrice": "0.90"
     },
     {
       "id": "69038",
       "name": "Nabicol",
-      "oldPrice": "0.84",
-      "newPrice": "0.81"
+      "oldPrice": "0.81",
+      "newPrice": "0.78"
+    },
+    {
+      "id": "21993",
+      "name": "Detergente ropa todo en 1 Ariel Pods en cápsulas",
+      "oldPrice": "6.90",
+      "newPrice": "4.95"
+    },
+    {
+      "id": "42371",
+      "name": "Limpiamáquinas lavavajillas Finish líquido",
+      "oldPrice": "3.75",
+      "newPrice": "3.25"
     },
     {
       "id": "81649.1",
       "name": "Salmón a rodajas",
-      "oldPrice": "28.69",
-      "newPrice": "28.47"
+      "oldPrice": "28.47",
+      "newPrice": "27.16"
     },
     {
       "id": "81649.4",
       "name": "Salmón media pieza a rodajas",
-      "oldPrice": "14.67",
-      "newPrice": "14.24"
+      "oldPrice": "14.24",
+      "newPrice": "14.13"
     },
     {
       "id": "81649.2",
       "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "28.69",
-      "newPrice": "28.47"
+      "oldPrice": "28.47",
+      "newPrice": "27.16"
+    },
+    {
+      "id": "81649.5",
+      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
+      "oldPrice": "14.24",
+      "newPrice": "14.13"
+    },
+    {
+      "id": "81649.3",
+      "name": "Salmón sin aletas y sin escamas",
+      "oldPrice": "28.47",
+      "newPrice": "27.16"
     }
   ]
 }
