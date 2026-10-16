@@ -1,520 +1,520 @@
 {
-  "lastSync": "2026-10-15T08:57:44.730798",
-  "totalProducts": 4025,
-  "newProductsCount": 50,
+  "lastSync": "2026-10-16T08:49:25.689950",
+  "totalProducts": 4312,
+  "newProductsCount": 294,
   "newProducts": [
     {
-      "id": "21896",
-      "name": "Aceitunas verdes sin hueso Hacendado",
-      "category": "Aperitivos",
-      "subcategory": "Aceitunas verdes",
-      "photo": "https://prod-mercadona.imgix.net/images/12702dad1bb4fc1bbb9ac53afd2636e3.jpg?fit=crop&h=300&w=300",
+      "id": "17702",
+      "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chocolatinas",
+      "photo": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=300&w=300",
       "price": "2.20",
-      "unit_size": 0.7,
+      "unit_size": 0.2,
       "size_format": "kg",
-      "packaging": "Tarro"
-    },
-    {
-      "id": "18596",
-      "name": "Chupete silicona reversible tacto suave Deliplus +18 meses luminiscente",
-      "category": "Bebé",
-      "subcategory": "Chupete",
-      "photo": "https://prod-mercadona.imgix.net/images/64d01ab5c409021c329a2ad03b9864f1.jpg?fit=crop&h=300&w=300",
-      "price": "2.90",
-      "unit_size": 1.0,
-      "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "18444",
-      "name": "Bacón ahumado natural Oscar Mayer lonchas",
+      "id": "28757",
+      "name": "Ron dominicano añejo Ron Barceló",
+      "category": "Bodega",
+      "subcategory": "Ron",
+      "photo": "https://prod-mercadona.imgix.net/images/173328360545e9dd7886a059eace4cd3.jpg?fit=crop&h=300&w=300",
+      "price": "15.15",
+      "unit_size": 0.7,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "53500",
+      "name": "Bacón Oscar Mayer lonchas",
       "category": "Charcutería y quesos",
       "subcategory": "Bacón",
-      "photo": "https://prod-mercadona.imgix.net/images/50cacaf533085073aba9c6951979751f.jpg?fit=crop&h=300&w=300",
+      "photo": "https://prod-mercadona.imgix.net/images/bd977d11a572cea8180647f16adfffdf.jpg?fit=crop&h=300&w=300",
       "price": "2.35",
-      "unit_size": 0.16,
+      "unit_size": 0.15,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "20734",
-      "name": "Queso viejo intenso mezcla Hacendado",
-      "category": "Charcutería y quesos",
-      "subcategory": "Queso curado",
-      "photo": "https://prod-mercadona.imgix.net/images/854c4084e7290ddf20553356a6401739.jpg?fit=crop&h=300&w=300",
-      "price": "20.00",
-      "unit_size": 2.0,
+      "id": "14930",
+      "name": "Crema de calabacín Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/21e1acdab6e7f290087759fa1f7eef1d.jpeg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 0.5,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "8447",
+      "name": "Crema de marisco Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/0d8342773ae2a6bae230564c9ea13e55.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.5,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "17770",
+      "name": "Discos ácido salicílico Facial Clean purificantes y seborreguladores",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Limpieza de cara",
+      "photo": "https://prod-mercadona.imgix.net/images/02cbbb2a36d255cdd6c1627b797042cd.jpg?fit=crop&h=300&w=300",
+      "price": "4.00",
+      "unit_size": 50.0,
+      "size_format": "ud",
+      "packaging": "Bote"
+    },
+    {
+      "id": "3819",
+      "name": "Plátano de Canarias IGP",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=300&w=300",
+      "price": "0.45",
+      "unit_size": 0.16,
       "size_format": "kg",
       "packaging": "Pieza"
     },
     {
-      "id": "22233",
-      "name": "Spray oral Própolis Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Fitoterapia",
-      "photo": "https://prod-mercadona.imgix.net/images/7b7a1b899876dc2ab66a488f0298037e.jpeg?fit=crop&h=300&w=300",
-      "price": "3.60",
-      "unit_size": 0.02,
-      "size_format": "l",
-      "packaging": "Spray"
-    },
-    {
-      "id": "18237",
-      "name": "Lavavajillas Expert limón Calgonit en cápsulas",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpiavajilla a máquina",
-      "photo": "https://prod-mercadona.imgix.net/images/ec23ca80471b34489e018b6289db7cae.jpg?fit=crop&h=300&w=300",
-      "price": "4.25",
-      "unit_size": 0.305,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "80264",
-      "name": "Delineador de ojos Deliplus negro",
-      "category": "Maquillaje",
-      "subcategory": "Perfilador de ojos",
-      "photo": "https://prod-mercadona.imgix.net/images/a492ad5ba70672af6e26729a6efb7cc8.jpg?fit=crop&h=300&w=300",
-      "price": "3.75",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "23524",
-      "name": "Perfilador de cejas Deliplus 02 marrón medio",
-      "category": "Maquillaje",
-      "subcategory": "Cejas",
-      "photo": "https://prod-mercadona.imgix.net/images/c593fcfa66db34727cc87460ff3e0320.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "23525",
-      "name": "Perfilador de cejas Long Lasting Deliplus 03 oscuro",
-      "category": "Maquillaje",
-      "subcategory": "Cejas",
-      "photo": "https://prod-mercadona.imgix.net/images/2d62746986cca2a779b36b576c3f2126.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "52068",
-      "name": "Trozos de ternera, pavo y verduras  en salsa perro adulto Delikuit",
-      "category": "Mascotas",
-      "subcategory": "Alimentación húmeda",
-      "photo": "https://prod-mercadona.imgix.net/images/35e88198ada755d311dbc44a1106b2f4.jpg?fit=crop&h=300&w=300",
-      "price": "0.95",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Tarrina"
-    },
-    {
-      "id": "20356",
-      "name": "Tarta delicia de fresa Hacendado congelada",
-      "category": "Panadería y pastelería",
-      "subcategory": "Tartas",
-      "photo": "https://prod-mercadona.imgix.net/images/a49e6ed10cc95d429dff5ffd7a9c0f3a.jpg?fit=crop&h=300&w=300",
-      "price": "11.50",
-      "unit_size": 0.94,
-      "size_format": "kg",
-      "packaging": null
-    },
-    {
-      "id": "18416",
-      "name": "Tarta infantil deportes Hacendado congelada",
-      "category": "Panadería y pastelería",
-      "subcategory": "Tartas infantiles",
-      "photo": "https://prod-mercadona.imgix.net/images/9609a65302d1e135be5ea055f379d463.jpg?fit=crop&h=300&w=300",
-      "price": "13.80",
-      "unit_size": 1.57,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "13236",
-      "name": "Pollo teriyaki",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos calientes",
-      "photo": "https://prod-mercadona.imgix.net/images/6d5527d54fd9c0d634759c308779ff5e.jpeg?fit=crop&h=300&w=300",
-      "price": "5.00",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "13235",
-      "name": "Noodles Yakisoba con carne y verduras",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos calientes",
-      "photo": "https://prod-mercadona.imgix.net/images/fc26c39dd1a77b50d810307230fddeaa.jpeg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "13243",
-      "name": "Salmón con verduras Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos calientes",
-      "photo": "https://prod-mercadona.imgix.net/images/441868df8a6387963157125bf8b11519.jpeg?fit=crop&h=300&w=300",
-      "price": "5.75",
-      "unit_size": 0.4,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "17829",
-      "name": "Ñoquis pesto rojo Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos calientes",
-      "photo": "https://prod-mercadona.imgix.net/images/bc7af592c2aee37666d8e93954c1d0d8.jpeg?fit=crop&h=300&w=300",
-      "price": "5.50",
-      "unit_size": 0.4,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "5561",
-      "name": "Ensaladilla rusa grande Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/b2764487d4eea824e14721d474584f77.jpg?fit=crop&h=300&w=300",
-      "price": "12.00",
-      "unit_size": 1.75,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "60226",
-      "name": "Ensaladilla rusa mediana Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/0d70a92075e9653e8719d81545beeca5.jpg?fit=crop&h=300&w=300",
-      "price": "6.50",
-      "unit_size": 0.58,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "60212",
-      "name": "Ensaladilla rusa pequeña Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/53d8c3afc37ab0104735652ca1cbe512.jpeg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.29,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "13237",
-      "name": "Poke salmón",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/f6b031c42619fb91198aa9fe406c69a8.jpg?fit=crop&h=300&w=300",
-      "price": "5.50",
-      "unit_size": 0.4,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "13232",
-      "name": "Surtido sushi Bento grande",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/632e6a6d74137f0b872ac970f9cc12d8.jpg?fit=crop&h=300&w=300",
-      "price": "10.75",
-      "unit_size": 0.31,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "13233",
-      "name": "Surtido sushi Bento pequeño",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/5b3d69558d76a35d8edf3243f7c60d5d.jpg?fit=crop&h=300&w=300",
-      "price": "6.75",
+      "id": "3824",
+      "name": "Banana",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/69edef3541bbf3f4b7173c9d617a5698.jpg?fit=crop&h=300&w=300",
+      "price": "0.20",
       "unit_size": 0.16,
       "size_format": "kg",
-      "packaging": "Bandeja"
+      "packaging": "Pieza"
     },
     {
-      "id": "13234",
-      "name": "Surtido sushi Bento mix",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/33dd4ed0bd6aa6d454326d9f8d1dd31b.jpg?fit=crop&h=300&w=300",
-      "price": "8.75",
-      "unit_size": 0.35,
+      "id": "3132",
+      "name": "Plátano macho",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/c22baa2a17de06fbf8477ef25392b7ca.jpg?fit=crop&h=300&w=300",
+      "price": "0.81",
+      "unit_size": 0.28,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3313",
+      "name": "Uva blanca sin semillas",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=300&w=300",
+      "price": "2.16",
+      "unit_size": 0.6,
       "size_format": "kg",
       "packaging": "Bandeja"
     },
     {
-      "id": "13250",
-      "name": "Ensaladilla de marisco Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/165a109b7cfb24e44b03d1ca163298ab.jpg?fit=crop&h=300&w=300",
-      "price": "4.00",
-      "unit_size": 0.25,
+      "id": "3321",
+      "name": "Uva roja sin semillas",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/1d074082d78bd3883eece473526a79bb.jpeg?fit=crop&h=300&w=300",
+      "price": "2.16",
+      "unit_size": 0.6,
       "size_format": "kg",
-      "packaging": "Bol"
+      "packaging": "Bandeja"
     },
     {
-      "id": "13242",
-      "name": "Ensalada de marisco Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/0998c7ae9592a3f023f510c4a89431c3.jpeg?fit=crop&h=300&w=300",
-      "price": "5.50",
-      "unit_size": 0.3,
+      "id": "3028",
+      "name": "Manzana Golden",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=300&w=300",
+      "price": "0.40",
+      "unit_size": 0.2,
       "size_format": "kg",
-      "packaging": "Bol"
+      "packaging": "Pieza"
     },
     {
-      "id": "13251",
-      "name": "Brioche Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos fríos",
-      "photo": "https://prod-mercadona.imgix.net/images/98e2aa19fc128b651e97c34c8f75b47d.jpeg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 0.16,
+      "id": "3269",
+      "name": "Manzanas Golden",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/022fa8e1cd6c9d9ee18a41ed06d71c35.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 1.5,
       "size_format": "kg",
       "packaging": null
     },
     {
-      "id": "80782",
-      "name": "Ensaladilla Delicias del mar Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Ensaladilla",
-      "photo": "https://prod-mercadona.imgix.net/images/43a1461d20211d7bf5106f1632474d73.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.25,
+      "id": "3119",
+      "name": "Pera Conferencia",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=300&w=300",
+      "price": "0.45",
+      "unit_size": 0.18,
       "size_format": "kg",
-      "packaging": "Tarrina"
+      "packaging": "Pieza"
     },
     {
-      "id": "80795",
-      "name": "Ensaladilla rusa Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Ensaladilla",
-      "photo": "https://prod-mercadona.imgix.net/images/8a73d41f9830335429b49a5a88fb4944.jpg?fit=crop&h=300&w=300",
-      "price": "2.80",
-      "unit_size": 0.5,
+      "id": "14470",
+      "name": "Peras Conferencia",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/158b08c139cba5362b335f8b0a715cc8.jpeg?fit=crop&h=300&w=300",
+      "price": "2.46",
+      "unit_size": 1.07,
       "size_format": "kg",
-      "packaging": "Tarrina"
+      "packaging": null
     },
     {
-      "id": "80784",
-      "name": "Ensaladilla rusa Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Ensaladilla",
-      "photo": "https://prod-mercadona.imgix.net/images/d1be7b52299fa0ce6308071004e6097f.jpeg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.25,
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=300&w=300",
+      "price": "0.38",
+      "unit_size": 0.19,
       "size_format": "kg",
-      "packaging": "Tarrina"
+      "packaging": "Pieza"
     },
     {
-      "id": "80781",
-      "name": "Ensaladilla americana Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Ensaladilla",
-      "photo": "https://prod-mercadona.imgix.net/images/8e7447ad8e36b32641806bd962ef9c38.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.25,
+      "id": "8280",
+      "name": "Manzanas rojas dulces",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/87f801433e34719ba9bdc226616e7511.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 1.5,
       "size_format": "kg",
-      "packaging": "Tarrina"
+      "packaging": null
+    },
+    {
+      "id": "3170",
+      "name": "Pera Ercolina",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/533ebe592abe9ee9a6b79cb1b3a7e8ed.jpg?fit=crop&h=300&w=300",
+      "price": "0.29",
+      "unit_size": 0.1,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3021",
+      "name": "Manzana Granny Smith",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/fea3470bee0679f0e081916ec48c0b36.jpg?fit=crop&h=300&w=300",
+      "price": "0.43",
+      "unit_size": 0.17,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3172",
+      "name": "Pera Limonera",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/dfb3b85109390b0bb0aab4f838c5ba89.jpg?fit=crop&h=300&w=300",
+      "price": "0.48",
+      "unit_size": 0.17,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8175",
+      "name": "Manzana roja acidulce",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/22301daf320667073b7662206e508c36.jpg?fit=crop&h=300&w=300",
+      "price": "0.48",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8268",
+      "name": "Manzanas rojas acidulces",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpg?fit=crop&h=300&w=300",
+      "price": "3.40",
+      "unit_size": 1.62,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "category": "Fruta y verdura",
+      "subcategory": "Melón y sandía",
+      "photo": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=300&w=300",
+      "price": "4.29",
+      "unit_size": 1.65,
+      "size_format": "kg",
+      "packaging": "1/2 Pieza"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "category": "Fruta y verdura",
+      "subcategory": "Melón y sandía",
+      "photo": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=300&w=300",
+      "price": "7.26",
+      "unit_size": 3.3,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3236",
+      "name": "Limones",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/71af62c5aab9056773f8934f4dce3768.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "3210",
+      "name": "Limón",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/dde3a9f03e3b8abc1ebf690a29c9631d.jpg?fit=crop&h=300&w=300",
+      "price": "0.47",
+      "unit_size": 0.18,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3238",
+      "name": "Mandarina",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/7fde4546900f0fbd38e02be6cc4ea6ed.jpg?fit=crop&h=300&w=300",
+      "price": "0.33",
+      "unit_size": 0.13,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "5503",
+      "name": "Mandarina",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/efa3524806e6e2ec9b467a8214a726ab.jpeg?fit=crop&h=300&w=300",
+      "price": "2.35",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "30501",
+      "name": "Mandarinas",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/cb421f8ce6110b55d7d5496dc5ea58fd.jpeg?fit=crop&h=300&w=300",
+      "price": "4.13",
+      "unit_size": 1.5,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "3235",
+      "name": "Naranja de mesa",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/e9ff28c3b115649df7138f0f51dd1f9f.jpg?fit=crop&h=300&w=300",
+      "price": "0.93",
+      "unit_size": 0.37,
+      "size_format": "kg",
+      "packaging": "Pieza"
     }
   ],
-  "priceChangesCount": 58,
+  "priceChangesCount": 42,
   "priceChanges": [
     {
-      "id": "5480",
-      "name": "Pepinillos agridulces Hacendado",
-      "oldPrice": "1.50",
-      "newPrice": "1.65"
+      "id": "27314",
+      "name": "Agua mineral grande Bezoya",
+      "oldPrice": "4.14",
+      "newPrice": "4.50"
     },
     {
-      "id": "14474",
-      "name": "Pepinillos agridulces Hacendado",
-      "oldPrice": "1.65",
-      "newPrice": "1.70"
+      "id": "27230",
+      "name": "Agua mineral grande Bezoya",
+      "oldPrice": "0.69",
+      "newPrice": "0.75"
     },
     {
-      "id": "17805",
-      "name": "Golosinas ojos rellenos Halloween Trolli Spooky Balls",
-      "oldPrice": "1.60",
-      "newPrice": "1.35"
+      "id": "12471",
+      "name": "Bombones delicias de avellana Delizze Hacendado",
+      "oldPrice": "4.20",
+      "newPrice": "3.70"
     },
     {
-      "id": "28724",
-      "name": "Licor de hierbas Jägermeister",
-      "oldPrice": "14.95",
-      "newPrice": "15.25"
+      "id": "9826",
+      "name": "Cerveza especial Mahou",
+      "oldPrice": "8.40",
+      "newPrice": "6.70"
     },
     {
-      "id": "66746",
-      "name": "Tinto de verano sin alcohol limón Don Simón",
-      "oldPrice": "1.40",
-      "newPrice": "1.50"
+      "id": "86046",
+      "name": "Cerveza Amstel",
+      "oldPrice": "9.54",
+      "newPrice": "7.74"
     },
     {
-      "id": "66747",
-      "name": "Tinto de verano limón Don Simón",
-      "oldPrice": "1.40",
-      "newPrice": "1.50"
+      "id": "28069",
+      "name": "Cerveza Amstel",
+      "oldPrice": "1.59",
+      "newPrice": "1.29"
     },
     {
-      "id": "6040",
-      "name": "Longaniza magro fresca",
-      "oldPrice": "3.21",
-      "newPrice": "3.10"
+      "id": "66587",
+      "name": "Cerveza especial Estrella Galicia",
+      "oldPrice": "8.16",
+      "newPrice": "7.32"
     },
     {
-      "id": "6044",
-      "name": "Butifarra fresca",
-      "oldPrice": "3.46",
-      "newPrice": "3.36"
+      "id": "21497",
+      "name": "Cerveza extra 1906 reserva especial",
+      "oldPrice": "4.60",
+      "newPrice": "5.00"
     },
     {
-      "id": "15604",
-      "name": "Gazpacho tradicional Hacendado",
-      "oldPrice": "1.50",
-      "newPrice": "1.60"
+      "id": "69066",
+      "name": "Patata",
+      "oldPrice": "0.48",
+      "newPrice": "0.49"
     },
     {
-      "id": "39900",
-      "name": "Gazpacho fresco Hacendado",
-      "oldPrice": "2.65",
-      "newPrice": "2.75"
-    },
-    {
-      "id": "39901",
-      "name": "Salmorejo fresco Hacendado",
-      "oldPrice": "2.90",
-      "newPrice": "3.00"
-    },
-    {
-      "id": "23067",
-      "name": "Enjuague bucal dientes y encías Listerine menta",
-      "oldPrice": "5.15",
-      "newPrice": "3.95"
-    },
-    {
-      "id": "23066",
-      "name": "Enjuague bucal cuidado total Listerine menta",
-      "oldPrice": "5.15",
-      "newPrice": "3.95"
+      "id": "69239",
+      "name": "Batata",
+      "oldPrice": "1.07",
+      "newPrice": "1.05"
     },
     {
       "id": "69173",
       "name": "Yuca",
-      "oldPrice": "2.11",
-      "newPrice": "2.18"
+      "oldPrice": "2.18",
+      "newPrice": "2.05"
     },
     {
       "id": "69937",
       "name": "Tomate ensalada",
-      "oldPrice": "0.58",
-      "newPrice": "0.60"
-    },
-    {
-      "id": "69968",
-      "name": "Tomate canario",
-      "oldPrice": "0.33",
-      "newPrice": "0.31"
+      "oldPrice": "0.60",
+      "newPrice": "0.58"
     },
     {
       "id": "69487",
       "name": "Rama de Tomates",
-      "oldPrice": "1.65",
-      "newPrice": "1.76"
+      "oldPrice": "1.76",
+      "newPrice": "1.84"
     },
     {
       "id": "69584",
       "name": "Pepino",
-      "oldPrice": "0.37",
-      "newPrice": "0.36"
+      "oldPrice": "0.36",
+      "newPrice": "0.37"
     },
     {
       "id": "69338",
       "name": "Calabacín verde",
-      "oldPrice": "0.80",
-      "newPrice": "0.78"
-    },
-    {
-      "id": "69339",
-      "name": "Calabacín blanco",
-      "oldPrice": "0.88",
-      "newPrice": "0.81"
+      "oldPrice": "0.78",
+      "newPrice": "0.74"
     },
     {
       "id": "69220",
       "name": "Coliflor",
-      "oldPrice": "2.83",
-      "newPrice": "2.70"
-    },
-    {
-      "id": "69580",
-      "name": "Brócoli",
-      "oldPrice": "0.97",
-      "newPrice": "0.90"
+      "oldPrice": "2.70",
+      "newPrice": "2.63"
     },
     {
       "id": "69038",
       "name": "Nabicol",
-      "oldPrice": "0.81",
-      "newPrice": "0.78"
+      "oldPrice": "0.78",
+      "newPrice": "0.81"
     },
     {
-      "id": "21993",
-      "name": "Detergente ropa todo en 1 Ariel Pods en cápsulas",
-      "oldPrice": "6.90",
-      "newPrice": "4.95"
-    },
-    {
-      "id": "42371",
-      "name": "Limpiamáquinas lavavajillas Finish líquido",
-      "oldPrice": "3.75",
-      "newPrice": "3.25"
+      "id": "16830",
+      "name": "Detergente ropa Ariel líquido",
+      "oldPrice": "5.95",
+      "newPrice": "7.95"
     },
     {
       "id": "81649.1",
       "name": "Salmón a rodajas",
-      "oldPrice": "28.47",
-      "newPrice": "27.16"
+      "oldPrice": "27.16",
+      "newPrice": "28.25"
     },
     {
       "id": "81649.4",
       "name": "Salmón media pieza a rodajas",
-      "oldPrice": "14.24",
-      "newPrice": "14.13"
+      "oldPrice": "14.13",
+      "newPrice": "14.24"
     },
     {
       "id": "81649.2",
       "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "28.47",
-      "newPrice": "27.16"
+      "oldPrice": "27.16",
+      "newPrice": "28.25"
     },
     {
       "id": "81649.5",
       "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "14.24",
-      "newPrice": "14.13"
+      "oldPrice": "14.13",
+      "newPrice": "14.24"
     },
     {
       "id": "81649.3",
       "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "28.47",
-      "newPrice": "27.16"
+      "oldPrice": "27.16",
+      "newPrice": "28.25"
+    },
+    {
+      "id": "81649.6",
+      "name": "Salmón media pieza sin aletas y sin escamas",
+      "oldPrice": "14.13",
+      "newPrice": "14.24"
+    },
+    {
+      "id": "81234.1",
+      "name": "Dorada limpia con cabeza",
+      "oldPrice": "5.32",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81234.2",
+      "name": "Dorada abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "5.32",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81234.5",
+      "name": "Dorada a filetes sin cabeza y sin espina",
+      "oldPrice": "5.32",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81234.4",
+      "name": "Dorada abierta en libro sin cabeza y sin espina",
+      "oldPrice": "5.32",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81234.3",
+      "name": "Dorada sin limpiar",
+      "oldPrice": "5.32",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81241.1",
+      "name": "Lubina limpia con cabeza",
+      "oldPrice": "4.58",
+      "newPrice": "4.68"
     }
   ]
 }
