@@ -1,520 +1,388 @@
 {
-  "lastSync": "2026-10-16T08:49:25.689950",
-  "totalProducts": 4312,
-  "newProductsCount": 294,
+  "lastSync": "2026-10-17T08:19:50.085261",
+  "totalProducts": 4306,
+  "newProductsCount": 18,
   "newProducts": [
     {
-      "id": "17702",
-      "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Chocolatinas",
-      "photo": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=300&w=300",
-      "price": "2.20",
-      "unit_size": 0.2,
+      "id": "52783",
+      "name": "Aceitunas verdes Hacendado con hueso",
+      "category": "Aperitivos",
+      "subcategory": "Aceitunas verdes",
+      "photo": "https://prod-mercadona.imgix.net/images/22637e82eac1811ee52024f145920efc.jpg?fit=crop&h=300&w=300",
+      "price": "2.85",
+      "unit_size": 0.935,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Tarro"
     },
     {
-      "id": "28757",
-      "name": "Ron dominicano añejo Ron Barceló",
+      "id": "18734",
+      "name": "Licor de Roditas Royal Swan",
       "category": "Bodega",
-      "subcategory": "Ron",
-      "photo": "https://prod-mercadona.imgix.net/images/173328360545e9dd7886a059eace4cd3.jpg?fit=crop&h=300&w=300",
-      "price": "15.15",
+      "subcategory": "Otros licores",
+      "photo": "https://prod-mercadona.imgix.net/images/7cf0712757606c12f30db97c3963a3e7.jpg?fit=crop&h=300&w=300",
+      "price": "6.35",
       "unit_size": 0.7,
       "size_format": "l",
       "packaging": "Botella"
     },
     {
-      "id": "53500",
-      "name": "Bacón Oscar Mayer lonchas",
+      "id": "18698",
+      "name": "Tinto de verano limón Don Simón",
+      "category": "Bodega",
+      "subcategory": "Tinto de verano y sangría",
+      "photo": "https://prod-mercadona.imgix.net/images/c5b2eed9caa8d7eef5b33a0aaf9f8698.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 3.0,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "18699",
+      "name": "Tinto de verano sin alcohol limón Don Simón",
+      "category": "Bodega",
+      "subcategory": "Tinto de verano y sangría",
+      "photo": "https://prod-mercadona.imgix.net/images/4158b67ecaf01c389afdeb8617824b22.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 3.0,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "51504",
+      "name": "Queso en porciones mini Babybel",
       "category": "Charcutería y quesos",
-      "subcategory": "Bacón",
-      "photo": "https://prod-mercadona.imgix.net/images/bd977d11a572cea8180647f16adfffdf.jpg?fit=crop&h=300&w=300",
-      "price": "2.35",
-      "unit_size": 0.15,
+      "subcategory": "Queso en porciones",
+      "photo": "https://prod-mercadona.imgix.net/images/0268b22955184deb0c53b6b022b45608.jpg?fit=crop&h=300&w=300",
+      "price": "3.90",
+      "unit_size": 0.16,
       "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "18151",
+      "name": "Caldo de pollo con jamón ibérico Gourmet Gallina blanca",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Caldo líquido",
+      "photo": "https://prod-mercadona.imgix.net/images/c5688b486a313a8a563fe367d4138f7a.jpg?fit=crop&h=300&w=300",
+      "price": "1.95",
+      "unit_size": 1.0,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "18422",
+      "name": "Ambientador Azul armarios y cajones Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Ambientador decorativo y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/157e3b458fdcf49c578f189baff504ac.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "14930",
-      "name": "Crema de calabacín Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/21e1acdab6e7f290087759fa1f7eef1d.jpeg?fit=crop&h=300&w=300",
+      "id": "35377",
+      "name": "Brillo de labios Volumizer gloss Deliplus 01 transparente",
+      "category": "Maquillaje",
+      "subcategory": "Pintalabios cremoso y brillos",
+      "photo": "https://prod-mercadona.imgix.net/images/11568c09b981ee6d31f84e126f8b86cd.jpg?fit=crop&h=300&w=300",
+      "price": "5.00",
+      "unit_size": 0.004,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "39216",
+      "name": "Zumo de melocotón y uva Hacendado",
+      "category": "Zumos",
+      "subcategory": "Melocotón",
+      "photo": "https://prod-mercadona.imgix.net/images/66dc19715816816baec5fbf963bee7fa.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.2,
+      "size_format": "l",
+      "packaging": "Pack-6"
+    },
+    {
+      "id": "8247",
+      "name": "Bebida de melocotón Hacendado sin azúcares añadidos",
+      "category": "Zumos",
+      "subcategory": "Melocotón",
+      "photo": "https://prod-mercadona.imgix.net/images/f678485edb09150dee942e3f9e3ae07b.jpg?fit=crop&h=300&w=300",
       "price": "1.00",
-      "unit_size": 0.5,
+      "unit_size": 1.0,
       "size_format": "l",
       "packaging": "Brik"
     },
     {
-      "id": "8447",
-      "name": "Crema de marisco Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/0d8342773ae2a6bae230564c9ea13e55.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.5,
+      "id": "8248",
+      "name": "Bebida de melocotón Hacendado sin azúcares añadidos",
+      "category": "Zumos",
+      "subcategory": "Melocotón",
+      "photo": "https://prod-mercadona.imgix.net/images/1630f8437f4370ac6557d9ee7f6ee859.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.2,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "39129",
+      "name": "Zumo de piña y uva Hacendado",
+      "category": "Zumos",
+      "subcategory": "Piña",
+      "photo": "https://prod-mercadona.imgix.net/images/d8dd70c608c6bf3aaebdc10b5f6c53bf.jpg?fit=crop&h=300&w=300",
+      "price": "1.20",
+      "unit_size": 1.0,
       "size_format": "l",
       "packaging": "Brik"
     },
     {
-      "id": "17770",
-      "name": "Discos ácido salicílico Facial Clean purificantes y seborreguladores",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Limpieza de cara",
-      "photo": "https://prod-mercadona.imgix.net/images/02cbbb2a36d255cdd6c1627b797042cd.jpg?fit=crop&h=300&w=300",
-      "price": "4.00",
-      "unit_size": 50.0,
-      "size_format": "ud",
-      "packaging": "Bote"
+      "id": "39130",
+      "name": "Zumo de piña y uva Hacendado",
+      "category": "Zumos",
+      "subcategory": "Piña",
+      "photo": "https://prod-mercadona.imgix.net/images/ed323a439124a96f84da691c64cc48af.jpg?fit=crop&h=300&w=300",
+      "price": "1.65",
+      "unit_size": 1.2,
+      "size_format": "l",
+      "packaging": "Pack-6"
     },
     {
-      "id": "3819",
-      "name": "Plátano de Canarias IGP",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=300&w=300",
-      "price": "0.45",
-      "unit_size": 0.16,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "id": "39119",
+      "name": "Bebida de piña Hacendado sin azúcares añadidos",
+      "category": "Zumos",
+      "subcategory": "Piña",
+      "photo": "https://prod-mercadona.imgix.net/images/33ca00ae12574c8e7b9833ddade5c1f8.jpg?fit=crop&h=300&w=300",
+      "price": "0.95",
+      "unit_size": 1.0,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "39106",
+      "name": "Bebida de piña Hacendado sin azúcares añadidos",
+      "category": "Zumos",
+      "subcategory": "Piña",
+      "photo": "https://prod-mercadona.imgix.net/images/f824c29e5b1ce63eec029d4c34caa3ef.jpg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 1.2,
+      "size_format": "l",
+      "packaging": "Pack-6"
+    },
+    {
+      "id": "39191",
+      "name": "Zumo de piña Hacendado",
+      "category": "Zumos",
+      "subcategory": "Piña",
+      "photo": "https://prod-mercadona.imgix.net/images/6c7aa9b054839aab255d1547ca3f0f3f.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 1.0,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "39946",
+      "name": "Zumo de piña selección Hacendado",
+      "category": "Zumos",
+      "subcategory": "Piña",
+      "photo": "https://prod-mercadona.imgix.net/images/c05ef36a942b580893777db0ae4af7cc.jpg?fit=crop&h=300&w=300",
+      "price": "2.60",
+      "unit_size": 1.0,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "39100",
+      "name": "Néctar de piña La Verja",
+      "category": "Zumos",
+      "subcategory": "Piña",
+      "photo": "https://prod-mercadona.imgix.net/images/94bec43b3562a298f317e140ac71f145.jpg?fit=crop&h=300&w=300",
+      "price": "1.80",
+      "unit_size": 1.5,
+      "size_format": "l",
+      "packaging": "Botella"
+    }
+  ],
+  "priceChangesCount": 53,
+  "priceChanges": [
+    {
+      "id": "52728",
+      "name": "Mayonesa Hacendado",
+      "oldPrice": "1.00",
+      "newPrice": "1.05"
+    },
+    {
+      "id": "11550",
+      "name": "Mayonesa Hacendado",
+      "oldPrice": "1.40",
+      "newPrice": "1.45"
+    },
+    {
+      "id": "23816",
+      "name": "Mayonesa en sobres individuales Hacendado",
+      "oldPrice": "1.40",
+      "newPrice": "1.50"
+    },
+    {
+      "id": "21742",
+      "name": "Cerveza Radler Steinburg con zumo natural de limón",
+      "oldPrice": "3.69",
+      "newPrice": "3.87"
+    },
+    {
+      "id": "21743",
+      "name": "Cerveza Radler Steinburg con zumo natural de limón",
+      "oldPrice": "0.41",
+      "newPrice": "0.43"
+    },
+    {
+      "id": "21746",
+      "name": "Cerveza 0,0% sin alcohol Falke",
+      "oldPrice": "3.48",
+      "newPrice": "3.60"
+    },
+    {
+      "id": "21747",
+      "name": "Cerveza 0,0% sin alcohol Falke",
+      "oldPrice": "0.29",
+      "newPrice": "0.30"
     },
     {
       "id": "3824",
       "name": "Banana",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/69edef3541bbf3f4b7173c9d617a5698.jpg?fit=crop&h=300&w=300",
-      "price": "0.20",
-      "unit_size": 0.16,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "3132",
-      "name": "Plátano macho",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/c22baa2a17de06fbf8477ef25392b7ca.jpg?fit=crop&h=300&w=300",
-      "price": "0.81",
-      "unit_size": 0.28,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "3313",
-      "name": "Uva blanca sin semillas",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=300&w=300",
-      "price": "2.16",
-      "unit_size": 0.6,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "3321",
-      "name": "Uva roja sin semillas",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/1d074082d78bd3883eece473526a79bb.jpeg?fit=crop&h=300&w=300",
-      "price": "2.16",
-      "unit_size": 0.6,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "3028",
-      "name": "Manzana Golden",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=300&w=300",
-      "price": "0.40",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "3269",
-      "name": "Manzanas Golden",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/022fa8e1cd6c9d9ee18a41ed06d71c35.jpg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 1.5,
-      "size_format": "kg",
-      "packaging": null
-    },
-    {
-      "id": "3119",
-      "name": "Pera Conferencia",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=300&w=300",
-      "price": "0.45",
-      "unit_size": 0.18,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "14470",
-      "name": "Peras Conferencia",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/158b08c139cba5362b335f8b0a715cc8.jpeg?fit=crop&h=300&w=300",
-      "price": "2.46",
-      "unit_size": 1.07,
-      "size_format": "kg",
-      "packaging": null
+      "oldPrice": "0.20",
+      "newPrice": "0.21"
     },
     {
       "id": "8177",
       "name": "Manzana roja dulce",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=300&w=300",
-      "price": "0.38",
-      "unit_size": 0.19,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "8280",
-      "name": "Manzanas rojas dulces",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/87f801433e34719ba9bdc226616e7511.jpg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 1.5,
-      "size_format": "kg",
-      "packaging": null
+      "oldPrice": "0.38",
+      "newPrice": "0.40"
     },
     {
       "id": "3170",
       "name": "Pera Ercolina",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/533ebe592abe9ee9a6b79cb1b3a7e8ed.jpg?fit=crop&h=300&w=300",
-      "price": "0.29",
-      "unit_size": 0.1,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "oldPrice": "0.29",
+      "newPrice": "0.26"
     },
     {
       "id": "3021",
       "name": "Manzana Granny Smith",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/fea3470bee0679f0e081916ec48c0b36.jpg?fit=crop&h=300&w=300",
-      "price": "0.43",
-      "unit_size": 0.17,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "oldPrice": "0.43",
+      "newPrice": "0.45"
     },
     {
       "id": "3172",
       "name": "Pera Limonera",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/dfb3b85109390b0bb0aab4f838c5ba89.jpg?fit=crop&h=300&w=300",
-      "price": "0.48",
-      "unit_size": 0.17,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "oldPrice": "0.48",
+      "newPrice": "0.56"
     },
     {
       "id": "8175",
       "name": "Manzana roja acidulce",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/22301daf320667073b7662206e508c36.jpg?fit=crop&h=300&w=300",
-      "price": "0.48",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "8268",
-      "name": "Manzanas rojas acidulces",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpg?fit=crop&h=300&w=300",
-      "price": "3.40",
-      "unit_size": 1.62,
-      "size_format": "kg",
-      "packaging": null
+      "oldPrice": "0.48",
+      "newPrice": "0.50"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "category": "Fruta y verdura",
-      "subcategory": "Melón y sandía",
-      "photo": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=300&w=300",
-      "price": "4.29",
-      "unit_size": 1.65,
-      "size_format": "kg",
-      "packaging": "1/2 Pieza"
+      "oldPrice": "4.29",
+      "newPrice": "4.24"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "category": "Fruta y verdura",
-      "subcategory": "Melón y sandía",
-      "photo": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=300&w=300",
-      "price": "7.26",
-      "unit_size": 3.3,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "3236",
-      "name": "Limones",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/71af62c5aab9056773f8934f4dce3768.jpg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 1.0,
-      "size_format": "kg",
-      "packaging": "Malla"
+      "oldPrice": "7.26",
+      "newPrice": "7.08"
     },
     {
       "id": "3210",
       "name": "Limón",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/dde3a9f03e3b8abc1ebf690a29c9631d.jpg?fit=crop&h=300&w=300",
-      "price": "0.47",
-      "unit_size": 0.18,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "3238",
-      "name": "Mandarina",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/7fde4546900f0fbd38e02be6cc4ea6ed.jpg?fit=crop&h=300&w=300",
-      "price": "0.33",
-      "unit_size": 0.13,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "5503",
-      "name": "Mandarina",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/efa3524806e6e2ec9b467a8214a726ab.jpeg?fit=crop&h=300&w=300",
-      "price": "2.35",
-      "unit_size": 1.0,
-      "size_format": "kg",
-      "packaging": "Malla"
-    },
-    {
-      "id": "30501",
-      "name": "Mandarinas",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/cb421f8ce6110b55d7d5496dc5ea58fd.jpeg?fit=crop&h=300&w=300",
-      "price": "4.13",
-      "unit_size": 1.5,
-      "size_format": "kg",
-      "packaging": null
-    },
-    {
-      "id": "3235",
-      "name": "Naranja de mesa",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/e9ff28c3b115649df7138f0f51dd1f9f.jpg?fit=crop&h=300&w=300",
-      "price": "0.93",
-      "unit_size": 0.37,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    }
-  ],
-  "priceChangesCount": 42,
-  "priceChanges": [
-    {
-      "id": "27314",
-      "name": "Agua mineral grande Bezoya",
-      "oldPrice": "4.14",
-      "newPrice": "4.50"
-    },
-    {
-      "id": "27230",
-      "name": "Agua mineral grande Bezoya",
-      "oldPrice": "0.69",
-      "newPrice": "0.75"
-    },
-    {
-      "id": "12471",
-      "name": "Bombones delicias de avellana Delizze Hacendado",
-      "oldPrice": "4.20",
-      "newPrice": "3.70"
-    },
-    {
-      "id": "9826",
-      "name": "Cerveza especial Mahou",
-      "oldPrice": "8.40",
-      "newPrice": "6.70"
-    },
-    {
-      "id": "86046",
-      "name": "Cerveza Amstel",
-      "oldPrice": "9.54",
-      "newPrice": "7.74"
-    },
-    {
-      "id": "28069",
-      "name": "Cerveza Amstel",
-      "oldPrice": "1.59",
-      "newPrice": "1.29"
-    },
-    {
-      "id": "66587",
-      "name": "Cerveza especial Estrella Galicia",
-      "oldPrice": "8.16",
-      "newPrice": "7.32"
-    },
-    {
-      "id": "21497",
-      "name": "Cerveza extra 1906 reserva especial",
-      "oldPrice": "4.60",
-      "newPrice": "5.00"
-    },
-    {
-      "id": "69066",
-      "name": "Patata",
-      "oldPrice": "0.48",
+      "oldPrice": "0.47",
       "newPrice": "0.49"
+    },
+    {
+      "id": "3076",
+      "name": "Piña",
+      "oldPrice": "3.66",
+      "newPrice": "3.62"
+    },
+    {
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.15",
+      "newPrice": "3.10"
+    },
+    {
+      "id": "3915",
+      "name": "Granada",
+      "oldPrice": "1.17",
+      "newPrice": "1.26"
+    },
+    {
+      "id": "3914",
+      "name": "Kaki",
+      "oldPrice": "0.69",
+      "newPrice": "0.72"
     },
     {
       "id": "69239",
       "name": "Batata",
-      "oldPrice": "1.07",
-      "newPrice": "1.05"
+      "oldPrice": "1.05",
+      "newPrice": "1.07"
     },
     {
       "id": "69173",
       "name": "Yuca",
-      "oldPrice": "2.18",
-      "newPrice": "2.05"
+      "oldPrice": "2.05",
+      "newPrice": "2.18"
     },
     {
       "id": "69937",
       "name": "Tomate ensalada",
-      "oldPrice": "0.60",
-      "newPrice": "0.58"
+      "oldPrice": "0.58",
+      "newPrice": "0.55"
+    },
+    {
+      "id": "69968",
+      "name": "Tomate canario",
+      "oldPrice": "0.31",
+      "newPrice": "0.33"
     },
     {
       "id": "69487",
       "name": "Rama de Tomates",
-      "oldPrice": "1.76",
-      "newPrice": "1.84"
-    },
-    {
-      "id": "69584",
-      "name": "Pepino",
-      "oldPrice": "0.36",
-      "newPrice": "0.37"
+      "oldPrice": "1.84",
+      "newPrice": "1.78"
     },
     {
       "id": "69338",
       "name": "Calabacín verde",
-      "oldPrice": "0.78",
-      "newPrice": "0.74"
+      "oldPrice": "0.74",
+      "newPrice": "0.72"
+    },
+    {
+      "id": "69320",
+      "name": "Pimiento verde freír",
+      "oldPrice": "0.23",
+      "newPrice": "0.20"
+    },
+    {
+      "id": "69339",
+      "name": "Calabacín blanco",
+      "oldPrice": "0.81",
+      "newPrice": "0.84"
     },
     {
       "id": "69220",
       "name": "Coliflor",
-      "oldPrice": "2.70",
-      "newPrice": "2.63"
+      "oldPrice": "2.63",
+      "newPrice": "2.65"
     },
     {
-      "id": "69038",
-      "name": "Nabicol",
-      "oldPrice": "0.78",
-      "newPrice": "0.81"
-    },
-    {
-      "id": "16830",
-      "name": "Detergente ropa Ariel líquido",
-      "oldPrice": "5.95",
-      "newPrice": "7.95"
-    },
-    {
-      "id": "81649.1",
-      "name": "Salmón a rodajas",
-      "oldPrice": "27.16",
-      "newPrice": "28.25"
-    },
-    {
-      "id": "81649.4",
-      "name": "Salmón media pieza a rodajas",
-      "oldPrice": "14.13",
-      "newPrice": "14.24"
-    },
-    {
-      "id": "81649.2",
-      "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "27.16",
-      "newPrice": "28.25"
-    },
-    {
-      "id": "81649.5",
-      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "14.13",
-      "newPrice": "14.24"
-    },
-    {
-      "id": "81649.3",
-      "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "27.16",
-      "newPrice": "28.25"
-    },
-    {
-      "id": "81649.6",
-      "name": "Salmón media pieza sin aletas y sin escamas",
-      "oldPrice": "14.13",
-      "newPrice": "14.24"
-    },
-    {
-      "id": "81234.1",
-      "name": "Dorada limpia con cabeza",
-      "oldPrice": "5.32",
-      "newPrice": "5.13"
-    },
-    {
-      "id": "81234.2",
-      "name": "Dorada abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "5.32",
-      "newPrice": "5.13"
-    },
-    {
-      "id": "81234.5",
-      "name": "Dorada a filetes sin cabeza y sin espina",
-      "oldPrice": "5.32",
-      "newPrice": "5.13"
-    },
-    {
-      "id": "81234.4",
-      "name": "Dorada abierta en libro sin cabeza y sin espina",
-      "oldPrice": "5.32",
-      "newPrice": "5.13"
-    },
-    {
-      "id": "81234.3",
-      "name": "Dorada sin limpiar",
-      "oldPrice": "5.32",
-      "newPrice": "5.13"
-    },
-    {
-      "id": "81241.1",
-      "name": "Lubina limpia con cabeza",
-      "oldPrice": "4.58",
-      "newPrice": "4.68"
+      "id": "69580",
+      "name": "Brócoli",
+      "oldPrice": "0.90",
+      "newPrice": "0.92"
     }
   ]
 }
