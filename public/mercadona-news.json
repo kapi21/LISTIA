@@ -1,388 +1,454 @@
 {
-  "lastSync": "2026-10-17T08:19:50.085261",
-  "totalProducts": 4306,
-  "newProductsCount": 18,
+  "lastSync": "2026-10-18T08:39:52.692533",
+  "totalProducts": 4324,
+  "newProductsCount": 24,
   "newProducts": [
     {
-      "id": "52783",
-      "name": "Aceitunas verdes Hacendado con hueso",
-      "category": "Aperitivos",
-      "subcategory": "Aceitunas verdes",
-      "photo": "https://prod-mercadona.imgix.net/images/22637e82eac1811ee52024f145920efc.jpg?fit=crop&h=300&w=300",
-      "price": "2.85",
-      "unit_size": 0.935,
+      "id": "18498",
+      "name": "Papilla 8 cereales con miel Nestlé +6 meses",
+      "category": "Bebé",
+      "subcategory": "Papillas",
+      "photo": "https://prod-mercadona.imgix.net/images/14724a619f813286fcb5c05dadc73e79.jpg?fit=crop&h=300&w=300",
+      "price": "5.25",
+      "unit_size": 0.48,
       "size_format": "kg",
-      "packaging": "Tarro"
+      "packaging": "Caja"
     },
     {
-      "id": "18734",
-      "name": "Licor de Roditas Royal Swan",
-      "category": "Bodega",
-      "subcategory": "Otros licores",
-      "photo": "https://prod-mercadona.imgix.net/images/7cf0712757606c12f30db97c3963a3e7.jpg?fit=crop&h=300&w=300",
-      "price": "6.35",
-      "unit_size": 0.7,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "18698",
-      "name": "Tinto de verano limón Don Simón",
-      "category": "Bodega",
-      "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/c5b2eed9caa8d7eef5b33a0aaf9f8698.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 3.0,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "18699",
-      "name": "Tinto de verano sin alcohol limón Don Simón",
-      "category": "Bodega",
-      "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/4158b67ecaf01c389afdeb8617824b22.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 3.0,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "51504",
-      "name": "Queso en porciones mini Babybel",
-      "category": "Charcutería y quesos",
-      "subcategory": "Queso en porciones",
-      "photo": "https://prod-mercadona.imgix.net/images/0268b22955184deb0c53b6b022b45608.jpg?fit=crop&h=300&w=300",
-      "price": "3.90",
-      "unit_size": 0.16,
-      "size_format": "kg",
-      "packaging": "Malla"
-    },
-    {
-      "id": "18151",
-      "name": "Caldo de pollo con jamón ibérico Gourmet Gallina blanca",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Caldo líquido",
-      "photo": "https://prod-mercadona.imgix.net/images/c5688b486a313a8a563fe367d4138f7a.jpg?fit=crop&h=300&w=300",
-      "price": "1.95",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "18422",
-      "name": "Ambientador Azul armarios y cajones Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Ambientador decorativo y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/157e3b458fdcf49c578f189baff504ac.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
-      "unit_size": 1.0,
+      "id": "17974",
+      "name": "Pañal bebé braguita talla XL Deliplus de 16-28 kg",
+      "category": "Bebé",
+      "subcategory": "Braguita y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/f47a16617af179893d9f54b7a2612062.jpg?fit=crop&h=300&w=300",
+      "price": "6.90",
+      "unit_size": 24.0,
       "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "35377",
-      "name": "Brillo de labios Volumizer gloss Deliplus 01 transparente",
-      "category": "Maquillaje",
-      "subcategory": "Pintalabios cremoso y brillos",
-      "photo": "https://prod-mercadona.imgix.net/images/11568c09b981ee6d31f84e126f8b86cd.jpg?fit=crop&h=300&w=300",
-      "price": "5.00",
-      "unit_size": 0.004,
-      "size_format": "l",
-      "packaging": null
+      "id": "18444",
+      "name": "Bacón ahumado natural Oscar Mayer lonchas",
+      "category": "Charcutería y quesos",
+      "subcategory": "Bacón",
+      "photo": "https://prod-mercadona.imgix.net/images/50cacaf533085073aba9c6951979751f.jpg?fit=crop&h=300&w=300",
+      "price": "2.35",
+      "unit_size": 0.16,
+      "size_format": "kg",
+      "packaging": "Paquete"
     },
     {
-      "id": "39216",
-      "name": "Zumo de melocotón y uva Hacendado",
-      "category": "Zumos",
-      "subcategory": "Melocotón",
-      "photo": "https://prod-mercadona.imgix.net/images/66dc19715816816baec5fbf963bee7fa.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 1.2,
-      "size_format": "l",
-      "packaging": "Pack-6"
+      "id": "36403",
+      "name": "Huesos de santo Hacendado",
+      "category": "Panadería y pastelería",
+      "subcategory": "Polvorones y mazapanes",
+      "photo": "https://prod-mercadona.imgix.net/images/5c0b3a1a08f1028d4246f9719d72793c.jpg?fit=crop&h=300&w=300",
+      "price": "2.95",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Paquete"
     },
     {
-      "id": "8247",
-      "name": "Bebida de melocotón Hacendado sin azúcares añadidos",
-      "category": "Zumos",
-      "subcategory": "Melocotón",
-      "photo": "https://prod-mercadona.imgix.net/images/f678485edb09150dee942e3f9e3ae07b.jpg?fit=crop&h=300&w=300",
+      "id": "18754",
+      "name": "Pan de burger Bretzel Hacendado",
+      "category": "Panadería y pastelería",
+      "subcategory": "Pan de hamburguesa y wrap",
+      "photo": "https://prod-mercadona.imgix.net/images/fc173d3b853c9d32701af4519fdfa4fa.jpg?fit=crop&h=300&w=300",
+      "price": "1.05",
+      "unit_size": 0.16,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "22313",
+      "name": "Yogur natural Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures naturales",
+      "photo": "https://prod-mercadona.imgix.net/images/0689561ce98dba5c0b3ad43e69be0f5f.jpg?fit=crop&h=300&w=300",
       "price": "1.00",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
+      "unit_size": 0.75,
+      "size_format": "kg",
+      "packaging": "Pack-6"
     },
     {
-      "id": "8248",
-      "name": "Bebida de melocotón Hacendado sin azúcares añadidos",
-      "category": "Zumos",
-      "subcategory": "Melocotón",
-      "photo": "https://prod-mercadona.imgix.net/images/1630f8437f4370ac6557d9ee7f6ee859.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 1.2,
-      "size_format": "l",
+      "id": "20584",
+      "name": "Yogur natural con azúcar de caña Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures naturales",
+      "photo": "https://prod-mercadona.imgix.net/images/ead686f6dd51a57d3e03cdde744912d0.jpg?fit=crop&h=300&w=300",
+      "price": "1.05",
+      "unit_size": 0.75,
+      "size_format": "kg",
+      "packaging": "Pack-6"
+    },
+    {
+      "id": "20260",
+      "name": "Yogur natural Danone",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures naturales",
+      "photo": "https://prod-mercadona.imgix.net/images/861d2eefc9c6a9543ad440ef1fa6176d.jpg?fit=crop&h=300&w=300",
+      "price": "1.99",
+      "unit_size": 0.96,
+      "size_format": "kg",
+      "packaging": "Pack-8"
+    },
+    {
+      "id": "20029",
+      "name": "Kéfir natural sabor suave",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures naturales",
+      "photo": "https://prod-mercadona.imgix.net/images/996e614f475b8cd286f9a4c15643edea.jpg?fit=crop&h=300&w=300",
+      "price": "1.10",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "20287",
+      "name": "Yogur natural de cabra Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures naturales",
+      "photo": "https://prod-mercadona.imgix.net/images/e843fb916d43295d0796f91e9eaa9338.jpg?fit=crop&h=300&w=300",
+      "price": "2.10",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "20849",
+      "name": "Postre lácteo cremoso natural azucarado sin lactosa Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures naturales",
+      "photo": "https://prod-mercadona.imgix.net/images/df816a023396619577664df7e6d7c6ea.jpg?fit=crop&h=300&w=300",
+      "price": "1.55",
+      "unit_size": 0.5,
+      "size_format": "kg",
       "packaging": null
     },
     {
-      "id": "39129",
-      "name": "Zumo de piña y uva Hacendado",
-      "category": "Zumos",
-      "subcategory": "Piña",
-      "photo": "https://prod-mercadona.imgix.net/images/d8dd70c608c6bf3aaebdc10b5f6c53bf.jpg?fit=crop&h=300&w=300",
-      "price": "1.20",
+      "id": "20001",
+      "name": "Yogur sabores Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/85b23a9a032693961d03270115cbefa3.jpg?fit=crop&h=300&w=300",
+      "price": "2.40",
+      "unit_size": 2.0,
+      "size_format": "kg",
+      "packaging": "Pack-16"
+    },
+    {
+      "id": "20040",
+      "name": "Yogur sabor fresa Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/9fd16b7ce0bf00b78a4d84b44ddd1410.jpg?fit=crop&h=300&w=300",
+      "price": "0.75",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "20041",
+      "name": "Yogur sabor limón Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/c0979282d56bcf000db771295b59ab32.jpg?fit=crop&h=300&w=300",
+      "price": "0.75",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "20033",
+      "name": "Yogur sabor macedonia Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/86bda79f4445672b5038cc259091c668.jpg?fit=crop&h=300&w=300",
+      "price": "0.75",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "20031",
+      "name": "Yogur sabor fresa Danone",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/f2f9e5d59d63f2a35fdc704442a19aa1.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 0.48,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "20376",
+      "name": "Yogur cremoso con frutos silvestres Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/4b8059bb835b623d71bea1ea109a4056.jpg?fit=crop&h=300&w=300",
+      "price": "1.25",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "20379",
+      "name": "Yogur cremoso con melocotón y maracuya Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/8fcaa52649efa30b3683a7e41645986c.jpg?fit=crop&h=300&w=300",
+      "price": "1.25",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "20037",
+      "name": "Yogur sabor macedonia Danone",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/3a23961f48c4d7799baf249b7cca9f4c.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 0.48,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "20032",
+      "name": "Yogur sabor coco Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/585bb0c277604d00a34bbc70a171380f.jpg?fit=crop&h=300&w=300",
+      "price": "0.75",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Pack-4"
+    },
+    {
+      "id": "60955",
+      "name": "Yogur con frutas Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/04acf20f1191eb74c8a2e7c15c327e94.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
       "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
+      "size_format": "kg",
+      "packaging": "Pack-8"
     },
     {
-      "id": "39130",
-      "name": "Zumo de piña y uva Hacendado",
-      "category": "Zumos",
-      "subcategory": "Piña",
-      "photo": "https://prod-mercadona.imgix.net/images/ed323a439124a96f84da691c64cc48af.jpg?fit=crop&h=300&w=300",
-      "price": "1.65",
-      "unit_size": 1.2,
-      "size_format": "l",
-      "packaging": "Pack-6"
+      "id": "20057",
+      "name": "Yogur sabor coco Danone",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/4651e38719b0743191f3347086daeb75.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 0.48,
+      "size_format": "kg",
+      "packaging": "Pack-4"
     },
     {
-      "id": "39119",
-      "name": "Bebida de piña Hacendado sin azúcares añadidos",
-      "category": "Zumos",
-      "subcategory": "Piña",
-      "photo": "https://prod-mercadona.imgix.net/images/33ca00ae12574c8e7b9833ddade5c1f8.jpg?fit=crop&h=300&w=300",
-      "price": "0.95",
+      "id": "22799",
+      "name": "Postre lácteo sabor fresa sin lactosa Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/85a85cab17a7c9c2759adbcb29fdf6d1.jpg?fit=crop&h=300&w=300",
+      "price": "1.45",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "21321",
+      "name": "Yogur sabores Hacendado",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures de sabores",
+      "photo": "https://prod-mercadona.imgix.net/images/16421e2d7df2246e42f2188f68065575.jpg?fit=crop&h=300&w=300",
+      "price": "1.40",
       "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "39106",
-      "name": "Bebida de piña Hacendado sin azúcares añadidos",
-      "category": "Zumos",
-      "subcategory": "Piña",
-      "photo": "https://prod-mercadona.imgix.net/images/f824c29e5b1ce63eec029d4c34caa3ef.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 1.2,
-      "size_format": "l",
-      "packaging": "Pack-6"
-    },
-    {
-      "id": "39191",
-      "name": "Zumo de piña Hacendado",
-      "category": "Zumos",
-      "subcategory": "Piña",
-      "photo": "https://prod-mercadona.imgix.net/images/6c7aa9b054839aab255d1547ca3f0f3f.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "39946",
-      "name": "Zumo de piña selección Hacendado",
-      "category": "Zumos",
-      "subcategory": "Piña",
-      "photo": "https://prod-mercadona.imgix.net/images/c05ef36a942b580893777db0ae4af7cc.jpg?fit=crop&h=300&w=300",
-      "price": "2.60",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "39100",
-      "name": "Néctar de piña La Verja",
-      "category": "Zumos",
-      "subcategory": "Piña",
-      "photo": "https://prod-mercadona.imgix.net/images/94bec43b3562a298f317e140ac71f145.jpg?fit=crop&h=300&w=300",
-      "price": "1.80",
-      "unit_size": 1.5,
-      "size_format": "l",
-      "packaging": "Botella"
+      "size_format": "kg",
+      "packaging": null
     }
   ],
-  "priceChangesCount": 53,
+  "priceChangesCount": 39,
   "priceChanges": [
-    {
-      "id": "52728",
-      "name": "Mayonesa Hacendado",
-      "oldPrice": "1.00",
-      "newPrice": "1.05"
-    },
-    {
-      "id": "11550",
-      "name": "Mayonesa Hacendado",
-      "oldPrice": "1.40",
-      "newPrice": "1.45"
-    },
-    {
-      "id": "23816",
-      "name": "Mayonesa en sobres individuales Hacendado",
-      "oldPrice": "1.40",
-      "newPrice": "1.50"
-    },
-    {
-      "id": "21742",
-      "name": "Cerveza Radler Steinburg con zumo natural de limón",
-      "oldPrice": "3.69",
-      "newPrice": "3.87"
-    },
-    {
-      "id": "21743",
-      "name": "Cerveza Radler Steinburg con zumo natural de limón",
-      "oldPrice": "0.41",
-      "newPrice": "0.43"
-    },
-    {
-      "id": "21746",
-      "name": "Cerveza 0,0% sin alcohol Falke",
-      "oldPrice": "3.48",
-      "newPrice": "3.60"
-    },
-    {
-      "id": "21747",
-      "name": "Cerveza 0,0% sin alcohol Falke",
-      "oldPrice": "0.29",
-      "newPrice": "0.30"
-    },
-    {
-      "id": "3824",
-      "name": "Banana",
-      "oldPrice": "0.20",
-      "newPrice": "0.21"
-    },
-    {
-      "id": "8177",
-      "name": "Manzana roja dulce",
-      "oldPrice": "0.38",
-      "newPrice": "0.40"
-    },
-    {
-      "id": "3170",
-      "name": "Pera Ercolina",
-      "oldPrice": "0.29",
-      "newPrice": "0.26"
-    },
-    {
-      "id": "3021",
-      "name": "Manzana Granny Smith",
-      "oldPrice": "0.43",
-      "newPrice": "0.45"
-    },
     {
       "id": "3172",
       "name": "Pera Limonera",
-      "oldPrice": "0.48",
-      "newPrice": "0.56"
-    },
-    {
-      "id": "8175",
-      "name": "Manzana roja acidulce",
-      "oldPrice": "0.48",
-      "newPrice": "0.50"
-    },
-    {
-      "id": "3515",
-      "name": "Medio melón piel de sapo",
-      "oldPrice": "4.29",
-      "newPrice": "4.24"
-    },
-    {
-      "id": "3506",
-      "name": "Melón piel de sapo",
-      "oldPrice": "7.26",
-      "newPrice": "7.08"
+      "oldPrice": "0.56",
+      "newPrice": "0.48"
     },
     {
       "id": "3210",
       "name": "Limón",
-      "oldPrice": "0.47",
-      "newPrice": "0.49"
+      "oldPrice": "0.49",
+      "newPrice": "0.52"
     },
     {
-      "id": "3076",
-      "name": "Piña",
-      "oldPrice": "3.66",
-      "newPrice": "3.62"
+      "id": "3050",
+      "name": "Mango",
+      "oldPrice": "1.27",
+      "newPrice": "1.24"
     },
     {
       "id": "3026",
       "name": "Papaya",
-      "oldPrice": "3.15",
-      "newPrice": "3.10"
+      "oldPrice": "3.10",
+      "newPrice": "2.99"
     },
     {
       "id": "3915",
       "name": "Granada",
-      "oldPrice": "1.17",
-      "newPrice": "1.26"
+      "oldPrice": "1.26",
+      "newPrice": "1.23"
     },
     {
       "id": "3914",
       "name": "Kaki",
-      "oldPrice": "0.69",
-      "newPrice": "0.72"
-    },
-    {
-      "id": "69239",
-      "name": "Batata",
-      "oldPrice": "1.05",
-      "newPrice": "1.07"
+      "oldPrice": "0.72",
+      "newPrice": "0.75"
     },
     {
       "id": "69173",
       "name": "Yuca",
-      "oldPrice": "2.05",
-      "newPrice": "2.18"
-    },
-    {
-      "id": "69937",
-      "name": "Tomate ensalada",
-      "oldPrice": "0.58",
-      "newPrice": "0.55"
-    },
-    {
-      "id": "69968",
-      "name": "Tomate canario",
-      "oldPrice": "0.31",
-      "newPrice": "0.33"
+      "oldPrice": "2.18",
+      "newPrice": "2.21"
     },
     {
       "id": "69487",
       "name": "Rama de Tomates",
-      "oldPrice": "1.84",
-      "newPrice": "1.78"
-    },
-    {
-      "id": "69338",
-      "name": "Calabacín verde",
-      "oldPrice": "0.74",
-      "newPrice": "0.72"
-    },
-    {
-      "id": "69320",
-      "name": "Pimiento verde freír",
-      "oldPrice": "0.23",
-      "newPrice": "0.20"
-    },
-    {
-      "id": "69339",
-      "name": "Calabacín blanco",
-      "oldPrice": "0.81",
-      "newPrice": "0.84"
+      "oldPrice": "1.78",
+      "newPrice": "1.76"
     },
     {
       "id": "69220",
       "name": "Coliflor",
-      "oldPrice": "2.63",
-      "newPrice": "2.65"
+      "oldPrice": "2.65",
+      "newPrice": "2.63"
     },
     {
       "id": "69580",
       "name": "Brócoli",
-      "oldPrice": "0.90",
-      "newPrice": "0.92"
+      "oldPrice": "0.92",
+      "newPrice": "0.94"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.79",
+      "newPrice": "0.81"
+    },
+    {
+      "id": "69038",
+      "name": "Nabicol",
+      "oldPrice": "0.81",
+      "newPrice": "0.78"
+    },
+    {
+      "id": "81649.1",
+      "name": "Salmón a rodajas",
+      "oldPrice": "28.69",
+      "newPrice": "29.46"
+    },
+    {
+      "id": "81649.4",
+      "name": "Salmón media pieza a rodajas",
+      "oldPrice": "14.56",
+      "newPrice": "14.78"
+    },
+    {
+      "id": "81649.2",
+      "name": "Salmón abierto en libro sin cabeza y sin espina",
+      "oldPrice": "28.69",
+      "newPrice": "29.46"
+    },
+    {
+      "id": "81649.5",
+      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
+      "oldPrice": "14.56",
+      "newPrice": "14.78"
+    },
+    {
+      "id": "81649.3",
+      "name": "Salmón sin aletas y sin escamas",
+      "oldPrice": "28.69",
+      "newPrice": "29.46"
+    },
+    {
+      "id": "81649.6",
+      "name": "Salmón media pieza sin aletas y sin escamas",
+      "oldPrice": "14.56",
+      "newPrice": "14.78"
+    },
+    {
+      "id": "81234.1",
+      "name": "Dorada limpia con cabeza",
+      "oldPrice": "4.75",
+      "newPrice": "4.28"
+    },
+    {
+      "id": "81234.2",
+      "name": "Dorada abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "4.75",
+      "newPrice": "4.28"
+    },
+    {
+      "id": "81234.5",
+      "name": "Dorada a filetes sin cabeza y sin espina",
+      "oldPrice": "4.75",
+      "newPrice": "4.28"
+    },
+    {
+      "id": "81234.4",
+      "name": "Dorada abierta en libro sin cabeza y sin espina",
+      "oldPrice": "4.75",
+      "newPrice": "4.28"
+    },
+    {
+      "id": "81234.3",
+      "name": "Dorada sin limpiar",
+      "oldPrice": "4.75",
+      "newPrice": "4.28"
+    },
+    {
+      "id": "81241.1",
+      "name": "Lubina limpia con cabeza",
+      "oldPrice": "4.68",
+      "newPrice": "4.58"
+    },
+    {
+      "id": "81241.2",
+      "name": "Lubina abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "4.68",
+      "newPrice": "4.58"
+    },
+    {
+      "id": "81241.5",
+      "name": "Lubina a filetes sin cabeza y sin espina",
+      "oldPrice": "4.68",
+      "newPrice": "4.58"
+    },
+    {
+      "id": "81241.4",
+      "name": "Lubina abierta en libro sin cabeza y sin espina",
+      "oldPrice": "4.68",
+      "newPrice": "4.58"
+    },
+    {
+      "id": "81241.3",
+      "name": "Lubina sin limpiar",
+      "oldPrice": "4.68",
+      "newPrice": "4.58"
+    },
+    {
+      "id": "81204.1",
+      "name": "Bacalao a rodajas",
+      "oldPrice": "34.65",
+      "newPrice": "29.70"
+    },
+    {
+      "id": "81204.3",
+      "name": "Bacalao media pieza a rodajas",
+      "oldPrice": "19.11",
+      "newPrice": "18.98"
     }
   ]
 }
