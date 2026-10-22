@@ -1,266 +1,496 @@
 {
-  "lastSync": "2026-10-21T09:11:42.911978",
-  "totalProducts": 4225,
-  "newProductsCount": 8,
+  "lastSync": "2026-10-22T09:14:15.949281",
+  "totalProducts": 4169,
+  "newProductsCount": 101,
   "newProducts": [
     {
-      "id": "51198",
-      "name": "Queso lonchas fundido burger mezcla Hacendado",
-      "category": "Charcutería y quesos",
-      "subcategory": "Queso lonchas",
-      "photo": "https://prod-mercadona.imgix.net/images/7bd7b58ec4f47a62db26456bdf66ba1a.jpg?fit=crop&h=300&w=300",
-      "price": "1.90",
-      "unit_size": 0.3,
+      "id": "34236",
+      "name": "Nuez de Brasil natural Hacendado",
+      "category": "Aperitivos",
+      "subcategory": "Frutos secos",
+      "photo": "https://prod-mercadona.imgix.net/images/f73efc85361a05e42008a997e5d62881.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.2,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "17626",
-      "name": "Tarta infantil deportes Hacendado congelada",
+      "id": "65161",
+      "name": "Chicles gragea hierbabuena sin azúcar Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chicles",
+      "photo": "https://prod-mercadona.imgix.net/images/084ce2eef469f2a392a82687c627f2eb.jpeg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 0.045,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "28757",
+      "name": "Ron dominicano añejo Ron Barceló",
+      "category": "Bodega",
+      "subcategory": "Ron",
+      "photo": "https://prod-mercadona.imgix.net/images/173328360545e9dd7886a059eace4cd3.jpg?fit=crop&h=300&w=300",
+      "price": "15.15",
+      "unit_size": 0.7,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "10449",
+      "name": "Crema de leche para café Campina",
+      "category": "Cacao, café e infusiones",
+      "subcategory": "Otros",
+      "photo": "https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=300&w=300",
+      "price": "1.40",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "62705",
+      "name": "Alistado mediano Hacendado congelado",
       "category": "Congelados",
-      "subcategory": "Tartas infantiles",
-      "photo": "https://prod-mercadona.imgix.net/images/ba6ee0e908cc96bf1ad8c6bbb4659bc3.jpg?fit=crop&h=300&w=300",
-      "price": "13.80",
-      "unit_size": 1.5,
+      "subcategory": "Marisco",
+      "photo": "https://prod-mercadona.imgix.net/images/0c0ed00cc2bddb2ccd2a0f3a4436fb42.jpg?fit=crop&h=300&w=300",
+      "price": "14.40",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "75532",
+      "name": "Acondicionador Protector Color Vive Elvive cabello teñido o con mechas",
+      "category": "Cuidado del cabello",
+      "subcategory": "Acondicionador",
+      "photo": "https://prod-mercadona.imgix.net/images/4deeda7ed3ac635ab47fdd32ba5596f4.jpg?fit=crop&h=300&w=300",
+      "price": "3.40",
+      "unit_size": 0.25,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "17586",
+      "name": "Laca de uñas alto brillo Deliplus 158 tierra claro",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/3742eefe01230858ef1381a57101ad71.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "3819",
+      "name": "Plátano de Canarias IGP",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=300&w=300",
+      "price": "0.45",
+      "unit_size": 0.16,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3824",
+      "name": "Banana",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/69edef3541bbf3f4b7173c9d617a5698.jpg?fit=crop&h=300&w=300",
+      "price": "0.21",
+      "unit_size": 0.17,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3132",
+      "name": "Plátano macho",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/c22baa2a17de06fbf8477ef25392b7ca.jpg?fit=crop&h=300&w=300",
+      "price": "0.84",
+      "unit_size": 0.29,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3313",
+      "name": "Uva blanca sin semillas",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=300&w=300",
+      "price": "2.16",
+      "unit_size": 0.6,
       "size_format": "kg",
       "packaging": "Bandeja"
     },
     {
-      "id": "17690",
-      "name": "Gel fijador cabello Xtra Forte Deliplus fijación 4",
-      "category": "Cuidado del cabello",
-      "subcategory": "Gomina y cera",
-      "photo": "https://prod-mercadona.imgix.net/images/9f1814c3cf44971de2562c6989b1908c.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 0.2,
-      "size_format": "l",
-      "packaging": "Bote"
+      "id": "3321",
+      "name": "Uva roja sin semillas",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/1d074082d78bd3883eece473526a79bb.jpeg?fit=crop&h=300&w=300",
+      "price": "2.16",
+      "unit_size": 0.6,
+      "size_format": "kg",
+      "packaging": "Bandeja"
     },
     {
-      "id": "17693",
-      "name": "Gel fijador cabello X-trem Deliplus fijación 6",
-      "category": "Cuidado del cabello",
-      "subcategory": "Gomina y cera",
-      "photo": "https://prod-mercadona.imgix.net/images/5304366506db06610facac14a9f930f0.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.2,
-      "size_format": "l",
-      "packaging": "Bote"
+      "id": "3028",
+      "name": "Manzana Golden",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=300&w=300",
+      "price": "0.42",
+      "unit_size": 0.21,
+      "size_format": "kg",
+      "packaging": "Pieza"
     },
     {
-      "id": "17695",
-      "name": "Gel fijador cabello Forte Deliplus fijación 3",
-      "category": "Cuidado del cabello",
-      "subcategory": "Gomina y cera",
-      "photo": "https://prod-mercadona.imgix.net/images/ef11e799f483a31a9a34d6cb85d09bc6.jpg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 0.2,
-      "size_format": "l",
-      "packaging": "Bote"
+      "id": "3269",
+      "name": "Manzanas Golden",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/022fa8e1cd6c9d9ee18a41ed06d71c35.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 1.5,
+      "size_format": "kg",
+      "packaging": null
     },
     {
-      "id": "71399",
-      "name": "Guantes 100% nitrilo Bosque Verde talla grande",
-      "category": "Limpieza y hogar",
-      "subcategory": "Guantes",
-      "photo": "https://prod-mercadona.imgix.net/images/dc9304ab539a6f2d1c8fe47cd726fefc.jpg?fit=crop&h=300&w=300",
-      "price": "1.95",
+      "id": "3119",
+      "name": "Pera Conferencia",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=300&w=300",
+      "price": "0.45",
+      "unit_size": 0.18,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "14470",
+      "name": "Peras Conferencia",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/158b08c139cba5362b335f8b0a715cc8.jpeg?fit=crop&h=300&w=300",
+      "price": "2.46",
+      "unit_size": 1.07,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=300&w=300",
+      "price": "0.40",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8280",
+      "name": "Manzanas rojas dulces",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/87f801433e34719ba9bdc226616e7511.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 1.5,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "3170",
+      "name": "Pera Ercolina",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/533ebe592abe9ee9a6b79cb1b3a7e8ed.jpg?fit=crop&h=300&w=300",
+      "price": "0.26",
+      "unit_size": 0.09,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3021",
+      "name": "Manzana Granny Smith",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/fea3470bee0679f0e081916ec48c0b36.jpg?fit=crop&h=300&w=300",
+      "price": "0.45",
+      "unit_size": 0.18,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3172",
+      "name": "Pera Limonera",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/dfb3b85109390b0bb0aab4f838c5ba89.jpg?fit=crop&h=300&w=300",
+      "price": "0.64",
+      "unit_size": 0.23,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8175",
+      "name": "Manzana roja acidulce",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/22301daf320667073b7662206e508c36.jpg?fit=crop&h=300&w=300",
+      "price": "0.50",
+      "unit_size": 0.21,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8268",
+      "name": "Manzanas rojas acidulces",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpg?fit=crop&h=300&w=300",
+      "price": "3.40",
+      "unit_size": 1.62,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "category": "Fruta y verdura",
+      "subcategory": "Melón y sandía",
+      "photo": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=300&w=300",
+      "price": "4.13",
+      "unit_size": 1.59,
+      "size_format": "kg",
+      "packaging": "1/2 Pieza"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "category": "Fruta y verdura",
+      "subcategory": "Melón y sandía",
+      "photo": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=300&w=300",
+      "price": "6.91",
+      "unit_size": 3.14,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3236",
+      "name": "Limones",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/71af62c5aab9056773f8934f4dce3768.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
       "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
+      "size_format": "kg",
+      "packaging": "Malla"
     },
     {
-      "id": "35267",
-      "name": "Gelatina selección de pescado gato adulto Quartett",
-      "category": "Mascotas",
-      "subcategory": "Alimentación húmeda",
-      "photo": "https://prod-mercadona.imgix.net/images/786e674060bdb8273f461d172e20f582.jpeg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.34,
+      "id": "3210",
+      "name": "Limón",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/dde3a9f03e3b8abc1ebf690a29c9631d.jpg?fit=crop&h=300&w=300",
+      "price": "0.52",
+      "unit_size": 0.2,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Pieza"
     },
     {
-      "id": "60552",
-      "name": "Trozos de pollo y verduras en salsa perros adultos Quartett",
-      "category": "Mascotas",
-      "subcategory": "Alimentación húmeda",
-      "photo": "https://prod-mercadona.imgix.net/images/1f830a7a6b4f85ab3a1ed0c7662d1d88.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.4,
+      "id": "3238",
+      "name": "Mandarina",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/7fde4546900f0fbd38e02be6cc4ea6ed.jpg?fit=crop&h=300&w=300",
+      "price": "0.31",
+      "unit_size": 0.12,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Pieza"
+    },
+    {
+      "id": "5503",
+      "name": "Mandarina",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/efa3524806e6e2ec9b467a8214a726ab.jpeg?fit=crop&h=300&w=300",
+      "price": "2.35",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "30501",
+      "name": "Mandarinas",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/cb421f8ce6110b55d7d5496dc5ea58fd.jpeg?fit=crop&h=300&w=300",
+      "price": "4.13",
+      "unit_size": 1.5,
+      "size_format": "kg",
+      "packaging": null
     }
   ],
-  "priceChangesCount": 28,
+  "priceChangesCount": 26,
   "priceChanges": [
     {
-      "id": "66027",
-      "name": "Cerveza clásica Mahou",
-      "oldPrice": "6.96",
-      "newPrice": "9.24"
+      "id": "22177",
+      "name": "Combinado de aperitivos Hacendado",
+      "oldPrice": "1.60",
+      "newPrice": "1.65"
     },
     {
-      "id": "67154",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "6.84",
-      "newPrice": "8.04"
+      "id": "8820",
+      "name": "Surtido de caramelos Mix El Conde Drácula y Zombie Lokopop Cerdán",
+      "oldPrice": "1.35",
+      "newPrice": "1.00"
     },
     {
-      "id": "6048",
-      "name": "Chorizo oreado",
-      "oldPrice": "2.57",
-      "newPrice": "2.48"
+      "id": "21491",
+      "name": "Mix mini barritas de chocolate Hacendado",
+      "oldPrice": "2.75",
+      "newPrice": "2.50"
     },
     {
-      "id": "69937",
-      "name": "Tomate ensalada",
-      "oldPrice": "0.55",
-      "newPrice": "0.58"
+      "id": "17805",
+      "name": "Golosinas ojos rellenos Halloween Trolli Spooky Balls",
+      "oldPrice": "1.35",
+      "newPrice": "1.00"
     },
     {
-      "id": "69912",
-      "name": "Tomate pera",
-      "oldPrice": "0.29",
-      "newPrice": "0.26"
+      "id": "14934",
+      "name": "Surtido de caramelos Diver Xuxes Hacendado",
+      "oldPrice": "2.80",
+      "newPrice": "2.60"
+    },
+    {
+      "id": "59028",
+      "name": "Jamón de Trevélez Antonio Álvarez lonchas extra finas",
+      "oldPrice": "3.70",
+      "newPrice": "3.80"
+    },
+    {
+      "id": "15628",
+      "name": "Jamón serrano gran reserva Hacendado sin aditivos lonchas",
+      "oldPrice": "2.30",
+      "newPrice": "2.40"
+    },
+    {
+      "id": "46028",
+      "name": "Desodorante roll-on Dermo extra control Sanex antitranspirante",
+      "oldPrice": "1.90",
+      "newPrice": "2.30"
+    },
+    {
+      "id": "46029",
+      "name": "Desodorante roll-on Invisible Black & White Nivea antitranspirante",
+      "oldPrice": "2.50",
+      "newPrice": "2.10"
+    },
+    {
+      "id": "46030",
+      "name": "Desodorante roll-on Invisible Black & White Nivea Men antitranspirante",
+      "oldPrice": "2.50",
+      "newPrice": "2.10"
+    },
+    {
+      "id": "46016",
+      "name": "Desodorante roll-on Dry impact Nivea Men antitranspirante",
+      "oldPrice": "2.50",
+      "newPrice": "2.10"
+    },
+    {
+      "id": "45078",
+      "name": "Desodorante roll-on Active control Sanex men antitranspirante",
+      "oldPrice": "1.90",
+      "newPrice": "2.30"
+    },
+    {
+      "id": "35965",
+      "name": "Desodorante roll-on original Dove antitranspirante",
+      "oldPrice": "2.65",
+      "newPrice": "2.15"
+    },
+    {
+      "id": "35964",
+      "name": "Desodorante original Dove antitranspirante",
+      "oldPrice": "3.75",
+      "newPrice": "3.15"
+    },
+    {
+      "id": "22125",
+      "name": "Desodorante invisible Black & White Nivea",
+      "oldPrice": "2.50",
+      "newPrice": "2.90"
+    },
+    {
+      "id": "22124",
+      "name": "Desodorante invisible Black & White Nivea Men antitranspirante",
+      "oldPrice": "2.50",
+      "newPrice": "2.90"
+    },
+    {
+      "id": "46107",
+      "name": "Desodorante dermo extra control Sanex antitranspirante",
+      "oldPrice": "2.35",
+      "newPrice": "2.85"
+    },
+    {
+      "id": "79593",
+      "name": "Dentífrico Total original Colgate",
+      "oldPrice": "2.90",
+      "newPrice": "2.45"
+    },
+    {
+      "id": "73999",
+      "name": "Dentífrico Max Fresh Colgate sabor menta fresca",
+      "oldPrice": "2.40",
+      "newPrice": "2.85"
+    },
+    {
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.24",
+      "newPrice": "2.21"
+    },
+    {
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.76",
+      "newPrice": "1.65"
+    },
+    {
+      "id": "69584",
+      "name": "Pepino",
+      "oldPrice": "0.37",
+      "newPrice": "0.36"
     },
     {
       "id": "69339",
       "name": "Calabacín blanco",
-      "oldPrice": "0.84",
-      "newPrice": "0.86"
+      "oldPrice": "0.86",
+      "newPrice": "0.90"
     },
     {
       "id": "69220",
       "name": "Coliflor",
-      "oldPrice": "2.65",
-      "newPrice": "2.63"
+      "oldPrice": "2.63",
+      "newPrice": "2.60"
     },
     {
       "id": "69580",
       "name": "Brócoli",
-      "oldPrice": "0.97",
-      "newPrice": "1.04"
-    },
-    {
-      "id": "69326",
-      "name": "Berenjena",
-      "oldPrice": "0.81",
-      "newPrice": "0.84"
-    },
-    {
-      "id": "69347",
-      "name": "Berenjena rayada",
-      "oldPrice": "0.85",
-      "newPrice": "0.83"
+      "oldPrice": "1.04",
+      "newPrice": "1.06"
     },
     {
       "id": "69038",
       "name": "Nabicol",
-      "oldPrice": "0.81",
-      "newPrice": "0.87"
-    },
-    {
-      "id": "81649.1",
-      "name": "Salmón a rodajas",
-      "oldPrice": "29.78",
-      "newPrice": "30.33"
-    },
-    {
-      "id": "81649.4",
-      "name": "Salmón media pieza a rodajas",
-      "oldPrice": "14.78",
-      "newPrice": "14.67"
-    },
-    {
-      "id": "81649.2",
-      "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "29.78",
-      "newPrice": "30.33"
-    },
-    {
-      "id": "81649.5",
-      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "14.78",
-      "newPrice": "14.67"
-    },
-    {
-      "id": "81649.3",
-      "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "29.78",
-      "newPrice": "30.33"
-    },
-    {
-      "id": "81649.6",
-      "name": "Salmón media pieza sin aletas y sin escamas",
-      "oldPrice": "14.78",
-      "newPrice": "14.67"
-    },
-    {
-      "id": "81234.1",
-      "name": "Dorada limpia con cabeza",
-      "oldPrice": "4.18",
-      "newPrice": "4.28"
-    },
-    {
-      "id": "81234.2",
-      "name": "Dorada abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "4.18",
-      "newPrice": "4.28"
-    },
-    {
-      "id": "81234.5",
-      "name": "Dorada a filetes sin cabeza y sin espina",
-      "oldPrice": "4.18",
-      "newPrice": "4.28"
-    },
-    {
-      "id": "81234.4",
-      "name": "Dorada abierta en libro sin cabeza y sin espina",
-      "oldPrice": "4.18",
-      "newPrice": "4.28"
-    },
-    {
-      "id": "81234.3",
-      "name": "Dorada sin limpiar",
-      "oldPrice": "4.18",
-      "newPrice": "4.28"
-    },
-    {
-      "id": "81204.1",
-      "name": "Bacalao a rodajas",
-      "oldPrice": "29.70",
-      "newPrice": "32.73"
-    },
-    {
-      "id": "81204.2",
-      "name": "Bacalao abierto en libro sin cabeza y sin espina",
-      "oldPrice": "29.70",
-      "newPrice": "32.73"
-    },
-    {
-      "id": "81055.1",
-      "name": "Corvina limpia con cabeza",
-      "oldPrice": "19.09",
-      "newPrice": "18.40"
-    },
-    {
-      "id": "81055.2",
-      "name": "Corvina abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "19.09",
-      "newPrice": "18.40"
-    },
-    {
-      "id": "81055.3",
-      "name": "Corvina a filetes",
-      "oldPrice": "19.09",
-      "newPrice": "18.40"
-    },
-    {
-      "id": "81704",
-      "name": "Sepia limpia",
-      "oldPrice": "10.17",
-      "newPrice": "10.02"
+      "oldPrice": "0.87",
+      "newPrice": "0.93"
     }
   ]
 }
