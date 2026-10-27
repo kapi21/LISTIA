@@ -1,201 +1,520 @@
 {
-  "lastSync": "2026-10-26T09:51:59.718800",
-  "totalProducts": 4325,
-  "newProductsCount": 1,
+  "lastSync": "2026-10-27T09:40:06.034817",
+  "totalProducts": 4357,
+  "newProductsCount": 44,
   "newProducts": [
     {
-      "id": "18627",
-      "name": "Crema facial gel Hidrata & Ilumina K-Skin con cápsulas de niacinamida y colágeno",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema de cara",
-      "photo": "https://prod-mercadona.imgix.net/images/895407dfb43aebf728f8811afc8c8a8b.jpg?fit=crop&h=300&w=300",
-      "price": "6.50",
-      "unit_size": 0.05,
-      "size_format": "l",
+      "id": "7307",
+      "name": "Extracto original de buey Bovril",
+      "category": "Aceite, especias y salsas",
+      "subcategory": "Otras salsas",
+      "photo": "https://prod-mercadona.imgix.net/images/831e74a73beee559666aee1158ff284f.jpg?fit=crop&h=300&w=300",
+      "price": "3.15",
+      "unit_size": 0.125,
+      "size_format": "kg",
       "packaging": "Tarro"
+    },
+    {
+      "id": "11547",
+      "name": "Pan de higo con almendras Villacruz",
+      "category": "Aperitivos",
+      "subcategory": "Fruta desecada",
+      "photo": "https://prod-mercadona.imgix.net/images/2b06bffa943a443f2132f9963177f726.jpg?fit=crop&h=300&w=300",
+      "price": "2.35",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "12431",
+      "name": "Chocolatinas de chocolate negro Royal Mints 49% rellenas de crema sabor a menta",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chocolate negro",
+      "photo": "https://prod-mercadona.imgix.net/images/388d58b7f7976656eaf9ec945411b92e.jpg?fit=crop&h=300&w=300",
+      "price": "2.40",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "17702",
+      "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chocolatinas",
+      "photo": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "36307",
+      "name": "Trufas clásicas al cacao Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chocolatinas",
+      "photo": "https://prod-mercadona.imgix.net/images/273cff041a8b22372c562ef7b884f420.jpg?fit=crop&h=300&w=300",
+      "price": "2.15",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "52447",
+      "name": "Naranja confitada Choco Orange bañada con chocolate negro Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chocolatinas",
+      "photo": "https://prod-mercadona.imgix.net/images/f4bf953b5df2612c7dacb6ea785df50b.jpg?fit=crop&h=300&w=300",
+      "price": "2.60",
+      "unit_size": 0.15,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "18240",
+      "name": "Bombones de chocolate con leche Cream Avellana Senzza",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Bombones",
+      "photo": "https://prod-mercadona.imgix.net/images/f4b4746d3ca0556be55f14b935bc5581.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.135,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "12157",
+      "name": "Bombones Ferrero Rocher",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Bombones",
+      "photo": "https://prod-mercadona.imgix.net/images/0b6f1a471f38febf3bd20a024451539b.jpg?fit=crop&h=300&w=300",
+      "price": "6.95",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "86496",
+      "name": "Bombones de chocolate con leche Lindor Lindt",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Bombones",
+      "photo": "https://prod-mercadona.imgix.net/images/51a498f0950bd79794882a52edcb8e79.jpg?fit=crop&h=300&w=300",
+      "price": "9.95",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "22838",
+      "name": "Surtido bombones Senzza de chocolate con leche 0% azúcares añadidos",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Bombones",
+      "photo": "https://prod-mercadona.imgix.net/images/5a44edcd080ce4635ede98e2202fdd24.jpg?fit=crop&h=300&w=300",
+      "price": "3.20",
+      "unit_size": 0.125,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "86406",
+      "name": "Bombones de coco Cocolizze Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Bombones",
+      "photo": "https://prod-mercadona.imgix.net/images/1fb1299df0f6878a0eb78225805a7520.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.132,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "14468",
+      "name": "Surtido bombones de chocolate Belga Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Bombones",
+      "photo": "https://prod-mercadona.imgix.net/images/cc55d112cd698defc1fe2f29652a3422.jpg?fit=crop&h=300&w=300",
+      "price": "4.60",
+      "unit_size": 0.21,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "18787",
+      "name": "Crema de galleta caramelizada Lotus Biscoff",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Cremas de untar",
+      "photo": "https://prod-mercadona.imgix.net/images/bdb213c2a0db07f82d025206fac5f7fe.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Tarro"
+    },
+    {
+      "id": "8950",
+      "name": "Turrón de chocolate Suchard",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/64e5b3d33c7db7de436adabe23745758.jpeg?fit=crop&h=300&w=300",
+      "price": "4.90",
+      "unit_size": 0.23,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36333",
+      "name": "Turrón de yema tostada Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/3740c64870bfe47fbf5c754abf4d3969.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36012",
+      "name": "Turrón de chocolate con leche y cacahuete Hacendado con miel y caramelo troceado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/071ce4236e981144c9141424503a1c37.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36313",
+      "name": "Turrón de chocolate con almendras Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/afc2b1182bb07ec228f2651de0da55c8.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "14250",
+      "name": "Turrón de chocolate negro crujiente Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/d0e2dafa069a6e17d572352bf6f8d7bd.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36020",
+      "name": "Turrón blando de Jijona Antiu Xixona",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/0f3c00580d021ecd6ecb267b8ecb9880.jpeg?fit=crop&h=300&w=300",
+      "price": "4.35",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36030",
+      "name": "Turrón tres chocolates con trozos de galleta Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/294fa400d7b05b7e6ffce48ddc23db19.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.15,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36033",
+      "name": "Turrón de chocolate negro con crema de yogur y frutos silvestres Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/3f41de201bd419ef12dd35cf9edec685.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.15,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36334",
+      "name": "Turrón de fruta Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/eb4a4d7f6fa8af00200f78781dde6080.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "36029",
+      "name": "Turrón de guirlache Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/22582cea1d9c81e60d8bf12c0a180e35.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.15,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "15848",
+      "name": "Turrón duro de almendras Hacendado 0% azúcares añadidos",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/dd837f7b598b51a24ef8e6f15883ef86.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "15847",
+      "name": "Turrón blando de almendras Hacendado 0% azúcares añadidos",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/c3e0bf34b72223d02de3e9cfd4ce2d4c.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "67835",
+      "name": "Torta imperial Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/dbd7f6f90539662f6223b05df6cbea53.jpg?fit=crop&h=300&w=300",
+      "price": "2.85",
+      "unit_size": 0.18,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "15901",
+      "name": "Turrón de chocolate Cream Avellana Hacendado con galleta crujiente",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/334c78c603cd62d3949b255a0bcd492f.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.14,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "22099",
+      "name": "Surtido de mini turrones Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/1f86fe748cbaff143adc3b523741c483.jpg?fit=crop&h=300&w=300",
+      "price": "4.95",
+      "unit_size": 0.311,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "14248",
+      "name": "Turrón imperial de cacahuete Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/c6974c0c837382d848dc7fd8466facb4.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Tableta"
+    },
+    {
+      "id": "14249",
+      "name": "Turrón crema de cacahuete Hacendado",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Turrones",
+      "photo": "https://prod-mercadona.imgix.net/images/e23141dfc47a327bdbdaeb9ca702bf9c.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Tableta"
     }
   ],
-  "priceChangesCount": 61,
+  "priceChangesCount": 84,
   "priceChanges": [
     {
-      "id": "27099",
-      "name": "Agua mineral grande Nestlé Aquarel",
-      "oldPrice": "2.94",
-      "newPrice": "3.84"
+      "id": "27348",
+      "name": "Refresco Coca-Cola",
+      "oldPrice": "4.10",
+      "newPrice": "4.50"
     },
     {
-      "id": "27232",
-      "name": "Agua mineral grande Nestlé Aquarel",
-      "oldPrice": "0.49",
-      "newPrice": "0.64"
+      "id": "27342",
+      "name": "Refresco Coca-Cola",
+      "oldPrice": "2.15",
+      "newPrice": "2.35"
     },
     {
-      "id": "27291",
-      "name": "Agua mineral grande Lanjarón",
-      "oldPrice": "4.32",
-      "newPrice": "3.60"
+      "id": "9886",
+      "name": "Refresco Coca-Cola",
+      "oldPrice": "3.00",
+      "newPrice": "3.30"
     },
     {
-      "id": "27216",
-      "name": "Agua mineral grande Lanjarón",
-      "oldPrice": "0.75",
-      "newPrice": "0.63"
-    },
-    {
-      "id": "29605",
-      "name": "Bebida isotónica limón Aquarius",
-      "oldPrice": "7.44",
-      "newPrice": "6.88"
-    },
-    {
-      "id": "29625",
-      "name": "Bebida isotónica limón Aquarius",
-      "oldPrice": "0.99",
-      "newPrice": "0.89"
-    },
-    {
-      "id": "29604",
-      "name": "Bebida isotónica naranja Aquarius",
-      "oldPrice": "7.44",
-      "newPrice": "6.88"
-    },
-    {
-      "id": "29624",
-      "name": "Bebida isotónica naranja Aquarius",
-      "oldPrice": "0.99",
-      "newPrice": "0.89"
-    },
-    {
-      "id": "28670",
-      "name": "Bebida energética Monster Energy Ultra zero azúcar",
-      "oldPrice": "6.68",
-      "newPrice": "5.28"
-    },
-    {
-      "id": "28119",
-      "name": "Bebida energética Monster Energy Ultra zero azúcar",
-      "oldPrice": "1.79",
-      "newPrice": "1.45"
-    },
-    {
-      "id": "24547",
-      "name": "Bebida energética Red Bull",
-      "oldPrice": "9.99",
-      "newPrice": "10.64"
-    },
-    {
-      "id": "27905",
-      "name": "Bebida energética Red Bull",
-      "oldPrice": "1.59",
+      "id": "28181",
+      "name": "Refresco Coca-Cola",
+      "oldPrice": "1.55",
       "newPrice": "1.69"
     },
     {
-      "id": "27321",
+      "id": "28113",
       "name": "Refresco Coca-Cola",
-      "oldPrice": "10.20",
-      "newPrice": "11.16"
+      "oldPrice": "5.60",
+      "newPrice": "6.00"
     },
     {
-      "id": "27426",
+      "id": "29360",
+      "name": "Refresco Coca-Cola",
+      "oldPrice": "1.50",
+      "newPrice": "1.60"
+    },
+    {
+      "id": "27449",
       "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "10.20",
-      "newPrice": "11.16"
+      "oldPrice": "4.10",
+      "newPrice": "4.50"
     },
     {
-      "id": "27184",
-      "name": "Refresco Coca-Cola light",
-      "oldPrice": "7.38",
-      "newPrice": "8.37"
+      "id": "27445",
+      "name": "Refresco Coca-Cola zero azúcar",
+      "oldPrice": "2.15",
+      "newPrice": "2.35"
     },
     {
-      "id": "26997",
+      "id": "9887",
+      "name": "Refresco Coca-Cola zero azúcar",
+      "oldPrice": "3.00",
+      "newPrice": "3.30"
+    },
+    {
+      "id": "13816",
+      "name": "Refresco Coca-Cola zero azúcar",
+      "oldPrice": "1.55",
+      "newPrice": "1.69"
+    },
+    {
+      "id": "28115",
+      "name": "Refresco Coca-Cola zero azúcar",
+      "oldPrice": "5.60",
+      "newPrice": "6.00"
+    },
+    {
+      "id": "29361",
+      "name": "Refresco Coca-Cola zero azúcar",
+      "oldPrice": "1.50",
+      "newPrice": "1.60"
+    },
+    {
+      "id": "28180",
       "name": "Refresco Coca-Cola zero azúcar zero cafeína",
-      "oldPrice": "10.20",
-      "newPrice": "11.16"
+      "oldPrice": "4.10",
+      "newPrice": "4.50"
     },
     {
-      "id": "13817",
-      "name": "Refresco Fanta limón",
-      "oldPrice": "5.94",
-      "newPrice": "6.93"
+      "id": "27462",
+      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
+      "oldPrice": "2.15",
+      "newPrice": "2.35"
     },
     {
-      "id": "27602",
-      "name": "Refresco Fanta limón",
-      "oldPrice": "0.75",
-      "newPrice": "0.80"
+      "id": "17707",
+      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
+      "oldPrice": "1.55",
+      "newPrice": "1.69"
     },
     {
-      "id": "8779",
-      "name": "Refresco Fanta limón zero azúcares añadidos",
-      "oldPrice": "4.24",
-      "newPrice": "6.16"
+      "id": "6305",
+      "name": "Pajaritas vegetales Hacendado",
+      "oldPrice": "0.90",
+      "newPrice": "1.00"
     },
     {
-      "id": "27608",
-      "name": "Refresco Fanta limón zero azúcares añadidos",
-      "oldPrice": "0.69",
-      "newPrice": "0.80"
+      "id": "6344",
+      "name": "Hélices con vegetales Hacendado",
+      "oldPrice": "1.45",
+      "newPrice": "1.60"
     },
     {
-      "id": "26990",
-      "name": "Refresco lima limón Sprite",
-      "oldPrice": "1.35",
-      "newPrice": "1.65"
+      "id": "6250",
+      "name": "Macarrón Hacendado",
+      "oldPrice": "1.15",
+      "newPrice": "1.20"
     },
     {
-      "id": "18234",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "1.00",
-      "newPrice": "1.55"
+      "id": "6371",
+      "name": "Pasta trottole vegetales Hacendado",
+      "oldPrice": "1.05",
+      "newPrice": "1.15"
     },
     {
-      "id": "27571",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "5.94",
-      "newPrice": "6.93"
+      "id": "17640",
+      "name": "Pasta fusilloni vegetal Hacendado",
+      "oldPrice": "1.05",
+      "newPrice": "1.15"
     },
     {
-      "id": "27502",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "0.75",
-      "newPrice": "0.80"
+      "id": "6245",
+      "name": "Spaghetti Hacendado",
+      "oldPrice": "1.15",
+      "newPrice": "1.20"
     },
     {
-      "id": "8778",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "4.24",
-      "newPrice": "6.16"
+      "id": "67154",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "8.04",
+      "newPrice": "6.84"
     },
     {
-      "id": "27510",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "0.69",
-      "newPrice": "0.80"
+      "id": "15137",
+      "name": "Porras Hacendado congeladas",
+      "oldPrice": "2.00",
+      "newPrice": "2.05"
     },
     {
-      "id": "27666",
-      "name": "Tónica original Schweppes",
-      "oldPrice": "5.60",
-      "newPrice": "7.68"
+      "id": "3132",
+      "name": "Plátano macho",
+      "oldPrice": "0.81",
+      "newPrice": "0.84"
     },
     {
-      "id": "27487",
-      "name": "Tónica Zero Schweppes",
-      "oldPrice": "5.60",
-      "newPrice": "7.68"
+      "id": "3321",
+      "name": "Uva roja sin semillas",
+      "oldPrice": "2.16",
+      "newPrice": "2.76"
     },
     {
-      "id": "11688",
-      "name": "Refresco té sabor limón Fuze Tea",
-      "oldPrice": "1.99",
-      "newPrice": "1.49"
+      "id": "3028",
+      "name": "Manzana Golden",
+      "oldPrice": "0.50",
+      "newPrice": "0.46"
     },
     {
-      "id": "33555",
-      "name": "Aperitivo de patata sabor original Pringles",
-      "oldPrice": "1.90",
-      "newPrice": "2.65"
+      "id": "3119",
+      "name": "Pera Conferencia",
+      "oldPrice": "0.45",
+      "newPrice": "0.48"
+    },
+    {
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "oldPrice": "0.40",
+      "newPrice": "0.44"
+    },
+    {
+      "id": "3172",
+      "name": "Pera Limonera",
+      "oldPrice": "0.62",
+      "newPrice": "0.64"
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "oldPrice": "3.87",
+      "newPrice": "3.95"
     }
   ]
 }
