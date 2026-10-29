@@ -1,300 +1,129 @@
 {
-  "lastSync": "2026-10-28T10:24:54.261488",
-  "totalProducts": 4358,
-  "newProductsCount": 10,
+  "lastSync": "2026-10-29T10:45:23.903548",
+  "totalProducts": 2635,
+  "newProductsCount": 7,
   "newProducts": [
     {
-      "id": "18768",
+      "id": "18769",
       "name": "Naranjada natural sin gas light Don Simón",
       "category": "Agua y refrescos",
       "subcategory": "Otros refrescos sin gas",
-      "photo": "https://prod-mercadona.imgix.net/images/da4f619fc7db1af63beaac5fa31e05c9.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.5,
+      "photo": "https://prod-mercadona.imgix.net/images/7503b31d0a22801f4857aba39d02b1e7.jpg?fit=crop&h=300&w=300",
+      "price": "1.80",
+      "unit_size": 1.32,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "18770",
+      "name": "Naranjada natural sin gas light Don Simón",
+      "category": "Agua y refrescos",
+      "subcategory": "Otros refrescos sin gas",
+      "photo": "https://prod-mercadona.imgix.net/images/45ce4962d881e111f9ceac65831c7ae8.jpg?fit=crop&h=300&w=300",
+      "price": "0.45",
+      "unit_size": 0.33,
       "size_format": "l",
       "packaging": "Botella"
     },
     {
-      "id": "66922",
-      "name": "Sangría Casón Histórico",
-      "category": "Bodega",
-      "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/8d8213455286916924e653dfd0e40665.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 1.5,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "18316",
-      "name": "Tarta tres leches con dulce de leche Hacendado congelada",
-      "category": "Congelados",
-      "subcategory": "Tartas",
-      "photo": "https://prod-mercadona.imgix.net/images/8fc03846b63954857f351e1ca73eb4b0.jpg?fit=crop&h=300&w=300",
-      "price": "9.00",
-      "unit_size": 1.05,
+      "id": "18273",
+      "name": "Chocolate con leche Fussion Hacendado relleno cremoso y conos sabor bacon y queso",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chocolate con leche",
+      "photo": "https://prod-mercadona.imgix.net/images/4042e9b354cf586b1375664453bc0f0a.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 0.135,
       "size_format": "kg",
-      "packaging": "Bandeja"
+      "packaging": "Tableta"
     },
     {
-      "id": "17818",
-      "name": "Preparado de verdura Tradicional cortado y lavado",
-      "category": "Fruta y verdura",
-      "subcategory": "Otras verduras y hortalizas",
-      "photo": "https://prod-mercadona.imgix.net/images/a06cb24e5d3ff35372edb04f8643135e.jpg?fit=crop&h=300&w=300",
-      "price": "2.40",
-      "unit_size": 0.4,
+      "id": "17702",
+      "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chocolatinas",
+      "photo": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.2,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "18455",
-      "name": "Vela perfumada Red Elixir Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Ambientador decorativo y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/6217b13a8a8680de2d42440787d9b6bc.jpg?fit=crop&h=300&w=300",
-      "price": "1.90",
-      "unit_size": 1.0,
-      "size_format": "ud",
+      "id": "11938",
+      "name": "Vino blanco crianza Capricho de Uva DO Rioja",
+      "category": "Bodega",
+      "subcategory": "Rioja y otras denominaciones",
+      "photo": "https://prod-mercadona.imgix.net/images/66f09c612cf9165b84dd9fddf7c3d7cd.jpg?fit=crop&h=300&w=300",
+      "price": "5.70",
+      "unit_size": 0.75,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "17671",
+      "name": "Café en cápsula sabor Biscuit Hacendado",
+      "category": "Cacao, café e infusiones",
+      "subcategory": "Cápsulas compatibles Nespresso",
+      "photo": "https://prod-mercadona.imgix.net/images/057de70bdba7405bb9df61ddce7b7bf7.jpg?fit=crop&h=300&w=300",
+      "price": "2.40",
+      "unit_size": 0.05,
+      "size_format": "kg",
       "packaging": "Caja"
     },
     {
-      "id": "81100.1",
-      "name": "Sardina sin limpiar",
-      "category": "Marisco y pescado",
-      "subcategory": "Sardina",
-      "photo": "https://prod-mercadona.imgix.net/images/5b92b803a7932c1cd2ece3e80d11a853.jpg?fit=crop&h=300&w=300",
-      "price": "0.99",
-      "unit_size": 0.2,
+      "id": "50939",
+      "name": "Queso mezcla semicurado Hacendado",
+      "category": "Charcutería y quesos",
+      "subcategory": "Queso semicurado",
+      "photo": "https://prod-mercadona.imgix.net/images/85642f18cb9630aeaa314514a4a7bf09.jpg?fit=crop&h=300&w=300",
+      "price": "18.00",
+      "unit_size": 3.0,
       "size_format": "kg",
-      "packaging": "Granel"
-    },
-    {
-      "id": "17615",
-      "name": "Snack barritas con ternera y cordero perro adulto Compy",
-      "category": "Mascotas",
-      "subcategory": "Snacks",
-      "photo": "https://prod-mercadona.imgix.net/images/46fd1197414c72a567f24190e9bad61d.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.176,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17616",
-      "name": "Snack barritas con pollo e hígado perro adulto Compy",
-      "category": "Mascotas",
-      "subcategory": "Snacks",
-      "photo": "https://prod-mercadona.imgix.net/images/d09eab65cad0672ca4bf21f41f2bf38c.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.176,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "68138",
-      "name": "Natillas de chocolate con leche Hacendado",
-      "category": "Postres y yogures",
-      "subcategory": "Natillas",
-      "photo": "https://prod-mercadona.imgix.net/images/a5dc2eea8ad210c93cc2a831464d72ea.jpg?fit=crop&h=300&w=300",
-      "price": "1.05",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Pack-4"
-    },
-    {
-      "id": "15912",
-      "name": "Postre crema de turrón Hacendado",
-      "category": "Postres y yogures",
-      "subcategory": "Otros postres",
-      "photo": "https://prod-mercadona.imgix.net/images/42c73f95d24622a4164b0a2f967ffeb7.jpg?fit=crop&h=300&w=300",
-      "price": "2.10",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Pack-4"
+      "packaging": "Pieza"
     }
   ],
-  "priceChangesCount": 53,
+  "priceChangesCount": 7,
   "priceChanges": [
     {
-      "id": "27348",
-      "name": "Refresco Coca-Cola",
-      "oldPrice": "4.50",
-      "newPrice": "4.18"
+      "id": "4241",
+      "name": "Aceite de oliva 0,4º Hacendado",
+      "oldPrice": "17.25",
+      "newPrice": "16.75"
     },
     {
-      "id": "27342",
-      "name": "Refresco Coca-Cola",
-      "oldPrice": "2.35",
-      "newPrice": "2.19"
+      "id": "4240",
+      "name": "Aceite de oliva 0,4º Hacendado",
+      "oldPrice": "3.70",
+      "newPrice": "3.60"
     },
     {
-      "id": "27449",
-      "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "4.50",
-      "newPrice": "4.18"
+      "id": "4641",
+      "name": "Aceite de oliva 1º Hacendado",
+      "oldPrice": "17.25",
+      "newPrice": "16.75"
     },
     {
-      "id": "27445",
-      "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "2.35",
-      "newPrice": "2.19"
+      "id": "4640",
+      "name": "Aceite de oliva 1º Hacendado",
+      "oldPrice": "3.90",
+      "newPrice": "3.80"
     },
     {
-      "id": "28180",
-      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
-      "oldPrice": "4.50",
-      "newPrice": "4.18"
+      "id": "67090",
+      "name": "Cerveza Amstel",
+      "oldPrice": "9.90",
+      "newPrice": "8.82"
     },
     {
-      "id": "27462",
-      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
-      "oldPrice": "2.35",
-      "newPrice": "2.19"
+      "id": "8839",
+      "name": "Hamburguesa de cordero al romero",
+      "oldPrice": "3.50",
+      "newPrice": "3.80"
     },
     {
-      "id": "3028",
-      "name": "Manzana Golden",
-      "oldPrice": "0.46",
-      "newPrice": "0.44"
-    },
-    {
-      "id": "8177",
-      "name": "Manzana roja dulce",
-      "oldPrice": "0.44",
-      "newPrice": "0.46"
-    },
-    {
-      "id": "3515",
-      "name": "Medio melón piel de sapo",
-      "oldPrice": "3.95",
-      "newPrice": "4.06"
-    },
-    {
-      "id": "3506",
-      "name": "Melón piel de sapo",
-      "oldPrice": "7.13",
-      "newPrice": "7.15"
-    },
-    {
-      "id": "3210",
-      "name": "Limón",
-      "oldPrice": "0.47",
-      "newPrice": "0.49"
-    },
-    {
-      "id": "3235",
-      "name": "Naranja de mesa",
-      "oldPrice": "0.80",
-      "newPrice": "0.85"
-    },
-    {
-      "id": "3830",
-      "name": "Aguacate",
-      "oldPrice": "1.74",
-      "newPrice": "1.57"
-    },
-    {
-      "id": "3076",
-      "name": "Piña",
-      "oldPrice": "4.46",
-      "newPrice": "4.42"
-    },
-    {
-      "id": "3050",
-      "name": "Mango",
-      "oldPrice": "1.71",
-      "newPrice": "1.80"
-    },
-    {
-      "id": "3026",
-      "name": "Papaya",
-      "oldPrice": "3.41",
-      "newPrice": "3.31"
-    },
-    {
-      "id": "3915",
-      "name": "Granada",
-      "oldPrice": "1.32",
-      "newPrice": "1.44"
-    },
-    {
-      "id": "3914",
-      "name": "Kaki",
-      "oldPrice": "0.54",
-      "newPrice": "0.56"
-    },
-    {
-      "id": "69173",
-      "name": "Yuca",
-      "oldPrice": "2.08",
-      "newPrice": "2.21"
-    },
-    {
-      "id": "69968",
-      "name": "Tomate canario",
-      "oldPrice": "0.37",
-      "newPrice": "0.40"
-    },
-    {
-      "id": "69487",
-      "name": "Rama de Tomates",
-      "oldPrice": "1.70",
-      "newPrice": "1.73"
-    },
-    {
-      "id": "69338",
-      "name": "Calabacín verde",
-      "oldPrice": "0.57",
-      "newPrice": "0.56"
-    },
-    {
-      "id": "69339",
-      "name": "Calabacín blanco",
-      "oldPrice": "0.79",
-      "newPrice": "0.75"
-    },
-    {
-      "id": "69220",
-      "name": "Coliflor",
-      "oldPrice": "2.60",
-      "newPrice": "2.80"
-    },
-    {
-      "id": "69580",
-      "name": "Brócoli",
-      "oldPrice": "1.04",
-      "newPrice": "1.01"
-    },
-    {
-      "id": "69326",
-      "name": "Berenjena",
-      "oldPrice": "0.88",
-      "newPrice": "0.90"
-    },
-    {
-      "id": "81649.1",
-      "name": "Salmón a rodajas",
-      "oldPrice": "28.80",
-      "newPrice": "28.69"
-    },
-    {
-      "id": "81649.4",
-      "name": "Salmón media pieza a rodajas",
-      "oldPrice": "14.34",
-      "newPrice": "14.45"
-    },
-    {
-      "id": "81649.2",
-      "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "28.80",
-      "newPrice": "28.69"
-    },
-    {
-      "id": "81649.5",
-      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "14.34",
-      "newPrice": "14.45"
+      "id": "69383",
+      "name": "Wakame ensalada de alga marina Hacendado congelada",
+      "oldPrice": "1.50",
+      "newPrice": "1.60"
     }
   ]
 }
