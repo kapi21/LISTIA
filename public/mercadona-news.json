@@ -1,442 +1,465 @@
 {
-  "lastSync": "2026-10-30T10:44:39.843904",
-  "totalProducts": 4371,
-  "newProductsCount": 1741,
+  "lastSync": "2026-10-31T10:13:45.466380",
+  "totalProducts": 4163,
+  "newProductsCount": 25,
   "newProducts": [
     {
-      "id": "14988",
-      "name": "Cerveza negra Ambar",
-      "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=300&w=300",
-      "price": "6.00",
-      "unit_size": 1.98,
-      "size_format": "l",
+      "id": "59078",
+      "name": "Sticks longaniza extra Hacendado",
+      "category": "Charcutería y quesos",
+      "subcategory": "Salchichón",
+      "photo": "https://prod-mercadona.imgix.net/images/045933b7238ece7f9e1a3ce781526df6.jpeg?fit=crop&h=300&w=300",
+      "price": "1.10",
+      "unit_size": 0.05,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "58246",
+      "name": "Salchichón de bellota ibérico La Hacienda del ibérico",
+      "category": "Charcutería y quesos",
+      "subcategory": "Salchichón",
+      "photo": "https://prod-mercadona.imgix.net/images/47b6305d016a25e6ca5a5e4f0777f273.jpg?fit=crop&h=300&w=300",
+      "price": "10.80",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "58245",
+      "name": "Chorizo de bellota ibérico La hacienda del ibérico",
+      "category": "Charcutería y quesos",
+      "subcategory": "Chorizo",
+      "photo": "https://prod-mercadona.imgix.net/images/09f3f842812261c6de54a5263b616580.jpg?fit=crop&h=300&w=300",
+      "price": "10.26",
+      "unit_size": 0.38,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "18179",
+      "name": "Lote corporal mujer Dolce Latto Deliplus",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/941614a76df2fc87f5e01608116935a1.jpg?fit=crop&h=300&w=300",
+      "price": "9.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "14989",
-      "name": "Cerveza negra Ambar",
-      "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/90c766f8262424ede0ec978b95cd1a48.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.33,
-      "size_format": "l",
-      "packaging": "Lata"
+      "id": "18180",
+      "name": "Lote mujer Cerise Como tú",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/a6e9bebfe1716b61621bd1b7e284df86.jpg?fit=crop&h=300&w=300",
+      "price": "13.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
     },
     {
-      "id": "66922",
-      "name": "Sangría Casón Histórico",
-      "category": "Bodega",
-      "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/8d8213455286916924e653dfd0e40665.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 1.5,
-      "size_format": "l",
-      "packaging": "Botella"
+      "id": "18177",
+      "name": "Lote mujer Rose Nude Como tú",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/3775d54206d819ffa7fbfb6b51ba582d.jpg?fit=crop&h=300&w=300",
+      "price": "12.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
     },
     {
-      "id": "14383",
-      "name": "Café en cápsula sabor Caramel Hacendado",
-      "category": "Cacao, café e infusiones",
-      "subcategory": "Cápsulas compatibles Nespresso",
-      "photo": "https://prod-mercadona.imgix.net/images/e17506bf16198116df06ebb32a0421ad.jpg?fit=crop&h=300&w=300",
-      "price": "2.40",
-      "unit_size": 0.05,
-      "size_format": "kg",
+      "id": "18181",
+      "name": "Lote mujer Ella My Soul",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/dcc9025f91f1320ee979baebe8ac74ce.jpg?fit=crop&h=300&w=300",
+      "price": "15.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "18178",
+      "name": "Lote mujer Gold Como Tú",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/a69cc8aa76cd95393aa2a5e80e0bab67.jpg?fit=crop&h=300&w=300",
+      "price": "11.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "18176",
+      "name": "Lote mujer Wonder Aqua Royale",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/3159d2afe79ebfb118006ce34597ef29.jpg?fit=crop&h=300&w=300",
+      "price": "9.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "18184",
+      "name": "Lote hombre Fuerza Como tú",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes hombre",
+      "photo": "https://prod-mercadona.imgix.net/images/3a97ca4936aa36e9bd94908741b69f7d.jpg?fit=crop&h=300&w=300",
+      "price": "10.50",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "18183",
+      "name": "Lote hombre Faris Aqua Royale",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes hombre",
+      "photo": "https://prod-mercadona.imgix.net/images/e009970d757f567f17c9ca7dba4b917c.jpg?fit=crop&h=300&w=300",
+      "price": "9.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": "Caja"
     },
     {
-      "id": "62705",
-      "name": "Alistado mediano Hacendado congelado",
-      "category": "Congelados",
-      "subcategory": "Marisco",
-      "photo": "https://prod-mercadona.imgix.net/images/0c0ed00cc2bddb2ccd2a0f3a4436fb42.jpg?fit=crop&h=300&w=300",
-      "price": "14.40",
-      "unit_size": 0.4,
-      "size_format": "kg",
+      "id": "18185",
+      "name": "Lote hombre Borealia My Soul",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes hombre",
+      "photo": "https://prod-mercadona.imgix.net/images/3f1c22451e3d0a10db7532f2dadafea9.jpg?fit=crop&h=300&w=300",
+      "price": "15.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "18186",
+      "name": "Lote hombre 9.60 Volt",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes hombre",
+      "photo": "https://prod-mercadona.imgix.net/images/c79b94e86d88591a13a96a3de90ea24e.jpg?fit=crop&h=300&w=300",
+      "price": "8.50",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "18188",
+      "name": "Lote infantil Granja",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Colonia infantil",
+      "photo": "https://prod-mercadona.imgix.net/images/0e718b9ed088f981ebe90a2b9a11d1e5.jpg?fit=crop&h=300&w=300",
+      "price": "11.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": "Caja"
     },
     {
-      "id": "18399",
-      "name": "Tarta infantil Paw Patrol congelada",
-      "category": "Congelados",
-      "subcategory": "Tartas infantiles",
-      "photo": "https://prod-mercadona.imgix.net/images/9d5b140f0078e9e173158600647e3501.jpg?fit=crop&h=300&w=300",
-      "price": "13.80",
-      "unit_size": 1.57,
+      "id": "18190",
+      "name": "Lote infantil Lush Light",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Colonia infantil",
+      "photo": "https://prod-mercadona.imgix.net/images/f16709a566979653313f0cedec3498f1.jpg?fit=crop&h=300&w=300",
+      "price": "11.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "18189",
+      "name": "Lote infantil Game On!",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Colonia infantil",
+      "photo": "https://prod-mercadona.imgix.net/images/7fcc86ed6ecc657d4044bba1ddfa6d40.jpg?fit=crop&h=300&w=300",
+      "price": "11.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "18191",
+      "name": "Lote infantil Digitron",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Colonia infantil",
+      "photo": "https://prod-mercadona.imgix.net/images/55c598a5140f68c0e45fd18576490cff.jpg?fit=crop&h=300&w=300",
+      "price": "10.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "18192",
+      "name": "Lote infantil maquillaje Color Up! Magic Makeup",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Colonia infantil",
+      "photo": "https://prod-mercadona.imgix.net/images/efa6f082885e2c1ab314cb32f93e16b1.jpg?fit=crop&h=300&w=300",
+      "price": "12.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "17825",
+      "name": "Ambientador varitas Peonía Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Ambientador decorativo y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/ccdf681c089b716109d3f0cf213fc26d.jpg?fit=crop&h=300&w=300",
+      "price": "2.10",
+      "unit_size": 0.04,
+      "size_format": "l",
+      "packaging": "Caja"
+    },
+    {
+      "id": "17822",
+      "name": "Ambientador varitas Frambuesa Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Ambientador decorativo y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/d8e8867577e5f4b50ea1719551629f8f.jpg?fit=crop&h=300&w=300",
+      "price": "2.10",
+      "unit_size": 0.04,
+      "size_format": "l",
+      "packaging": "Caja"
+    },
+    {
+      "id": "87240",
+      "name": "Porciones de merluza",
+      "category": "Marisco y pescado",
+      "subcategory": "Merluza",
+      "photo": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpg?fit=crop&h=300&w=300",
+      "price": "9.43",
+      "unit_size": 0.35,
       "size_format": "kg",
       "packaging": "Bandeja"
     },
     {
-      "id": "79217",
-      "name": "Aceite corporal aloe vera Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Aceite corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/76a23c276b7c9273382d278ac4fab212.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "46844",
-      "name": "Aceite en crema corporal Fussion Oriental Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Aceite corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/f46095d808583dc7443ef3bc3739fda1.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "46815",
-      "name": "Aceite corporal de almendras Deliplus 100% natural",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Aceite corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/540b2c7636d8a7b332bfa47583ed71b9.jpg?fit=crop&h=300&w=300",
-      "price": "3.40",
-      "unit_size": 0.2,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "46816",
-      "name": "Aceite corporal de romero Deliplus 100% natural",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Aceite corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/6d2e4f4e6218a9d008b19aece550c27e.jpg?fit=crop&h=300&w=300",
-      "price": "3.20",
-      "unit_size": 0.2,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "46831",
-      "name": "Aceite corporal rosa mosqueta Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Aceite corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/cd7948cffa7ee9e056e11906b3321897.jpg?fit=crop&h=300&w=300",
-      "price": "4.80",
-      "unit_size": 0.03,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "52795",
-      "name": "Loción corporal Hidrata Deliplus aloe vera y ácido hialurónico",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/075dfce6c0be2f32dd315789a65a7ce3.jpg?fit=crop&h=300&w=300",
-      "price": "1.90",
-      "unit_size": 0.6,
+      "id": "67820",
+      "name": "Panettone con pasas y naranja Hacendado",
+      "category": "Panadería y pastelería",
+      "subcategory": "Bollería envasada",
+      "photo": "https://prod-mercadona.imgix.net/images/da2bca1e338866da9b32d75ded97d879.jpg?fit=crop&h=300&w=300",
+      "price": "6.00",
+      "unit_size": 0.75,
       "size_format": "kg",
-      "packaging": "Bote"
+      "packaging": "Caja"
     },
     {
-      "id": "76542",
-      "name": "Crema corporal Nivea",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/7f19b058d8726a6ed038dc6d5cdf83d3.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Lata"
+      "id": "67821",
+      "name": "Panettone con pepitas de chocolate Hacendado",
+      "category": "Panadería y pastelería",
+      "subcategory": "Bollería envasada",
+      "photo": "https://prod-mercadona.imgix.net/images/707042fcc0f6c13a986420ee6fa97486.jpg?fit=crop&h=300&w=300",
+      "price": "6.15",
+      "unit_size": 0.75,
+      "size_format": "kg",
+      "packaging": "Caja"
     },
     {
-      "id": "14330",
-      "name": "Gel corporal aloe vera Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/7367f7a88ad30e56d19d864ad07c54ed.jpg?fit=crop&h=300&w=300",
-      "price": "4.10",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "52797",
-      "name": "Loción corporal Repara Deliplus urea 10% y dexpantenol",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/f2aa4ba592fed8cceb6154848651d6e5.jpg?fit=crop&h=300&w=300",
-      "price": "2.20",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "86345",
-      "name": "Loción corporal Calm Deliplus omega 3, 6, 9 y niacinamida",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/42df31599f9bdf7066d10ba9770d56c5.jpg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "76596",
-      "name": "Loción corporal reafirmante Q10 Nivea y vitamina C",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/5b06a5234f258bd32088317de7334435.jpg?fit=crop&h=300&w=300",
+      "id": "22961",
+      "name": "Pandoro Balocco",
+      "category": "Panadería y pastelería",
+      "subcategory": "Bollería envasada",
+      "photo": "https://prod-mercadona.imgix.net/images/546db262357d918041010c707680cf6a.jpg?fit=crop&h=300&w=300",
       "price": "5.95",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "14260",
-      "name": "Exfoliante corporal marino Deliplus Sal Mar Muerto",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/40fb75a66fb1301f747f944ef777a628.jpg?fit=crop&h=300&w=300",
-      "price": "4.55",
-      "unit_size": 0.4,
+      "unit_size": 0.75,
       "size_format": "kg",
-      "packaging": "Tarro"
+      "packaging": "Caja"
     },
     {
-      "id": "76178",
-      "name": "Gel corporal aloe vera puro Atlantia",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/7044b8ac53de0f2c9e197ad911d0f7be.jpg?fit=crop&h=300&w=300",
-      "price": "5.50",
-      "unit_size": 0.2,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "11567",
-      "name": "Leche corporal nutritiva Nivea con ácido hialurónico, aceite de almendras y sérum de nutrición profunda",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/ab0fdc2e46e5e4cc481ee550a78c4c37.jpg?fit=crop&h=300&w=300",
-      "price": "4.95",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "46835",
-      "name": "Gel refrescante mentol Deliplus para pies y piernas",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/cc7024a17bd46d564c4fdef73fcdd2a1.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
+      "id": "68125",
+      "name": "Danonino sabor fresa y plátano Danone",
+      "category": "Postres y yogures",
+      "subcategory": "Yogures y postres infantiles",
+      "photo": "https://prod-mercadona.imgix.net/images/16ae45680e6f0ef82e7562c2e65bb7d5.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
       "unit_size": 0.3,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "52796",
-      "name": "Loción corporal Nutre Deliplus almendras y cica",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/bc03bfc4233b8016657fc8979e74f59b.jpg?fit=crop&h=300&w=300",
-      "price": "2.40",
-      "unit_size": 0.6,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "13972",
-      "name": "Crema corporal Esferas Vit. E&A Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/5a41e0900cbb9ac7968295c3a455745d.jpg?fit=crop&h=300&w=300",
-      "price": "3.10",
-      "unit_size": 0.3,
-      "size_format": "l",
-      "packaging": "Tarro"
-    },
-    {
-      "id": "13969",
-      "name": "Sorbete corporal Posidonia Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/c9369be315084cd619aa6861ee49fff2.jpg?fit=crop&h=300&w=300",
-      "price": "2.90",
-      "unit_size": 0.3,
-      "size_format": "l",
-      "packaging": "Tarro"
-    },
-    {
-      "id": "13970",
-      "name": "Crema corporal Olive Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/8113349a13f84f1d45d4d3d76083c10f.jpg?fit=crop&h=300&w=300",
-      "price": "1.80",
-      "unit_size": 0.3,
-      "size_format": "l",
-      "packaging": "Tarro"
-    },
-    {
-      "id": "13971",
-      "name": "Manteca corporal Murumuru Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/ad394ca12901bd688d73e114b90c7153.jpg?fit=crop&h=300&w=300",
-      "price": "4.00",
-      "unit_size": 0.3,
-      "size_format": "l",
-      "packaging": "Tarro"
-    },
-    {
-      "id": "16431",
-      "name": "Crema corporal Africa oil Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/1d6f99012fa79249bef56b33ed12bb8f.jpg?fit=crop&h=300&w=300",
-      "price": "3.30",
-      "unit_size": 0.3,
-      "size_format": "l",
-      "packaging": "Tarro"
-    },
-    {
-      "id": "16377",
-      "name": "Crema corporal anticelulítico reafirmante Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/493f368a8ccd157e423dd8dc8da20b64.jpg?fit=crop&h=300&w=300",
-      "price": "5.50",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "18135",
-      "name": "Exfoliante corporal Ámbar Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema corporal",
-      "photo": "https://prod-mercadona.imgix.net/images/48f406885894ee42e5a0be777f13e650.jpg?fit=crop&h=300&w=300",
-      "price": "4.00",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "46812",
-      "name": "Crema de manos flor de Japón Deliplus Hidrata & Perfuma",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema manos",
-      "photo": "https://prod-mercadona.imgix.net/images/3f578158936f4b1672f4912c11531e89.jpg?fit=crop&h=300&w=300",
-      "price": "0.80",
-      "unit_size": 0.03,
-      "size_format": "l",
-      "packaging": "Tubo"
+      "size_format": "kg",
+      "packaging": null
     }
   ],
-  "priceChangesCount": 17,
+  "priceChangesCount": 61,
   "priceChanges": [
     {
-      "id": "27761",
-      "name": "Refresco limón Schweppes original",
-      "oldPrice": "7.76",
-      "newPrice": "5.20"
-    },
-    {
-      "id": "27759",
-      "name": "Bebida Florida Sunny Delight",
-      "oldPrice": "1.99",
-      "newPrice": "1.65"
-    },
-    {
-      "id": "33555",
-      "name": "Aperitivo de patata sabor original Pringles",
-      "oldPrice": "2.65",
-      "newPrice": "1.90"
-    },
-    {
-      "id": "33556",
-      "name": "Aperitivo de patata sabor crema agria y cebolla Pringles",
-      "oldPrice": "2.65",
-      "newPrice": "1.90"
-    },
-    {
-      "id": "28057",
-      "name": "Cerveza doble malta Voll-Damm",
-      "oldPrice": "6.24",
-      "newPrice": "5.10"
-    },
-    {
-      "id": "27137",
-      "name": "Cerveza doble malta Voll-Damm",
-      "oldPrice": "1.04",
-      "newPrice": "0.89"
-    },
-    {
-      "id": "66586",
-      "name": "Cerveza especial Estrella Galicia",
-      "oldPrice": "8.80",
-      "newPrice": "7.60"
-    },
-    {
-      "id": "11178",
-      "name": "Café molido natural Hacendado",
-      "oldPrice": "4.50",
-      "newPrice": "4.40"
-    },
-    {
-      "id": "15922",
-      "name": "Café molido mezcla Hacendado",
-      "oldPrice": "4.50",
-      "newPrice": "4.40"
-    },
-    {
-      "id": "13700",
-      "name": "Café molido fuerte Hacendado",
-      "oldPrice": "4.50",
-      "newPrice": "4.40"
-    },
-    {
-      "id": "13593",
-      "name": "Café molido descafeinado Hacendado",
-      "oldPrice": "4.60",
-      "newPrice": "4.50"
-    },
-    {
-      "id": "14799",
-      "name": "Café en grano natural Hacendado",
-      "oldPrice": "5.00",
-      "newPrice": "4.90"
-    },
-    {
-      "id": "17540",
-      "name": "Café en grano extra fuerte Hacendado",
-      "oldPrice": "5.00",
-      "newPrice": "4.90"
-    },
-    {
-      "id": "19924",
-      "name": "Café en grano fuerte Hacendado",
-      "oldPrice": "5.00",
-      "newPrice": "4.90"
-    },
-    {
-      "id": "52170",
-      "name": "Foie gras entero de pato Hacendado",
-      "oldPrice": "8.30",
-      "newPrice": "8.00"
-    },
-    {
-      "id": "52171",
-      "name": "Bloc foie gras de pato Hacendado",
-      "oldPrice": "5.25",
-      "newPrice": "5.00"
-    },
-    {
-      "id": "24260",
-      "name": "Gambón grande congelado",
+      "id": "8889",
+      "name": "Whisky escocés Grand Old Parr 12 años",
       "oldPrice": "22.00",
-      "newPrice": "19.90"
+      "newPrice": "19.75"
+    },
+    {
+      "id": "20955",
+      "name": "Champú anticaspa Citrus Fresh H&S cabello graso",
+      "oldPrice": "3.40",
+      "newPrice": "3.90"
+    },
+    {
+      "id": "20956",
+      "name": "Champú anticaspa Menthol Fresh H&S",
+      "oldPrice": "3.40",
+      "newPrice": "3.90"
+    },
+    {
+      "id": "20954",
+      "name": "Champú y acondicionador anticaspa Classic 2 en 1 H&S",
+      "oldPrice": "3.40",
+      "newPrice": "3.90"
+    },
+    {
+      "id": "52647",
+      "name": "Maquinilla de afeitar recargable Gillette Mach Sport 3 hojas",
+      "oldPrice": "9.30",
+      "newPrice": "9.95"
+    },
+    {
+      "id": "17619",
+      "name": "Recambios maquinilla de afeitar Gillette Labs Body + Intimate",
+      "oldPrice": "14.90",
+      "newPrice": "16.90"
+    },
+    {
+      "id": "3132",
+      "name": "Plátano macho",
+      "oldPrice": "0.87",
+      "newPrice": "0.84"
+    },
+    {
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "oldPrice": "0.46",
+      "newPrice": "0.44"
+    },
+    {
+      "id": "3172",
+      "name": "Pera Limonera",
+      "oldPrice": "0.59",
+      "newPrice": "0.67"
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "oldPrice": "3.82",
+      "newPrice": "3.85"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "oldPrice": "6.86",
+      "newPrice": "6.89"
+    },
+    {
+      "id": "3238",
+      "name": "Mandarina",
+      "oldPrice": "0.28",
+      "newPrice": "0.31"
+    },
+    {
+      "id": "3897",
+      "name": "Lima",
+      "oldPrice": "0.29",
+      "newPrice": "0.38"
+    },
+    {
+      "id": "3050",
+      "name": "Mango",
+      "oldPrice": "1.77",
+      "newPrice": "1.80"
+    },
+    {
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.15",
+      "newPrice": "3.20"
+    },
+    {
+      "id": "3915",
+      "name": "Granada",
+      "oldPrice": "1.41",
+      "newPrice": "1.44"
+    },
+    {
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.15",
+      "newPrice": "2.05"
+    },
+    {
+      "id": "69937",
+      "name": "Tomate ensalada",
+      "oldPrice": "0.58",
+      "newPrice": "0.55"
+    },
+    {
+      "id": "69968",
+      "name": "Tomate canario",
+      "oldPrice": "0.40",
+      "newPrice": "0.37"
+    },
+    {
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.78",
+      "newPrice": "1.81"
+    },
+    {
+      "id": "69584",
+      "name": "Pepino",
+      "oldPrice": "0.39",
+      "newPrice": "0.37"
+    },
+    {
+      "id": "69320",
+      "name": "Pimiento verde freír",
+      "oldPrice": "0.20",
+      "newPrice": "0.18"
+    },
+    {
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.85",
+      "newPrice": "2.90"
+    },
+    {
+      "id": "69251",
+      "name": "Col lombarda",
+      "oldPrice": "1.78",
+      "newPrice": "1.92"
+    },
+    {
+      "id": "69664",
+      "name": "Champiñones Portobello",
+      "oldPrice": "2.20",
+      "newPrice": "2.21"
+    },
+    {
+      "id": "69580",
+      "name": "Brócoli",
+      "oldPrice": "1.06",
+      "newPrice": "1.01"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.92",
+      "newPrice": "0.90"
+    },
+    {
+      "id": "69347",
+      "name": "Berenjena rayada",
+      "oldPrice": "0.85",
+      "newPrice": "0.83"
+    },
+    {
+      "id": "69038",
+      "name": "Nabicol",
+      "oldPrice": "1.05",
+      "newPrice": "1.02"
+    },
+    {
+      "id": "81649.1",
+      "name": "Salmón a rodajas",
+      "oldPrice": "28.25",
+      "newPrice": "28.36"
     }
   ]
 }
