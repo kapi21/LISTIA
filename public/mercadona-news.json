@@ -1,289 +1,223 @@
 {
-  "lastSync": "2026-11-03T11:41:52.042302",
-  "totalProducts": 4384,
-  "newProductsCount": 9,
+  "lastSync": "2026-11-04T11:55:26.334109",
+  "totalProducts": 4265,
+  "newProductsCount": 3,
   "newProducts": [
     {
-      "id": "8819",
-      "name": "Golosinas Halloween BOO! Mix Hacendado",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Golosinas",
-      "photo": "https://prod-mercadona.imgix.net/images/77d1f6397590eac8cf607d6ff474812c.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 0.3,
+      "id": "18341",
+      "name": "Nuez troceada pelada Hacendado",
+      "category": "Aperitivos",
+      "subcategory": "Frutos secos",
+      "photo": "https://prod-mercadona.imgix.net/images/85d6f8cb3d075d5a0e3883fabe8254e3.jpg?fit=crop&h=300&w=300",
+      "price": "2.25",
+      "unit_size": 0.2,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "59165",
-      "name": "Longaniza de pavo extra Hacendado lonchas",
-      "category": "Charcutería y quesos",
-      "subcategory": "Pavo y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/869824136a75badac404e2ec0522ce0b.jpeg?fit=crop&h=300&w=300",
-      "price": "2.80",
-      "unit_size": 0.125,
+      "id": "24528",
+      "name": "Noodles orientales Hacendado",
+      "category": "Arroz, legumbres y pasta",
+      "subcategory": "Fideos orientales",
+      "photo": "https://prod-mercadona.imgix.net/images/2b23e615db55b083f3bcb8ef1faa9837.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 0.22,
       "size_format": "kg",
-      "packaging": "Pack-4"
+      "packaging": null
     },
     {
-      "id": "18765",
-      "name": "Jamón serrano Incarlopsa",
-      "category": "Charcutería y quesos",
-      "subcategory": "Jamón serrano",
-      "photo": "https://prod-mercadona.imgix.net/images/03cbc96b14dcdfee58f5aaea497436ef.jpg?fit=crop&h=300&w=300",
-      "price": "58.00",
-      "unit_size": 6.8,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "21529",
-      "name": "Arroz negro Hacendado ultracongelado",
-      "category": "Congelados",
-      "subcategory": "Arroz",
-      "photo": "https://prod-mercadona.imgix.net/images/9b9acc934a21a7409b96b6ba1273cf01.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "18692",
-      "name": "Roscón de Reyes Bombón bañado en cacao relleno de crema y preparado a base de nata Hacendado congelado",
-      "category": "Congelados",
-      "subcategory": "Tartas",
-      "photo": "https://prod-mercadona.imgix.net/images/d905bfef6cb7b654b46c7261bd4c06d8.jpg?fit=crop&h=300&w=300",
-      "price": "9.50",
-      "unit_size": 0.55,
-      "size_format": "kg",
+      "id": "18657",
+      "name": "Sérum facial PDRN & Colágeno K-Skin efecto lifting",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Sérum y ampollas",
+      "photo": "https://prod-mercadona.imgix.net/images/612915ab782c09d2a2c678348d8cb416.jpg?fit=crop&h=300&w=300",
+      "price": "7.00",
+      "unit_size": 0.035,
+      "size_format": "l",
       "packaging": "Caja"
-    },
-    {
-      "id": "78071",
-      "name": "Pinza de cejas Deliplus oblicua",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Bandas, cera y crema",
-      "photo": "https://prod-mercadona.imgix.net/images/d6572269d5b8a8ffdc88454f685be7c4.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "18285",
-      "name": "Gel de baño exfoliante Vanilla Noir Deliplus piel normal",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Gel",
-      "photo": "https://prod-mercadona.imgix.net/images/67b5f8f0261e3aabd6f3fae9f9948a27.jpg?fit=crop&h=300&w=300",
-      "price": "2.60",
-      "unit_size": 0.5,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "18284",
-      "name": "Jabón de manos Vanilla Noir Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Jabón de manos",
-      "photo": "https://prod-mercadona.imgix.net/images/b9784d1da820e6a6e571aac8e4b7ba27.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.3,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "24575",
-      "name": "Kéfir natural sabor suave Hacendado con mezcla de coco, mango, anacardo, papaya y semillas de calabaza",
-      "category": "Postres y yogures",
-      "subcategory": "Yogures naturales",
-      "photo": "https://prod-mercadona.imgix.net/images/c39d85e9254ec55b104b15d21c82793f.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 0.175,
-      "size_format": "kg",
-      "packaging": "Tarrina"
     }
   ],
-  "priceChangesCount": 64,
+  "priceChangesCount": 59,
   "priceChanges": [
     {
-      "id": "27321",
-      "name": "Refresco Coca-Cola",
-      "oldPrice": "11.16",
-      "newPrice": "11.64"
+      "id": "13817",
+      "name": "Refresco Fanta limón",
+      "oldPrice": "6.93",
+      "newPrice": "7.38"
     },
     {
-      "id": "27326",
-      "name": "Refresco Coca-Cola",
-      "oldPrice": "0.95",
-      "newPrice": "0.99"
+      "id": "27602",
+      "name": "Refresco Fanta limón",
+      "oldPrice": "0.80",
+      "newPrice": "0.85"
     },
     {
-      "id": "27426",
-      "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "11.16",
-      "newPrice": "11.64"
+      "id": "8779",
+      "name": "Refresco Fanta limón zero azúcares añadidos",
+      "oldPrice": "6.16",
+      "newPrice": "6.56"
     },
     {
-      "id": "27414",
-      "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "0.95",
-      "newPrice": "0.99"
+      "id": "27608",
+      "name": "Refresco Fanta limón zero azúcares añadidos",
+      "oldPrice": "0.80",
+      "newPrice": "0.85"
     },
     {
-      "id": "27184",
-      "name": "Refresco Coca-Cola light",
-      "oldPrice": "8.37",
-      "newPrice": "8.73"
+      "id": "27571",
+      "name": "Refresco Fanta naranja",
+      "oldPrice": "6.93",
+      "newPrice": "7.38"
     },
     {
-      "id": "27406",
-      "name": "Refresco Coca-Cola light",
-      "oldPrice": "0.95",
-      "newPrice": "0.99"
+      "id": "27502",
+      "name": "Refresco Fanta naranja",
+      "oldPrice": "0.80",
+      "newPrice": "0.85"
     },
     {
-      "id": "26997",
-      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
-      "oldPrice": "11.16",
-      "newPrice": "11.64"
+      "id": "8778",
+      "name": "Refresco Fanta naranja zero azúcares añadidos",
+      "oldPrice": "6.16",
+      "newPrice": "6.56"
     },
     {
-      "id": "27559",
-      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
-      "oldPrice": "0.95",
-      "newPrice": "0.99"
+      "id": "27510",
+      "name": "Refresco Fanta naranja zero azúcares añadidos",
+      "oldPrice": "0.80",
+      "newPrice": "0.85"
     },
     {
-      "id": "15966",
-      "name": "Guindillas picantes Hacendado",
-      "oldPrice": "1.55",
-      "newPrice": "1.70"
+      "id": "21807",
+      "name": "Chuletas de cordero palo y riñonada",
+      "oldPrice": "9.57",
+      "newPrice": "10.15"
     },
     {
-      "id": "15967",
-      "name": "Piparra Hacendado",
-      "oldPrice": "2.80",
-      "newPrice": "2.95"
+      "id": "21814",
+      "name": "Trozos de cordero para guisar",
+      "oldPrice": "6.75",
+      "newPrice": "7.75"
     },
     {
-      "id": "67090",
-      "name": "Cerveza Amstel",
-      "oldPrice": "8.82",
-      "newPrice": "9.90"
+      "id": "21810",
+      "name": "Chuletas de cordero paletilla",
+      "oldPrice": "7.68",
+      "newPrice": "8.26"
     },
     {
-      "id": "66026",
-      "name": "Cerveza especial San Miguel",
-      "oldPrice": "5.40",
-      "newPrice": "6.96"
-    },
-    {
-      "id": "27103",
-      "name": "Cerveza especial San Miguel",
-      "oldPrice": "0.50",
-      "newPrice": "0.74"
-    },
-    {
-      "id": "28715",
-      "name": "Ginebra London Dry Gin Larios",
-      "oldPrice": "10.95",
-      "newPrice": "12.20"
-    },
-    {
-      "id": "28731",
-      "name": "Ron añejo Negrita",
-      "oldPrice": "8.95",
-      "newPrice": "9.50"
-    },
-    {
-      "id": "62145",
-      "name": "Rodajas de emperador pequeñas Hacendado ultracongeladas",
-      "oldPrice": "9.95",
-      "newPrice": "10.95"
-    },
-    {
-      "id": "26761",
-      "name": "Medallones de merluza del Cabo Hacendado ultracongelados",
-      "oldPrice": "4.50",
-      "newPrice": "4.60"
+      "id": "77248",
+      "name": "Alcohol 96º Deliplus antiséptico",
+      "oldPrice": "0.80",
+      "newPrice": "0.85"
     },
     {
       "id": "3824",
       "name": "Banana",
-      "oldPrice": "0.21",
-      "newPrice": "0.26"
-    },
-    {
-      "id": "3132",
-      "name": "Plátano macho",
-      "oldPrice": "0.84",
-      "newPrice": "0.81"
+      "oldPrice": "0.26",
+      "newPrice": "0.28"
     },
     {
       "id": "8177",
       "name": "Manzana roja dulce",
-      "oldPrice": "0.42",
-      "newPrice": "0.40"
+      "oldPrice": "0.40",
+      "newPrice": "0.38"
     },
     {
-      "id": "3021",
-      "name": "Manzana Granny Smith",
-      "oldPrice": "0.43",
-      "newPrice": "0.45"
-    },
-    {
-      "id": "8175",
-      "name": "Manzana roja acidulce",
-      "oldPrice": "0.50",
-      "newPrice": "0.53"
+      "id": "3172",
+      "name": "Pera Limonera",
+      "oldPrice": "0.67",
+      "newPrice": "0.70"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "oldPrice": "3.85",
-      "newPrice": "3.82"
+      "oldPrice": "3.82",
+      "newPrice": "3.77"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "oldPrice": "6.60",
-      "newPrice": "6.40"
-    },
-    {
-      "id": "3238",
-      "name": "Mandarina",
-      "oldPrice": "0.28",
-      "newPrice": "0.24"
-    },
-    {
-      "id": "5503",
-      "name": "Mandarina",
-      "oldPrice": "2.35",
-      "newPrice": "1.95"
+      "oldPrice": "6.40",
+      "newPrice": "6.47"
     },
     {
       "id": "3235",
       "name": "Naranja de mesa",
-      "oldPrice": "0.73",
-      "newPrice": "0.71"
+      "oldPrice": "0.71",
+      "newPrice": "0.65"
     },
     {
       "id": "3202",
       "name": "Pomelo",
-      "oldPrice": "1.09",
-      "newPrice": "1.12"
+      "oldPrice": "1.12",
+      "newPrice": "1.16"
     },
     {
       "id": "3076",
       "name": "Piña",
-      "oldPrice": "4.20",
-      "newPrice": "4.04"
+      "oldPrice": "4.04",
+      "newPrice": "3.98"
     },
     {
       "id": "3050",
       "name": "Mango",
-      "oldPrice": "1.71",
-      "newPrice": "1.65"
+      "oldPrice": "1.65",
+      "newPrice": "1.60"
+    },
+    {
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.15",
+      "newPrice": "3.20"
+    },
+    {
+      "id": "14379",
+      "name": "Moras",
+      "oldPrice": "2.88",
+      "newPrice": "3.06"
+    },
+    {
+      "id": "3915",
+      "name": "Granada",
+      "oldPrice": "1.41",
+      "newPrice": "1.38"
+    },
+    {
+      "id": "3914",
+      "name": "Kaki",
+      "oldPrice": "0.54",
+      "newPrice": "0.56"
+    },
+    {
+      "id": "86480",
+      "name": "Insecticida moscas y mosquitos Bosque Verde perfumado",
+      "oldPrice": "2.35",
+      "newPrice": "2.50"
+    },
+    {
+      "id": "35530",
+      "name": "Insecticida moscas y mosquitos Bosque Verde sin perfume",
+      "oldPrice": "2.35",
+      "newPrice": "2.50"
+    },
+    {
+      "id": "72090",
+      "name": "Insecticida cucarachas y hormigas Bosque Verde",
+      "oldPrice": "2.70",
+      "newPrice": "2.85"
+    },
+    {
+      "id": "12836",
+      "name": "Trampa con cebo contra hormigas Bosque Verde",
+      "oldPrice": "3.30",
+      "newPrice": "3.50"
+    },
+    {
+      "id": "81649.1",
+      "name": "Salmón a rodajas",
+      "oldPrice": "28.69",
+      "newPrice": "28.91"
     }
   ]
 }
