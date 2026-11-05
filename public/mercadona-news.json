@@ -1,223 +1,520 @@
 {
-  "lastSync": "2026-11-04T11:55:26.334109",
-  "totalProducts": 4265,
-  "newProductsCount": 3,
+  "lastSync": "2026-11-05T11:57:42.376082",
+  "totalProducts": 4380,
+  "newProductsCount": 125,
   "newProducts": [
     {
-      "id": "18341",
-      "name": "Nuez troceada pelada Hacendado",
-      "category": "Aperitivos",
-      "subcategory": "Frutos secos",
-      "photo": "https://prod-mercadona.imgix.net/images/85d6f8cb3d075d5a0e3883fabe8254e3.jpg?fit=crop&h=300&w=300",
-      "price": "2.25",
-      "unit_size": 0.2,
+      "id": "9430",
+      "name": "Quinoa Hacendado",
+      "category": "Arroz, legumbres y pasta",
+      "subcategory": "Arroz",
+      "photo": "https://prod-mercadona.imgix.net/images/5f96e6f16b3a5d30f2fd7135e3d1f74e.jpg?fit=crop&h=300&w=300",
+      "price": "2.65",
+      "unit_size": 0.5,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "24528",
-      "name": "Noodles orientales Hacendado",
+      "id": "18446",
+      "name": "Pasta fresca ravioli Fryer Carne rellena de cerdo estofado y jamón curado Hacendado",
       "category": "Arroz, legumbres y pasta",
-      "subcategory": "Fideos orientales",
-      "photo": "https://prod-mercadona.imgix.net/images/2b23e615db55b083f3bcb8ef1faa9837.jpg?fit=crop&h=300&w=300",
+      "subcategory": "Pasta rellena",
+      "photo": "https://prod-mercadona.imgix.net/images/a553715971cd73f1815595abeea1c60d.jpg?fit=crop&h=300&w=300",
+      "price": "1.85",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "18600",
+      "name": "Polvos corporales Deliplus",
+      "category": "Bebé",
+      "subcategory": "Accesorios",
+      "photo": "https://prod-mercadona.imgix.net/images/8410157369192170b4be294ecce5a787.jpg?fit=crop&h=300&w=300",
+      "price": "1.80",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "35987",
+      "name": "Cereales de arroz inflado Choco Krispies Kellogg's con chocolate",
+      "category": "Cereales y galletas",
+      "subcategory": "Cereales",
+      "photo": "https://prod-mercadona.imgix.net/images/3aa570213697c9cd80248d024110faf1.jpeg?fit=crop&h=300&w=300",
+      "price": "3.65",
+      "unit_size": 0.42,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "44326",
+      "name": "Acondicionador instantáneo Repair & Nutrition Deliplus cabello seco y dañado",
+      "category": "Cuidado del cabello",
+      "subcategory": "Acondicionador",
+      "photo": "https://prod-mercadona.imgix.net/images/d3a954964a64124dd51a75dcac685c44.jpg?fit=crop&h=300&w=300",
+      "price": "3.30",
+      "unit_size": 0.4,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "69066",
+      "name": "Patata",
+      "category": "Fruta y verdura",
+      "subcategory": "Patata",
+      "photo": "https://prod-mercadona.imgix.net/images/12ec1b808bbcbc2d5ad6b40d9021cf76.jpg?fit=crop&h=300&w=300",
+      "price": "0.46",
+      "unit_size": 0.24,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "69166",
+      "name": "Patatas",
+      "category": "Fruta y verdura",
+      "subcategory": "Patata",
+      "photo": "https://prod-mercadona.imgix.net/images/9a13af8fac3aa3f71d6b8098d7e9b176.jpeg?fit=crop&h=300&w=300",
+      "price": "4.65",
+      "unit_size": 3.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69098",
+      "name": "Patatas rojas",
+      "category": "Fruta y verdura",
+      "subcategory": "Patata",
+      "photo": "https://prod-mercadona.imgix.net/images/12962dac735b6d3c60e7448d339640a8.jpeg?fit=crop&h=300&w=300",
+      "price": "3.80",
+      "unit_size": 2.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69099",
+      "name": "Patatas",
+      "category": "Fruta y verdura",
+      "subcategory": "Patata",
+      "photo": "https://prod-mercadona.imgix.net/images/a66b8d4177a91f7f219903267291e071.jpeg?fit=crop&h=300&w=300",
+      "price": "5.00",
+      "unit_size": 5.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69386",
+      "name": "Patatas guarnición",
+      "category": "Fruta y verdura",
+      "subcategory": "Patata",
+      "photo": "https://prod-mercadona.imgix.net/images/df2dd24063ff1787bf0e643da4f9e9ed.jpg?fit=crop&h=300&w=300",
+      "price": "2.55",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69239",
+      "name": "Batata",
+      "category": "Fruta y verdura",
+      "subcategory": "Patata",
+      "photo": "https://prod-mercadona.imgix.net/images/d6ce6c208e5da752ee3a7f6f1ccb2066.jpg?fit=crop&h=300&w=300",
+      "price": "1.02",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "69448",
+      "name": "Patatas especial para freír",
+      "category": "Fruta y verdura",
+      "subcategory": "Patata",
+      "photo": "https://prod-mercadona.imgix.net/images/9573ce3b902f86934b52cae8ccc3f484.jpg?fit=crop&h=300&w=300",
+      "price": "3.90",
+      "unit_size": 2.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69173",
+      "name": "Yuca",
+      "category": "Fruta y verdura",
+      "subcategory": "Patata",
+      "photo": "https://prod-mercadona.imgix.net/images/3c82a0206ba8e480e6b24eba31eae9d8.jpg?fit=crop&h=300&w=300",
+      "price": "1.98",
+      "unit_size": 0.6,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "69139",
+      "name": "Cebollas tiernas",
+      "category": "Fruta y verdura",
+      "subcategory": "Cebolla y ajo",
+      "photo": "https://prod-mercadona.imgix.net/images/3bbcca66baefa5c56bae00a07ca106f1.jpg?fit=crop&h=300&w=300",
       "price": "1.70",
-      "unit_size": 0.22,
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Manojo"
+    },
+    {
+      "id": "69079",
+      "name": "Cebollas",
+      "category": "Fruta y verdura",
+      "subcategory": "Cebolla y ajo",
+      "photo": "https://prod-mercadona.imgix.net/images/c8d94c6563bfadc845df944fe483bfca.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 2.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69089",
+      "name": "Cebollas",
+      "category": "Fruta y verdura",
+      "subcategory": "Cebolla y ajo",
+      "photo": "https://prod-mercadona.imgix.net/images/d950590e426dca5e9531e1ff2809edb4.jpeg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69297",
+      "name": "Ajos morados",
+      "category": "Fruta y verdura",
+      "subcategory": "Cebolla y ajo",
+      "photo": "https://prod-mercadona.imgix.net/images/3e754d795d63e6a75070fb672c24d773.jpg?fit=crop&h=300&w=300",
+      "price": "1.85",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69155",
+      "name": "Cebollas dulces",
+      "category": "Fruta y verdura",
+      "subcategory": "Cebolla y ajo",
+      "photo": "https://prod-mercadona.imgix.net/images/f985ef8ac4d6420fdee3d322ebe6397a.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69162",
+      "name": "Cebollas rojas",
+      "category": "Fruta y verdura",
+      "subcategory": "Cebolla y ajo",
+      "photo": "https://prod-mercadona.imgix.net/images/8285fa6f80ced45d544f8013b72fe799.jpeg?fit=crop&h=300&w=300",
+      "price": "1.40",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Malla"
+    },
+    {
+      "id": "69695",
+      "name": "Ajo negro dientes pelados",
+      "category": "Fruta y verdura",
+      "subcategory": "Cebolla y ajo",
+      "photo": "https://prod-mercadona.imgix.net/images/aafe7d3532da499662ffc624e4cd05e4.jpg?fit=crop&h=300&w=300",
+      "price": "5.50",
+      "unit_size": 0.085,
+      "size_format": "kg",
+      "packaging": "Tarrina"
+    },
+    {
+      "id": "40475",
+      "name": "Picada de ajo y perejil",
+      "category": "Fruta y verdura",
+      "subcategory": "Cebolla y ajo",
+      "photo": "https://prod-mercadona.imgix.net/images/736f2be4a71ddeef9fb68dc3b4189b41.jpeg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 0.1,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "69937",
+      "name": "Tomate ensalada",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/ccb2b42ba2bb6a7b692dac6101074709.jpg?fit=crop&h=300&w=300",
+      "price": "0.53",
+      "unit_size": 0.21,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "69968",
+      "name": "Tomate canario",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/74f33f458b7f5fa55cdb4490730cccd8.jpg?fit=crop&h=300&w=300",
+      "price": "0.35",
+      "unit_size": 0.16,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "69912",
+      "name": "Tomate pera",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/29e2448e80d5a23e8fc907138e551748.jpg?fit=crop&h=300&w=300",
+      "price": "0.26",
+      "unit_size": 0.12,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "69975",
+      "name": "Tomates pera",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/40027e42b9ec9f0693e8f6eb09e1e213.jpeg?fit=crop&h=300&w=300",
+      "price": "2.42",
+      "unit_size": 1.05,
       "size_format": "kg",
       "packaging": null
     },
     {
-      "id": "18657",
-      "name": "Sérum facial PDRN & Colágeno K-Skin efecto lifting",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Sérum y ampollas",
-      "photo": "https://prod-mercadona.imgix.net/images/612915ab782c09d2a2c678348d8cb416.jpg?fit=crop&h=300&w=300",
-      "price": "7.00",
-      "unit_size": 0.035,
-      "size_format": "l",
-      "packaging": "Caja"
+      "id": "69930",
+      "name": "Tomates cherry pera kumato",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/0b7b48379a277881183c9d692b671999.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "69990",
+      "name": "Tomates cherry",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/686833b9bfd1cc7f410c39199a347a85.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "69414",
+      "name": "Tomates cherry en rama Dulcita",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/66cbca38df7850609b4eaa53baace8b0.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "69976",
+      "name": "Tomates negros",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/9dcdcd3905a23003d0033161674abf16.jpg?fit=crop&h=300&w=300",
+      "price": "2.60",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "69971",
+      "name": "Tomates",
+      "category": "Fruta y verdura",
+      "subcategory": "Tomate",
+      "photo": "https://prod-mercadona.imgix.net/images/8d8b0344fdd594338795d6d4e7f496aa.jpg?fit=crop&h=300&w=300",
+      "price": "4.20",
+      "unit_size": 2.0,
+      "size_format": "kg",
+      "packaging": "Malla"
     }
   ],
-  "priceChangesCount": 59,
+  "priceChangesCount": 48,
   "priceChanges": [
     {
-      "id": "13817",
-      "name": "Refresco Fanta limón",
-      "oldPrice": "6.93",
-      "newPrice": "7.38"
+      "id": "29608",
+      "name": "Bebida isotónica limón Aquarius",
+      "oldPrice": "2.10",
+      "newPrice": "2.20"
     },
     {
-      "id": "27602",
-      "name": "Refresco Fanta limón",
-      "oldPrice": "0.80",
-      "newPrice": "0.85"
+      "id": "29609",
+      "name": "Bebida isotónica naranja Aquarius",
+      "oldPrice": "2.10",
+      "newPrice": "2.20"
     },
     {
-      "id": "8779",
-      "name": "Refresco Fanta limón zero azúcares añadidos",
-      "oldPrice": "6.16",
-      "newPrice": "6.56"
+      "id": "29612",
+      "name": "Bebida isotónica limón Aquarius zero azúcar",
+      "oldPrice": "2.10",
+      "newPrice": "2.20"
     },
     {
-      "id": "27608",
-      "name": "Refresco Fanta limón zero azúcares añadidos",
-      "oldPrice": "0.80",
-      "newPrice": "0.85"
+      "id": "16438",
+      "name": "Bebida isotónica melocotón rojo Aquarius",
+      "oldPrice": "2.10",
+      "newPrice": "2.20"
     },
     {
-      "id": "27571",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "6.93",
-      "newPrice": "7.38"
+      "id": "12157",
+      "name": "Bombones Ferrero Rocher",
+      "oldPrice": "6.95",
+      "newPrice": "6.35"
     },
     {
-      "id": "27502",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "0.80",
-      "newPrice": "0.85"
+      "id": "66026",
+      "name": "Cerveza especial San Miguel",
+      "oldPrice": "6.96",
+      "newPrice": "5.40"
     },
     {
-      "id": "8778",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "6.16",
-      "newPrice": "6.56"
+      "id": "27103",
+      "name": "Cerveza especial San Miguel",
+      "oldPrice": "0.74",
+      "newPrice": "0.50"
     },
     {
-      "id": "27510",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "0.80",
-      "newPrice": "0.85"
+      "id": "52920",
+      "name": "Malta Maltín Polar",
+      "oldPrice": "6.50",
+      "newPrice": "6.48"
     },
     {
-      "id": "21807",
-      "name": "Chuletas de cordero palo y riñonada",
-      "oldPrice": "9.57",
-      "newPrice": "10.15"
+      "id": "28715",
+      "name": "Ginebra London Dry Gin Larios",
+      "oldPrice": "12.20",
+      "newPrice": "11.95"
     },
     {
-      "id": "21814",
-      "name": "Trozos de cordero para guisar",
-      "oldPrice": "6.75",
-      "newPrice": "7.75"
+      "id": "2876",
+      "name": "Morcilla de arroz y cebolla",
+      "oldPrice": "1.72",
+      "newPrice": "1.63"
     },
     {
-      "id": "21810",
-      "name": "Chuletas de cordero paletilla",
-      "oldPrice": "7.68",
-      "newPrice": "8.26"
+      "id": "17693",
+      "name": "Gel fijador cabello X-trem Deliplus fijación 6",
+      "oldPrice": "1.70",
+      "newPrice": "1.50"
     },
     {
-      "id": "77248",
-      "name": "Alcohol 96º Deliplus antiséptico",
-      "oldPrice": "0.80",
-      "newPrice": "0.85"
+      "id": "17695",
+      "name": "Gel fijador cabello Forte Deliplus fijación 3",
+      "oldPrice": "1.50",
+      "newPrice": "1.30"
     },
     {
-      "id": "3824",
-      "name": "Banana",
-      "oldPrice": "0.26",
-      "newPrice": "0.28"
+      "id": "13913",
+      "name": "Dentífrico Pro-Expert Oral-B sabor menta especiada",
+      "oldPrice": "2.50",
+      "newPrice": "2.85"
     },
     {
-      "id": "8177",
-      "name": "Manzana roja dulce",
+      "id": "13869",
+      "name": "Dentífrico Repair & Protect Sensodyne",
+      "oldPrice": "4.95",
+      "newPrice": "3.95"
+    },
+    {
+      "id": "13868",
+      "name": "Dentífrico Blanqueante Sensodyne",
+      "oldPrice": "3.95",
+      "newPrice": "2.95"
+    },
+    {
+      "id": "3132",
+      "name": "Plátano macho",
+      "oldPrice": "0.81",
+      "newPrice": "0.78"
+    },
+    {
+      "id": "3028",
+      "name": "Manzana Golden",
       "oldPrice": "0.40",
-      "newPrice": "0.38"
+      "newPrice": "0.44"
     },
     {
-      "id": "3172",
-      "name": "Pera Limonera",
-      "oldPrice": "0.67",
-      "newPrice": "0.70"
+      "id": "3021",
+      "name": "Manzana Granny Smith",
+      "oldPrice": "0.45",
+      "newPrice": "0.48"
+    },
+    {
+      "id": "8175",
+      "name": "Manzana roja acidulce",
+      "oldPrice": "0.53",
+      "newPrice": "0.58"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "oldPrice": "3.82",
-      "newPrice": "3.77"
+      "oldPrice": "3.77",
+      "newPrice": "3.58"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "oldPrice": "6.40",
-      "newPrice": "6.47"
-    },
-    {
-      "id": "3235",
-      "name": "Naranja de mesa",
-      "oldPrice": "0.71",
-      "newPrice": "0.65"
+      "oldPrice": "6.47",
+      "newPrice": "5.92"
     },
     {
       "id": "3202",
       "name": "Pomelo",
-      "oldPrice": "1.12",
-      "newPrice": "1.16"
+      "oldPrice": "1.16",
+      "newPrice": "1.19"
     },
     {
       "id": "3076",
       "name": "Piña",
-      "oldPrice": "4.04",
-      "newPrice": "3.98"
+      "oldPrice": "3.98",
+      "newPrice": "3.82"
     },
     {
       "id": "3050",
       "name": "Mango",
-      "oldPrice": "1.65",
-      "newPrice": "1.60"
+      "oldPrice": "1.60",
+      "newPrice": "1.57"
     },
     {
       "id": "3026",
       "name": "Papaya",
-      "oldPrice": "3.15",
-      "newPrice": "3.20"
-    },
-    {
-      "id": "14379",
-      "name": "Moras",
-      "oldPrice": "2.88",
-      "newPrice": "3.06"
-    },
-    {
-      "id": "3915",
-      "name": "Granada",
-      "oldPrice": "1.41",
-      "newPrice": "1.38"
+      "oldPrice": "3.20",
+      "newPrice": "3.31"
     },
     {
       "id": "3914",
       "name": "Kaki",
-      "oldPrice": "0.54",
-      "newPrice": "0.56"
+      "oldPrice": "0.56",
+      "newPrice": "0.58"
     },
     {
-      "id": "86480",
-      "name": "Insecticida moscas y mosquitos Bosque Verde perfumado",
-      "oldPrice": "2.35",
-      "newPrice": "2.50"
-    },
-    {
-      "id": "35530",
-      "name": "Insecticida moscas y mosquitos Bosque Verde sin perfume",
-      "oldPrice": "2.35",
-      "newPrice": "2.50"
-    },
-    {
-      "id": "72090",
-      "name": "Insecticida cucarachas y hormigas Bosque Verde",
-      "oldPrice": "2.70",
-      "newPrice": "2.85"
-    },
-    {
-      "id": "12836",
-      "name": "Trampa con cebo contra hormigas Bosque Verde",
-      "oldPrice": "3.30",
-      "newPrice": "3.50"
+      "id": "31312",
+      "name": "Claras de huevo líquidas pasteurizadas",
+      "oldPrice": "2.85",
+      "newPrice": "2.75"
     },
     {
       "id": "81649.1",
       "name": "Salmón a rodajas",
-      "oldPrice": "28.69",
-      "newPrice": "28.91"
+      "oldPrice": "28.91",
+      "newPrice": "30.55"
+    },
+    {
+      "id": "81649.4",
+      "name": "Salmón media pieza a rodajas",
+      "oldPrice": "15.00",
+      "newPrice": "15.44"
+    },
+    {
+      "id": "81649.2",
+      "name": "Salmón abierto en libro sin cabeza y sin espina",
+      "oldPrice": "28.91",
+      "newPrice": "30.55"
     }
   ]
 }
