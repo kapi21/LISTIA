@@ -1,502 +1,520 @@
 {
-  "lastSync": "2026-11-07T10:55:09.144575",
-  "totalProducts": 4249,
-  "newProductsCount": 787,
+  "lastSync": "2026-11-08T11:06:26.943790",
+  "totalProducts": 4193,
+  "newProductsCount": 120,
   "newProducts": [
     {
-      "id": "18474",
-      "name": "Tinto de verano sin azúcar y sin alcohol limón Don Simón",
-      "category": "Bodega",
-      "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/4ff0e85f17023c0d71e4a19ef7b1b5e4.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 1.98,
+      "id": "17265",
+      "name": "Aliño de aceite con perejil y ajo Hacendado",
+      "category": "Aceite, especias y salsas",
+      "subcategory": "Otras salsas",
+      "photo": "https://prod-mercadona.imgix.net/images/644d21b0d9cf4d82619ffc3553d6cbf0.jpg?fit=crop&h=300&w=300",
+      "price": "1.80",
+      "unit_size": 0.15,
       "size_format": "l",
       "packaging": null
     },
     {
-      "id": "18475",
-      "name": "Tinto de verano sin azúcar y sin alcohol limón Don Simón",
+      "id": "18473",
+      "name": "Tinto de verano limón Don Simón",
       "category": "Bodega",
       "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/69e41359555c03d7df70d2951041e381.jpg?fit=crop&h=300&w=300",
+      "photo": "https://prod-mercadona.imgix.net/images/25b350cebf529a3b3b133c9d27260c1f.jpg?fit=crop&h=300&w=300",
       "price": "0.50",
       "unit_size": 0.33,
       "size_format": "l",
       "packaging": "Lata"
     },
     {
-      "id": "18472",
-      "name": "Tinto de verano limón Don Simón",
-      "category": "Bodega",
-      "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/0f3e3fcc0f276950eb69bdc44e1bc401.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 1.98,
-      "size_format": "l",
-      "packaging": null
+      "id": "17662",
+      "name": "Queso cottage Valblu",
+      "category": "Charcutería y quesos",
+      "subcategory": "Queso fresco",
+      "photo": "https://prod-mercadona.imgix.net/images/8614acb743ea152faf90ee68439731b5.jpg?fit=crop&h=300&w=300",
+      "price": "1.35",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Tarrina"
     },
     {
-      "id": "18179",
-      "name": "Lote corporal mujer Dolce Latto Deliplus",
+      "id": "18391",
+      "name": "Laca de uñas Felin Deliplus 160 burdeos",
       "category": "Cuidado facial y corporal",
-      "subcategory": "Lotes mujer",
-      "photo": "https://prod-mercadona.imgix.net/images/941614a76df2fc87f5e01608116935a1.jpg?fit=crop&h=300&w=300",
-      "price": "9.00",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/9907b7c18e245a728faaeccd2357eaab.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
       "unit_size": 1.0,
       "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "21848",
-      "name": "Bastoncillos de algodón 100% Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/9afc4558dfdad0a9ca1f0c7a680e8655.jpg?fit=crop&h=300&w=300",
-      "price": "1.15",
-      "unit_size": 300.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "77248",
-      "name": "Alcohol 96º Deliplus antiséptico",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/eb1cf373157270e2b4192a79709d9951.jpg?fit=crop&h=300&w=300",
-      "price": "0.85",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "77241",
-      "name": "Agua oxigenada Deliplus desinfectante antiséptico",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/87da79c7a7b3c04f21b2132ad8e2948a.jpg?fit=crop&h=300&w=300",
-      "price": "0.70",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "79717",
-      "name": "Tiras adhesivas protectoras Classic color beige Deliplus surtidas, elásticas y transpirables",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/6942ea357b72452f69208fc2b69e5ed4.jpg?fit=crop&h=300&w=300",
-      "price": "0.95",
+      "id": "18392",
+      "name": "Tratamiento para uñas aceite Felin Deliplus 161",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/4e04bae6d0c11f3fc33f0c932b4c9f7c.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
       "unit_size": 1.0,
       "size_format": "ud",
-      "packaging": "Caja"
+      "packaging": null
     },
     {
-      "id": "33357",
-      "name": "Solución única para lentes de contacto blandas Deliplus con ácido hialurónico",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/1db1633094a9331d6c6f15208e743542.jpg?fit=crop&h=300&w=300",
-      "price": "4.00",
-      "unit_size": 0.36,
+      "id": "18195",
+      "name": "Eau de parfum mujer Lyra My Soul",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Perfume y colonia mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/9533e2ca4fa8bdcec9d108c5f6885d7e.jpg?fit=crop&h=300&w=300",
+      "price": "15.00",
+      "unit_size": 0.1,
+      "size_format": "l",
+      "packaging": "Frasco"
+    },
+    {
+      "id": "18197",
+      "name": "Mini eau de parfum mujer Red Velvet Flor de Mayo",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Perfume y colonia mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/f93fe380cbfd527590719f0305eb0524.jpg?fit=crop&h=300&w=300",
+      "price": "3.30",
+      "unit_size": 0.045,
+      "size_format": "l",
+      "packaging": "Frasco"
+    },
+    {
+      "id": "18196",
+      "name": "Eau de parfum hombre Orion My Soul",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Perfume y colonia hombre",
+      "photo": "https://prod-mercadona.imgix.net/images/fbe00872992d125f24344b31267da68b.jpg?fit=crop&h=300&w=300",
+      "price": "15.00",
+      "unit_size": 0.1,
+      "size_format": "l",
+      "packaging": "Frasco"
+    },
+    {
+      "id": "18199",
+      "name": "Mini eau de parfum hombre Zymerai Flor de Mayo",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Perfume y colonia hombre",
+      "photo": "https://prod-mercadona.imgix.net/images/87e27cd13ca574c0ef0f2c7afe5eaefb.jpg?fit=crop&h=300&w=300",
+      "price": "3.30",
+      "unit_size": 0.045,
+      "size_format": "l",
+      "packaging": "Frasco"
+    },
+    {
+      "id": "35998",
+      "name": "Lavavajillas Ultra concentrado Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a mano",
+      "photo": "https://prod-mercadona.imgix.net/images/f2b178c69f78ca14481ff08ffa3ff9c6.jpg?fit=crop&h=300&w=300",
+      "price": "1.90",
+      "unit_size": 1.3,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "35997",
+      "name": "Lavavajillas Ultra concentrado Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a mano",
+      "photo": "https://prod-mercadona.imgix.net/images/e007a31aafd31ada0a654f0350e52530.jpg?fit=crop&h=300&w=300",
+      "price": "1.10",
+      "unit_size": 0.6,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "42135",
+      "name": "Lavavajillas Ultra Original Fairy líquido",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a mano",
+      "photo": "https://prod-mercadona.imgix.net/images/5edbbd0a4e91886aa71a3c1f622cbcb7.jpg?fit=crop&h=300&w=300",
+      "price": "3.95",
+      "unit_size": 0.9,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "42441",
+      "name": "Lavavajillas a mano Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a mano",
+      "photo": "https://prod-mercadona.imgix.net/images/3e62ec30bdde1f0ec0cb84da981affcd.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 1.3,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "13644",
+      "name": "Lavavajillas Aloe Bosque Verde concentrado",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a mano",
+      "photo": "https://prod-mercadona.imgix.net/images/687795500e63d9effd25ec16e423d78d.jpg?fit=crop&h=300&w=300",
+      "price": "1.80",
+      "unit_size": 1.0,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "35963",
+      "name": "Limpiador de Ollas y Cacerolas Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a mano",
+      "photo": "https://prod-mercadona.imgix.net/images/abd5b06a8db2fdc04afff6df3a85862b.jpg?fit=crop&h=300&w=300",
+      "price": "1.90",
+      "unit_size": 0.25,
       "size_format": "l",
       "packaging": "Bote"
     },
     {
-      "id": "79673",
-      "name": "Bandas adhesivas fijación fuerte color beige Deliplus para cortar",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/62827537cf36a00c13d75a84d1ec8f9a.jpeg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
+      "id": "21553",
+      "name": "Lavavajillas Poder 3 en 1 Fairy líquido",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a mano",
+      "photo": "https://prod-mercadona.imgix.net/images/dce742b2fe096e56a7c7a6273d248032.jpg?fit=crop&h=300&w=300",
+      "price": "3.85",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Botella"
     },
     {
-      "id": "79666",
-      "name": "Esparadrapo textil adhesivo resistente color beige Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/4aa9ce776a9127b5d2a2ff0b6261d768.jpg?fit=crop&h=300&w=300",
-      "price": "1.40",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "12051",
-      "name": "Algodón hidrófilo 100% zig-zag hipoalergénico Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/7c912d34825b258b4db81cea111b1a97.jpg?fit=crop&h=300&w=300",
-      "price": "1.20",
-      "unit_size": 0.1,
+      "id": "18237",
+      "name": "Lavavajillas Expert limón Calgonit en cápsulas",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/ec23ca80471b34489e018b6289db7cae.jpg?fit=crop&h=300&w=300",
+      "price": "4.25",
+      "unit_size": 0.305,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "35940",
-      "name": "Povidona yodada 10% Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/3b343d40c2d5d63b04401d3e7ef19c5c.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.125,
+      "id": "42384",
+      "name": "Lavavajillas Todo en 1 Bosque Verde en pastillas",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/89edc27400d512e8214cd9c731f59f44.jpg?fit=crop&h=300&w=300",
+      "price": "2.95",
+      "unit_size": 0.51,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "35504",
+      "name": "Sal lavavajillas Bosque Verde en grano",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/2561ed0e8a1ddc85955b781f5b1299b0.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 2.0,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "42314",
+      "name": "Abrillantador lavavajillas líquido Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/9c10405749ae413a437d070e4d50569e.jpg?fit=crop&h=300&w=300",
+      "price": "1.20",
+      "unit_size": 0.75,
       "size_format": "l",
       "packaging": "Botella"
     },
     {
-      "id": "77322",
-      "name": "Alcohol de romero Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/b1135b4dd25fb2d5a225b519837ddb60.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
+      "id": "12076",
+      "name": "Lavavajillas Todo en 1 Fairy en cápsulas",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/6b3845ba8d85e258c837c5179df9f7f9.jpg?fit=crop&h=300&w=300",
+      "price": "5.85",
+      "unit_size": 0.473,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "35575",
+      "name": "Lavavajillas Bosque Verde en gel",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/5e088b30edbe7f6f70920172db6fda8f.jpg?fit=crop&h=300&w=300",
+      "price": "3.65",
+      "unit_size": 0.72,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "42318",
+      "name": "Limpiamáquinas lavavajillas líquido Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/eae06924feb4b33c7a3645dc928ceebc.jpg?fit=crop&h=300&w=300",
+      "price": "1.55",
       "unit_size": 0.25,
       "size_format": "l",
       "packaging": "Botella"
     },
     {
-      "id": "21853",
-      "name": "Tiras adhesivas protectoras infantiles Deliplus surtidas, elásticas y transpirables",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/25010b25c9448a15085f086768f320af.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "79667",
-      "name": "Esparadrapo de papel adhesivo microporoso color blanco Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/773f16b80c9d08633008f7f4c13d7b00.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "35734",
-      "name": "Tiras adhesivas protectoras de espuma acolchado Deliplus protección extra",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/00ecb6f429a55e2f77f09cdd1f82c834.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "12779",
-      "name": "Tiras adhesivas protectoras de poliuretano Aqua Deliplus surtidas resistentes al agua",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/160a9b9a017acf1f044008290727bb57.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "76480",
-      "name": "Bálsamo oriental efecto calor Deliplus con vitamina E",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/d9236de1293a18092058e5031387a70e.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 0.03,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35735",
-      "name": "Apósitos hidrocoloides adhesivos para ampollas y rozaduras Deliplus surtidos",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/d8b9c0ac77bcb271190e2cfcf9f293aa.jpg?fit=crop&h=300&w=300",
-      "price": "4.30",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "79678",
-      "name": "Venda elástica cohesiva Deliplus fijación fuerte",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/8781445170fec768288c7e7e75bdea52.jpg?fit=crop&h=300&w=300",
-      "price": "2.10",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "52996",
-      "name": "Spray repelente fuerte Deliplus antimosquitos",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/ec1b65044fd5a88a834b09b41f7f6339.jpg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 0.1,
-      "size_format": "l",
-      "packaging": "Spray"
-    },
-    {
-      "id": "22712",
-      "name": "Protectores para los oídos de espuma Moldex",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/ed880020917310258121bd0ebdd7874d.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "21404",
-      "name": "Lágrimas hidratantes para los ojos Deliplus con hialuronato sódico 0,2%",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/30bbe7133cf94cbf6dd7044061693acc.jpg?fit=crop&h=300&w=300",
-      "price": "5.40",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "52740",
-      "name": "Stick de árnica Cata Pum Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/8385ca3502cd60d049b3c5277ea994c2.jpg?fit=crop&h=300&w=300",
-      "price": "4.00",
-      "unit_size": 0.014,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "79506",
-      "name": "Gasas esterilizadas de algodón 100% hidrófilo Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/3385ce62bd7a37d6424b173f90ee0d74.jpg?fit=crop&h=300&w=300",
-      "price": "1.20",
-      "unit_size": 10.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "79438",
-      "name": "Spray desinfectante antiséptico transparente Deliplus contiene clorhexidina y digluconato 2%",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/6b4a2f16e927ec48553b340ea340aeb0.jpg?fit=crop&h=300&w=300",
-      "price": "1.85",
-      "unit_size": 0.05,
-      "size_format": "l",
-      "packaging": "Spray"
-    },
-    {
-      "id": "8945",
-      "name": "Mascarillas quirúrgicas Deliplus no reutilizables",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/765167f8170d057b524ba081bef25dce.jpg?fit=crop&h=300&w=300",
+      "id": "43058",
+      "name": "Ambientador lavavajillas Limón Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/3f744e4aef59b0d0eaffa14c4cbe6247.jpg?fit=crop&h=300&w=300",
       "price": "1.50",
       "unit_size": 1.0,
       "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "77441",
-      "name": "Preservativos sensitivo suave Durex",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Preservativos",
-      "photo": "https://prod-mercadona.imgix.net/images/6e56c256640c25db8f306767231fe3c0.jpg?fit=crop&h=300&w=300",
-      "price": "8.10",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
+      "id": "42371",
+      "name": "Limpiamáquinas lavavajillas Finish líquido",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/98f3e033379c7e03b7d326463c113b26.jpg?fit=crop&h=300&w=300",
+      "price": "3.25",
+      "unit_size": 0.25,
+      "size_format": "l",
+      "packaging": "Botella"
     },
     {
-      "id": "11606",
-      "name": "Preservativos natural On",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Preservativos",
-      "photo": "https://prod-mercadona.imgix.net/images/93aa5a401886c6287851ad16bc75dded.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 1.0,
-      "size_format": "ud",
+      "id": "86652",
+      "name": "Abrillantador lavavajillas líquido Finish",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/909bb57b28f58a5c6129d87ceb5790da.jpg?fit=crop&h=300&w=300",
+      "price": "3.95",
+      "unit_size": 0.4,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "86379",
+      "name": "Lavavajillas Total Somat en gel 5 en 1",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/30fe72924a846c131882e804a245e1e0.jpg?fit=crop&h=300&w=300",
+      "price": "3.95",
+      "unit_size": 0.576,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "17815",
+      "name": "Lavavajillas Ultra Plus naranja Fairy en cápsulas",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/9fc3051fd563e15d5593965a8655365e.jpg?fit=crop&h=300&w=300",
+      "price": "5.00",
+      "unit_size": 0.388,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "17696",
+      "name": "Lavavajillas Todo en 1 Bosque Verde en cápsulas",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/6dd73e1f2a98517f1b81ff548b1ebc5c.jpg?fit=crop&h=300&w=300",
+      "price": "3.75",
+      "unit_size": 0.3458,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18736",
+      "name": "Lavavajillas Classic limón Finish en pastillas",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpiavajilla a máquina",
+      "photo": "https://prod-mercadona.imgix.net/images/aa591ceb214d8f27c875c77bc7c83619.jpg?fit=crop&h=300&w=300",
+      "price": "3.75",
+      "unit_size": 0.39,
+      "size_format": "kg",
       "packaging": "Caja"
     }
   ],
-  "priceChangesCount": 27,
+  "priceChangesCount": 40,
   "priceChanges": [
-    {
-      "id": "27291",
-      "name": "Agua mineral grande Lanjarón",
-      "oldPrice": "3.60",
-      "newPrice": "4.32"
-    },
-    {
-      "id": "27216",
-      "name": "Agua mineral grande Lanjarón",
-      "oldPrice": "0.63",
-      "newPrice": "0.75"
-    },
-    {
-      "id": "27357",
-      "name": "Cerveza especial Estrella Galicia",
-      "oldPrice": "0.90",
-      "newPrice": "0.79"
-    },
-    {
-      "id": "3132",
-      "name": "Plátano macho",
-      "oldPrice": "0.78",
-      "newPrice": "0.81"
-    },
-    {
-      "id": "3119",
-      "name": "Pera Conferencia",
-      "oldPrice": "0.48",
-      "newPrice": "0.45"
-    },
     {
       "id": "3172",
       "name": "Pera Limonera",
-      "oldPrice": "0.70",
-      "newPrice": "0.67"
+      "oldPrice": "0.67",
+      "newPrice": "0.64"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "oldPrice": "3.67",
-      "newPrice": "3.77"
+      "oldPrice": "3.77",
+      "newPrice": "3.82"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "oldPrice": "5.94",
-      "newPrice": "6.22"
+      "oldPrice": "6.22",
+      "newPrice": "6.28"
     },
     {
-      "id": "3210",
-      "name": "Limón",
-      "oldPrice": "0.49",
-      "newPrice": "0.47"
-    },
-    {
-      "id": "3202",
-      "name": "Pomelo",
-      "oldPrice": "1.22",
-      "newPrice": "1.19"
-    },
-    {
-      "id": "3820",
-      "name": "Kiwi verde",
-      "oldPrice": "0.56",
-      "newPrice": "0.51"
-    },
-    {
-      "id": "3830",
-      "name": "Aguacate",
-      "oldPrice": "1.18",
-      "newPrice": "1.12"
+      "id": "3897",
+      "name": "Lima",
+      "oldPrice": "0.38",
+      "newPrice": "0.34"
     },
     {
       "id": "3076",
       "name": "Piña",
-      "oldPrice": "3.68",
-      "newPrice": "3.64"
+      "oldPrice": "3.64",
+      "newPrice": "3.68"
     },
     {
       "id": "3050",
       "name": "Mango",
-      "oldPrice": "1.48",
-      "newPrice": "1.45"
+      "oldPrice": "1.45",
+      "newPrice": "1.42"
     },
     {
-      "id": "3026",
-      "name": "Papaya",
-      "oldPrice": "3.36",
-      "newPrice": "3.41"
+      "id": "3915",
+      "name": "Granada",
+      "oldPrice": "1.38",
+      "newPrice": "1.44"
     },
     {
       "id": "3914",
       "name": "Kaki",
-      "oldPrice": "0.58",
-      "newPrice": "0.56"
+      "oldPrice": "0.56",
+      "newPrice": "0.58"
     },
     {
-      "id": "69066",
-      "name": "Patata",
-      "oldPrice": "0.44",
-      "newPrice": "0.46"
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "1.98",
+      "newPrice": "2.11"
     },
     {
       "id": "69968",
       "name": "Tomate canario",
-      "oldPrice": "0.35",
-      "newPrice": "0.33"
-    },
-    {
-      "id": "69912",
-      "name": "Tomate pera",
-      "oldPrice": "0.29",
-      "newPrice": "0.26"
+      "oldPrice": "0.33",
+      "newPrice": "0.31"
     },
     {
       "id": "69487",
       "name": "Rama de Tomates",
-      "oldPrice": "2.03",
-      "newPrice": "2.00"
+      "oldPrice": "2.00",
+      "newPrice": "1.89"
     },
     {
       "id": "69310",
       "name": "Pimiento rojo",
-      "oldPrice": "0.84",
-      "newPrice": "0.87"
+      "oldPrice": "0.87",
+      "newPrice": "0.84"
     },
     {
-      "id": "69339",
-      "name": "Calabacín blanco",
-      "oldPrice": "0.86",
-      "newPrice": "0.88"
+      "id": "69320",
+      "name": "Pimiento verde freír",
+      "oldPrice": "0.23",
+      "newPrice": "0.20"
     },
     {
       "id": "69220",
       "name": "Coliflor",
-      "oldPrice": "1.97",
-      "newPrice": "1.92"
+      "oldPrice": "1.92",
+      "newPrice": "1.89"
     },
     {
       "id": "69251",
       "name": "Col lombarda",
-      "oldPrice": "1.86",
-      "newPrice": "1.84"
+      "oldPrice": "1.84",
+      "newPrice": "1.74"
     },
     {
       "id": "69580",
       "name": "Brócoli",
-      "oldPrice": "1.35",
-      "newPrice": "1.32"
+      "oldPrice": "1.32",
+      "newPrice": "1.35"
     },
     {
       "id": "69326",
       "name": "Berenjena",
-      "oldPrice": "0.81",
-      "newPrice": "0.90"
+      "oldPrice": "0.90",
+      "newPrice": "0.88"
     },
     {
-      "id": "69347",
-      "name": "Berenjena rayada",
-      "oldPrice": "0.90",
-      "newPrice": "0.95"
+      "id": "69623",
+      "name": "Alcachofa",
+      "oldPrice": "0.82",
+      "newPrice": "0.73"
+    },
+    {
+      "id": "81649.1",
+      "name": "Salmón a rodajas",
+      "oldPrice": "30.44",
+      "newPrice": "29.89"
+    },
+    {
+      "id": "81649.4",
+      "name": "Salmón media pieza a rodajas",
+      "oldPrice": "15.44",
+      "newPrice": "15.22"
+    },
+    {
+      "id": "81649.2",
+      "name": "Salmón abierto en libro sin cabeza y sin espina",
+      "oldPrice": "30.44",
+      "newPrice": "29.89"
+    },
+    {
+      "id": "81649.5",
+      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
+      "oldPrice": "15.44",
+      "newPrice": "15.22"
+    },
+    {
+      "id": "81649.3",
+      "name": "Salmón sin aletas y sin escamas",
+      "oldPrice": "30.44",
+      "newPrice": "29.89"
+    },
+    {
+      "id": "81649.6",
+      "name": "Salmón media pieza sin aletas y sin escamas",
+      "oldPrice": "15.44",
+      "newPrice": "15.22"
+    },
+    {
+      "id": "81234.1",
+      "name": "Dorada limpia con cabeza",
+      "oldPrice": "4.85",
+      "newPrice": "4.75"
+    },
+    {
+      "id": "81234.2",
+      "name": "Dorada abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "4.85",
+      "newPrice": "4.75"
+    },
+    {
+      "id": "81234.5",
+      "name": "Dorada a filetes sin cabeza y sin espina",
+      "oldPrice": "4.85",
+      "newPrice": "4.75"
+    },
+    {
+      "id": "81234.4",
+      "name": "Dorada abierta en libro sin cabeza y sin espina",
+      "oldPrice": "4.85",
+      "newPrice": "4.75"
+    },
+    {
+      "id": "81234.3",
+      "name": "Dorada sin limpiar",
+      "oldPrice": "4.85",
+      "newPrice": "4.75"
+    },
+    {
+      "id": "81241.1",
+      "name": "Lubina limpia con cabeza",
+      "oldPrice": "3.88",
+      "newPrice": "4.18"
     }
   ]
 }
