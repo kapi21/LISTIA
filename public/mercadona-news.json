@@ -1,520 +1,267 @@
 {
-  "lastSync": "2026-11-09T12:37:23.149229",
-  "totalProducts": 4393,
-  "newProductsCount": 210,
+  "lastSync": "2026-11-10T12:16:48.649271",
+  "totalProducts": 3792,
+  "newProductsCount": 7,
   "newProducts": [
     {
-      "id": "6106",
-      "name": "Pasta fusilli 100% lentejas rojas Felicia",
-      "category": "Arroz, legumbres y pasta",
-      "subcategory": "Macarrones, pajaritas y hélices",
-      "photo": "https://prod-mercadona.imgix.net/images/b82394e08ac387522c2286fb9c234b5f.jpg?fit=crop&h=300&w=300",
-      "price": "1.65",
-      "unit_size": 0.25,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17806",
-      "name": "Golosinas calaveras Halloween super ácidas Hacendado",
+      "id": "65165",
+      "name": "Chicles gragea fresa sin azúcar Hacendado",
       "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Golosinas",
-      "photo": "https://prod-mercadona.imgix.net/images/234d06931063efdeb77b4f24df281756.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
+      "subcategory": "Chicles",
+      "photo": "https://prod-mercadona.imgix.net/images/0b8b1fd18173544070ec5422c5f5c7bb.jpg?fit=crop&h=300&w=300",
+      "price": "1.95",
       "unit_size": 0.1,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Bote"
     },
     {
-      "id": "14988",
-      "name": "Cerveza negra Ambar",
-      "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=300&w=300",
-      "price": "6.00",
-      "unit_size": 1.98,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "14989",
-      "name": "Cerveza negra Ambar",
-      "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/90c766f8262424ede0ec978b95cd1a48.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.33,
-      "size_format": "l",
-      "packaging": "Lata"
-    },
-    {
-      "id": "17556",
-      "name": "Magret de pato",
-      "category": "Carne",
-      "subcategory": "Pavo y otras aves",
-      "photo": "https://prod-mercadona.imgix.net/images/79f45fcebafcf8cfd8fe07777196f0fe.jpg?fit=crop&h=300&w=300",
-      "price": "3.84",
-      "unit_size": 0.16,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "4361",
-      "name": "Garretas brazuelos de cordero",
-      "category": "Carne",
-      "subcategory": "Cordero",
-      "photo": "https://prod-mercadona.imgix.net/images/997eed5d60dad70322b642f9634bbde9.jpg?fit=crop&h=300&w=300",
-      "price": "9.50",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "17813",
-      "name": "11 Panecillos integrales 100%",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de bocadillo",
-      "photo": "https://prod-mercadona.imgix.net/images/560e22a8ff68daa8b476acf542ea21db.jpg?fit=crop&h=300&w=300",
-      "price": "1.65",
-      "unit_size": 0.495,
-      "size_format": "kg",
-      "packaging": "Bolsa"
-    },
-    {
-      "id": "20356",
-      "name": "Tarta delicia de fresa Hacendado congelada",
-      "category": "Panadería y pastelería",
-      "subcategory": "Tartas",
-      "photo": "https://prod-mercadona.imgix.net/images/a49e6ed10cc95d429dff5ffd7a9c0f3a.jpg?fit=crop&h=300&w=300",
-      "price": "11.50",
-      "unit_size": 0.94,
-      "size_format": "kg",
-      "packaging": null
-    },
-    {
-      "id": "18416",
-      "name": "Tarta infantil deportes Hacendado congelada",
-      "category": "Panadería y pastelería",
-      "subcategory": "Tartas infantiles",
-      "photo": "https://prod-mercadona.imgix.net/images/9609a65302d1e135be5ea055f379d463.jpg?fit=crop&h=300&w=300",
-      "price": "13.80",
-      "unit_size": 1.57,
-      "size_format": "kg",
-      "packaging": "Bandeja"
-    },
-    {
-      "id": "11529",
-      "name": "Vela de cumpleaños 0 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/f683e9a0c6e110ffbc34c16a4ccc74cc.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11530",
-      "name": "Vela de cumpleaños 1 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/13d4e3fb81fc2e4320be201623446466.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11531",
-      "name": "Vela de cumpleaños 2 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/cf35a9c100322bf9639e1e7679d0cddd.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11532",
-      "name": "Vela de cumpleaños 3 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/4b511857ed4236021a0edd0a25282ef9.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11533",
-      "name": "Vela de cumpleaños 4 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/9f3f35b2002579aad615f6a582b74a57.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11534",
-      "name": "Vela de cumpleaños 5 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/c19eade98339cdb3919cf3c645f2dbe5.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11535",
-      "name": "Vela de cumpleaños 6 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/b29a48d7018c4ebe16508b2c3f3732e2.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11536",
-      "name": "Vela de cumpleaños 7 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/78a82c938a3e55ae22eeb53c75412966.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11537",
-      "name": "Vela de cumpleaños 8 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/db80687e91c6d08603d139ea06e15077.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11538",
-      "name": "Vela de cumpleaños 9 Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/5b72a78db829d745d25d3d80f1109b56.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11523",
-      "name": "Velas de cumpleaños Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Velas",
-      "photo": "https://prod-mercadona.imgix.net/images/15849fda4c7b5217621b746bd170633b.jpg?fit=crop&h=300&w=300",
-      "price": "1.40",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "20924",
-      "name": "Almendra molida Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Decoración",
-      "photo": "https://prod-mercadona.imgix.net/images/f59bc7d7614776426a072aad19f7abad.jpg?fit=crop&h=300&w=300",
-      "price": "2.55",
-      "unit_size": 0.15,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "34035",
-      "name": "Coco rallado Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Decoración",
-      "photo": "https://prod-mercadona.imgix.net/images/0da63556166bbaf4d1fc9df82ab654b4.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 0.125,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "32316",
-      "name": "Caramelo líquido Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Decoración",
-      "photo": "https://prod-mercadona.imgix.net/images/8794456873b6e321137e0ce2c6f59a94.jpg?fit=crop&h=300&w=300",
+      "id": "14352",
+      "name": "Calendario de Adviento Navidad Hacendado con chocolatinas de chocolate con leche",
+      "category": "Azúcar, caramelos y chocolate",
+      "subcategory": "Chocolatinas",
+      "photo": "https://prod-mercadona.imgix.net/images/1d11cea3f5933a295ced68b283e70895.jpg?fit=crop&h=300&w=300",
       "price": "1.75",
-      "unit_size": 0.3,
+      "unit_size": 0.065,
       "size_format": "kg",
-      "packaging": "Bote"
+      "packaging": null
     },
     {
-      "id": "32525",
-      "name": "Azúcar vainillado Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Decoración",
-      "photo": "https://prod-mercadona.imgix.net/images/3d2edbcf8bec1cc5bcf89ec1d92bc5f3.jpg?fit=crop&h=300&w=300",
-      "price": "1.35",
-      "unit_size": 0.12,
-      "size_format": "kg",
+      "id": "21398",
+      "name": "Cambiador multiusos desechable Deliplus",
+      "category": "Bebé",
+      "subcategory": "Braguita y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/ab2834be31e2c7340ac4b36121a667f1.jpg?fit=crop&h=300&w=300",
+      "price": "4.15",
+      "unit_size": 12.0,
+      "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "11600",
-      "name": "Topping de chocolate avellana Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Decoración",
-      "photo": "https://prod-mercadona.imgix.net/images/565e9e698740d265f8c422a7b71bb9c1.jpeg?fit=crop&h=300&w=300",
-      "price": "2.55",
+      "id": "18340",
+      "name": "Crema de manos Velvet Deliplus con karité & vitamina E",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Crema manos",
+      "photo": "https://prod-mercadona.imgix.net/images/afb1c3c2645207a17deb6ee4b4c65e19.jpg?fit=crop&h=300&w=300",
+      "price": "2.80",
       "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Bote"
+      "size_format": "l",
+      "packaging": "Tarro"
     },
     {
-      "id": "20920",
-      "name": "Almendra laminada Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Decoración",
-      "photo": "https://prod-mercadona.imgix.net/images/de166a7b0b84a4958c2a911b86dd1897.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.15,
+      "id": "18180",
+      "name": "Lote mujer Cerise Como tú",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/a6e9bebfe1716b61621bd1b7e284df86.jpg?fit=crop&h=300&w=300",
+      "price": "13.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "18179",
+      "name": "Lote corporal mujer Dolce Latto Deliplus",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Lotes mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/941614a76df2fc87f5e01608116935a1.jpg?fit=crop&h=300&w=300",
+      "price": "9.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "14385",
+      "name": "Comida gato con pollo, frutas y verduras adulto esterilizado light Compy",
+      "category": "Mascotas",
+      "subcategory": "Alimentación seca",
+      "photo": "https://prod-mercadona.imgix.net/images/10587a8c829fca3f9c28d29f07468747.jpg?fit=crop&h=300&w=300",
+      "price": "4.25",
+      "unit_size": 2.0,
       "size_format": "kg",
       "packaging": "Paquete"
-    },
-    {
-      "id": "13236",
-      "name": "Pollo teriyaki",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos calientes",
-      "photo": "https://prod-mercadona.imgix.net/images/6d5527d54fd9c0d634759c308779ff5e.jpeg?fit=crop&h=300&w=300",
-      "price": "5.00",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "13235",
-      "name": "Noodles Yakisoba con carne y verduras",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos calientes",
-      "photo": "https://prod-mercadona.imgix.net/images/fc26c39dd1a77b50d810307230fddeaa.jpeg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "13243",
-      "name": "Salmón con verduras Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos calientes",
-      "photo": "https://prod-mercadona.imgix.net/images/441868df8a6387963157125bf8b11519.jpeg?fit=crop&h=300&w=300",
-      "price": "5.75",
-      "unit_size": 0.4,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "17829",
-      "name": "Ñoquis pesto rojo Listo para Comer",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Platos calientes",
-      "photo": "https://prod-mercadona.imgix.net/images/bc7af592c2aee37666d8e93954c1d0d8.jpeg?fit=crop&h=300&w=300",
-      "price": "5.50",
-      "unit_size": 0.4,
-      "size_format": "kg",
-      "packaging": "Bol"
     }
   ],
-  "priceChangesCount": 51,
+  "priceChangesCount": 40,
   "priceChanges": [
     {
-      "id": "4717",
-      "name": "Aceite de oliva virgen extra Hacendado",
-      "oldPrice": "12.15",
-      "newPrice": "11.25"
+      "id": "27679",
+      "name": "Cerveza Heineken",
+      "oldPrice": "5.12",
+      "newPrice": "6.96"
     },
     {
-      "id": "4740",
-      "name": "Aceite de oliva virgen extra Hacendado",
-      "oldPrice": "4.35",
-      "newPrice": "4.10"
+      "id": "27100",
+      "name": "Cerveza Heineken",
+      "oldPrice": "0.68",
+      "newPrice": "0.88"
     },
     {
-      "id": "4711",
-      "name": "Aceite de oliva virgen Hacendado",
-      "oldPrice": "11.65",
-      "newPrice": "10.75"
+      "id": "60600",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "8.28",
+      "newPrice": "10.20"
     },
     {
-      "id": "4749",
-      "name": "Aceite de oliva virgen Hacendado",
-      "oldPrice": "4.10",
-      "newPrice": "3.90"
+      "id": "60980",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "0.72",
+      "newPrice": "0.85"
     },
     {
-      "id": "19731",
-      "name": "Sal fina Hacendado",
-      "oldPrice": "0.40",
-      "newPrice": "0.45"
-    },
-    {
-      "id": "16864",
-      "name": "Sal fina de mesa Hacendado",
-      "oldPrice": "0.75",
-      "newPrice": "0.80"
-    },
-    {
-      "id": "19732",
-      "name": "Sal yodada fina Hacendado",
-      "oldPrice": "0.45",
-      "newPrice": "0.50"
-    },
-    {
-      "id": "19733",
-      "name": "Sal gruesa Hacendado",
-      "oldPrice": "0.40",
-      "newPrice": "0.45"
-    },
-    {
-      "id": "19734",
-      "name": "Sal gruesa para hornear Hacendado",
-      "oldPrice": "1.40",
-      "newPrice": "1.45"
-    },
-    {
-      "id": "34702",
-      "name": "Sazonador para paella Hacendado",
-      "oldPrice": "1.55",
-      "newPrice": "1.40"
-    },
-    {
-      "id": "29605",
-      "name": "Bebida isotónica limón Aquarius",
-      "oldPrice": "6.88",
-      "newPrice": "7.44"
-    },
-    {
-      "id": "29625",
-      "name": "Bebida isotónica limón Aquarius",
-      "oldPrice": "0.89",
-      "newPrice": "0.99"
-    },
-    {
-      "id": "29604",
-      "name": "Bebida isotónica naranja Aquarius",
-      "oldPrice": "6.88",
-      "newPrice": "7.44"
-    },
-    {
-      "id": "29624",
-      "name": "Bebida isotónica naranja Aquarius",
-      "oldPrice": "0.89",
-      "newPrice": "0.99"
-    },
-    {
-      "id": "18290",
-      "name": "Bebida energética Vice Guava Monster Energy Ultra zero azúcar",
-      "oldPrice": "1.45",
-      "newPrice": "1.79"
-    },
-    {
-      "id": "28670",
-      "name": "Bebida energética Monster Energy Ultra zero azúcar",
+      "id": "66413",
+      "name": "Cerveza Amstel",
       "oldPrice": "5.28",
-      "newPrice": "6.68"
+      "newPrice": "6.36"
     },
     {
-      "id": "28119",
-      "name": "Bebida energética Monster Energy Ultra zero azúcar",
-      "oldPrice": "1.45",
-      "newPrice": "1.79"
+      "id": "28757",
+      "name": "Ron dominicano añejo Ron Barceló",
+      "oldPrice": "15.15",
+      "newPrice": "15.75"
     },
     {
-      "id": "24547",
-      "name": "Bebida energética Red Bull",
-      "oldPrice": "10.64",
-      "newPrice": "8.00"
-    },
-    {
-      "id": "9886",
-      "name": "Refresco Coca-Cola",
-      "oldPrice": "3.30",
-      "newPrice": "2.70"
-    },
-    {
-      "id": "28181",
-      "name": "Refresco Coca-Cola",
-      "oldPrice": "1.69",
-      "newPrice": "1.39"
-    },
-    {
-      "id": "9887",
-      "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "3.30",
-      "newPrice": "2.70"
-    },
-    {
-      "id": "13816",
-      "name": "Refresco Coca-Cola zero azúcar",
-      "oldPrice": "1.69",
-      "newPrice": "1.39"
-    },
-    {
-      "id": "17707",
-      "name": "Refresco Coca-Cola zero azúcar zero cafeína",
-      "oldPrice": "1.69",
-      "newPrice": "1.39"
-    },
-    {
-      "id": "27545",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "1.59",
+      "id": "66944",
+      "name": "Sangría Don Simón",
+      "oldPrice": "1.95",
       "newPrice": "1.85"
     },
     {
-      "id": "11688",
-      "name": "Refresco té sabor limón Fuze Tea",
-      "oldPrice": "1.49",
-      "newPrice": "2.09"
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "oldPrice": "0.38",
+      "newPrice": "0.40"
     },
     {
-      "id": "67608",
-      "name": "Alubia negra Hacendado",
-      "oldPrice": "2.50",
-      "newPrice": "2.45"
+      "id": "3021",
+      "name": "Manzana Granny Smith",
+      "oldPrice": "0.48",
+      "newPrice": "0.45"
     },
     {
-      "id": "86496",
-      "name": "Bombones de chocolate con leche Lindor Lindt",
-      "oldPrice": "9.95",
-      "newPrice": "7.95"
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "oldPrice": "3.82",
+      "newPrice": "3.53"
     },
     {
-      "id": "8950",
-      "name": "Turrón de chocolate Suchard",
-      "oldPrice": "4.90",
-      "newPrice": "4.75"
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "oldPrice": "6.28",
+      "newPrice": "5.96"
     },
     {
-      "id": "9408",
-      "name": "Leche de continuación en polvo 2 Nidina Nestlé",
-      "oldPrice": "14.95",
-      "newPrice": "17.95"
+      "id": "3235",
+      "name": "Naranja de mesa",
+      "oldPrice": "0.65",
+      "newPrice": "0.67"
     },
     {
-      "id": "21985",
-      "name": "Cacao soluble instantáneo Nesquik",
-      "oldPrice": "12.95",
-      "newPrice": "16.15"
+      "id": "3076",
+      "name": "Piña",
+      "oldPrice": "3.68",
+      "newPrice": "3.66"
+    },
+    {
+      "id": "3915",
+      "name": "Granada",
+      "oldPrice": "1.44",
+      "newPrice": "1.41"
+    },
+    {
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.11",
+      "newPrice": "2.18"
+    },
+    {
+      "id": "69937",
+      "name": "Tomate ensalada",
+      "oldPrice": "0.55",
+      "newPrice": "0.60"
+    },
+    {
+      "id": "69310",
+      "name": "Pimiento rojo",
+      "oldPrice": "0.84",
+      "newPrice": "0.87"
+    },
+    {
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "1.89",
+      "newPrice": "1.94"
+    },
+    {
+      "id": "69251",
+      "name": "Col lombarda",
+      "oldPrice": "1.74",
+      "newPrice": "1.66"
+    },
+    {
+      "id": "69580",
+      "name": "Brócoli",
+      "oldPrice": "1.35",
+      "newPrice": "1.32"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.88",
+      "newPrice": "0.90"
+    },
+    {
+      "id": "81649.1",
+      "name": "Salmón a rodajas",
+      "oldPrice": "29.89",
+      "newPrice": "29.35"
+    },
+    {
+      "id": "81649.2",
+      "name": "Salmón abierto en libro sin cabeza y sin espina",
+      "oldPrice": "29.89",
+      "newPrice": "29.35"
+    },
+    {
+      "id": "81649.3",
+      "name": "Salmón sin aletas y sin escamas",
+      "oldPrice": "29.89",
+      "newPrice": "29.35"
+    },
+    {
+      "id": "81234.1",
+      "name": "Dorada limpia con cabeza",
+      "oldPrice": "4.75",
+      "newPrice": "4.85"
+    },
+    {
+      "id": "81234.2",
+      "name": "Dorada abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "4.75",
+      "newPrice": "4.85"
+    },
+    {
+      "id": "81234.5",
+      "name": "Dorada a filetes sin cabeza y sin espina",
+      "oldPrice": "4.75",
+      "newPrice": "4.85"
+    },
+    {
+      "id": "81234.4",
+      "name": "Dorada abierta en libro sin cabeza y sin espina",
+      "oldPrice": "4.75",
+      "newPrice": "4.85"
+    },
+    {
+      "id": "81234.3",
+      "name": "Dorada sin limpiar",
+      "oldPrice": "4.75",
+      "newPrice": "4.85"
+    },
+    {
+      "id": "81241.1",
+      "name": "Lubina limpia con cabeza",
+      "oldPrice": "4.18",
+      "newPrice": "4.38"
     }
   ]
 }
