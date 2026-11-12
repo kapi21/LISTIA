@@ -1,520 +1,269 @@
 {
-  "lastSync": "2026-11-11T11:43:11.179561",
-  "totalProducts": 4390,
-  "newProductsCount": 609,
+  "lastSync": "2026-11-12T12:18:28.289194",
+  "totalProducts": 3988,
+  "newProductsCount": 11,
   "newProducts": [
     {
-      "id": "20889",
-      "name": "Salsa fresca Trufa Hacendado",
+      "id": "17265",
+      "name": "Aliño de aceite con perejil y ajo Hacendado",
       "category": "Aceite, especias y salsas",
-      "subcategory": "Salsas para pasta",
-      "photo": "https://prod-mercadona.imgix.net/images/6010a89f8c58764e71cfea49125eecdb.jpg?fit=crop&h=300&w=300",
-      "price": "1.45",
-      "unit_size": 0.16,
-      "size_format": "kg",
-      "packaging": "Tarrina"
+      "subcategory": "Otras salsas",
+      "photo": "https://prod-mercadona.imgix.net/images/644d21b0d9cf4d82619ffc3553d6cbf0.jpg?fit=crop&h=300&w=300",
+      "price": "1.80",
+      "unit_size": 0.15,
+      "size_format": "l",
+      "packaging": null
     },
     {
-      "id": "21395",
-      "name": "Pasta fusilli 100% lentejas rojas Hacendado",
+      "id": "6106",
+      "name": "Pasta fusilli 100% lentejas rojas Felicia",
       "category": "Arroz, legumbres y pasta",
       "subcategory": "Macarrones, pajaritas y hélices",
-      "photo": "https://prod-mercadona.imgix.net/images/756efc25414e66ddedf7b0b403198d4c.jpg?fit=crop&h=300&w=300",
-      "price": "2.20",
-      "unit_size": 0.4,
+      "photo": "https://prod-mercadona.imgix.net/images/b82394e08ac387522c2286fb9c234b5f.jpg?fit=crop&h=300&w=300",
+      "price": "1.65",
+      "unit_size": 0.25,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "12883",
-      "name": "Vino Pedro Ximénez Olivar DO Jerez",
+      "id": "60748",
+      "name": "Tinto de verano zero limón Casón Histórico",
       "category": "Bodega",
-      "subcategory": "Vinos dulces y mosto",
-      "photo": "https://prod-mercadona.imgix.net/images/97daafea21cef05f2932f3850f8909ce.jpg?fit=crop&h=300&w=300",
-      "price": "6.85",
-      "unit_size": 0.75,
+      "subcategory": "Tinto de verano y sangría",
+      "photo": "https://prod-mercadona.imgix.net/images/a571de6e80d31ec10a8d56a6873064d8.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 1.5,
       "size_format": "l",
       "packaging": "Botella"
     },
     {
-      "id": "17644",
-      "name": "Longaniza ibérica La Hacienda del Ibérico",
-      "category": "Charcutería y quesos",
-      "subcategory": "Salchichón",
-      "photo": "https://prod-mercadona.imgix.net/images/c4bc6f5afaabcf95b0340d05bdad0ed4.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
+      "id": "86168",
+      "name": "Bebida de avena con calcio sin azúcares añadidos Hacendado",
+      "category": "Huevos, leche y mantequilla",
+      "subcategory": "Bebidas vegetales",
+      "photo": "https://prod-mercadona.imgix.net/images/83b530034c84f1327f738eee7a20e584.jpg?fit=crop&h=300&w=300",
+      "price": "7.20",
+      "unit_size": 6.0,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "86167",
+      "name": "Bebida de avena con calcio barista Hacendado sin azúcares añadidos",
+      "category": "Huevos, leche y mantequilla",
+      "subcategory": "Bebidas vegetales",
+      "photo": "https://prod-mercadona.imgix.net/images/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=300&w=300",
+      "price": "1.20",
+      "unit_size": 1.0,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "21504",
+      "name": "Máscara de pestañas Water Xtrem waterproof efecto longitud infinita Deliplus negro",
+      "category": "Maquillaje",
+      "subcategory": "Máscara de pestañas",
+      "photo": "https://prod-mercadona.imgix.net/images/5eb9cfccc28fc867d55f711323c3a688.jpg?fit=crop&h=300&w=300",
+      "price": "4.50",
+      "unit_size": 0.0085,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "81661.1",
+      "name": "Boquerón sin limpiar",
+      "category": "Marisco y pescado",
+      "subcategory": "Boquerón",
+      "photo": "https://prod-mercadona.imgix.net/images/1d2cb161f810c273ec84e45691b07e6d.jpg?fit=crop&h=300&w=300",
+      "price": "1.39",
       "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Granel"
+    },
+    {
+      "id": "81661.2",
+      "name": "Boquerón limpio sin cabeza",
+      "category": "Marisco y pescado",
+      "subcategory": "Boquerón",
+      "photo": "https://prod-mercadona.imgix.net/images/b55f89c3aefe2502e390182d9f47657a.jpg?fit=crop&h=300&w=300",
+      "price": "1.39",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Granel"
+    },
+    {
+      "id": "81100.1",
+      "name": "Sardina sin limpiar",
+      "category": "Marisco y pescado",
+      "subcategory": "Sardina",
+      "photo": "https://prod-mercadona.imgix.net/images/5b92b803a7932c1cd2ece3e80d11a853.jpg?fit=crop&h=300&w=300",
+      "price": "1.19",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Granel"
+    },
+    {
+      "id": "81100.2",
+      "name": "Sardina limpia sin cabeza",
+      "category": "Marisco y pescado",
+      "subcategory": "Sardina",
+      "photo": "https://prod-mercadona.imgix.net/images/2b65dea09c00f7ea0a265455ce20ff1a.jpg?fit=crop&h=300&w=300",
+      "price": "1.19",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Granel"
+    },
+    {
+      "id": "17713",
+      "name": "Berlina rellena de crema de galleta con cobertura blanca y trozos de galleta",
+      "category": "Panadería y pastelería",
+      "subcategory": "Bollería dulce",
+      "photo": "https://prod-mercadona.imgix.net/images/e8a0fcb0fe647d05c3f298f81c8bf4d6.jpg?fit=crop&h=300&w=300",
+      "price": "1.25",
+      "unit_size": 0.1,
       "size_format": "kg",
       "packaging": "Pieza"
-    },
-    {
-      "id": "86338",
-      "name": "Queso lonchas gouda de vaca Hacendado",
-      "category": "Charcutería y quesos",
-      "subcategory": "Queso lonchas",
-      "photo": "https://prod-mercadona.imgix.net/images/9502ee15e4311bb4f9a590661aeaa788.jpeg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "18384",
-      "name": "Crema de manos reparadora Deliplus glicerina, pantenol y vitamina E",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema manos",
-      "photo": "https://prod-mercadona.imgix.net/images/7e7a11b32527e92de90078799614a691.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 0.075,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "18181",
-      "name": "Lote mujer Ella My Soul",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Lotes mujer",
-      "photo": "https://prod-mercadona.imgix.net/images/dcc9025f91f1320ee979baebe8ac74ce.jpg?fit=crop&h=300&w=300",
-      "price": "15.00",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "44110",
-      "name": "Limpiador Muebles jabonoso para Madera Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpieza muebles",
-      "photo": "https://prod-mercadona.imgix.net/images/553db438c5a7a254a6ba373164339eba.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "35882",
-      "name": "Limpiador de Muebles con ceras Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpieza muebles",
-      "photo": "https://prod-mercadona.imgix.net/images/6b5c2da214ccbee634423a287c6891c0.jpeg?fit=crop&h=300&w=300",
-      "price": "1.65",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Spray"
-    },
-    {
-      "id": "44127",
-      "name": "Toallitas limpiadoras de Muebles Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpieza muebles",
-      "photo": "https://prod-mercadona.imgix.net/images/4670622ac7e9a72604904c2f6caf205d.jpeg?fit=crop&h=300&w=300",
-      "price": "1.50",
-      "unit_size": 30.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "35663",
-      "name": "Limpiador de Muebles Classic Pronto",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpieza muebles",
-      "photo": "https://prod-mercadona.imgix.net/images/aad081b6f0c724f7253c287fcb3bf274.jpg?fit=crop&h=300&w=300",
-      "price": "2.90",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Spray"
-    },
-    {
-      "id": "44116",
-      "name": "Limpiador de Muebles y Parquet Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpieza muebles",
-      "photo": "https://prod-mercadona.imgix.net/images/ac76e84e5e6e7a45083e78bc24bcbeff.jpeg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.75,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "44303",
-      "name": "Limpia Tapicerías y Alfombras con espuma activa Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Limpieza muebles",
-      "photo": "https://prod-mercadona.imgix.net/images/cf4f1681a00a7928b8bf55256460e5fa.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
-      "unit_size": 0.75,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "49402",
-      "name": "Vinagre de Limpieza Bosque Verde concentrado",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/5867958a0a1d9023358a768a0a5a7b1b.jpg?fit=crop&h=300&w=300",
-      "price": "0.90",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "44138",
-      "name": "Multiusos Perfumado Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/045ecde23791e1b4b1c7dc8f3adda893.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "43861",
-      "name": "70% Alcohol de Limpieza Perfumado Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/7c21c898ab5652d1c7436748cfa69706.jpg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "44001",
-      "name": "Multiusos pH Neutro Las 3 Brujas",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/dc5419b16ed79b9e7ffad60c96aa80b2.jpeg?fit=crop&h=300&w=300",
-      "price": "2.55",
-      "unit_size": 0.75,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "44310",
-      "name": "Limpia Mopas Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/63c561c1e88719094eed493c6c0c80a1.jpeg?fit=crop&h=300&w=300",
-      "price": "2.85",
-      "unit_size": 0.75,
-      "size_format": "l",
-      "packaging": "Spray"
-    },
-    {
-      "id": "43931",
-      "name": "Desincrustante de Cementos y Limpiajuntas Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/d883a070e2c327008783553c876b039c.jpeg?fit=crop&h=300&w=300",
-      "price": "4.00",
-      "unit_size": 0.75,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "43705",
-      "name": "Algodón mágico Aladdin",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/0d27ff266805ca8a9e8333d668cfb7e3.jpg?fit=crop&h=300&w=300",
-      "price": "3.80",
-      "unit_size": 0.075,
-      "size_format": "kg",
-      "packaging": "Bote"
-    },
-    {
-      "id": "8886",
-      "name": "Limpiador abrillantador Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/cbf1b4a9a8d199649659f17a3eccf765.jpg?fit=crop&h=300&w=300",
-      "price": "2.90",
-      "unit_size": 0.4,
-      "size_format": "l",
-      "packaging": "Spray"
-    },
-    {
-      "id": "24527",
-      "name": "Pasta Piedra blanca multiusos Power Paste Scrub Daddy con estropajo Scrub Mommy",
-      "category": "Limpieza y hogar",
-      "subcategory": "Multiusos y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/6722edb4fafac5373794970e4f50747b.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Tarro"
-    },
-    {
-      "id": "8841",
-      "name": "Escoba para interiores Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/0ea0855d7a41639ba27c273a9c78705d.jpg?fit=crop&h=300&w=300",
-      "price": "1.80",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "71403",
-      "name": "Fregona Microfibra Absorbente Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/0193fc9cf60e3a8661fda34775409fce.jpg?fit=crop&h=300&w=300",
-      "price": "2.80",
-      "unit_size": 2.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "71071",
-      "name": "Fregona Resistente y Absorbente Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/fdf84f35b894bddb92bbec9668128f74.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
-      "unit_size": 2.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "71407",
-      "name": "Fregona Microfibra Resistente Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/eae38fc546d0975976d45e7547531fae.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "71154",
-      "name": "Escoba para exteriores Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/ae17ec455f1b8195e39abb5478c0d6a8.jpg?fit=crop&h=300&w=300",
-      "price": "2.60",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "86836",
-      "name": "Mopa atrapa polvo Bosque Verde multiusos",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/e4d3f339f2c515f99477045afc84a908.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "71533",
-      "name": "Gamuzas atrapa polvo Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/1ae35728df80a90961898ca31112047d.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 30.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "71054",
-      "name": "Recambio mopa microfibra pequeño Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Fregonas, escobas y mopas",
-      "photo": "https://prod-mercadona.imgix.net/images/300ece8725e384858516ccb2577d0d22.jpg?fit=crop&h=300&w=300",
-      "price": "4.90",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
     }
   ],
-  "priceChangesCount": 45,
+  "priceChangesCount": 23,
   "priceChanges": [
     {
-      "id": "27610",
-      "name": "Refresco Fanta limón",
-      "oldPrice": "1.85",
-      "newPrice": "1.99"
+      "id": "26990",
+      "name": "Refresco lima limón Sprite",
+      "oldPrice": "1.65",
+      "newPrice": "1.69"
     },
     {
-      "id": "17542",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "3.60",
-      "newPrice": "3.90"
+      "id": "28176",
+      "name": "Refresco lima limón Sprite",
+      "oldPrice": "4.88",
+      "newPrice": "5.20"
     },
     {
-      "id": "27508",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "1.85",
-      "newPrice": "1.99"
+      "id": "27845",
+      "name": "Refresco lima limón Sprite",
+      "oldPrice": "0.65",
+      "newPrice": "0.69"
     },
     {
-      "id": "18234",
-      "name": "Refresco Fanta naranja",
-      "oldPrice": "1.55",
-      "newPrice": "1.59"
+      "id": "35588",
+      "name": "Colágeno soluble sabor limón Colagen",
+      "oldPrice": "5.30",
+      "newPrice": "4.90"
     },
     {
-      "id": "27545",
-      "name": "Refresco Fanta naranja zero azúcares añadidos",
-      "oldPrice": "1.85",
-      "newPrice": "1.99"
-    },
-    {
-      "id": "66324",
-      "name": "Vino blanco El Coto DO Rioja",
-      "oldPrice": "4.45",
-      "newPrice": "3.95"
-    },
-    {
-      "id": "66320",
-      "name": "Vino tinto crianza El Coto DO Rioja",
-      "oldPrice": "6.55",
-      "newPrice": "5.95"
-    },
-    {
-      "id": "66346",
-      "name": "Vino tinto reserva Coto de Imaz DO Rioja",
-      "oldPrice": "8.80",
-      "newPrice": "7.95"
-    },
-    {
-      "id": "3119",
-      "name": "Pera Conferencia",
-      "oldPrice": "0.45",
-      "newPrice": "0.48"
-    },
-    {
-      "id": "3515",
-      "name": "Medio melón piel de sapo",
-      "oldPrice": "3.53",
-      "newPrice": "3.36"
-    },
-    {
-      "id": "3506",
-      "name": "Melón piel de sapo",
-      "oldPrice": "5.96",
-      "newPrice": "5.72"
-    },
-    {
-      "id": "3238",
-      "name": "Mandarina",
-      "oldPrice": "0.24",
-      "newPrice": "0.26"
-    },
-    {
-      "id": "3830",
-      "name": "Aguacate",
-      "oldPrice": "1.12",
-      "newPrice": "1.06"
-    },
-    {
-      "id": "3076",
-      "name": "Piña",
-      "oldPrice": "3.66",
-      "newPrice": "3.86"
-    },
-    {
-      "id": "3050",
-      "name": "Mango",
-      "oldPrice": "1.42",
-      "newPrice": "1.45"
-    },
-    {
-      "id": "3026",
-      "name": "Papaya",
-      "oldPrice": "3.41",
-      "newPrice": "3.57"
-    },
-    {
-      "id": "3915",
-      "name": "Granada",
-      "oldPrice": "1.41",
-      "newPrice": "1.38"
-    },
-    {
-      "id": "69173",
-      "name": "Yuca",
-      "oldPrice": "2.18",
-      "newPrice": "2.08"
-    },
-    {
-      "id": "69937",
-      "name": "Tomate ensalada",
-      "oldPrice": "0.60",
-      "newPrice": "0.55"
-    },
-    {
-      "id": "69487",
-      "name": "Rama de Tomates",
-      "oldPrice": "1.89",
-      "newPrice": "1.86"
-    },
-    {
-      "id": "69310",
-      "name": "Pimiento rojo",
-      "oldPrice": "0.87",
-      "newPrice": "0.84"
-    },
-    {
-      "id": "69339",
-      "name": "Calabacín blanco",
-      "oldPrice": "0.88",
-      "newPrice": "0.86"
-    },
-    {
-      "id": "69220",
-      "name": "Coliflor",
-      "oldPrice": "1.94",
-      "newPrice": "2.06"
-    },
-    {
-      "id": "69251",
-      "name": "Col lombarda",
-      "oldPrice": "1.66",
-      "newPrice": "1.62"
-    },
-    {
-      "id": "69580",
-      "name": "Brócoli",
-      "oldPrice": "1.32",
-      "newPrice": "1.27"
-    },
-    {
-      "id": "69326",
-      "name": "Berenjena",
-      "oldPrice": "0.90",
-      "newPrice": "0.92"
-    },
-    {
-      "id": "69347",
-      "name": "Berenjena rayada",
-      "oldPrice": "0.95",
-      "newPrice": "0.93"
-    },
-    {
-      "id": "69038",
-      "name": "Nabicol",
+      "id": "69239",
+      "name": "Batata",
       "oldPrice": "1.02",
       "newPrice": "0.99"
     },
     {
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.08",
+      "newPrice": "2.01"
+    },
+    {
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.86",
+      "newPrice": "1.78"
+    },
+    {
+      "id": "69338",
+      "name": "Calabacín verde",
+      "oldPrice": "0.56",
+      "newPrice": "0.55"
+    },
+    {
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.06",
+      "newPrice": "2.09"
+    },
+    {
+      "id": "69251",
+      "name": "Col lombarda",
+      "oldPrice": "1.62",
+      "newPrice": "1.54"
+    },
+    {
+      "id": "69347",
+      "name": "Berenjena rayada",
+      "oldPrice": "0.93",
+      "newPrice": "0.90"
+    },
+    {
       "id": "81649.1",
       "name": "Salmón a rodajas",
-      "oldPrice": "29.35",
-      "newPrice": "29.24"
+      "oldPrice": "29.24",
+      "newPrice": "28.80"
     },
     {
       "id": "81649.4",
       "name": "Salmón media pieza a rodajas",
-      "oldPrice": "15.22",
-      "newPrice": "14.89"
+      "oldPrice": "14.89",
+      "newPrice": "14.56"
+    },
+    {
+      "id": "81649.2",
+      "name": "Salmón abierto en libro sin cabeza y sin espina",
+      "oldPrice": "29.24",
+      "newPrice": "28.80"
+    },
+    {
+      "id": "81649.5",
+      "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
+      "oldPrice": "14.89",
+      "newPrice": "14.56"
+    },
+    {
+      "id": "81649.3",
+      "name": "Salmón sin aletas y sin escamas",
+      "oldPrice": "29.24",
+      "newPrice": "28.80"
+    },
+    {
+      "id": "81649.6",
+      "name": "Salmón media pieza sin aletas y sin escamas",
+      "oldPrice": "14.89",
+      "newPrice": "14.56"
+    },
+    {
+      "id": "81241.1",
+      "name": "Lubina limpia con cabeza",
+      "oldPrice": "4.38",
+      "newPrice": "4.18"
+    },
+    {
+      "id": "81241.2",
+      "name": "Lubina abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "4.38",
+      "newPrice": "4.18"
+    },
+    {
+      "id": "81241.5",
+      "name": "Lubina a filetes sin cabeza y sin espina",
+      "oldPrice": "4.38",
+      "newPrice": "4.18"
+    },
+    {
+      "id": "81241.4",
+      "name": "Lubina abierta en libro sin cabeza y sin espina",
+      "oldPrice": "4.38",
+      "newPrice": "4.18"
+    },
+    {
+      "id": "81241.3",
+      "name": "Lubina sin limpiar",
+      "oldPrice": "4.38",
+      "newPrice": "4.18"
+    },
+    {
+      "id": "81704",
+      "name": "Sepia limpia",
+      "oldPrice": "10.02",
+      "newPrice": "10.17"
     }
   ]
 }
