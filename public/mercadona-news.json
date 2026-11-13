@@ -1,269 +1,520 @@
 {
-  "lastSync": "2026-11-12T12:18:28.289194",
-  "totalProducts": 3988,
-  "newProductsCount": 11,
+  "lastSync": "2026-11-13T11:56:48.847466",
+  "totalProducts": 4297,
+  "newProductsCount": 402,
   "newProducts": [
     {
-      "id": "17265",
-      "name": "Aliño de aceite con perejil y ajo Hacendado",
+      "id": "34123",
+      "name": "Anís en grano Hacendado",
       "category": "Aceite, especias y salsas",
-      "subcategory": "Otras salsas",
-      "photo": "https://prod-mercadona.imgix.net/images/644d21b0d9cf4d82619ffc3553d6cbf0.jpg?fit=crop&h=300&w=300",
-      "price": "1.80",
-      "unit_size": 0.15,
-      "size_format": "l",
-      "packaging": null
+      "subcategory": "Otras especias",
+      "photo": "https://prod-mercadona.imgix.net/images/8a0d0e5176f9c1a26fcd7cb0e7c2af49.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.05,
+      "size_format": "kg",
+      "packaging": "Bote"
     },
     {
-      "id": "6106",
-      "name": "Pasta fusilli 100% lentejas rojas Felicia",
-      "category": "Arroz, legumbres y pasta",
-      "subcategory": "Macarrones, pajaritas y hélices",
-      "photo": "https://prod-mercadona.imgix.net/images/b82394e08ac387522c2286fb9c234b5f.jpg?fit=crop&h=300&w=300",
-      "price": "1.65",
-      "unit_size": 0.25,
+      "id": "21928",
+      "name": "Cocktail frutos secos tostados con sal Hacendado",
+      "category": "Aperitivos",
+      "subcategory": "Cocktails",
+      "photo": "https://prod-mercadona.imgix.net/images/de984b09e9e874c37a8b4c1f94e6fd6f.jpg?fit=crop&h=300&w=300",
+      "price": "2.80",
+      "unit_size": 0.2,
       "size_format": "kg",
       "packaging": "Paquete"
     },
     {
-      "id": "60748",
+      "id": "26029",
+      "name": "Garbanzo cocido Hacendado",
+      "category": "Arroz, legumbres y pasta",
+      "subcategory": "Garbanzos",
+      "photo": "https://prod-mercadona.imgix.net/images/b8b807948038c4b64791632f799e9bd8.jpg?fit=crop&h=300&w=300",
+      "price": "0.80",
+      "unit_size": 0.57,
+      "size_format": "kg",
+      "packaging": "Tarro"
+    },
+    {
+      "id": "21395",
+      "name": "Pasta fusilli 100% lentejas rojas Hacendado",
+      "category": "Arroz, legumbres y pasta",
+      "subcategory": "Macarrones, pajaritas y hélices",
+      "photo": "https://prod-mercadona.imgix.net/images/756efc25414e66ddedf7b0b403198d4c.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "21808",
       "name": "Tinto de verano zero limón Casón Histórico",
       "category": "Bodega",
       "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/a571de6e80d31ec10a8d56a6873064d8.jpg?fit=crop&h=300&w=300",
+      "photo": "https://prod-mercadona.imgix.net/images/9f31fce0e4855d3f53dc75c980104c18.jpg?fit=crop&h=300&w=300",
       "price": "1.15",
       "unit_size": 1.5,
       "size_format": "l",
       "packaging": "Botella"
     },
     {
-      "id": "86168",
-      "name": "Bebida de avena con calcio sin azúcares añadidos Hacendado",
-      "category": "Huevos, leche y mantequilla",
-      "subcategory": "Bebidas vegetales",
-      "photo": "https://prod-mercadona.imgix.net/images/83b530034c84f1327f738eee7a20e584.jpg?fit=crop&h=300&w=300",
-      "price": "7.20",
-      "unit_size": 6.0,
+      "id": "66124",
+      "name": "Vino blanco Don Simón chardonnay airén",
+      "category": "Bodega",
+      "subcategory": "Vino blanco de mesa",
+      "photo": "https://prod-mercadona.imgix.net/images/c3563abcaf9d617378fde7c4b41db972.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 0.75,
       "size_format": "l",
-      "packaging": null
+      "packaging": "Pack-3"
     },
     {
-      "id": "86167",
-      "name": "Bebida de avena con calcio barista Hacendado sin azúcares añadidos",
-      "category": "Huevos, leche y mantequilla",
-      "subcategory": "Bebidas vegetales",
-      "photo": "https://prod-mercadona.imgix.net/images/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=300&w=300",
-      "price": "1.20",
-      "unit_size": 1.0,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "21504",
-      "name": "Máscara de pestañas Water Xtrem waterproof efecto longitud infinita Deliplus negro",
-      "category": "Maquillaje",
-      "subcategory": "Máscara de pestañas",
-      "photo": "https://prod-mercadona.imgix.net/images/5eb9cfccc28fc867d55f711323c3a688.jpg?fit=crop&h=300&w=300",
-      "price": "4.50",
-      "unit_size": 0.0085,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "81661.1",
-      "name": "Boquerón sin limpiar",
-      "category": "Marisco y pescado",
-      "subcategory": "Boquerón",
-      "photo": "https://prod-mercadona.imgix.net/images/1d2cb161f810c273ec84e45691b07e6d.jpg?fit=crop&h=300&w=300",
-      "price": "1.39",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Granel"
-    },
-    {
-      "id": "81661.2",
-      "name": "Boquerón limpio sin cabeza",
-      "category": "Marisco y pescado",
-      "subcategory": "Boquerón",
-      "photo": "https://prod-mercadona.imgix.net/images/b55f89c3aefe2502e390182d9f47657a.jpg?fit=crop&h=300&w=300",
-      "price": "1.39",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Granel"
-    },
-    {
-      "id": "81100.1",
-      "name": "Sardina sin limpiar",
-      "category": "Marisco y pescado",
-      "subcategory": "Sardina",
-      "photo": "https://prod-mercadona.imgix.net/images/5b92b803a7932c1cd2ece3e80d11a853.jpg?fit=crop&h=300&w=300",
-      "price": "1.19",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Granel"
-    },
-    {
-      "id": "81100.2",
-      "name": "Sardina limpia sin cabeza",
-      "category": "Marisco y pescado",
-      "subcategory": "Sardina",
-      "photo": "https://prod-mercadona.imgix.net/images/2b65dea09c00f7ea0a265455ce20ff1a.jpg?fit=crop&h=300&w=300",
-      "price": "1.19",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Granel"
-    },
-    {
-      "id": "17713",
-      "name": "Berlina rellena de crema de galleta con cobertura blanca y trozos de galleta",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/e8a0fcb0fe647d05c3f298f81c8bf4d6.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 0.1,
+      "id": "18762",
+      "name": "Caña de lomo cebo ibérico Félix de Múrtiga La Hacienda",
+      "category": "Charcutería y quesos",
+      "subcategory": "Lomo y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/7693a9f7c5af1388b7d1bb8b06e6107b.jpg?fit=crop&h=300&w=300",
+      "price": "28.00",
+      "unit_size": 0.7,
       "size_format": "kg",
       "packaging": "Pieza"
+    },
+    {
+      "id": "63321",
+      "name": "San Jacobos empanados de york y queso Hacendado ultracongelados",
+      "category": "Congelados",
+      "subcategory": "Carne rebozada",
+      "photo": "https://prod-mercadona.imgix.net/images/f2cf8a4cc78bd048eb248eda8c31825d.jpg?fit=crop&h=300&w=300",
+      "price": "1.45",
+      "unit_size": 0.35,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "63400",
+      "name": "Croquetas de jamón Hacendado ultracongeladas",
+      "category": "Congelados",
+      "subcategory": "Carne rebozada",
+      "photo": "https://prod-mercadona.imgix.net/images/e705ee4d0e086e89a92b9478feea74a6.jpeg?fit=crop&h=300&w=300",
+      "price": "1.40",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "13778",
+      "name": "Relleno para kebab con carne de pollo asado Hacendado ultracongelado",
+      "category": "Congelados",
+      "subcategory": "Carne rebozada",
+      "photo": "https://prod-mercadona.imgix.net/images/84adc6ad27ca9c31c3e4eedcf0819b9f.jpg?fit=crop&h=300&w=300",
+      "price": "3.15",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "23127",
+      "name": "Croquetas caprichos de jamón Hacendado ultracongeladas",
+      "category": "Congelados",
+      "subcategory": "Carne rebozada",
+      "photo": "https://prod-mercadona.imgix.net/images/a8d4785c3654a539ea7768b25a599727.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.5,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "63739",
+      "name": "Fingers de queso Hacendado ultracongelados",
+      "category": "Congelados",
+      "subcategory": "Verdura rebozada y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/cdf0d9840d26aaf7f0d1c3f23d679d1a.jpeg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "13413",
+      "name": "Tequeños de queso Hacendado ultracongelados",
+      "category": "Congelados",
+      "subcategory": "Verdura rebozada y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/b703147ab73a07889ae50db736367d74.jpg?fit=crop&h=300&w=300",
+      "price": "4.70",
+      "unit_size": 0.48,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "21571",
+      "name": "Croquetas caprichos de camembert Hacendado ultracongelados",
+      "category": "Congelados",
+      "subcategory": "Verdura rebozada y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/51f6f364c09c44f6d606831ea292fae2.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.35,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "21846",
+      "name": "Bocaditos de queso y chile Hot Cheese Hacendado ultracongelados",
+      "category": "Congelados",
+      "subcategory": "Verdura rebozada y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/f67c1ef7a89bf901033e6df1c8d8db1a.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "16590",
+      "name": "Bocaditos de queso mozzarella, tomate y orégano Pizza Bites Hacendado ultracongelados",
+      "category": "Congelados",
+      "subcategory": "Verdura rebozada y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/6c6070aa22b0a8f0ca9b2fa2949944cf.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18086",
+      "name": "Atún en aceite de girasol Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/2c06dcbb4643e6b4447d5d064c4eb6a5.jpeg?fit=crop&h=300&w=300",
+      "price": "6.50",
+      "unit_size": 0.9,
+      "size_format": "kg",
+      "packaging": "Lata"
+    },
+    {
+      "id": "18055",
+      "name": "Atún claro en aceite de girasol Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/d8fdd0b8183829db2aa6f531bc008202.jpg?fit=crop&h=300&w=300",
+      "price": "4.20",
+      "unit_size": 0.48,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "18092",
+      "name": "Atún claro en aceite de girasol Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/05c67043e6c2918b27b0d79ebfb99a7a.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 0.24,
+      "size_format": "kg",
+      "packaging": "Pack-3"
+    },
+    {
+      "id": "18030",
+      "name": "Atún en aceite de oliva Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/890912ced7f8be4da5455ca493729892.jpeg?fit=crop&h=300&w=300",
+      "price": "7.70",
+      "unit_size": 0.9,
+      "size_format": "kg",
+      "packaging": "Lata"
+    },
+    {
+      "id": "18002",
+      "name": "Atún claro en aceite de oliva Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/003c8146e861ce8abd19032687b62da0.jpg?fit=crop&h=300&w=300",
+      "price": "4.90",
+      "unit_size": 0.48,
+      "size_format": "kg",
+      "packaging": "Pack-6"
+    },
+    {
+      "id": "18071",
+      "name": "Atún claro en aceite de oliva Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/ff946d98e9578c45513cbf77bbf4127d.jpg?fit=crop&h=300&w=300",
+      "price": "1.55",
+      "unit_size": 0.111,
+      "size_format": "kg",
+      "packaging": "Lata"
+    },
+    {
+      "id": "18018",
+      "name": "Atún claro al natural Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/956d1c5ec266d8ac6c94e6aa70335047.jpg?fit=crop&h=300&w=300",
+      "price": "4.20",
+      "unit_size": 0.48,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "18031",
+      "name": "Atún claro en escabeche blanco Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/5204877d2125bea45a992fc002e97960.jpg?fit=crop&h=300&w=300",
+      "price": "4.60",
+      "unit_size": 0.48,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "18054",
+      "name": "Atún claro en aceite de oliva Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/666079e35f5efa5f551aba0c2136ea8e.jpg?fit=crop&h=300&w=300",
+      "price": "3.70",
+      "unit_size": 0.195,
+      "size_format": "kg",
+      "packaging": "Bote"
+    },
+    {
+      "id": "18037",
+      "name": "Atún en salsa de tomate Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/c9071d53ff875259f5093059e17a732b.jpeg?fit=crop&h=300&w=300",
+      "price": "2.10",
+      "unit_size": 0.24,
+      "size_format": "kg",
+      "packaging": "Pack-3"
+    },
+    {
+      "id": "18011",
+      "name": "Ventresca de atún claro en aceite de oliva Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/5610e6403d50026b3d4ded454fc74dd7.jpeg?fit=crop&h=300&w=300",
+      "price": "3.30",
+      "unit_size": 0.111,
+      "size_format": "kg",
+      "packaging": "Lata"
+    },
+    {
+      "id": "12911",
+      "name": "Atún listado al natural Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Atún",
+      "photo": "https://prod-mercadona.imgix.net/images/2081279781b45dc5b89ebb64a9b0b4f3.jpeg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.385,
+      "size_format": "kg",
+      "packaging": "Lata"
+    },
+    {
+      "id": "16812",
+      "name": "Migas de bonito del norte en aceite de oliva Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Bonito",
+      "photo": "https://prod-mercadona.imgix.net/images/3b949ee5f292d0a72a9e4ecdf293499a.jpeg?fit=crop&h=300&w=300",
+      "price": "2.90",
+      "unit_size": 0.24,
+      "size_format": "kg",
+      "packaging": "Pack-3"
+    },
+    {
+      "id": "18116",
+      "name": "Bonito del norte en aceite de oliva Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Bonito",
+      "photo": "https://prod-mercadona.imgix.net/images/ab5f6221766e916ed6f7427b29a9666c.jpeg?fit=crop&h=300&w=300",
+      "price": "3.20",
+      "unit_size": 0.222,
+      "size_format": "kg",
+      "packaging": "Pack-2"
     }
   ],
-  "priceChangesCount": 23,
+  "priceChangesCount": 46,
   "priceChanges": [
     {
-      "id": "26990",
-      "name": "Refresco lima limón Sprite",
-      "oldPrice": "1.65",
-      "newPrice": "1.69"
+      "id": "67875",
+      "name": "Turrón de chocolate crujiente Hacendado",
+      "oldPrice": "2.25",
+      "newPrice": "1.95"
     },
     {
-      "id": "28176",
-      "name": "Refresco lima limón Sprite",
-      "oldPrice": "4.88",
-      "newPrice": "5.20"
+      "id": "86046",
+      "name": "Cerveza Amstel",
+      "oldPrice": "9.54",
+      "newPrice": "7.74"
     },
     {
-      "id": "27845",
-      "name": "Refresco lima limón Sprite",
-      "oldPrice": "0.65",
-      "newPrice": "0.69"
+      "id": "28069",
+      "name": "Cerveza Amstel",
+      "oldPrice": "1.59",
+      "newPrice": "1.29"
     },
     {
-      "id": "35588",
-      "name": "Colágeno soluble sabor limón Colagen",
-      "oldPrice": "5.30",
-      "newPrice": "4.90"
+      "id": "66587",
+      "name": "Cerveza especial Estrella Galicia",
+      "oldPrice": "8.16",
+      "newPrice": "7.32"
+    },
+    {
+      "id": "28400",
+      "name": "Vermouth blanco Martini",
+      "oldPrice": "11.65",
+      "newPrice": "11.00"
+    },
+    {
+      "id": "28401",
+      "name": "Vermouth rojo Martini",
+      "oldPrice": "11.65",
+      "newPrice": "11.00"
+    },
+    {
+      "id": "28715",
+      "name": "Ginebra London Dry Gin Larios",
+      "oldPrice": "11.95",
+      "newPrice": "10.95"
+    },
+    {
+      "id": "28246",
+      "name": "Bebida espirituosa centenario Terry",
+      "oldPrice": "8.75",
+      "newPrice": "9.75"
+    },
+    {
+      "id": "69066",
+      "name": "Patata",
+      "oldPrice": "0.46",
+      "newPrice": "0.48"
     },
     {
       "id": "69239",
       "name": "Batata",
-      "oldPrice": "1.02",
-      "newPrice": "0.99"
+      "oldPrice": "0.99",
+      "newPrice": "0.97"
     },
     {
       "id": "69173",
       "name": "Yuca",
-      "oldPrice": "2.08",
-      "newPrice": "2.01"
+      "oldPrice": "2.01",
+      "newPrice": "1.98"
+    },
+    {
+      "id": "69937",
+      "name": "Tomate ensalada",
+      "oldPrice": "0.55",
+      "newPrice": "0.53"
     },
     {
       "id": "69487",
       "name": "Rama de Tomates",
-      "oldPrice": "1.86",
-      "newPrice": "1.78"
+      "oldPrice": "1.78",
+      "newPrice": "1.81"
     },
     {
-      "id": "69338",
-      "name": "Calabacín verde",
-      "oldPrice": "0.56",
-      "newPrice": "0.55"
+      "id": "69584",
+      "name": "Pepino",
+      "oldPrice": "0.39",
+      "newPrice": "0.37"
     },
     {
-      "id": "69220",
-      "name": "Coliflor",
-      "oldPrice": "2.06",
-      "newPrice": "2.09"
+      "id": "69320",
+      "name": "Pimiento verde freír",
+      "oldPrice": "0.20",
+      "newPrice": "0.25"
     },
     {
       "id": "69251",
       "name": "Col lombarda",
-      "oldPrice": "1.62",
-      "newPrice": "1.54"
+      "oldPrice": "1.54",
+      "newPrice": "1.52"
     },
     {
       "id": "69347",
       "name": "Berenjena rayada",
-      "oldPrice": "0.93",
-      "newPrice": "0.90"
+      "oldPrice": "0.90",
+      "newPrice": "0.93"
+    },
+    {
+      "id": "42371",
+      "name": "Limpiamáquinas lavavajillas Finish líquido",
+      "oldPrice": "3.25",
+      "newPrice": "3.75"
     },
     {
       "id": "81649.1",
       "name": "Salmón a rodajas",
-      "oldPrice": "29.24",
-      "newPrice": "28.80"
+      "oldPrice": "28.80",
+      "newPrice": "28.58"
     },
     {
       "id": "81649.4",
       "name": "Salmón media pieza a rodajas",
-      "oldPrice": "14.89",
-      "newPrice": "14.56"
+      "oldPrice": "14.56",
+      "newPrice": "14.45"
     },
     {
       "id": "81649.2",
       "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "29.24",
-      "newPrice": "28.80"
+      "oldPrice": "28.80",
+      "newPrice": "28.58"
     },
     {
       "id": "81649.5",
       "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "14.89",
-      "newPrice": "14.56"
+      "oldPrice": "14.56",
+      "newPrice": "14.45"
     },
     {
       "id": "81649.3",
       "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "29.24",
-      "newPrice": "28.80"
+      "oldPrice": "28.80",
+      "newPrice": "28.58"
     },
     {
       "id": "81649.6",
       "name": "Salmón media pieza sin aletas y sin escamas",
-      "oldPrice": "14.89",
-      "newPrice": "14.56"
+      "oldPrice": "14.56",
+      "newPrice": "14.45"
+    },
+    {
+      "id": "81234.1",
+      "name": "Dorada limpia con cabeza",
+      "oldPrice": "4.94",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81234.2",
+      "name": "Dorada abierta a la espalda con espinas y con cabeza",
+      "oldPrice": "4.94",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81234.5",
+      "name": "Dorada a filetes sin cabeza y sin espina",
+      "oldPrice": "4.94",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81234.4",
+      "name": "Dorada abierta en libro sin cabeza y sin espina",
+      "oldPrice": "4.94",
+      "newPrice": "5.13"
+    },
+    {
+      "id": "81234.3",
+      "name": "Dorada sin limpiar",
+      "oldPrice": "4.94",
+      "newPrice": "5.13"
     },
     {
       "id": "81241.1",
       "name": "Lubina limpia con cabeza",
-      "oldPrice": "4.38",
-      "newPrice": "4.18"
-    },
-    {
-      "id": "81241.2",
-      "name": "Lubina abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "4.38",
-      "newPrice": "4.18"
-    },
-    {
-      "id": "81241.5",
-      "name": "Lubina a filetes sin cabeza y sin espina",
-      "oldPrice": "4.38",
-      "newPrice": "4.18"
-    },
-    {
-      "id": "81241.4",
-      "name": "Lubina abierta en libro sin cabeza y sin espina",
-      "oldPrice": "4.38",
-      "newPrice": "4.18"
-    },
-    {
-      "id": "81241.3",
-      "name": "Lubina sin limpiar",
-      "oldPrice": "4.38",
-      "newPrice": "4.18"
-    },
-    {
-      "id": "81704",
-      "name": "Sepia limpia",
-      "oldPrice": "10.02",
-      "newPrice": "10.17"
+      "oldPrice": "4.18",
+      "newPrice": "4.08"
     }
   ]
 }
