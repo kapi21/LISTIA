@@ -1,520 +1,520 @@
 {
-  "lastSync": "2026-11-13T11:56:48.847466",
-  "totalProducts": 4297,
-  "newProductsCount": 402,
+  "lastSync": "2026-11-14T11:15:31.009676",
+  "totalProducts": 3818,
+  "newProductsCount": 68,
   "newProducts": [
     {
-      "id": "34123",
-      "name": "Anís en grano Hacendado",
-      "category": "Aceite, especias y salsas",
-      "subcategory": "Otras especias",
-      "photo": "https://prod-mercadona.imgix.net/images/8a0d0e5176f9c1a26fcd7cb0e7c2af49.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.05,
-      "size_format": "kg",
-      "packaging": "Bote"
-    },
-    {
-      "id": "21928",
-      "name": "Cocktail frutos secos tostados con sal Hacendado",
-      "category": "Aperitivos",
-      "subcategory": "Cocktails",
-      "photo": "https://prod-mercadona.imgix.net/images/de984b09e9e874c37a8b4c1f94e6fd6f.jpg?fit=crop&h=300&w=300",
-      "price": "2.80",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "26029",
-      "name": "Garbanzo cocido Hacendado",
-      "category": "Arroz, legumbres y pasta",
-      "subcategory": "Garbanzos",
-      "photo": "https://prod-mercadona.imgix.net/images/b8b807948038c4b64791632f799e9bd8.jpg?fit=crop&h=300&w=300",
-      "price": "0.80",
-      "unit_size": 0.57,
-      "size_format": "kg",
-      "packaging": "Tarro"
-    },
-    {
-      "id": "21395",
-      "name": "Pasta fusilli 100% lentejas rojas Hacendado",
-      "category": "Arroz, legumbres y pasta",
-      "subcategory": "Macarrones, pajaritas y hélices",
-      "photo": "https://prod-mercadona.imgix.net/images/756efc25414e66ddedf7b0b403198d4c.jpg?fit=crop&h=300&w=300",
-      "price": "2.20",
-      "unit_size": 0.4,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "21808",
-      "name": "Tinto de verano zero limón Casón Histórico",
-      "category": "Bodega",
-      "subcategory": "Tinto de verano y sangría",
-      "photo": "https://prod-mercadona.imgix.net/images/9f31fce0e4855d3f53dc75c980104c18.jpg?fit=crop&h=300&w=300",
-      "price": "1.15",
-      "unit_size": 1.5,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "66124",
-      "name": "Vino blanco Don Simón chardonnay airén",
-      "category": "Bodega",
-      "subcategory": "Vino blanco de mesa",
-      "photo": "https://prod-mercadona.imgix.net/images/c3563abcaf9d617378fde7c4b41db972.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
-      "unit_size": 0.75,
-      "size_format": "l",
-      "packaging": "Pack-3"
-    },
-    {
-      "id": "18762",
-      "name": "Caña de lomo cebo ibérico Félix de Múrtiga La Hacienda",
-      "category": "Charcutería y quesos",
-      "subcategory": "Lomo y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/7693a9f7c5af1388b7d1bb8b06e6107b.jpg?fit=crop&h=300&w=300",
-      "price": "28.00",
-      "unit_size": 0.7,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "63321",
-      "name": "San Jacobos empanados de york y queso Hacendado ultracongelados",
-      "category": "Congelados",
-      "subcategory": "Carne rebozada",
-      "photo": "https://prod-mercadona.imgix.net/images/f2cf8a4cc78bd048eb248eda8c31825d.jpg?fit=crop&h=300&w=300",
-      "price": "1.45",
+      "id": "23225",
+      "name": "Crema de calabaza y zanahoria Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/c4f8572501d428cdb9583b35db56e690.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
       "unit_size": 0.35,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Bol"
     },
     {
-      "id": "63400",
-      "name": "Croquetas de jamón Hacendado ultracongeladas",
-      "category": "Congelados",
-      "subcategory": "Carne rebozada",
-      "photo": "https://prod-mercadona.imgix.net/images/e705ee4d0e086e89a92b9478feea74a6.jpeg?fit=crop&h=300&w=300",
-      "price": "1.40",
+      "id": "86587",
+      "name": "Crema de espárragos Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/2518e0e73630e79f2af039da7d3dc822.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 0.35,
+      "size_format": "kg",
+      "packaging": "Bol"
+    },
+    {
+      "id": "8722",
+      "name": "Crema de verduras Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/84004f26c61b916e664619ebaa88a44f.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 0.35,
+      "size_format": "kg",
+      "packaging": "Bol"
+    },
+    {
+      "id": "8448",
+      "name": "Crema de pollo Hacendado con verduras",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/e7dd64a7791cb538c4d48e8a333cdbc8.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
       "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Paquete"
+      "size_format": "l",
+      "packaging": "Brik"
     },
     {
-      "id": "13778",
-      "name": "Relleno para kebab con carne de pollo asado Hacendado ultracongelado",
-      "category": "Congelados",
-      "subcategory": "Carne rebozada",
-      "photo": "https://prod-mercadona.imgix.net/images/84adc6ad27ca9c31c3e4eedcf0819b9f.jpg?fit=crop&h=300&w=300",
-      "price": "3.15",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "23127",
-      "name": "Croquetas caprichos de jamón Hacendado ultracongeladas",
-      "category": "Congelados",
-      "subcategory": "Carne rebozada",
-      "photo": "https://prod-mercadona.imgix.net/images/a8d4785c3654a539ea7768b25a599727.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
+      "id": "13499",
+      "name": "Crema de calabaza Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/bac2668c48c9709038fd8723a17488c9.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
       "unit_size": 0.5,
-      "size_format": "kg",
-      "packaging": "Paquete"
+      "size_format": "l",
+      "packaging": "Brik"
     },
     {
-      "id": "63739",
-      "name": "Fingers de queso Hacendado ultracongelados",
-      "category": "Congelados",
-      "subcategory": "Verdura rebozada y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/cdf0d9840d26aaf7f0d1c3f23d679d1a.jpeg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Paquete"
+      "id": "60308",
+      "name": "Crema de verduras Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/2ae243e8f790af2975eacc75f302b24d.jpg?fit=crop&h=300&w=300",
+      "price": "1.00",
+      "unit_size": 0.5,
+      "size_format": "l",
+      "packaging": "Brik"
     },
     {
-      "id": "13413",
-      "name": "Tequeños de queso Hacendado ultracongelados",
-      "category": "Congelados",
-      "subcategory": "Verdura rebozada y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/b703147ab73a07889ae50db736367d74.jpg?fit=crop&h=300&w=300",
-      "price": "4.70",
-      "unit_size": 0.48,
+      "id": "23264",
+      "name": "Puré de patatas Hacendado en copos",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/cda62d9b1f3870ff9cac3193caae188d.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.5,
       "size_format": "kg",
       "packaging": "Caja"
     },
     {
-      "id": "21571",
-      "name": "Croquetas caprichos de camembert Hacendado ultracongelados",
-      "category": "Congelados",
-      "subcategory": "Verdura rebozada y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/51f6f364c09c44f6d606831ea292fae2.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
+      "id": "35662",
+      "name": "Crema de setas Starlux con champiñones",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/d61df99aaace37a242ffdef145f78d7c.jpeg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 0.5,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "8447",
+      "name": "Crema de marisco Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/0d8342773ae2a6bae230564c9ea13e55.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.5,
+      "size_format": "l",
+      "packaging": "Brik"
+    },
+    {
+      "id": "35870",
+      "name": "Crema de calabacín Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/97b7de306a37508ef279a8369118736e.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
       "unit_size": 0.35,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Bol"
     },
     {
-      "id": "21846",
-      "name": "Bocaditos de queso y chile Hot Cheese Hacendado ultracongelados",
-      "category": "Congelados",
-      "subcategory": "Verdura rebozada y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/f67c1ef7a89bf901033e6df1c8d8db1a.jpg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "16590",
-      "name": "Bocaditos de queso mozzarella, tomate y orégano Pizza Bites Hacendado ultracongelados",
-      "category": "Congelados",
-      "subcategory": "Verdura rebozada y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/6c6070aa22b0a8f0ca9b2fa2949944cf.jpg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 0.3,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "18086",
-      "name": "Atún en aceite de girasol Hacendado",
+      "id": "11628",
+      "name": "Crema de lentejas Hacendado",
       "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/2c06dcbb4643e6b4447d5d064c4eb6a5.jpeg?fit=crop&h=300&w=300",
-      "price": "6.50",
-      "unit_size": 0.9,
+      "subcategory": "Cremas y puré",
+      "photo": "https://prod-mercadona.imgix.net/images/c75cd6195526f2bfecb9f1783f39297a.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 0.35,
       "size_format": "kg",
-      "packaging": "Lata"
+      "packaging": "Bol"
     },
     {
-      "id": "18055",
-      "name": "Atún claro en aceite de girasol Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/d8fdd0b8183829db2aa6f531bc008202.jpg?fit=crop&h=300&w=300",
-      "price": "4.20",
-      "unit_size": 0.48,
-      "size_format": "kg",
+      "id": "17584",
+      "name": "Laca de uñas alto brillo Deliplus 156 chocolate medio",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/0ace8c73f9b4d5042d8d4f7e884b695e.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
       "packaging": null
     },
     {
-      "id": "18092",
-      "name": "Atún claro en aceite de girasol Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/05c67043e6c2918b27b0d79ebfb99a7a.jpg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 0.24,
-      "size_format": "kg",
-      "packaging": "Pack-3"
-    },
-    {
-      "id": "18030",
-      "name": "Atún en aceite de oliva Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/890912ced7f8be4da5455ca493729892.jpeg?fit=crop&h=300&w=300",
-      "price": "7.70",
-      "unit_size": 0.9,
-      "size_format": "kg",
-      "packaging": "Lata"
-    },
-    {
-      "id": "18002",
-      "name": "Atún claro en aceite de oliva Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/003c8146e861ce8abd19032687b62da0.jpg?fit=crop&h=300&w=300",
-      "price": "4.90",
-      "unit_size": 0.48,
-      "size_format": "kg",
-      "packaging": "Pack-6"
-    },
-    {
-      "id": "18071",
-      "name": "Atún claro en aceite de oliva Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/ff946d98e9578c45513cbf77bbf4127d.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 0.111,
-      "size_format": "kg",
-      "packaging": "Lata"
-    },
-    {
-      "id": "18018",
-      "name": "Atún claro al natural Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/956d1c5ec266d8ac6c94e6aa70335047.jpg?fit=crop&h=300&w=300",
-      "price": "4.20",
-      "unit_size": 0.48,
-      "size_format": "kg",
+      "id": "18390",
+      "name": "Laca de uñas color & queratina Deliplus 159 lavanda",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/6b26f7d5833ced0f1aeb6b802395a556.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
       "packaging": null
     },
     {
-      "id": "18031",
-      "name": "Atún claro en escabeche blanco Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/5204877d2125bea45a992fc002e97960.jpg?fit=crop&h=300&w=300",
-      "price": "4.60",
-      "unit_size": 0.48,
-      "size_format": "kg",
+      "id": "18391",
+      "name": "Laca de uñas Felin Deliplus 160 burdeos",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/e4bef77ca0538c0911394538b5635034.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.011,
+      "size_format": "l",
       "packaging": null
     },
     {
-      "id": "18054",
-      "name": "Atún claro en aceite de oliva Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/666079e35f5efa5f551aba0c2136ea8e.jpg?fit=crop&h=300&w=300",
-      "price": "3.70",
-      "unit_size": 0.195,
-      "size_format": "kg",
-      "packaging": "Bote"
+      "id": "18392",
+      "name": "Tratamiento para uñas aceite Felin Deliplus 161",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/4e04bae6d0c11f3fc33f0c932b4c9f7c.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
     },
     {
-      "id": "18037",
-      "name": "Atún en salsa de tomate Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/c9071d53ff875259f5093059e17a732b.jpeg?fit=crop&h=300&w=300",
-      "price": "2.10",
-      "unit_size": 0.24,
-      "size_format": "kg",
-      "packaging": "Pack-3"
+      "id": "42222",
+      "name": "Tratamiento para uñas base 9 en 1 Deliplus vitaminada y alisadora",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/8e5d8aeb2d78dc580188372dd0f9e901.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.01,
+      "size_format": "l",
+      "packaging": null
     },
     {
-      "id": "18011",
-      "name": "Ventresca de atún claro en aceite de oliva Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/5610e6403d50026b3d4ded454fc74dd7.jpeg?fit=crop&h=300&w=300",
-      "price": "3.30",
-      "unit_size": 0.111,
-      "size_format": "kg",
-      "packaging": "Lata"
+      "id": "35287",
+      "name": "Tratamiento para uñas endurecedor Deliplus",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/7b433a9d3ce5f77061e2f5a97674c95b.jpeg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.01,
+      "size_format": "l",
+      "packaging": null
     },
     {
-      "id": "12911",
-      "name": "Atún listado al natural Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Atún",
-      "photo": "https://prod-mercadona.imgix.net/images/2081279781b45dc5b89ebb64a9b0b4f3.jpeg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 0.385,
-      "size_format": "kg",
-      "packaging": "Lata"
+      "id": "42286",
+      "name": "Tratamiento para uñas gel brillo top coat Deliplus secado rápido",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/6f8bbf3971ef1d77b2492e5a2291fd8a.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.01,
+      "size_format": "l",
+      "packaging": null
     },
     {
-      "id": "16812",
-      "name": "Migas de bonito del norte en aceite de oliva Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Bonito",
-      "photo": "https://prod-mercadona.imgix.net/images/3b949ee5f292d0a72a9e4ecdf293499a.jpeg?fit=crop&h=300&w=300",
-      "price": "2.90",
-      "unit_size": 0.24,
-      "size_format": "kg",
-      "packaging": "Pack-3"
+      "id": "21860",
+      "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/30b23b2a07e37901138248c353c7e283.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.01,
+      "size_format": "l",
+      "packaging": null
     },
     {
-      "id": "18116",
-      "name": "Bonito del norte en aceite de oliva Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Bonito",
-      "photo": "https://prod-mercadona.imgix.net/images/ab5f6221766e916ed6f7427b29a9666c.jpeg?fit=crop&h=300&w=300",
-      "price": "3.20",
-      "unit_size": 0.222,
-      "size_format": "kg",
-      "packaging": "Pack-2"
+      "id": "41692",
+      "name": "Laca de uñas manicura francesa Deliplus 01 blanco punta",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/436fbaa351fe2e256d96bad1c35c7cc4.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "41685",
+      "name": "Laca de uñas manicura francesa Deliplus 03 rosa",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/eb63799585eee450877572d68b726fba.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "23021",
+      "name": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/0db4702442230ded318a82c9a2caec6b.jpg?fit=crop&h=300&w=300",
+      "price": "2.75",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "35289",
+      "name": "Tratamiento para uñas y cutículas Sérum SOS Deliplus",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/d4c7bc2d759548f519e9ae38d11b2695.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 0.01,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "35538",
+      "name": "Laca de uñas base brillo Deliplus 67",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/beccd559ee17da74978c5808c870409d.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "42293",
+      "name": "Laca de uñas alto brillo Deliplus 15 perla rosada",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/68ea69cfcb6a6aef5810aca498113c3e.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "42294",
+      "name": "Laca de uñas alto brillo Deliplus 18 suave peonia",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/efacf64c33e2d66ed7f9e827423f583e.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "42295",
+      "name": "Laca de uñas alto brillo Deliplus 20 rosa magnético",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/372971566de770e5b7263ea76a8173b7.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "42296",
+      "name": "Laca de uñas alto brillo Deliplus 22 granate sublime",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/af95424e76c5dad4db0e872bcad66574.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "42298",
+      "name": "Laca de uñas alto brillo Deliplus 31 negro místico",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/6f28ba57a5e3e161703ac5aa09ea1e77.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "42321",
+      "name": "Laca de uñas alto brillo Deliplus 39 dulce fresa",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Laca de uñas",
+      "photo": "https://prod-mercadona.imgix.net/images/8ed41fd16fc77a05ee68f3558e5cdb3b.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.011,
+      "size_format": "l",
+      "packaging": null
     }
   ],
-  "priceChangesCount": 46,
+  "priceChangesCount": 43,
   "priceChanges": [
     {
-      "id": "67875",
-      "name": "Turrón de chocolate crujiente Hacendado",
-      "oldPrice": "2.25",
-      "newPrice": "1.95"
+      "id": "28724",
+      "name": "Licor de hierbas Jägermeister",
+      "oldPrice": "15.25",
+      "newPrice": "15.10"
     },
     {
-      "id": "86046",
-      "name": "Cerveza Amstel",
-      "oldPrice": "9.54",
-      "newPrice": "7.74"
-    },
-    {
-      "id": "28069",
-      "name": "Cerveza Amstel",
-      "oldPrice": "1.59",
-      "newPrice": "1.29"
-    },
-    {
-      "id": "66587",
-      "name": "Cerveza especial Estrella Galicia",
-      "oldPrice": "8.16",
-      "newPrice": "7.32"
-    },
-    {
-      "id": "28400",
-      "name": "Vermouth blanco Martini",
-      "oldPrice": "11.65",
-      "newPrice": "11.00"
-    },
-    {
-      "id": "28401",
-      "name": "Vermouth rojo Martini",
-      "oldPrice": "11.65",
-      "newPrice": "11.00"
-    },
-    {
-      "id": "28715",
-      "name": "Ginebra London Dry Gin Larios",
-      "oldPrice": "11.95",
-      "newPrice": "10.95"
-    },
-    {
-      "id": "28246",
-      "name": "Bebida espirituosa centenario Terry",
-      "oldPrice": "8.75",
-      "newPrice": "9.75"
-    },
-    {
-      "id": "69066",
-      "name": "Patata",
-      "oldPrice": "0.46",
+      "id": "3819",
+      "name": "Plátano de Canarias IGP",
+      "oldPrice": "0.51",
       "newPrice": "0.48"
     },
     {
-      "id": "69239",
-      "name": "Batata",
-      "oldPrice": "0.99",
-      "newPrice": "0.97"
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "oldPrice": "0.40",
+      "newPrice": "0.42"
+    },
+    {
+      "id": "3172",
+      "name": "Pera Limonera",
+      "oldPrice": "0.64",
+      "newPrice": "0.67"
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "oldPrice": "3.36",
+      "newPrice": "3.34"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "oldPrice": "6.28",
+      "newPrice": "5.86"
+    },
+    {
+      "id": "3210",
+      "name": "Limón",
+      "oldPrice": "0.45",
+      "newPrice": "0.48"
+    },
+    {
+      "id": "3202",
+      "name": "Pomelo",
+      "oldPrice": "1.12",
+      "newPrice": "1.19"
+    },
+    {
+      "id": "3076",
+      "name": "Piña",
+      "oldPrice": "4.08",
+      "newPrice": "4.12"
+    },
+    {
+      "id": "3050",
+      "name": "Mango",
+      "oldPrice": "1.48",
+      "newPrice": "1.51"
+    },
+    {
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.57",
+      "newPrice": "3.47"
     },
     {
       "id": "69173",
       "name": "Yuca",
-      "oldPrice": "2.01",
-      "newPrice": "1.98"
+      "oldPrice": "1.98",
+      "newPrice": "2.01"
     },
     {
       "id": "69937",
       "name": "Tomate ensalada",
+      "oldPrice": "0.53",
+      "newPrice": "0.50"
+    },
+    {
+      "id": "69310",
+      "name": "Pimiento rojo",
+      "oldPrice": "0.84",
+      "newPrice": "0.87"
+    },
+    {
+      "id": "69338",
+      "name": "Calabacín verde",
       "oldPrice": "0.55",
       "newPrice": "0.53"
     },
     {
-      "id": "69487",
-      "name": "Rama de Tomates",
-      "oldPrice": "1.78",
-      "newPrice": "1.81"
-    },
-    {
-      "id": "69584",
-      "name": "Pepino",
-      "oldPrice": "0.39",
-      "newPrice": "0.37"
-    },
-    {
       "id": "69320",
       "name": "Pimiento verde freír",
-      "oldPrice": "0.20",
-      "newPrice": "0.25"
+      "oldPrice": "0.25",
+      "newPrice": "0.28"
     },
     {
-      "id": "69251",
-      "name": "Col lombarda",
-      "oldPrice": "1.54",
-      "newPrice": "1.52"
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.09",
+      "newPrice": "2.16"
+    },
+    {
+      "id": "69580",
+      "name": "Brócoli",
+      "oldPrice": "1.27",
+      "newPrice": "1.30"
     },
     {
       "id": "69347",
       "name": "Berenjena rayada",
-      "oldPrice": "0.90",
-      "newPrice": "0.93"
-    },
-    {
-      "id": "42371",
-      "name": "Limpiamáquinas lavavajillas Finish líquido",
-      "oldPrice": "3.25",
-      "newPrice": "3.75"
+      "oldPrice": "0.93",
+      "newPrice": "0.88"
     },
     {
       "id": "81649.1",
       "name": "Salmón a rodajas",
-      "oldPrice": "28.80",
-      "newPrice": "28.58"
+      "oldPrice": "28.58",
+      "newPrice": "28.80"
     },
     {
       "id": "81649.4",
       "name": "Salmón media pieza a rodajas",
-      "oldPrice": "14.56",
-      "newPrice": "14.45"
+      "oldPrice": "14.45",
+      "newPrice": "14.56"
     },
     {
       "id": "81649.2",
       "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "28.80",
-      "newPrice": "28.58"
+      "oldPrice": "28.58",
+      "newPrice": "28.80"
     },
     {
       "id": "81649.5",
       "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "14.56",
-      "newPrice": "14.45"
+      "oldPrice": "14.45",
+      "newPrice": "14.56"
     },
     {
       "id": "81649.3",
       "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "28.80",
-      "newPrice": "28.58"
+      "oldPrice": "28.58",
+      "newPrice": "28.80"
     },
     {
       "id": "81649.6",
       "name": "Salmón media pieza sin aletas y sin escamas",
-      "oldPrice": "14.56",
-      "newPrice": "14.45"
+      "oldPrice": "14.45",
+      "newPrice": "14.56"
     },
     {
       "id": "81234.1",
       "name": "Dorada limpia con cabeza",
-      "oldPrice": "4.94",
-      "newPrice": "5.13"
+      "oldPrice": "5.13",
+      "newPrice": "5.32"
     },
     {
       "id": "81234.2",
       "name": "Dorada abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "4.94",
-      "newPrice": "5.13"
+      "oldPrice": "5.13",
+      "newPrice": "5.32"
     },
     {
       "id": "81234.5",
       "name": "Dorada a filetes sin cabeza y sin espina",
-      "oldPrice": "4.94",
-      "newPrice": "5.13"
+      "oldPrice": "5.13",
+      "newPrice": "5.32"
     },
     {
       "id": "81234.4",
       "name": "Dorada abierta en libro sin cabeza y sin espina",
-      "oldPrice": "4.94",
-      "newPrice": "5.13"
+      "oldPrice": "5.13",
+      "newPrice": "5.32"
     },
     {
       "id": "81234.3",
       "name": "Dorada sin limpiar",
-      "oldPrice": "4.94",
-      "newPrice": "5.13"
-    },
-    {
-      "id": "81241.1",
-      "name": "Lubina limpia con cabeza",
-      "oldPrice": "4.18",
-      "newPrice": "4.08"
+      "oldPrice": "5.13",
+      "newPrice": "5.32"
     }
   ]
 }
