@@ -1,520 +1,520 @@
 {
-  "lastSync": "2026-11-14T11:15:31.009676",
-  "totalProducts": 3818,
-  "newProductsCount": 68,
+  "lastSync": "2026-11-15T11:48:00.095666",
+  "totalProducts": 4273,
+  "newProductsCount": 510,
   "newProducts": [
     {
-      "id": "23225",
-      "name": "Crema de calabaza y zanahoria Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/c4f8572501d428cdb9583b35db56e690.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "86587",
-      "name": "Crema de espárragos Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/2518e0e73630e79f2af039da7d3dc822.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "8722",
-      "name": "Crema de verduras Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/84004f26c61b916e664619ebaa88a44f.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "8448",
-      "name": "Crema de pollo Hacendado con verduras",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/e7dd64a7791cb538c4d48e8a333cdbc8.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.5,
+      "id": "12848",
+      "name": "Crema facial nutritiva redensificadora Prevent Age Skin Green Caviar y colágeno",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Crema de cara",
+      "photo": "https://prod-mercadona.imgix.net/images/d6c93417e2b106c307ad8fc41d8de885.jpg?fit=crop&h=300&w=300",
+      "price": "5.00",
+      "unit_size": 0.05,
       "size_format": "l",
-      "packaging": "Brik"
+      "packaging": "Tarro"
     },
     {
-      "id": "13499",
-      "name": "Crema de calabaza Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/bac2668c48c9709038fd8723a17488c9.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.5,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "60308",
-      "name": "Crema de verduras Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/2ae243e8f790af2975eacc75f302b24d.jpg?fit=crop&h=300&w=300",
-      "price": "1.00",
-      "unit_size": 0.5,
-      "size_format": "l",
-      "packaging": "Brik"
-    },
-    {
-      "id": "23264",
-      "name": "Puré de patatas Hacendado en copos",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/cda62d9b1f3870ff9cac3193caae188d.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.5,
-      "size_format": "kg",
+      "id": "52802",
+      "name": "Lote higiene bucal Vitality Pro Precision Clean Oral-B",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Cepillo de dientes",
+      "photo": "https://prod-mercadona.imgix.net/images/363fbd307fd3f902ec3ea4fad3f0bd0f.jpg?fit=crop&h=300&w=300",
+      "price": "27.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": "Caja"
     },
     {
-      "id": "35662",
-      "name": "Crema de setas Starlux con champiñones",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/d61df99aaace37a242ffdef145f78d7c.jpeg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.5,
-      "size_format": "l",
-      "packaging": "Brik"
+      "id": "35245",
+      "name": "Pañal adulto talla L Deliplus",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Pañales para adulto",
+      "photo": "https://prod-mercadona.imgix.net/images/fb6fb4ab46cead3ad95576cdcc5017e6.jpg?fit=crop&h=300&w=300",
+      "price": "14.80",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
     },
     {
-      "id": "8447",
-      "name": "Crema de marisco Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/0d8342773ae2a6bae230564c9ea13e55.jpg?fit=crop&h=300&w=300",
+      "id": "21848",
+      "name": "Bastoncillos de algodón 100% Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/9afc4558dfdad0a9ca1f0c7a680e8655.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 300.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "8841",
+      "name": "Escoba para interiores Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/0ea0855d7a41639ba27c273a9c78705d.jpg?fit=crop&h=300&w=300",
+      "price": "1.80",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "71403",
+      "name": "Fregona Microfibra Absorbente Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/0193fc9cf60e3a8661fda34775409fce.jpg?fit=crop&h=300&w=300",
+      "price": "2.80",
+      "unit_size": 2.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "71071",
+      "name": "Fregona Resistente y Absorbente Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/fdf84f35b894bddb92bbec9668128f74.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 2.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "71407",
+      "name": "Fregona Microfibra Resistente Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/eae38fc546d0975976d45e7547531fae.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "71154",
+      "name": "Escoba para exteriores Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/ae17ec455f1b8195e39abb5478c0d6a8.jpg?fit=crop&h=300&w=300",
+      "price": "2.60",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86836",
+      "name": "Mopa atrapa polvo Bosque Verde multiusos",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/e4d3f339f2c515f99477045afc84a908.jpg?fit=crop&h=300&w=300",
+      "price": "4.50",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "71533",
+      "name": "Gamuzas atrapa polvo Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/1ae35728df80a90961898ca31112047d.jpg?fit=crop&h=300&w=300",
+      "price": "1.70",
+      "unit_size": 30.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "71054",
+      "name": "Recambio mopa microfibra pequeño Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/300ece8725e384858516ccb2577d0d22.jpg?fit=crop&h=300&w=300",
+      "price": "4.90",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "48652",
+      "name": "Recogedor antivuelco con palo Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/0ab3e2ff9714c2aac646c4ac98fde3cd.jpg?fit=crop&h=300&w=300",
+      "price": "1.60",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86612",
+      "name": "Palo extensible antideslizante Bosque Verde 86 - 150 cm",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/3ea500f093a680be7537c7f44085986d.jpg?fit=crop&h=300&w=300",
+      "price": "2.80",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86611",
+      "name": "Palo antideslizante Bosque Verde 140 cm",
+      "category": "Limpieza y hogar",
+      "subcategory": "Fregonas, escobas y mopas",
+      "photo": "https://prod-mercadona.imgix.net/images/3b22ecdd7decf2186e2bec109c5ac4da.jpg?fit=crop&h=300&w=300",
+      "price": "1.85",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "48649",
+      "name": "Cubo de basura mediano 30L Bosque Verde 30,2 x 30,5 x 41,9 cm",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/bac585d1fe04658151ae56ac1c6f3216.jpeg?fit=crop&h=300&w=300",
+      "price": "8.55",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "48651",
+      "name": "Cubo de basura pequeño 10L Bosque Verde 24,1 x 25 x 24,7 cm",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/c45e6a3d394d0965aa75e0b465dc9401.jpeg?fit=crop&h=300&w=300",
+      "price": "7.25",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86464",
+      "name": "Barreño ovalado 8,7L Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/2e78eaacb79f8c20cc4650e4fd729c7a.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "35920",
+      "name": "Cubo con ruedas 13L Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/f63566203f65e88e68108c4804e3f2e3.jpg?fit=crop&h=300&w=300",
+      "price": "3.70",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "35921",
+      "name": "Escurridor para cubo ovalado Bosque Verde escurrebien",
+      "category": "Limpieza y hogar",
+      "subcategory": "Cubos y barreños",
+      "photo": "https://prod-mercadona.imgix.net/images/ff02b286dd88b03e85ddfca541f8b0da.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "9900",
+      "name": "Pinzas de ropa Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/b208a7d252f854b33109e2087f8c8add.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 24.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "23363",
+      "name": "Rodillo quitapelusas Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/ebea367811e96ad3be33aeabc1ad7b4a.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "86643",
+      "name": "Cepillo para lavar con asa Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/8cb656dde549f69a0e877bae56a28019.jpg?fit=crop&h=300&w=300",
+      "price": "1.95",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "89804",
+      "name": "Escobilla para WC Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/94d2a44e7c730345814bbcda5442e607.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "52559",
+      "name": "Recambios plumero Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/d234a6affa0f872aa356f768d0f5290b.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 6.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "71586",
+      "name": "Plumero de avestruz extensible Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/9c274d95dd525a285f6086b451e0c8b2.jpg?fit=crop&h=300&w=300",
+      "price": "4.95",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "13648",
+      "name": "Limpiacristales con mango Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/85e42b987629791c51e220a9751de674.jpg?fit=crop&h=300&w=300",
+      "price": "2.60",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": null
+    },
+    {
+      "id": "8999",
+      "name": "Plumero atrapa polvo Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Otros utensilios de limpieza",
+      "photo": "https://prod-mercadona.imgix.net/images/e0c940dc9c2bb4a899b27b8705e741f8.jpg?fit=crop&h=300&w=300",
       "price": "2.00",
-      "unit_size": 0.5,
-      "size_format": "l",
-      "packaging": "Brik"
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Paquete"
     },
     {
-      "id": "35870",
-      "name": "Crema de calabacín Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/97b7de306a37508ef279a8369118736e.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "11628",
-      "name": "Crema de lentejas Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Cremas y puré",
-      "photo": "https://prod-mercadona.imgix.net/images/c75cd6195526f2bfecb9f1783f39297a.jpg?fit=crop&h=300&w=300",
-      "price": "1.70",
-      "unit_size": 0.35,
-      "size_format": "kg",
-      "packaging": "Bol"
-    },
-    {
-      "id": "17584",
-      "name": "Laca de uñas alto brillo Deliplus 156 chocolate medio",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/0ace8c73f9b4d5042d8d4f7e884b695e.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
+      "id": "70008",
+      "name": "Esponja de calzado incoloro brillo y protección Yak",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpieza de calzado",
+      "photo": "https://prod-mercadona.imgix.net/images/4ae73e8c890f3886c00d2ca1ad304339.jpg?fit=crop&h=300&w=300",
+      "price": "1.75",
+      "unit_size": 1.0,
+      "size_format": "ud",
       "packaging": null
     },
     {
-      "id": "18390",
-      "name": "Laca de uñas color & queratina Deliplus 159 lavanda",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/6b26f7d5833ced0f1aeb6b802395a556.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
+      "id": "23183",
+      "name": "Desodorante de calzado Bosque Verde",
+      "category": "Limpieza y hogar",
+      "subcategory": "Limpieza de calzado",
+      "photo": "https://prod-mercadona.imgix.net/images/c3d6c5a31e1debed00daf7b8aed4caaf.jpg?fit=crop&h=300&w=300",
+      "price": "2.95",
+      "unit_size": 0.25,
       "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "18391",
-      "name": "Laca de uñas Felin Deliplus 160 burdeos",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/e4bef77ca0538c0911394538b5635034.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "18392",
-      "name": "Tratamiento para uñas aceite Felin Deliplus 161",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/4e04bae6d0c11f3fc33f0c932b4c9f7c.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42222",
-      "name": "Tratamiento para uñas base 9 en 1 Deliplus vitaminada y alisadora",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/8e5d8aeb2d78dc580188372dd0f9e901.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35287",
-      "name": "Tratamiento para uñas endurecedor Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/7b433a9d3ce5f77061e2f5a97674c95b.jpeg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42286",
-      "name": "Tratamiento para uñas gel brillo top coat Deliplus secado rápido",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/6f8bbf3971ef1d77b2492e5a2291fd8a.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "21860",
-      "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/30b23b2a07e37901138248c353c7e283.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "41692",
-      "name": "Laca de uñas manicura francesa Deliplus 01 blanco punta",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/436fbaa351fe2e256d96bad1c35c7cc4.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "41685",
-      "name": "Laca de uñas manicura francesa Deliplus 03 rosa",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/eb63799585eee450877572d68b726fba.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "23021",
-      "name": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/0db4702442230ded318a82c9a2caec6b.jpg?fit=crop&h=300&w=300",
-      "price": "2.75",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35289",
-      "name": "Tratamiento para uñas y cutículas Sérum SOS Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/d4c7bc2d759548f519e9ae38d11b2695.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
-      "unit_size": 0.01,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "35538",
-      "name": "Laca de uñas base brillo Deliplus 67",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/beccd559ee17da74978c5808c870409d.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42293",
-      "name": "Laca de uñas alto brillo Deliplus 15 perla rosada",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/68ea69cfcb6a6aef5810aca498113c3e.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42294",
-      "name": "Laca de uñas alto brillo Deliplus 18 suave peonia",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/efacf64c33e2d66ed7f9e827423f583e.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42295",
-      "name": "Laca de uñas alto brillo Deliplus 20 rosa magnético",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/372971566de770e5b7263ea76a8173b7.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42296",
-      "name": "Laca de uñas alto brillo Deliplus 22 granate sublime",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/af95424e76c5dad4db0e872bcad66574.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42298",
-      "name": "Laca de uñas alto brillo Deliplus 31 negro místico",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/6f28ba57a5e3e161703ac5aa09ea1e77.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
-    },
-    {
-      "id": "42321",
-      "name": "Laca de uñas alto brillo Deliplus 39 dulce fresa",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Laca de uñas",
-      "photo": "https://prod-mercadona.imgix.net/images/8ed41fd16fc77a05ee68f3558e5cdb3b.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.011,
-      "size_format": "l",
-      "packaging": null
+      "packaging": "Spray"
     }
   ],
-  "priceChangesCount": 43,
+  "priceChangesCount": 41,
   "priceChanges": [
     {
-      "id": "28724",
-      "name": "Licor de hierbas Jägermeister",
-      "oldPrice": "15.25",
-      "newPrice": "15.10"
-    },
-    {
-      "id": "3819",
-      "name": "Plátano de Canarias IGP",
-      "oldPrice": "0.51",
-      "newPrice": "0.48"
-    },
-    {
-      "id": "8177",
-      "name": "Manzana roja dulce",
-      "oldPrice": "0.40",
-      "newPrice": "0.42"
-    },
-    {
-      "id": "3172",
-      "name": "Pera Limonera",
-      "oldPrice": "0.64",
-      "newPrice": "0.67"
+      "id": "3119",
+      "name": "Pera Conferencia",
+      "oldPrice": "0.55",
+      "newPrice": "0.58"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "oldPrice": "3.36",
-      "newPrice": "3.34"
+      "oldPrice": "3.34",
+      "newPrice": "3.38"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "oldPrice": "6.28",
-      "newPrice": "5.86"
+      "oldPrice": "5.86",
+      "newPrice": "5.78"
     },
     {
-      "id": "3210",
-      "name": "Limón",
-      "oldPrice": "0.45",
-      "newPrice": "0.48"
+      "id": "3238",
+      "name": "Mandarina",
+      "oldPrice": "0.28",
+      "newPrice": "0.30"
+    },
+    {
+      "id": "3235",
+      "name": "Naranja de mesa",
+      "oldPrice": "0.67",
+      "newPrice": "0.65"
     },
     {
       "id": "3202",
       "name": "Pomelo",
-      "oldPrice": "1.12",
-      "newPrice": "1.19"
+      "oldPrice": "1.19",
+      "newPrice": "1.22"
     },
     {
       "id": "3076",
       "name": "Piña",
-      "oldPrice": "4.08",
-      "newPrice": "4.12"
+      "oldPrice": "4.12",
+      "newPrice": "4.10"
     },
     {
       "id": "3050",
       "name": "Mango",
-      "oldPrice": "1.48",
-      "newPrice": "1.51"
+      "oldPrice": "1.51",
+      "newPrice": "1.57"
     },
     {
-      "id": "3026",
-      "name": "Papaya",
-      "oldPrice": "3.57",
-      "newPrice": "3.47"
+      "id": "3915",
+      "name": "Granada",
+      "oldPrice": "1.35",
+      "newPrice": "1.29"
     },
     {
-      "id": "69173",
-      "name": "Yuca",
-      "oldPrice": "1.98",
-      "newPrice": "2.01"
+      "id": "3914",
+      "name": "Kaki",
+      "oldPrice": "0.62",
+      "newPrice": "0.65"
     },
     {
-      "id": "69937",
-      "name": "Tomate ensalada",
-      "oldPrice": "0.53",
-      "newPrice": "0.50"
+      "id": "69239",
+      "name": "Batata",
+      "oldPrice": "0.97",
+      "newPrice": "0.99"
     },
     {
-      "id": "69310",
-      "name": "Pimiento rojo",
-      "oldPrice": "0.84",
-      "newPrice": "0.87"
+      "id": "69968",
+      "name": "Tomate canario",
+      "oldPrice": "0.31",
+      "newPrice": "0.33"
     },
     {
-      "id": "69338",
-      "name": "Calabacín verde",
-      "oldPrice": "0.55",
-      "newPrice": "0.53"
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.81",
+      "newPrice": "1.84"
     },
     {
       "id": "69320",
       "name": "Pimiento verde freír",
-      "oldPrice": "0.25",
-      "newPrice": "0.28"
+      "oldPrice": "0.28",
+      "newPrice": "0.30"
     },
     {
       "id": "69220",
       "name": "Coliflor",
-      "oldPrice": "2.09",
-      "newPrice": "2.16"
+      "oldPrice": "2.16",
+      "newPrice": "2.21"
     },
     {
       "id": "69580",
       "name": "Brócoli",
-      "oldPrice": "1.27",
-      "newPrice": "1.30"
+      "oldPrice": "1.30",
+      "newPrice": "1.32"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.92",
+      "newPrice": "0.90"
     },
     {
       "id": "69347",
       "name": "Berenjena rayada",
-      "oldPrice": "0.93",
-      "newPrice": "0.88"
+      "oldPrice": "0.88",
+      "newPrice": "0.85"
+    },
+    {
+      "id": "69038",
+      "name": "Nabicol",
+      "oldPrice": "0.99",
+      "newPrice": "1.02"
     },
     {
       "id": "81649.1",
       "name": "Salmón a rodajas",
-      "oldPrice": "28.58",
-      "newPrice": "28.80"
+      "oldPrice": "28.80",
+      "newPrice": "29.35"
     },
     {
       "id": "81649.4",
       "name": "Salmón media pieza a rodajas",
-      "oldPrice": "14.45",
-      "newPrice": "14.56"
+      "oldPrice": "14.56",
+      "newPrice": "14.78"
     },
     {
       "id": "81649.2",
       "name": "Salmón abierto en libro sin cabeza y sin espina",
-      "oldPrice": "28.58",
-      "newPrice": "28.80"
+      "oldPrice": "28.80",
+      "newPrice": "29.35"
     },
     {
       "id": "81649.5",
       "name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "14.45",
-      "newPrice": "14.56"
+      "oldPrice": "14.56",
+      "newPrice": "14.78"
     },
     {
       "id": "81649.3",
       "name": "Salmón sin aletas y sin escamas",
-      "oldPrice": "28.58",
-      "newPrice": "28.80"
+      "oldPrice": "28.80",
+      "newPrice": "29.35"
     },
     {
       "id": "81649.6",
       "name": "Salmón media pieza sin aletas y sin escamas",
-      "oldPrice": "14.45",
-      "newPrice": "14.56"
+      "oldPrice": "14.56",
+      "newPrice": "14.78"
     },
     {
       "id": "81234.1",
       "name": "Dorada limpia con cabeza",
-      "oldPrice": "5.13",
-      "newPrice": "5.32"
+      "oldPrice": "5.32",
+      "newPrice": "5.42"
     },
     {
       "id": "81234.2",
       "name": "Dorada abierta a la espalda con espinas y con cabeza",
-      "oldPrice": "5.13",
-      "newPrice": "5.32"
+      "oldPrice": "5.32",
+      "newPrice": "5.42"
     },
     {
       "id": "81234.5",
       "name": "Dorada a filetes sin cabeza y sin espina",
-      "oldPrice": "5.13",
-      "newPrice": "5.32"
+      "oldPrice": "5.32",
+      "newPrice": "5.42"
     },
     {
       "id": "81234.4",
       "name": "Dorada abierta en libro sin cabeza y sin espina",
-      "oldPrice": "5.13",
-      "newPrice": "5.32"
+      "oldPrice": "5.32",
+      "newPrice": "5.42"
     },
     {
       "id": "81234.3",
       "name": "Dorada sin limpiar",
-      "oldPrice": "5.13",
-      "newPrice": "5.32"
+      "oldPrice": "5.32",
+      "newPrice": "5.42"
     }
   ]
 }
