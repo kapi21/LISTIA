@@ -1,490 +1,424 @@
 {
-  "lastSync": "2026-11-16T12:30:11.786781",
-  "totalProducts": 3910,
-  "newProductsCount": 90,
+  "lastSync": "2026-11-17T12:51:19.507093",
+  "totalProducts": 4390,
+  "newProductsCount": 517,
   "newProducts": [
     {
-      "id": "49867",
-      "name": "Molde de aluminio cuadrado 2,7L Alibérico",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/5f0e4a9bc62d2f73ce377f3399895d79.jpg?fit=crop&h=300&w=300",
-      "price": "2.45",
-      "unit_size": 2.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "48001",
-      "name": "Recipiente de plástico redondo 0,5L Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/fa841f777ea71e503828e5e7552788c2.jpg?fit=crop&h=300&w=300",
-      "price": "2.05",
-      "unit_size": 3.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "48009",
-      "name": "Recipiente de plástico redondo 1L Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/c443b6c5634cb0997a1f8936b7b243be.jpg?fit=crop&h=300&w=300",
-      "price": "2.05",
-      "unit_size": 2.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "48005",
-      "name": "Recipiente de plástico redondo 240 ml Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/1f21d7956b5aa794c08d9eaf3d5b9754.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 3.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "49837",
-      "name": "Molde de aluminio rectangular 0,5L Alibérico",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/925e954f147073a63c7057a955f9c5d4.jpg?fit=crop&h=300&w=300",
-      "price": "1.95",
-      "unit_size": 5.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "49863",
-      "name": "Molde de aluminio rectangular 1,5L Alibérico",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/4d833b447f94ee204e27adce79bd5918.jpg?fit=crop&h=300&w=300",
-      "price": "3.35",
-      "unit_size": 3.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "35894",
-      "name": "Recipiente hermético de plástico rectangular 1L Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/1524ba01bd1fce632f1e823fb4f3b2dc.jpg?fit=crop&h=300&w=300",
-      "price": "3.00",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "60517",
-      "name": "Recipiente hermético de plástico rectangular 3L Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/37693579ae3a2c367832b13056670cf0.jpg?fit=crop&h=300&w=300",
-      "price": "4.70",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11681",
-      "name": "Molde de papel Bosque Verde para freidora de aire 20 cm",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/179eb41ae05bae2a5c72e79923527467.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 50.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "14388",
-      "name": "Recipiente de plástico rectangular 1,1L Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Herméticos y moldes",
-      "photo": "https://prod-mercadona.imgix.net/images/54eee0e2b516a290624de97124511227.jpeg?fit=crop&h=300&w=300",
-      "price": "2.85",
-      "unit_size": 5.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "49000",
-      "name": "Papel de aluminio Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/efcf89445e5bc8d8962ca09286252e7e.jpg?fit=crop&h=300&w=300",
-      "price": "2.25",
-      "unit_size": 30.0,
-      "size_format": "m",
-      "packaging": "Caja"
-    },
-    {
-      "id": "60294",
-      "name": "Film transparente Bosque Verde con sierra deslizante",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/2edf6e6d627c5e1f86efa0519b06761c.jpg?fit=crop&h=300&w=300",
-      "price": "1.95",
-      "unit_size": 80.0,
-      "size_format": "m",
-      "packaging": "Caja"
-    },
-    {
-      "id": "49224",
-      "name": "Bolsas congelación medianas Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/56c79b29c15d59da2b018a6b06a18817.jpeg?fit=crop&h=300&w=300",
-      "price": "0.85",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "49073",
-      "name": "Bolsas zip congelación medianas Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/831e513726a8229b86294e6417d83528.jpg?fit=crop&h=300&w=300",
-      "price": "1.20",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "14456",
-      "name": "Bolsas congelación grandes Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/951f4b2bfca3deebd7957ee3fe81bea7.jpeg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "49074",
-      "name": "Bolsas zip congelación grandes Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/4722375a9666f35f2c9a43ff23506098.jpg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "15636",
-      "name": "Bolsa isotérmica",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/60b2f06a3367349602bfe3aa3c8ef3f0.jpg?fit=crop&h=300&w=300",
-      "price": "1.90",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "2439",
-      "name": "Bolsa de rafia",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/2fb84bae8a06b513d5fe8918ec3e4fdc.jpeg?fit=crop&h=300&w=300",
-      "price": "0.65",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": null
-    },
-    {
-      "id": "21961",
-      "name": "Papel vegetal Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Papel y bolsas de conservación",
-      "photo": "https://prod-mercadona.imgix.net/images/19374e8df56aed60327a8ffecb9c3b98.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Caja"
-    },
-    {
-      "id": "15968",
-      "name": "Vasos grandes de plástico Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/d20f66b09f4a22eb3c9f0ce0c7e3a693.jpg?fit=crop&h=300&w=300",
-      "price": "1.75",
-      "unit_size": 10.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "35627",
-      "name": "Vaso mediano Bosque Verde apto para bebida caliente",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/36a92299e9aa991f9488417d5dcb8771.jpg?fit=crop&h=300&w=300",
-      "price": "2.35",
-      "unit_size": 10.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "67981",
-      "name": "Vaso pequeño Bosque Verde apto para bebida caliente",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/4236813a2b75331346d4af878b2a9733.jpg?fit=crop&h=300&w=300",
-      "price": "1.35",
-      "unit_size": 20.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "23187",
-      "name": "Plato llano Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/99dbfe5a16bb7d22b03cafce33389f11.jpg?fit=crop&h=300&w=300",
-      "price": "1.60",
-      "unit_size": 15.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "23188",
-      "name": "Plato postre Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/05709bf13818ab7f90de1c848d53743b.jpg?fit=crop&h=300&w=300",
-      "price": "1.45",
-      "unit_size": 15.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "23189",
-      "name": "Bol biodegradable Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/0c4bc6ab6e7f8fceead0b34166445604.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 15.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13717",
-      "name": "Cucharas de plástico Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/eb5fd74a96cff2c66236e5a697a8434e.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 15.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13719",
-      "name": "Cucharas postre de plástico Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/31b12751a793f5260220469596a67b9b.jpg?fit=crop&h=300&w=300",
-      "price": "1.45",
-      "unit_size": 15.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13716",
-      "name": "Tenedores de plástico Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/20ed85f5f043b509687ab4752fbc68d8.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 15.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "13718",
-      "name": "Cuchillos de plástico Bosque Verde reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/a419d3cb4a078d3362483e018b7ddb42.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 15.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "23516",
-      "name": "Pajitas rectas reutilizables",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/aec602d174a2ff1971309f11a3847238.jpg?fit=crop&h=300&w=300",
+      "id": "11563",
+      "name": "Pipas girasol tostadas Hacendado peladas aguasal",
+      "category": "Aperitivos",
+      "subcategory": "Frutos secos",
+      "photo": "https://prod-mercadona.imgix.net/images/9732ba8a475cedae84998462fcddaf63.jpg?fit=crop&h=300&w=300",
       "price": "1.10",
-      "unit_size": 30.0,
-      "size_format": "ud",
+      "unit_size": 0.2,
+      "size_format": "kg",
       "packaging": "Paquete"
+    },
+    {
+      "id": "10449",
+      "name": "Crema de leche para café Campina",
+      "category": "Cacao, café e infusiones",
+      "subcategory": "Otros",
+      "photo": "https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=300&w=300",
+      "price": "1.40",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "17946",
+      "name": "Queso gorgonzola de vaca Hacendado",
+      "category": "Charcutería y quesos",
+      "subcategory": "Queso especialidades",
+      "photo": "https://prod-mercadona.imgix.net/images/b7055e4b0acc9c8487377962bbdbae2a.jpg?fit=crop&h=300&w=300",
+      "price": "2.40",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "18579",
+      "name": "Almejas blancas del norte al natural Hacendado",
+      "category": "Conservas, caldos y cremas",
+      "subcategory": "Berberechos y almejas",
+      "photo": "https://prod-mercadona.imgix.net/images/8815bfdbe574ae4d587e56235820138c.jpg?fit=crop&h=300&w=300",
+      "price": "1.90",
+      "unit_size": 0.185,
+      "size_format": "kg",
+      "packaging": "Lata"
+    },
+    {
+      "id": "18782",
+      "name": "Acondicionador Liso Brillante TRESemmé cabello apagado o sin brillo",
+      "category": "Cuidado del cabello",
+      "subcategory": "Acondicionador",
+      "photo": "https://prod-mercadona.imgix.net/images/4d5b947b5449240eb723743d17a75511.jpg?fit=crop&h=300&w=300",
+      "price": "3.25",
+      "unit_size": 0.35,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "18783",
+      "name": "Sérum Anti Frizz Liso Brillante TRESemmé",
+      "category": "Cuidado del cabello",
+      "subcategory": "Sérum y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/dace26c41794ae42b153844f25031a8a.jpg?fit=crop&h=300&w=300",
+      "price": "5.50",
+      "unit_size": 0.175,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "18781",
+      "name": "Champú Liso Brillante TRESemmé cabello apagado o sin brillo",
+      "category": "Cuidado del cabello",
+      "subcategory": "Champú",
+      "photo": "https://prod-mercadona.imgix.net/images/a7c7c7f441872fdf8197371ffb07432f.jpg?fit=crop&h=300&w=300",
+      "price": "3.25",
+      "unit_size": 0.35,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "18845",
+      "name": "Crema de manos hidrata y perfuma Deliplus",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Crema manos",
+      "photo": "https://prod-mercadona.imgix.net/images/17894f1c13b0b98c85f03d79cd8240b3.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.05,
+      "size_format": "l",
+      "packaging": "Bote"
+    },
+    {
+      "id": "18193",
+      "name": "Eau de parfum mujer Onyx Como Tú",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Perfume y colonia mujer",
+      "photo": "https://prod-mercadona.imgix.net/images/12209a1dea09be0c76a4f3301e1de618.jpg?fit=crop&h=300&w=300",
+      "price": "11.00",
+      "unit_size": 0.1,
+      "size_format": "l",
+      "packaging": "Frasco"
+    },
+    {
+      "id": "18194",
+      "name": "Eau de parfum hombre Caimán Como Tú",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Perfume y colonia hombre",
+      "photo": "https://prod-mercadona.imgix.net/images/123deb529d87aa3f40a04a09029e5605.jpg?fit=crop&h=300&w=300",
+      "price": "11.00",
+      "unit_size": 0.1,
+      "size_format": "l",
+      "packaging": "Frasco"
+    },
+    {
+      "id": "21848",
+      "name": "Bastoncillos de algodón 100% Deliplus",
+      "category": "Fitoterapia y parafarmacia",
+      "subcategory": "Botiquín",
+      "photo": "https://prod-mercadona.imgix.net/images/9afc4558dfdad0a9ca1f0c7a680e8655.jpg?fit=crop&h=300&w=300",
+      "price": "1.15",
+      "unit_size": 300.0,
+      "size_format": "ud",
+      "packaging": "Caja"
+    },
+    {
+      "id": "3819",
+      "name": "Plátano de Canarias IGP",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=300&w=300",
+      "price": "0.51",
+      "unit_size": 0.16,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3824",
+      "name": "Banana",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/69edef3541bbf3f4b7173c9d617a5698.jpg?fit=crop&h=300&w=300",
+      "price": "0.28",
+      "unit_size": 0.18,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3132",
+      "name": "Plátano macho",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/c22baa2a17de06fbf8477ef25392b7ca.jpg?fit=crop&h=300&w=300",
+      "price": "0.84",
+      "unit_size": 0.29,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3313",
+      "name": "Uva blanca sin semillas",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=300&w=300",
+      "price": "2.76",
+      "unit_size": 0.6,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "3321",
+      "name": "Uva roja sin semillas",
+      "category": "Fruta y verdura",
+      "subcategory": "Plátano y uva",
+      "photo": "https://prod-mercadona.imgix.net/images/1d074082d78bd3883eece473526a79bb.jpeg?fit=crop&h=300&w=300",
+      "price": "2.76",
+      "unit_size": 0.6,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "3028",
+      "name": "Manzana Golden",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=300&w=300",
+      "price": "0.40",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3269",
+      "name": "Manzanas Golden",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/022fa8e1cd6c9d9ee18a41ed06d71c35.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 1.5,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "3119",
+      "name": "Pera Conferencia",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=300&w=300",
+      "price": "0.55",
+      "unit_size": 0.22,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "14470",
+      "name": "Peras Conferencia",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/158b08c139cba5362b335f8b0a715cc8.jpeg?fit=crop&h=300&w=300",
+      "price": "2.46",
+      "unit_size": 1.07,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "8177",
+      "name": "Manzana roja dulce",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=300&w=300",
+      "price": "0.42",
+      "unit_size": 0.21,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8280",
+      "name": "Manzanas rojas dulces",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/87f801433e34719ba9bdc226616e7511.jpg?fit=crop&h=300&w=300",
+      "price": "2.70",
+      "unit_size": 1.5,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "3170",
+      "name": "Pera Ercolina",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/533ebe592abe9ee9a6b79cb1b3a7e8ed.jpg?fit=crop&h=300&w=300",
+      "price": "0.26",
+      "unit_size": 0.09,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3021",
+      "name": "Manzana Granny Smith",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/fea3470bee0679f0e081916ec48c0b36.jpg?fit=crop&h=300&w=300",
+      "price": "0.48",
+      "unit_size": 0.19,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3172",
+      "name": "Pera Limonera",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/dfb3b85109390b0bb0aab4f838c5ba89.jpg?fit=crop&h=300&w=300",
+      "price": "0.67",
+      "unit_size": 0.24,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8175",
+      "name": "Manzana roja acidulce",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/22301daf320667073b7662206e508c36.jpg?fit=crop&h=300&w=300",
+      "price": "0.60",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "8268",
+      "name": "Manzanas rojas acidulces",
+      "category": "Fruta y verdura",
+      "subcategory": "Manzana y pera",
+      "photo": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpg?fit=crop&h=300&w=300",
+      "price": "3.40",
+      "unit_size": 1.62,
+      "size_format": "kg",
+      "packaging": null
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "category": "Fruta y verdura",
+      "subcategory": "Melón y sandía",
+      "photo": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=300&w=300",
+      "price": "3.48",
+      "unit_size": 1.45,
+      "size_format": "kg",
+      "packaging": "1/2 Pieza"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "category": "Fruta y verdura",
+      "subcategory": "Melón y sandía",
+      "photo": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=300&w=300",
+      "price": "6.32",
+      "unit_size": 3.16,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "3236",
+      "name": "Limones",
+      "category": "Fruta y verdura",
+      "subcategory": "Cítricos",
+      "photo": "https://prod-mercadona.imgix.net/images/71af62c5aab9056773f8934f4dce3768.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Malla"
     }
   ],
-  "priceChangesCount": 25,
+  "priceChangesCount": 14,
   "priceChanges": [
     {
-      "id": "34025",
-      "name": "Avellana tostada Hacendado 0% sal añadida",
-      "oldPrice": "4.30",
-      "newPrice": "3.85"
+      "id": "29605",
+      "name": "Bebida isotónica limón Aquarius",
+      "oldPrice": "7.44",
+      "newPrice": "7.92"
     },
     {
-      "id": "34009",
-      "name": "Almendra frita y salada Hacendado pelada",
-      "oldPrice": "2.95",
-      "newPrice": "2.85"
+      "id": "29625",
+      "name": "Bebida isotónica limón Aquarius",
+      "oldPrice": "0.99",
+      "newPrice": "1.05"
     },
     {
-      "id": "13877",
-      "name": "Orejones albaricoque Hacendado",
-      "oldPrice": "3.05",
-      "newPrice": "2.95"
+      "id": "29604",
+      "name": "Bebida isotónica naranja Aquarius",
+      "oldPrice": "7.44",
+      "newPrice": "7.92"
     },
     {
-      "id": "18379",
-      "name": "Higos secos Zalama Valle del Jerte",
-      "oldPrice": "1.95",
+      "id": "29624",
+      "name": "Bebida isotónica naranja Aquarius",
+      "oldPrice": "0.99",
+      "newPrice": "1.05"
+    },
+    {
+      "id": "36012",
+      "name": "Turrón de chocolate con leche y cacahuete Hacendado con miel y caramelo troceado",
+      "oldPrice": "2.00",
       "newPrice": "1.85"
     },
     {
-      "id": "33555",
-      "name": "Aperitivo de patata sabor original Pringles",
-      "oldPrice": "1.90",
-      "newPrice": "2.65"
+      "id": "15848",
+      "name": "Turrón duro de almendras Hacendado 0% azúcares añadidos",
+      "oldPrice": "3.00",
+      "newPrice": "2.90"
     },
     {
-      "id": "33556",
-      "name": "Aperitivo de patata sabor crema agria y cebolla Pringles",
-      "oldPrice": "1.90",
-      "newPrice": "2.65"
+      "id": "27679",
+      "name": "Cerveza Heineken",
+      "oldPrice": "6.96",
+      "newPrice": "5.12"
     },
     {
-      "id": "35981",
-      "name": "Noodles de arroz Hacendado",
-      "oldPrice": "1.45",
-      "newPrice": "1.40"
+      "id": "27100",
+      "name": "Cerveza Heineken",
+      "oldPrice": "0.88",
+      "newPrice": "0.68"
     },
     {
-      "id": "12130",
-      "name": "Chocolate puro Valor con almendras enteras",
-      "oldPrice": "3.95",
-      "newPrice": "4.95"
+      "id": "66027",
+      "name": "Cerveza clásica Mahou",
+      "oldPrice": "6.96",
+      "newPrice": "9.24"
     },
     {
-      "id": "12107",
-      "name": "Chocolate con leche Valor almendras enteras",
-      "oldPrice": "3.95",
-      "newPrice": "4.95"
-    },
-    {
-      "id": "12526",
-      "name": "Barritas de barquillo Huesitos bañadas de chocolate con leche",
-      "oldPrice": "2.50",
-      "newPrice": "1.95"
-    },
-    {
-      "id": "9407",
-      "name": "Leche de continuación en polvo 2 Nativa Nestlé",
-      "oldPrice": "12.95",
-      "newPrice": "10.75"
-    },
-    {
-      "id": "28057",
+      "id": "27137",
       "name": "Cerveza doble malta Voll-Damm",
-      "oldPrice": "5.10",
-      "newPrice": "6.24"
+      "oldPrice": "0.89",
+      "newPrice": "1.04"
     },
     {
-      "id": "66586",
-      "name": "Cerveza especial Estrella Galicia",
-      "oldPrice": "7.60",
-      "newPrice": "8.80"
+      "id": "60600",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "10.20",
+      "newPrice": "8.28"
     },
     {
-      "id": "27357",
-      "name": "Cerveza especial Estrella Galicia",
-      "oldPrice": "0.79",
-      "newPrice": "0.90"
+      "id": "60980",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "0.85",
+      "newPrice": "0.72"
     },
     {
-      "id": "14713",
-      "name": "Barritas de avena y chocolate negro Crunchy Nature Valley",
-      "oldPrice": "2.60",
-      "newPrice": "1.95"
+      "id": "66413",
+      "name": "Cerveza Amstel",
+      "oldPrice": "6.36",
+      "newPrice": "5.28"
     },
     {
-      "id": "24274",
-      "name": "Sepia faraónica troceada limpia Hacendado congelada",
-      "oldPrice": "5.90",
-      "newPrice": "5.70"
-    },
-    {
-      "id": "24242",
-      "name": "Calamar troceado limpio Hacendado congelado",
-      "oldPrice": "5.90",
-      "newPrice": "5.70"
-    },
-    {
-      "id": "62103",
-      "name": "Porciones de merluza del Cabo sin piel Hacendado ultracongeladas",
-      "oldPrice": "4.90",
-      "newPrice": "5.15"
-    },
-    {
-      "id": "26763",
-      "name": "Rodajas de merluza del Cabo Hacendado ultracongeladas",
-      "oldPrice": "5.95",
-      "newPrice": "6.20"
-    },
-    {
-      "id": "47554",
-      "name": "Protegeslip Flexiform Carefree Cotton feel regular + tanga",
-      "oldPrice": "1.90",
-      "newPrice": "1.55"
-    },
-    {
-      "id": "81204.1",
-      "name": "Bacalao a rodajas",
-      "oldPrice": "34.65",
-      "newPrice": "37.55"
-    },
-    {
-      "id": "81204.3",
-      "name": "Bacalao media pieza a rodajas",
-      "oldPrice": "17.45",
-      "newPrice": "18.91"
-    },
-    {
-      "id": "81204.2",
-      "name": "Bacalao abierto en libro sin cabeza y sin espina",
-      "oldPrice": "34.65",
-      "newPrice": "37.55"
-    },
-    {
-      "id": "81204.4",
-      "name": "Bacalao media pieza abierto en libro sin cabeza y sin espina",
-      "oldPrice": "17.45",
-      "newPrice": "18.91"
-    },
-    {
-      "id": "18319",
-      "name": "Mousse de carne y pescado Gourmet Gold gato adulto Purina",
-      "oldPrice": "3.35",
-      "newPrice": "2.50"
+      "id": "67154",
+      "name": "Cerveza tostada Turia",
+      "oldPrice": "6.84",
+      "newPrice": "8.04"
     }
   ]
 }
