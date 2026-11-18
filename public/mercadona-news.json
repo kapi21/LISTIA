@@ -1,424 +1,289 @@
 {
-  "lastSync": "2026-11-17T12:51:19.507093",
-  "totalProducts": 4390,
-  "newProductsCount": 517,
+  "lastSync": "2026-11-18T12:44:06.877471",
+  "totalProducts": 4394,
+  "newProductsCount": 9,
   "newProducts": [
     {
-      "id": "11563",
-      "name": "Pipas girasol tostadas Hacendado peladas aguasal",
-      "category": "Aperitivos",
-      "subcategory": "Frutos secos",
-      "photo": "https://prod-mercadona.imgix.net/images/9732ba8a475cedae84998462fcddaf63.jpg?fit=crop&h=300&w=300",
-      "price": "1.10",
-      "unit_size": 0.2,
+      "id": "18463",
+      "name": "Boloñesa de cerdo",
+      "category": "Carne",
+      "subcategory": "Picadas y otros",
+      "photo": "https://prod-mercadona.imgix.net/images/110e9c5926a1536482512ca041f95962.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.4,
       "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Bandeja"
     },
     {
-      "id": "10449",
-      "name": "Crema de leche para café Campina",
-      "category": "Cacao, café e infusiones",
-      "subcategory": "Otros",
-      "photo": "https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=300&w=300",
-      "price": "1.40",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "17946",
-      "name": "Queso gorgonzola de vaca Hacendado",
+      "id": "50939",
+      "name": "Queso mezcla semicurado Hacendado",
       "category": "Charcutería y quesos",
-      "subcategory": "Queso especialidades",
-      "photo": "https://prod-mercadona.imgix.net/images/b7055e4b0acc9c8487377962bbdbae2a.jpg?fit=crop&h=300&w=300",
-      "price": "2.40",
-      "unit_size": 0.2,
+      "subcategory": "Queso semicurado",
+      "photo": "https://prod-mercadona.imgix.net/images/85642f18cb9630aeaa314514a4a7bf09.jpg?fit=crop&h=300&w=300",
+      "price": "18.00",
+      "unit_size": 3.0,
       "size_format": "kg",
       "packaging": "Pieza"
     },
     {
-      "id": "18579",
-      "name": "Almejas blancas del norte al natural Hacendado",
-      "category": "Conservas, caldos y cremas",
-      "subcategory": "Berberechos y almejas",
-      "photo": "https://prod-mercadona.imgix.net/images/8815bfdbe574ae4d587e56235820138c.jpg?fit=crop&h=300&w=300",
-      "price": "1.90",
-      "unit_size": 0.185,
-      "size_format": "kg",
-      "packaging": "Lata"
-    },
-    {
-      "id": "18782",
-      "name": "Acondicionador Liso Brillante TRESemmé cabello apagado o sin brillo",
+      "id": "18758",
+      "name": "Baño de color y brillo negro azulado Color Glow 0% amoniaco",
       "category": "Cuidado del cabello",
-      "subcategory": "Acondicionador",
-      "photo": "https://prod-mercadona.imgix.net/images/4d5b947b5449240eb723743d17a75511.jpg?fit=crop&h=300&w=300",
-      "price": "3.25",
-      "unit_size": 0.35,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "18783",
-      "name": "Sérum Anti Frizz Liso Brillante TRESemmé",
-      "category": "Cuidado del cabello",
-      "subcategory": "Sérum y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/dace26c41794ae42b153844f25031a8a.jpg?fit=crop&h=300&w=300",
-      "price": "5.50",
-      "unit_size": 0.175,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "18781",
-      "name": "Champú Liso Brillante TRESemmé cabello apagado o sin brillo",
-      "category": "Cuidado del cabello",
-      "subcategory": "Champú",
-      "photo": "https://prod-mercadona.imgix.net/images/a7c7c7f441872fdf8197371ffb07432f.jpg?fit=crop&h=300&w=300",
-      "price": "3.25",
-      "unit_size": 0.35,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "18845",
-      "name": "Crema de manos hidrata y perfuma Deliplus",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Crema manos",
-      "photo": "https://prod-mercadona.imgix.net/images/17894f1c13b0b98c85f03d79cd8240b3.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.05,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "18193",
-      "name": "Eau de parfum mujer Onyx Como Tú",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Perfume y colonia mujer",
-      "photo": "https://prod-mercadona.imgix.net/images/12209a1dea09be0c76a4f3301e1de618.jpg?fit=crop&h=300&w=300",
-      "price": "11.00",
-      "unit_size": 0.1,
-      "size_format": "l",
-      "packaging": "Frasco"
-    },
-    {
-      "id": "18194",
-      "name": "Eau de parfum hombre Caimán Como Tú",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Perfume y colonia hombre",
-      "photo": "https://prod-mercadona.imgix.net/images/123deb529d87aa3f40a04a09029e5605.jpg?fit=crop&h=300&w=300",
-      "price": "11.00",
-      "unit_size": 0.1,
-      "size_format": "l",
-      "packaging": "Frasco"
-    },
-    {
-      "id": "21848",
-      "name": "Bastoncillos de algodón 100% Deliplus",
-      "category": "Fitoterapia y parafarmacia",
-      "subcategory": "Botiquín",
-      "photo": "https://prod-mercadona.imgix.net/images/9afc4558dfdad0a9ca1f0c7a680e8655.jpg?fit=crop&h=300&w=300",
-      "price": "1.15",
-      "unit_size": 300.0,
+      "subcategory": "Coloración negro y castaño oscuro",
+      "photo": "https://prod-mercadona.imgix.net/images/ea86141274975b11156eedf37d032d94.jpg?fit=crop&h=300&w=300",
+      "price": "4.85",
+      "unit_size": 1.0,
       "size_format": "ud",
       "packaging": "Caja"
     },
     {
-      "id": "3819",
-      "name": "Plátano de Canarias IGP",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=300&w=300",
-      "price": "0.51",
-      "unit_size": 0.16,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "id": "18760",
+      "name": "Baño de color y brillo chocolate Color Glow 0% amoniaco",
+      "category": "Cuidado del cabello",
+      "subcategory": "Coloración castaño, marrón y rubio oscuro",
+      "photo": "https://prod-mercadona.imgix.net/images/6b26724dd86dd753a79f06e72372b674.jpg?fit=crop&h=300&w=300",
+      "price": "4.85",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
     },
     {
-      "id": "3824",
-      "name": "Banana",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/69edef3541bbf3f4b7173c9d617a5698.jpg?fit=crop&h=300&w=300",
-      "price": "0.28",
-      "unit_size": 0.18,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "id": "18759",
+      "name": "Baño de color y brillo castaño Color Glow 0% amoniaco",
+      "category": "Cuidado del cabello",
+      "subcategory": "Coloración castaño, marrón y rubio oscuro",
+      "photo": "https://prod-mercadona.imgix.net/images/0f58dc6293f9d6dc93794aa4d89e4306.jpg?fit=crop&h=300&w=300",
+      "price": "4.85",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
     },
     {
-      "id": "3132",
-      "name": "Plátano macho",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/c22baa2a17de06fbf8477ef25392b7ca.jpg?fit=crop&h=300&w=300",
-      "price": "0.84",
-      "unit_size": 0.29,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "id": "18761",
+      "name": "Baño de color y brillo rubio oscuro Color Glow 0% amoniaco",
+      "category": "Cuidado del cabello",
+      "subcategory": "Coloración castaño, marrón y rubio oscuro",
+      "photo": "https://prod-mercadona.imgix.net/images/8794e574aca96b5c7653076f61e67c5c.jpg?fit=crop&h=300&w=300",
+      "price": "4.85",
+      "unit_size": 1.0,
+      "size_format": "ud",
+      "packaging": "Caja"
     },
     {
-      "id": "3313",
-      "name": "Uva blanca sin semillas",
+      "id": "17770",
+      "name": "Discos ácido salicílico Facial Clean purificantes y seborreguladores",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Limpieza de cara",
+      "photo": "https://prod-mercadona.imgix.net/images/02cbbb2a36d255cdd6c1627b797042cd.jpg?fit=crop&h=300&w=300",
+      "price": "4.00",
+      "unit_size": 50.0,
+      "size_format": "ud",
+      "packaging": "Bote"
+    },
+    {
+      "id": "3651",
+      "name": "Cerezas",
       "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=300&w=300",
-      "price": "2.76",
-      "unit_size": 0.6,
+      "subcategory": "Otras frutas",
+      "photo": "https://prod-mercadona.imgix.net/images/77868fa2e119aa30f160222a3f535a13.jpg?fit=crop&h=300&w=300",
+      "price": "3.82",
+      "unit_size": 0.3,
       "size_format": "kg",
       "packaging": "Bandeja"
     },
     {
-      "id": "3321",
-      "name": "Uva roja sin semillas",
-      "category": "Fruta y verdura",
-      "subcategory": "Plátano y uva",
-      "photo": "https://prod-mercadona.imgix.net/images/1d074082d78bd3883eece473526a79bb.jpeg?fit=crop&h=300&w=300",
-      "price": "2.76",
-      "unit_size": 0.6,
+      "id": "18682",
+      "name": "Coco rallado Hacendado",
+      "category": "Panadería y pastelería",
+      "subcategory": "Decoración",
+      "photo": "https://prod-mercadona.imgix.net/images/8a7a6fc951b626d01cbc60442690bcfa.jpg?fit=crop&h=300&w=300",
+      "price": "1.50",
+      "unit_size": 0.15,
       "size_format": "kg",
-      "packaging": "Bandeja"
+      "packaging": "Paquete"
+    }
+  ],
+  "priceChangesCount": 39,
+  "priceChanges": [
+    {
+      "id": "28670",
+      "name": "Bebida energética Monster Energy Ultra zero azúcar",
+      "oldPrice": "6.68",
+      "newPrice": "7.08"
     },
     {
-      "id": "3028",
-      "name": "Manzana Golden",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=300&w=300",
-      "price": "0.40",
-      "unit_size": 0.2,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "id": "28119",
+      "name": "Bebida energética Monster Energy Ultra zero azúcar",
+      "oldPrice": "1.79",
+      "newPrice": "1.89"
     },
     {
-      "id": "3269",
-      "name": "Manzanas Golden",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/022fa8e1cd6c9d9ee18a41ed06d71c35.jpg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 1.5,
-      "size_format": "kg",
-      "packaging": null
+      "id": "28664",
+      "name": "Bebida energética Monster Energy",
+      "oldPrice": "6.68",
+      "newPrice": "7.08"
     },
     {
-      "id": "3119",
-      "name": "Pera Conferencia",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=300&w=300",
-      "price": "0.55",
-      "unit_size": 0.22,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "id": "28016",
+      "name": "Bebida energética Monster Energy",
+      "oldPrice": "1.79",
+      "newPrice": "1.89"
     },
     {
-      "id": "14470",
-      "name": "Peras Conferencia",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/158b08c139cba5362b335f8b0a715cc8.jpeg?fit=crop&h=300&w=300",
-      "price": "2.46",
-      "unit_size": 1.07,
-      "size_format": "kg",
-      "packaging": null
+      "id": "13815",
+      "name": "Bebida energética Mango Loco Juiced Monster Energy",
+      "oldPrice": "6.68",
+      "newPrice": "7.08"
     },
     {
-      "id": "8177",
-      "name": "Manzana roja dulce",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=300&w=300",
-      "price": "0.42",
-      "unit_size": 0.21,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "id": "13814",
+      "name": "Bebida energética Mango Loco Juiced Monster Energy",
+      "oldPrice": "1.79",
+      "newPrice": "1.89"
     },
     {
-      "id": "8280",
-      "name": "Manzanas rojas dulces",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/87f801433e34719ba9bdc226616e7511.jpg?fit=crop&h=300&w=300",
-      "price": "2.70",
-      "unit_size": 1.5,
-      "size_format": "kg",
-      "packaging": null
+      "id": "18290",
+      "name": "Bebida energética Vice Guava Monster Energy Ultra zero azúcar",
+      "oldPrice": "1.79",
+      "newPrice": "1.89"
     },
     {
-      "id": "3170",
-      "name": "Pera Ercolina",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/533ebe592abe9ee9a6b79cb1b3a7e8ed.jpg?fit=crop&h=300&w=300",
-      "price": "0.26",
-      "unit_size": 0.09,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "id": "3724",
+      "name": "Pechugas enteras de pollo",
+      "oldPrice": "3.33",
+      "newPrice": "3.48"
+    },
+    {
+      "id": "2788",
+      "name": "Muslos de pollo deshuesados con piel",
+      "oldPrice": "2.78",
+      "newPrice": "2.93"
+    },
+    {
+      "id": "2853",
+      "name": "Carcasa y espinazo de pollo",
+      "oldPrice": "1.23",
+      "newPrice": "1.61"
+    },
+    {
+      "id": "2791",
+      "name": "Filetes pechuga de pollo certificado alimentado con un 50% de maíz",
+      "oldPrice": "5.00",
+      "newPrice": "5.10"
+    },
+    {
+      "id": "2857",
+      "name": "Hígados y corazones de pollo",
+      "oldPrice": "1.20",
+      "newPrice": "1.35"
+    },
+    {
+      "id": "2855",
+      "name": "Carcasa de pollo certificado alimentado con un 50% de maíz",
+      "oldPrice": "2.03",
+      "newPrice": "2.33"
+    },
+    {
+      "id": "2856",
+      "name": "Mollejas de pollo",
+      "oldPrice": "2.03",
+      "newPrice": "2.22"
+    },
+    {
+      "id": "25243",
+      "name": "Patas de pollo",
+      "oldPrice": "2.07",
+      "newPrice": "2.25"
+    },
+    {
+      "id": "25258",
+      "name": "Contramuslos deshuesados y sin piel de pollo certificado alimentado con un 50% de maíz",
+      "oldPrice": "4.90",
+      "newPrice": "5.00"
+    },
+    {
+      "id": "25972",
+      "name": "Medio conejo troceado",
+      "oldPrice": "5.82",
+      "newPrice": "5.94"
+    },
+    {
+      "id": "2797",
+      "name": "Conejo entero",
+      "oldPrice": "10.77",
+      "newPrice": "11.01"
+    },
+    {
+      "id": "2861",
+      "name": "Filetes hígado de vacuno",
+      "oldPrice": "4.58",
+      "newPrice": "4.93"
     },
     {
       "id": "3021",
       "name": "Manzana Granny Smith",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/fea3470bee0679f0e081916ec48c0b36.jpg?fit=crop&h=300&w=300",
-      "price": "0.48",
-      "unit_size": 0.19,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "3172",
-      "name": "Pera Limonera",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/dfb3b85109390b0bb0aab4f838c5ba89.jpg?fit=crop&h=300&w=300",
-      "price": "0.67",
-      "unit_size": 0.24,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "8175",
-      "name": "Manzana roja acidulce",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/22301daf320667073b7662206e508c36.jpg?fit=crop&h=300&w=300",
-      "price": "0.60",
-      "unit_size": 0.25,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "8268",
-      "name": "Manzanas rojas acidulces",
-      "category": "Fruta y verdura",
-      "subcategory": "Manzana y pera",
-      "photo": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpg?fit=crop&h=300&w=300",
-      "price": "3.40",
-      "unit_size": 1.62,
-      "size_format": "kg",
-      "packaging": null
+      "oldPrice": "0.48",
+      "newPrice": "0.45"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "category": "Fruta y verdura",
-      "subcategory": "Melón y sandía",
-      "photo": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=300&w=300",
-      "price": "3.48",
-      "unit_size": 1.45,
-      "size_format": "kg",
-      "packaging": "1/2 Pieza"
+      "oldPrice": "3.48",
+      "newPrice": "3.77"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "category": "Fruta y verdura",
-      "subcategory": "Melón y sandía",
-      "photo": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=300&w=300",
-      "price": "6.32",
-      "unit_size": 3.16,
-      "size_format": "kg",
-      "packaging": "Pieza"
+      "oldPrice": "6.32",
+      "newPrice": "6.56"
     },
     {
-      "id": "3236",
-      "name": "Limones",
-      "category": "Fruta y verdura",
-      "subcategory": "Cítricos",
-      "photo": "https://prod-mercadona.imgix.net/images/71af62c5aab9056773f8934f4dce3768.jpg?fit=crop&h=300&w=300",
-      "price": "2.20",
-      "unit_size": 1.0,
-      "size_format": "kg",
-      "packaging": "Malla"
-    }
-  ],
-  "priceChangesCount": 14,
-  "priceChanges": [
-    {
-      "id": "29605",
-      "name": "Bebida isotónica limón Aquarius",
-      "oldPrice": "7.44",
-      "newPrice": "7.92"
+      "id": "3238",
+      "name": "Mandarina",
+      "oldPrice": "0.30",
+      "newPrice": "0.28"
     },
     {
-      "id": "29625",
-      "name": "Bebida isotónica limón Aquarius",
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.47",
+      "newPrice": "3.41"
+    },
+    {
+      "id": "3915",
+      "name": "Granada",
+      "oldPrice": "1.38",
+      "newPrice": "1.41"
+    },
+    {
+      "id": "3914",
+      "name": "Kaki",
+      "oldPrice": "0.62",
+      "newPrice": "0.60"
+    },
+    {
+      "id": "69239",
+      "name": "Batata",
       "oldPrice": "0.99",
-      "newPrice": "1.05"
+      "newPrice": "1.02"
     },
     {
-      "id": "29604",
-      "name": "Bebida isotónica naranja Aquarius",
-      "oldPrice": "7.44",
-      "newPrice": "7.92"
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.01",
+      "newPrice": "2.11"
     },
     {
-      "id": "29624",
-      "name": "Bebida isotónica naranja Aquarius",
-      "oldPrice": "0.99",
-      "newPrice": "1.05"
+      "id": "69937",
+      "name": "Tomate ensalada",
+      "oldPrice": "0.48",
+      "newPrice": "0.50"
     },
     {
-      "id": "36012",
-      "name": "Turrón de chocolate con leche y cacahuete Hacendado con miel y caramelo troceado",
-      "oldPrice": "2.00",
-      "newPrice": "1.85"
-    },
-    {
-      "id": "15848",
-      "name": "Turrón duro de almendras Hacendado 0% azúcares añadidos",
-      "oldPrice": "3.00",
-      "newPrice": "2.90"
-    },
-    {
-      "id": "27679",
-      "name": "Cerveza Heineken",
-      "oldPrice": "6.96",
-      "newPrice": "5.12"
-    },
-    {
-      "id": "27100",
-      "name": "Cerveza Heineken",
-      "oldPrice": "0.88",
-      "newPrice": "0.68"
-    },
-    {
-      "id": "66027",
-      "name": "Cerveza clásica Mahou",
-      "oldPrice": "6.96",
-      "newPrice": "9.24"
-    },
-    {
-      "id": "27137",
-      "name": "Cerveza doble malta Voll-Damm",
-      "oldPrice": "0.89",
-      "newPrice": "1.04"
-    },
-    {
-      "id": "60600",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "10.20",
-      "newPrice": "8.28"
-    },
-    {
-      "id": "60980",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "0.85",
-      "newPrice": "0.72"
-    },
-    {
-      "id": "66413",
-      "name": "Cerveza Amstel",
-      "oldPrice": "6.36",
-      "newPrice": "5.28"
-    },
-    {
-      "id": "67154",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "6.84",
-      "newPrice": "8.04"
+      "id": "69968",
+      "name": "Tomate canario",
+      "oldPrice": "0.33",
+      "newPrice": "0.37"
     }
   ]
 }
