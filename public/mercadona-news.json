@@ -1,366 +1,288 @@
 {
-  "lastSync": "2026-11-24T14:37:58.411490",
-  "totalProducts": 4418,
-  "newProductsCount": 16,
+  "lastSync": "2026-11-25T13:58:42.471845",
+  "totalProducts": 4421,
+  "newProductsCount": 10,
   "newProducts": [
     {
-      "id": "14727",
-      "name": "Aceite de oliva virgen extra Hacendado",
-      "category": "Aceite, especias y salsas",
-      "subcategory": "Aceite de oliva",
-      "photo": "https://prod-mercadona.imgix.net/images/87b9a9f905ba0b8816243cf02f5f58af.jpg?fit=crop&h=300&w=300",
-      "price": "17.50",
-      "unit_size": 5.0,
-      "size_format": "l",
-      "packaging": "Garrafa"
-    },
-    {
-      "id": "17778",
-      "name": "Confitura de frutos silvestres Hacendado 0% azúcares añadidos",
-      "category": "Azúcar, caramelos y chocolate",
-      "subcategory": "Confitura y otros",
-      "photo": "https://prod-mercadona.imgix.net/images/835bea702f5f14e660f1701e4946d6f5.jpg?fit=crop&h=300&w=300",
-      "price": "2.30",
-      "unit_size": 0.38,
+      "id": "19976",
+      "name": "Patatas fritas onduladas sabor sal y vinagre",
+      "category": "Aperitivos",
+      "subcategory": "Patatas fritas",
+      "photo": "https://prod-mercadona.imgix.net/images/34fdd0a491d8e02f43227ac7b80acf44.jpeg?fit=crop&h=300&w=300",
+      "price": "1.25",
+      "unit_size": 0.15,
       "size_format": "kg",
-      "packaging": "Tarro"
+      "packaging": "Paquete"
     },
     {
-      "id": "66447",
-      "name": "Cerveza Amstel",
-      "category": "Bodega",
-      "subcategory": "Cerveza lata",
-      "photo": "https://prod-mercadona.imgix.net/images/d07a1ab0269df8d8dbcf08a245f63bbd.jpg?fit=crop&h=300&w=300",
-      "price": "6.84",
-      "unit_size": 3.96,
-      "size_format": "l",
-      "packaging": "Pack-12"
+      "id": "11847",
+      "name": "Café molido mezcla Marcilla gran aroma",
+      "category": "Cacao, café e infusiones",
+      "subcategory": "Café molido",
+      "photo": "https://prod-mercadona.imgix.net/images/8564b08804f19c10f0306b815f5ef30b.jpg?fit=crop&h=300&w=300",
+      "price": "4.45",
+      "unit_size": 0.25,
+      "size_format": "kg",
+      "packaging": "Caja"
     },
     {
-      "id": "86920",
-      "name": "Bebida preparada de ron sabor daiquiri fresa La Recompensa Ice",
-      "category": "Bodega",
-      "subcategory": "Ron",
-      "photo": "https://prod-mercadona.imgix.net/images/82b407c484acdd133c1595ade6bf6864.jpg?fit=crop&h=300&w=300",
-      "price": "1.30",
-      "unit_size": 0.275,
-      "size_format": "l",
-      "packaging": "Botellín"
-    },
-    {
-      "id": "18776",
-      "name": "Vino tinto garnacha Marqués de la Viña DO València",
-      "category": "Bodega",
-      "subcategory": "Otros vinos tintos",
-      "photo": "https://prod-mercadona.imgix.net/images/6ec92171d5363a6243fe170141c5e580.jpg?fit=crop&h=300&w=300",
-      "price": "4.90",
-      "unit_size": 0.75,
-      "size_format": "l",
-      "packaging": "Botella"
-    },
-    {
-      "id": "14258",
-      "name": "Paleta de bellota ibérica 100% La Hacienda del Ibérico",
+      "id": "50939",
+      "name": "Queso mezcla semicurado Hacendado",
       "category": "Charcutería y quesos",
-      "subcategory": "Jamón serrano",
-      "photo": "https://prod-mercadona.imgix.net/images/a1cef78854d06cce850827c60f8f55af.jpg?fit=crop&h=300&w=300",
-      "price": "100.00",
-      "unit_size": 4.5,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "18696",
-      "name": "Jamón de bellota ibérico 100% Iberibérico",
-      "category": "Charcutería y quesos",
-      "subcategory": "Jamón serrano",
-      "photo": "https://prod-mercadona.imgix.net/images/9fca9a8f8482d8cd26293d8125d23b32.jpg?fit=crop&h=300&w=300",
-      "price": "275.00",
-      "unit_size": 7.5,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "17992",
-      "name": "Espuma cabello Xtra Forte Deliplus fijación 4",
-      "category": "Cuidado del cabello",
-      "subcategory": "Espuma y laca",
-      "photo": "https://prod-mercadona.imgix.net/images/f2de4bd20a106da72f1c0fac793fe814.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "17993",
-      "name": "Espuma cabello Ondas Curly Deliplus fijación 3",
-      "category": "Cuidado del cabello",
-      "subcategory": "Espuma y laca",
-      "photo": "https://prod-mercadona.imgix.net/images/f93694e28026a72d53450c6739494792.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "17994",
-      "name": "Espuma cabello Volum Deliplus fijación 2",
-      "category": "Cuidado del cabello",
-      "subcategory": "Espuma y laca",
-      "photo": "https://prod-mercadona.imgix.net/images/d6b846037b5ab1faa7edf25010ce691b.jpg?fit=crop&h=300&w=300",
-      "price": "1.55",
-      "unit_size": 0.25,
-      "size_format": "l",
-      "packaging": "Bote"
-    },
-    {
-      "id": "18793",
-      "name": "Detergente ropa Frescura Bosque Verde líquido",
-      "category": "Limpieza y hogar",
-      "subcategory": "Detergente líquido y gel",
-      "photo": "https://prod-mercadona.imgix.net/images/daf5bc7421a112daf74eb192891d9012.jpg?fit=crop&h=300&w=300",
-      "price": "3.50",
+      "subcategory": "Queso semicurado",
+      "photo": "https://prod-mercadona.imgix.net/images/85642f18cb9630aeaa314514a4a7bf09.jpg?fit=crop&h=300&w=300",
+      "price": "18.00",
       "unit_size": 3.0,
-      "size_format": "l",
-      "packaging": "Botella"
+      "size_format": "kg",
+      "packaging": "Pieza"
     },
     {
-      "id": "90505",
-      "name": "Agua destilada Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Planchado",
-      "photo": "https://prod-mercadona.imgix.net/images/97a14ac137b896e603ef688f2efccd6d.jpg?fit=crop&h=300&w=300",
-      "price": "0.95",
-      "unit_size": 2.0,
-      "size_format": "l",
-      "packaging": "Garrafa"
+      "id": "50935",
+      "name": "Queso tierno de vaca Hacendado",
+      "category": "Charcutería y quesos",
+      "subcategory": "Queso tierno",
+      "photo": "https://prod-mercadona.imgix.net/images/6321f051781cee8452a9a4437ddef8df.jpg?fit=crop&h=300&w=300",
+      "price": "6.00",
+      "unit_size": 1.05,
+      "size_format": "kg",
+      "packaging": "Pieza"
     },
     {
-      "id": "11610",
-      "name": "Bol oro Navidad Bosque Verde",
-      "category": "Limpieza y hogar",
-      "subcategory": "Cubiertos, vajilla y mantel",
-      "photo": "https://prod-mercadona.imgix.net/images/f7a6d04c2e651df10745600b5458c275.jpg?fit=crop&h=300&w=300",
-      "price": "1.80",
-      "unit_size": 5.0,
+      "id": "50613",
+      "name": "Queso gorgonzola de vaca Hacendado",
+      "category": "Charcutería y quesos",
+      "subcategory": "Queso especialidades",
+      "photo": "https://prod-mercadona.imgix.net/images/351bb005af78cbd5d4cbae3adc36ba24.jpg?fit=crop&h=300&w=300",
+      "price": "2.09",
+      "unit_size": 0.17,
+      "size_format": "kg",
+      "packaging": "Pieza"
+    },
+    {
+      "id": "64027",
+      "name": "Granizado agua de cebada Hacendado",
+      "category": "Congelados",
+      "subcategory": "Granizados y helados de hielo",
+      "photo": "https://prod-mercadona.imgix.net/images/783318aa058ed4d97587544a45ca0694.jpg?fit=crop&h=300&w=300",
+      "price": "3.15",
+      "unit_size": 1.2,
+      "size_format": "l",
+      "packaging": null
+    },
+    {
+      "id": "18750",
+      "name": "Mascarilla facial Navideña Cookie Mask Deliplus con extracto de cacao",
+      "category": "Cuidado facial y corporal",
+      "subcategory": "Limpieza de cara",
+      "photo": "https://prod-mercadona.imgix.net/images/de103906e862b0e5000cbcfd5288dce8.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 1.0,
       "size_format": "ud",
       "packaging": "Paquete"
     },
     {
-      "id": "18490",
-      "name": "6 Pasteles de boniato",
-      "category": "Panadería y pastelería",
-      "subcategory": "Bollería dulce",
-      "photo": "https://prod-mercadona.imgix.net/images/e5ab5b2ae20ebbafbc17378af4b8aad3.jpg?fit=crop&h=300&w=300",
-      "price": "2.35",
-      "unit_size": 0.225,
+      "id": "16554",
+      "name": "Paté de pollo perro adulto Delikuit",
+      "category": "Mascotas",
+      "subcategory": "Alimentación húmeda",
+      "photo": "https://prod-mercadona.imgix.net/images/9f75b65c6b0f073a8f72545f451dc708.jpg?fit=crop&h=300&w=300",
+      "price": "2.10",
+      "unit_size": 1.2,
       "size_format": "kg",
-      "packaging": "Bolsa"
+      "packaging": "Bote"
     },
     {
-      "id": "18756",
-      "name": "Masa fresca empanada Hacendado",
+      "id": "23643",
+      "name": "Pan de molde 100% integral sin corteza Hacendado",
       "category": "Panadería y pastelería",
-      "subcategory": "Masas",
-      "photo": "https://prod-mercadona.imgix.net/images/1317d4db3a47de1b908aa03e5f6d05cc.jpg?fit=crop&h=300&w=300",
-      "price": "2.60",
-      "unit_size": 0.6,
+      "subcategory": "Pan de molde",
+      "photo": "https://prod-mercadona.imgix.net/images/3c3a0ceabc49c8022b255bb92751d3d5.jpeg?fit=crop&h=300&w=300",
+      "price": "1.10",
+      "unit_size": 0.45,
       "size_format": "kg",
-      "packaging": null
+      "packaging": "Paquete"
     },
     {
-      "id": "18825",
-      "name": "Masa fresca pizza de cereales y semillas Hacendado",
-      "category": "Pizzas y platos preparados",
-      "subcategory": "Base de pizza",
-      "photo": "https://prod-mercadona.imgix.net/images/c4ccde37f9881a4238874579a92d593e.jpg?fit=crop&h=300&w=300",
-      "price": "2.50",
-      "unit_size": 0.56,
+      "id": "82717",
+      "name": "Láminas sin corteza de pan de molde blanco Hacendado",
+      "category": "Panadería y pastelería",
+      "subcategory": "Pan de molde",
+      "photo": "https://prod-mercadona.imgix.net/images/83e5f89a9d5bfcec7487b51b88117982.jpg?fit=crop&h=300&w=300",
+      "price": "2.00",
+      "unit_size": 0.25,
       "size_format": "kg",
-      "packaging": null
+      "packaging": "Paquete"
     }
   ],
-  "priceChangesCount": 69,
+  "priceChangesCount": 28,
   "priceChanges": [
     {
-      "id": "18036",
-      "name": "Salsa picadillo pepinillo Sweet Relish Hacendado",
+      "id": "52853",
+      "name": "Cerveza de trigo Paulaner",
+      "oldPrice": "7.74",
+      "newPrice": "8.10"
+    },
+    {
+      "id": "52854",
+      "name": "Cerveza de trigo Paulaner",
+      "oldPrice": "1.39",
+      "newPrice": "1.35"
+    },
+    {
+      "id": "25353",
+      "name": "Preparado solomillo de pavo marinado congelado",
+      "oldPrice": "3.12",
+      "newPrice": "2.73"
+    },
+    {
+      "id": "3819",
+      "name": "Plátano de Canarias IGP",
+      "oldPrice": "0.54",
+      "newPrice": "0.51"
+    },
+    {
+      "id": "3028",
+      "name": "Manzana Golden",
+      "oldPrice": "0.46",
+      "newPrice": "0.50"
+    },
+    {
+      "id": "3119",
+      "name": "Pera Conferencia",
+      "oldPrice": "0.50",
+      "newPrice": "0.45"
+    },
+    {
+      "id": "3172",
+      "name": "Pera Limonera",
+      "oldPrice": "0.56",
+      "newPrice": "0.59"
+    },
+    {
+      "id": "8175",
+      "name": "Manzana roja acidulce",
+      "oldPrice": "0.58",
+      "newPrice": "0.55"
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "oldPrice": "4.19",
+      "newPrice": "4.16"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "oldPrice": "7.13",
+      "newPrice": "6.80"
+    },
+    {
+      "id": "3202",
+      "name": "Pomelo",
+      "oldPrice": "1.12",
+      "newPrice": "1.09"
+    },
+    {
+      "id": "3076",
+      "name": "Piña",
+      "oldPrice": "4.00",
+      "newPrice": "3.92"
+    },
+    {
+      "id": "3026",
+      "name": "Papaya",
+      "oldPrice": "3.47",
+      "newPrice": "3.36"
+    },
+    {
+      "id": "3915",
+      "name": "Granada",
       "oldPrice": "1.50",
-      "newPrice": "1.70"
+      "newPrice": "1.56"
     },
     {
-      "id": "33026",
-      "name": "Mix de pepinillos y cebollitas Hacendado",
-      "oldPrice": "1.75",
-      "newPrice": "1.85"
+      "id": "3914",
+      "name": "Kaki",
+      "oldPrice": "0.60",
+      "newPrice": "0.58"
     },
     {
-      "id": "27679",
-      "name": "Cerveza Heineken",
-      "oldPrice": "5.12",
-      "newPrice": "7.36"
+      "id": "69066",
+      "name": "Patata",
+      "oldPrice": "0.48",
+      "newPrice": "0.46"
     },
     {
-      "id": "27100",
-      "name": "Cerveza Heineken",
-      "oldPrice": "0.68",
-      "newPrice": "0.92"
+      "id": "69173",
+      "name": "Yuca",
+      "oldPrice": "2.48",
+      "newPrice": "2.67"
     },
     {
-      "id": "66027",
-      "name": "Cerveza clásica Mahou",
-      "oldPrice": "6.96",
-      "newPrice": "9.72"
+      "id": "69487",
+      "name": "Rama de Tomates",
+      "oldPrice": "1.78",
+      "newPrice": "1.81"
     },
     {
-      "id": "27178",
-      "name": "Cerveza clásica Mahou",
-      "oldPrice": "0.79",
+      "id": "69444",
+      "name": "Tomate rosa",
+      "oldPrice": "1.50",
+      "newPrice": "1.39"
+    },
+    {
+      "id": "69310",
+      "name": "Pimiento rojo",
+      "oldPrice": "0.87",
+      "newPrice": "0.90"
+    },
+    {
+      "id": "69220",
+      "name": "Coliflor",
+      "oldPrice": "2.64",
+      "newPrice": "2.60"
+    },
+    {
+      "id": "69326",
+      "name": "Berenjena",
+      "oldPrice": "0.90",
+      "newPrice": "0.86"
+    },
+    {
+      "id": "69347",
+      "name": "Berenjena rayada",
+      "oldPrice": "0.80",
       "newPrice": "0.83"
     },
     {
-      "id": "14989",
-      "name": "Cerveza negra Ambar",
-      "oldPrice": "1.00",
-      "newPrice": "1.02"
+      "id": "69038",
+      "name": "Nabicol",
+      "oldPrice": "1.02",
+      "newPrice": "0.99"
     },
     {
-      "id": "66413",
-      "name": "Cerveza Amstel",
-      "oldPrice": "5.28",
-      "newPrice": "6.72"
+      "id": "20738",
+      "name": "Bebida láctea natural Actimel",
+      "oldPrice": "4.95",
+      "newPrice": "5.99"
     },
     {
-      "id": "15859",
-      "name": "Cerveza Amstel",
-      "oldPrice": "0.53",
-      "newPrice": "0.56"
+      "id": "20709",
+      "name": "Bebida láctea natural Actimel 0% MG 0% azúcares añadidos",
+      "oldPrice": "4.95",
+      "newPrice": "5.99"
     },
     {
-      "id": "67154",
-      "name": "Cerveza tostada Turia",
-      "oldPrice": "8.04",
-      "newPrice": "6.84"
+      "id": "20941",
+      "name": "Bebida láctea de fresa Danacol 0% azúcares añadidos 0% MG",
+      "oldPrice": "5.45",
+      "newPrice": "5.90"
     },
     {
-      "id": "28712",
-      "name": "Ginebra London Dry Gin Beefeater",
-      "oldPrice": "13.95",
-      "newPrice": "12.45"
-    },
-    {
-      "id": "28032",
-      "name": "Ginebra Dry Gin Seagram's",
-      "oldPrice": "16.50",
-      "newPrice": "15.45"
-    },
-    {
-      "id": "28775",
-      "name": "Ginebra London Dry Gin Tanqueray",
-      "oldPrice": "14.95",
-      "newPrice": "13.50"
-    },
-    {
-      "id": "28604",
-      "name": "Whisky escocés Ballantine's",
-      "oldPrice": "13.95",
-      "newPrice": "12.95"
-    },
-    {
-      "id": "28610",
-      "name": "Whisky escocés Red Label Johnnie Walker",
-      "oldPrice": "15.50",
-      "newPrice": "13.50"
-    },
-    {
-      "id": "28613",
-      "name": "Whisky escocés J&B",
-      "oldPrice": "11.95",
-      "newPrice": "10.95"
-    },
-    {
-      "id": "28630",
-      "name": "Whisky escocés Black Label Johnnie Walker",
-      "oldPrice": "28.90",
-      "newPrice": "25.95"
-    },
-    {
-      "id": "28999",
-      "name": "Bebida zumo de manzana El Lagar sin alcohol",
-      "oldPrice": "2.50",
-      "newPrice": "2.00"
-    },
-    {
-      "id": "28921",
-      "name": "Cava brut Cabré & Sabaté",
-      "oldPrice": "3.30",
-      "newPrice": "3.15"
-    },
-    {
-      "id": "28969",
-      "name": "Cava brut Anna Codorníu",
-      "oldPrice": "9.95",
-      "newPrice": "8.00"
-    },
-    {
-      "id": "28939",
-      "name": "Cava semi seco Cabré & Sabaté",
-      "oldPrice": "3.00",
-      "newPrice": "2.80"
-    },
-    {
-      "id": "67125",
-      "name": "Vino blanco albariño Pazo de Orantes DO Rías Baixas",
-      "oldPrice": "5.50",
-      "newPrice": "5.35"
-    },
-    {
-      "id": "67123",
-      "name": "Vino blanco dulce Finca La Malcriada DO Valencia",
-      "oldPrice": "2.50",
-      "newPrice": "2.40"
-    },
-    {
-      "id": "11968",
-      "name": "Vino blanco Chardonnay Mar de Uvas",
-      "oldPrice": "2.25",
-      "newPrice": "2.20"
-    },
-    {
-      "id": "66369",
-      "name": "Vino blanco verdejo Abadía Mantrús DO Rueda",
-      "oldPrice": "2.50",
-      "newPrice": "2.20"
-    },
-    {
-      "id": "66495",
-      "name": "Vino blanco suave y afrutado El Pescaito",
-      "oldPrice": "2.10",
-      "newPrice": "2.05"
-    },
-    {
-      "id": "66352",
-      "name": "Vino blanco semidulce Diamante DO Rioja",
-      "oldPrice": "4.65",
-      "newPrice": "4.40"
-    },
-    {
-      "id": "52533",
-      "name": "Lambrusco rosado dell'Emilia Piccolo Giovanni",
-      "oldPrice": "2.30",
-      "newPrice": "2.15"
-    },
-    {
-      "id": "66332",
-      "name": "Frizzante blanco verdejo DulZ.Ze",
-      "oldPrice": "2.80",
-      "newPrice": "2.70"
-    },
-    {
-      "id": "67112",
-      "name": "Vino tinto cosecha Comportillo DO Rioja",
-      "oldPrice": "2.75",
-      "newPrice": "2.60"
+      "id": "20940",
+      "name": "Bebida láctea natural Danacol 0% azúcares añadidos 0% MG",
+      "oldPrice": "5.45",
+      "newPrice": "5.90"
     }
   ]
 }
