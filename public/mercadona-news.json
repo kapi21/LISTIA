@@ -1,288 +1,366 @@
 {
-  "lastSync": "2026-11-25T13:58:42.471845",
-  "totalProducts": 4421,
-  "newProductsCount": 10,
+  "lastSync": "2026-11-26T13:37:42.532647",
+  "totalProducts": 4289,
+  "newProductsCount": 16,
   "newProducts": [
     {
-      "id": "19976",
-      "name": "Patatas fritas onduladas sabor sal y vinagre",
-      "category": "Aperitivos",
-      "subcategory": "Patatas fritas",
-      "photo": "https://prod-mercadona.imgix.net/images/34fdd0a491d8e02f43227ac7b80acf44.jpeg?fit=crop&h=300&w=300",
-      "price": "1.25",
-      "unit_size": 0.15,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "11847",
-      "name": "Café molido mezcla Marcilla gran aroma",
-      "category": "Cacao, café e infusiones",
-      "subcategory": "Café molido",
-      "photo": "https://prod-mercadona.imgix.net/images/8564b08804f19c10f0306b815f5ef30b.jpg?fit=crop&h=300&w=300",
-      "price": "4.45",
-      "unit_size": 0.25,
-      "size_format": "kg",
-      "packaging": "Caja"
-    },
-    {
-      "id": "50939",
-      "name": "Queso mezcla semicurado Hacendado",
-      "category": "Charcutería y quesos",
-      "subcategory": "Queso semicurado",
-      "photo": "https://prod-mercadona.imgix.net/images/85642f18cb9630aeaa314514a4a7bf09.jpg?fit=crop&h=300&w=300",
-      "price": "18.00",
-      "unit_size": 3.0,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "50935",
-      "name": "Queso tierno de vaca Hacendado",
-      "category": "Charcutería y quesos",
-      "subcategory": "Queso tierno",
-      "photo": "https://prod-mercadona.imgix.net/images/6321f051781cee8452a9a4437ddef8df.jpg?fit=crop&h=300&w=300",
-      "price": "6.00",
-      "unit_size": 1.05,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "50613",
-      "name": "Queso gorgonzola de vaca Hacendado",
-      "category": "Charcutería y quesos",
-      "subcategory": "Queso especialidades",
-      "photo": "https://prod-mercadona.imgix.net/images/351bb005af78cbd5d4cbae3adc36ba24.jpg?fit=crop&h=300&w=300",
-      "price": "2.09",
-      "unit_size": 0.17,
-      "size_format": "kg",
-      "packaging": "Pieza"
-    },
-    {
-      "id": "64027",
-      "name": "Granizado agua de cebada Hacendado",
-      "category": "Congelados",
-      "subcategory": "Granizados y helados de hielo",
-      "photo": "https://prod-mercadona.imgix.net/images/783318aa058ed4d97587544a45ca0694.jpg?fit=crop&h=300&w=300",
-      "price": "3.15",
-      "unit_size": 1.2,
+      "id": "14988",
+      "name": "Cerveza negra Ambar",
+      "category": "Bodega",
+      "subcategory": "Cerveza lata",
+      "photo": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=300&w=300",
+      "price": "6.12",
+      "unit_size": 1.98,
       "size_format": "l",
       "packaging": null
     },
     {
-      "id": "18750",
-      "name": "Mascarilla facial Navideña Cookie Mask Deliplus con extracto de cacao",
-      "category": "Cuidado facial y corporal",
-      "subcategory": "Limpieza de cara",
-      "photo": "https://prod-mercadona.imgix.net/images/de103906e862b0e5000cbcfd5288dce8.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
+      "id": "17651",
+      "name": "Hamburguesa de lomo de cerdo duroc",
+      "category": "Carne",
+      "subcategory": "Hamburguesas",
+      "photo": "https://prod-mercadona.imgix.net/images/0c9932217a66ed5d592e57b83892cf70.jpg?fit=crop&h=300&w=300",
+      "price": "2.20",
+      "unit_size": 0.24,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18831",
+      "name": "Hamburguesa de pollo",
+      "category": "Carne",
+      "subcategory": "Hamburguesas",
+      "photo": "https://prod-mercadona.imgix.net/images/23b84c66161eb6f9b44b12cc0c29d360.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.24,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "18830",
+      "name": "Hamburguesa de cerdo con secreto, boletus, trufa y parmesano",
+      "category": "Carne",
+      "subcategory": "Hamburguesas",
+      "photo": "https://prod-mercadona.imgix.net/images/19bfd19f628508dc943e969e9b8ba0c3.jpg?fit=crop&h=300&w=300",
+      "price": "2.50",
+      "unit_size": 0.24,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "14744",
+      "name": "Jamón de Teruel D.O.P El Cierzo lonchas",
+      "category": "Charcutería y quesos",
+      "subcategory": "Jamón serrano",
+      "photo": "https://prod-mercadona.imgix.net/images/990a62115daa9a10ad33e1ba1ad427ab.jpg?fit=crop&h=300&w=300",
+      "price": "3.45",
+      "unit_size": 0.12,
+      "size_format": "kg",
+      "packaging": "Paquete"
+    },
+    {
+      "id": "24707",
+      "name": "Alistado pequeño Hacendado congelado",
+      "category": "Congelados",
+      "subcategory": "Marisco",
+      "photo": "https://prod-mercadona.imgix.net/images/6c34fdd19d3d1fc1ac41cb8322a37600.jpg?fit=crop&h=300&w=300",
+      "price": "24.94",
+      "unit_size": 1.16,
+      "size_format": "kg",
+      "packaging": "Caja"
+    },
+    {
+      "id": "18795",
+      "name": "Detergente ropa jabón natural de Marsella Bosque Verde líquido",
+      "category": "Limpieza y hogar",
+      "subcategory": "Detergente líquido y gel",
+      "photo": "https://prod-mercadona.imgix.net/images/9a6448e00228f0e910d3a07df4b19fbc.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 3.0,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "11664",
+      "name": "Detergente ropa Frescura Bosque Verde líquido",
+      "category": "Limpieza y hogar",
+      "subcategory": "Detergente líquido y gel",
+      "photo": "https://prod-mercadona.imgix.net/images/c07f239cc2c76fea1f2c71b1b6a60367.jpg?fit=crop&h=300&w=300",
+      "price": "3.50",
+      "unit_size": 3.0,
+      "size_format": "l",
+      "packaging": "Botella"
+    },
+    {
+      "id": "30096",
+      "name": "Langostino cocido",
+      "category": "Marisco y pescado",
+      "subcategory": "Marisco",
+      "photo": "https://prod-mercadona.imgix.net/images/5ff0e3ecbe8a83365f7f979034f289d2.jpeg?fit=crop&h=300&w=300",
+      "price": "8.90",
       "unit_size": 1.0,
-      "size_format": "ud",
-      "packaging": "Paquete"
+      "size_format": "kg",
+      "packaging": "Bandeja"
     },
     {
-      "id": "16554",
-      "name": "Paté de pollo perro adulto Delikuit",
+      "id": "82850",
+      "name": "Pulpo cocido",
+      "category": "Marisco y pescado",
+      "subcategory": "Sepia, pulpo y calamar",
+      "photo": "https://prod-mercadona.imgix.net/images/d2a36c315f1961f0da0d42b75cf3bd25.jpg?fit=crop&h=300&w=300",
+      "price": "12.60",
+      "unit_size": 0.35,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "87929",
+      "name": "Boquerón limpio sin cabeza",
+      "category": "Marisco y pescado",
+      "subcategory": "Boquerón",
+      "photo": "https://prod-mercadona.imgix.net/images/6dca0254a61d406514831ee69977244a.jpg?fit=crop&h=300&w=300",
+      "price": "3.45",
+      "unit_size": 0.3,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "87930",
+      "name": "Boquerón limpio sin espina",
+      "category": "Marisco y pescado",
+      "subcategory": "Boquerón",
+      "photo": "https://prod-mercadona.imgix.net/images/4234cf63d43da64ad51e16c117430e46.jpg?fit=crop&h=300&w=300",
+      "price": "4.00",
+      "unit_size": 0.2,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "26981",
+      "name": "Boquerón sin limpiar",
+      "category": "Marisco y pescado",
+      "subcategory": "Boquerón",
+      "photo": "https://prod-mercadona.imgix.net/images/b97065bd6518a2d8b7f0670e9c0e2867.jpg?fit=crop&h=300&w=300",
+      "price": "3.00",
+      "unit_size": 0.375,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "87916",
+      "name": "Sardina sin limpiar",
+      "category": "Marisco y pescado",
+      "subcategory": "Sardina",
+      "photo": "https://prod-mercadona.imgix.net/images/063abb05fe920717e8f46ab6bf71ba3e.jpg?fit=crop&h=300&w=300",
+      "price": "2.40",
+      "unit_size": 0.4,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "17611",
+      "name": "Sardina sin limpiar",
+      "category": "Marisco y pescado",
+      "subcategory": "Sardina",
+      "photo": "https://prod-mercadona.imgix.net/images/3246ed9278ab46da6d09517b64d2449c.jpeg?fit=crop&h=300&w=300",
+      "price": "6.00",
+      "unit_size": 1.0,
+      "size_format": "kg",
+      "packaging": "Bandeja"
+    },
+    {
+      "id": "38111",
+      "name": "Barritas de fruta y miel para canarios Natura",
       "category": "Mascotas",
-      "subcategory": "Alimentación húmeda",
-      "photo": "https://prod-mercadona.imgix.net/images/9f75b65c6b0f073a8f72545f451dc708.jpg?fit=crop&h=300&w=300",
-      "price": "2.10",
-      "unit_size": 1.2,
+      "subcategory": "Pájaro",
+      "photo": "https://prod-mercadona.imgix.net/images/dd343c75df218a9df5ee874d4278bfbf.jpg?fit=crop&h=300&w=300",
+      "price": "2.30",
+      "unit_size": 0.09,
       "size_format": "kg",
-      "packaging": "Bote"
-    },
-    {
-      "id": "23643",
-      "name": "Pan de molde 100% integral sin corteza Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/3c3a0ceabc49c8022b255bb92751d3d5.jpeg?fit=crop&h=300&w=300",
-      "price": "1.10",
-      "unit_size": 0.45,
-      "size_format": "kg",
-      "packaging": "Paquete"
-    },
-    {
-      "id": "82717",
-      "name": "Láminas sin corteza de pan de molde blanco Hacendado",
-      "category": "Panadería y pastelería",
-      "subcategory": "Pan de molde",
-      "photo": "https://prod-mercadona.imgix.net/images/83e5f89a9d5bfcec7487b51b88117982.jpg?fit=crop&h=300&w=300",
-      "price": "2.00",
-      "unit_size": 0.25,
-      "size_format": "kg",
-      "packaging": "Paquete"
+      "packaging": "Caja"
     }
   ],
-  "priceChangesCount": 28,
+  "priceChangesCount": 51,
   "priceChanges": [
     {
-      "id": "52853",
-      "name": "Cerveza de trigo Paulaner",
-      "oldPrice": "7.74",
-      "newPrice": "8.10"
+      "id": "35840",
+      "name": "Mayonesa Hellmann's",
+      "oldPrice": "2.95",
+      "newPrice": "2.65"
     },
     {
-      "id": "52854",
-      "name": "Cerveza de trigo Paulaner",
-      "oldPrice": "1.39",
-      "newPrice": "1.35"
+      "id": "35839",
+      "name": "Salsa Original Ligeresa",
+      "oldPrice": "2.50",
+      "newPrice": "2.15"
     },
     {
-      "id": "25353",
-      "name": "Preparado solomillo de pavo marinado congelado",
-      "oldPrice": "3.12",
-      "newPrice": "2.73"
+      "id": "24547",
+      "name": "Bebida energética Red Bull",
+      "oldPrice": "8.00",
+      "newPrice": "10.64"
     },
     {
-      "id": "3819",
-      "name": "Plátano de Canarias IGP",
-      "oldPrice": "0.54",
-      "newPrice": "0.51"
+      "id": "18164",
+      "name": "Hamburguesa de vacuno angus",
+      "oldPrice": "3.00",
+      "newPrice": "2.90"
     },
     {
-      "id": "3028",
-      "name": "Manzana Golden",
-      "oldPrice": "0.46",
-      "newPrice": "0.50"
+      "id": "17620",
+      "name": "Bomba de carrillada vacuno con bechamel",
+      "oldPrice": "3.00",
+      "newPrice": "3.20"
     },
     {
-      "id": "3119",
-      "name": "Pera Conferencia",
-      "oldPrice": "0.50",
-      "newPrice": "0.45"
+      "id": "24608",
+      "name": "Gambón grande congelado",
+      "oldPrice": "19.90",
+      "newPrice": "18.00"
     },
     {
-      "id": "3172",
-      "name": "Pera Limonera",
-      "oldPrice": "0.56",
-      "newPrice": "0.59"
+      "id": "24712",
+      "name": "Langostino crudo Hacendado ultracongelado",
+      "oldPrice": "5.95",
+      "newPrice": "5.50"
     },
     {
-      "id": "8175",
-      "name": "Manzana roja acidulce",
-      "oldPrice": "0.58",
-      "newPrice": "0.55"
+      "id": "24267",
+      "name": "Camarón boreal cocido y pelado Royal Greenland ultracongelado",
+      "oldPrice": "4.75",
+      "newPrice": "4.50"
+    },
+    {
+      "id": "63161",
+      "name": "Rabas empanadas Hacendado ultracongeladas",
+      "oldPrice": "4.05",
+      "newPrice": "3.90"
+    },
+    {
+      "id": "62501",
+      "name": "Muslitos de surimi Hacendado ultracongelados",
+      "oldPrice": "2.75",
+      "newPrice": "2.65"
+    },
+    {
+      "id": "63144",
+      "name": "Langostino caballitos rebozados Hacendado ultracongelados",
+      "oldPrice": "3.25",
+      "newPrice": "3.15"
+    },
+    {
+      "id": "13969",
+      "name": "Sorbete corporal Posidonia Deliplus",
+      "oldPrice": "2.90",
+      "newPrice": "1.90"
+    },
+    {
+      "id": "35965",
+      "name": "Desodorante roll-on original Dove antitranspirante",
+      "oldPrice": "2.65",
+      "newPrice": "2.15"
+    },
+    {
+      "id": "44398",
+      "name": "Desodorante invisible black + white Rexona antimanchas",
+      "oldPrice": "2.90",
+      "newPrice": "2.25"
+    },
+    {
+      "id": "44400",
+      "name": "Desodorante invisible ice fresh Rexona Men antitranspirante y antimanchas",
+      "oldPrice": "2.90",
+      "newPrice": "2.25"
+    },
+    {
+      "id": "35964",
+      "name": "Desodorante original Dove antitranspirante",
+      "oldPrice": "3.75",
+      "newPrice": "3.40"
+    },
+    {
+      "id": "44399",
+      "name": "Desodorante cobalt dry Rexona Men antitranspirante",
+      "oldPrice": "2.90",
+      "newPrice": "2.25"
+    },
+    {
+      "id": "13913",
+      "name": "Dentífrico Pro-Expert Oral-B sabor menta especiada",
+      "oldPrice": "2.85",
+      "newPrice": "2.50"
+    },
+    {
+      "id": "21764",
+      "name": "Eau de toilette mujer Amber Aqua Royale",
+      "oldPrice": "7.50",
+      "newPrice": "6.50"
+    },
+    {
+      "id": "21763",
+      "name": "Eau de toilette mujer Verdant Aqua Royale",
+      "oldPrice": "7.50",
+      "newPrice": "6.50"
+    },
+    {
+      "id": "17687",
+      "name": "Eau de toilette mujer Wonder Aqua Royale",
+      "oldPrice": "7.50",
+      "newPrice": "6.50"
+    },
+    {
+      "id": "18176",
+      "name": "Lote mujer Wonder Aqua Royale",
+      "oldPrice": "9.00",
+      "newPrice": "8.00"
+    },
+    {
+      "id": "21765",
+      "name": "Eau de toilette hombre Woods Aqua Royale",
+      "oldPrice": "7.50",
+      "newPrice": "6.50"
+    },
+    {
+      "id": "21766",
+      "name": "Eau de toilette hombre Vitae Aqua Royale",
+      "oldPrice": "7.50",
+      "newPrice": "6.50"
+    },
+    {
+      "id": "17688",
+      "name": "Eau de toilette hombre Faris Aqua Royale",
+      "oldPrice": "7.50",
+      "newPrice": "6.50"
+    },
+    {
+      "id": "18183",
+      "name": "Lote hombre Faris Aqua Royale",
+      "oldPrice": "9.00",
+      "newPrice": "8.00"
+    },
+    {
+      "id": "3021",
+      "name": "Manzana Granny Smith",
+      "oldPrice": "0.43",
+      "newPrice": "0.48"
     },
     {
       "id": "3515",
       "name": "Medio melón piel de sapo",
-      "oldPrice": "4.19",
-      "newPrice": "4.16"
+      "oldPrice": "4.16",
+      "newPrice": "4.21"
     },
     {
       "id": "3506",
       "name": "Melón piel de sapo",
-      "oldPrice": "7.13",
-      "newPrice": "6.80"
-    },
-    {
-      "id": "3202",
-      "name": "Pomelo",
-      "oldPrice": "1.12",
-      "newPrice": "1.09"
+      "oldPrice": "6.80",
+      "newPrice": "6.75"
     },
     {
       "id": "3076",
       "name": "Piña",
-      "oldPrice": "4.00",
-      "newPrice": "3.92"
-    },
-    {
-      "id": "3026",
-      "name": "Papaya",
-      "oldPrice": "3.47",
-      "newPrice": "3.36"
-    },
-    {
-      "id": "3915",
-      "name": "Granada",
-      "oldPrice": "1.50",
-      "newPrice": "1.56"
-    },
-    {
-      "id": "3914",
-      "name": "Kaki",
-      "oldPrice": "0.60",
-      "newPrice": "0.58"
-    },
-    {
-      "id": "69066",
-      "name": "Patata",
-      "oldPrice": "0.48",
-      "newPrice": "0.46"
-    },
-    {
-      "id": "69173",
-      "name": "Yuca",
-      "oldPrice": "2.48",
-      "newPrice": "2.67"
-    },
-    {
-      "id": "69487",
-      "name": "Rama de Tomates",
-      "oldPrice": "1.78",
-      "newPrice": "1.81"
-    },
-    {
-      "id": "69444",
-      "name": "Tomate rosa",
-      "oldPrice": "1.50",
-      "newPrice": "1.39"
-    },
-    {
-      "id": "69310",
-      "name": "Pimiento rojo",
-      "oldPrice": "0.87",
-      "newPrice": "0.90"
-    },
-    {
-      "id": "69220",
-      "name": "Coliflor",
-      "oldPrice": "2.64",
-      "newPrice": "2.60"
-    },
-    {
-      "id": "69326",
-      "name": "Berenjena",
-      "oldPrice": "0.90",
-      "newPrice": "0.86"
-    },
-    {
-      "id": "69347",
-      "name": "Berenjena rayada",
-      "oldPrice": "0.80",
-      "newPrice": "0.83"
-    },
-    {
-      "id": "69038",
-      "name": "Nabicol",
-      "oldPrice": "1.02",
-      "newPrice": "0.99"
-    },
-    {
-      "id": "20738",
-      "name": "Bebida láctea natural Actimel",
-      "oldPrice": "4.95",
-      "newPrice": "5.99"
-    },
-    {
-      "id": "20709",
-      "name": "Bebida láctea natural Actimel 0% MG 0% azúcares añadidos",
-      "oldPrice": "4.95",
-      "newPrice": "5.99"
-    },
-    {
-      "id": "20941",
-      "name": "Bebida láctea de fresa Danacol 0% azúcares añadidos 0% MG",
-      "oldPrice": "5.45",
-      "newPrice": "5.90"
-    },
-    {
-      "id": "20940",
-      "name": "Bebida láctea natural Danacol 0% azúcares añadidos 0% MG",
-      "oldPrice": "5.45",
-      "newPrice": "5.90"
+      "oldPrice": "3.92",
+      "newPrice": "3.78"
     }
   ]
 }
